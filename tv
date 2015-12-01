@@ -5,23 +5,23 @@ http://clinetiptv.ddns.net:8000/live/alger/alger/70.m3u8
 http://clinetiptv.ddns.net:8000/live/alger/alger/71.m3u8
 #EXTINF:-1 tvg-name="FRANCE 3" tvg-id="France3.fr" group-title="FRANÇA", France 3
 http://clinetiptv.ddns.net:8000/live/alger/alger/72.m3u8
-#EXTINF:-1 tvg-name="CANAL+" tvg-id="CANAL+" group-title="FRANÇA", Canal +
-http://iptv.electro-clair.net:8000/live/nader/nader/535.ts
+#EXTINF:-1 tvg-name="CANAL+" tvg-id="CANALplus.fr" group-title="FRANÇA", Canal +
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4487.ts
 #EXTINF:-1 tvg-name="FRANCE 5" tvg-id="France5.fr" group-title="FRANÇA", France 5
 http://clinetiptv.ddns.net:8000/live/alger/alger/74.m3u8
-#EXTINF:-1 tvg-name="M6" tvg-id="M6" group-title="FRANÇA", M6
-http://iptv.electro-clair.net:8000/live/nader/nader/204.ts
+#EXTINF:-1 tvg-name="M6" tvg-id="M6.fr" group-title="FRANÇA", M6
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4471.m3u8
 #EXTINF:-1 tvg-name="ARTE" tvg-id="ARTE.fr" group-title="FRANÇA", Arte
 http://clinetiptv.ddns.net:8000/live/alger/alger/80.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Mosaique Canal +
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Canal + Series
 http://iptv.electro-clair.net:8000/live/nader/nader/35.ts
 #EXTINF:-1 tvg-name="Canal + Cinema" tvg-id="CANALplusCINEMA.fr" group-title="FRANÇA", Canal + Cinema
-http://clinetiptv.ddns.net:8000/live/alger/alger/90.m3u8
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4490.ts
 #EXTINF:-1 tvg-name="CANAL+ SPORT" tvg-id="CANALplusSPORT.fr" group-title="FRANÇA", CANAL+ Sport 
 http://clinetiptv.ddns.net:8000/live/alger/alger/27.m3u8
-#EXTINF:-1 tvg-name="CANAL+ FAMILY" tvg-id="CANAL+ FAMILY" group-title="FRANÇA", CANAL+ Family 
-http://iptv.electro-clair.net:8000/live/nader/nader/196.ts
+#EXTINF:-1 tvg-name="CANAL+ FAMILY" tvg-id="CANALplusFamily.fr" group-title="FRANÇA", CANAL+ Family 
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4488.ts
 #EXTINF:-1 tvg-name="CANAL+ DECALE" tvg-id="CANALplusDECALE.fr" group-title="FRANÇA", CANAL+ Decale 
 http://clinetiptv.ddns.net:8000/live/alger/alger/295.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Canal + Premier
@@ -37,11 +37,13 @@ http://iptv.electro-clair.net:8000/live/nader/nader/192.ts
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Canal + Classic
 http://iptv.electro-clair.net:8000/live/nader/nader/1562.ts
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", TCM
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", OCS Max
-http://iptv.electro-clair.net:8000/live/nader/nader/441.ts
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4444.m3u8
+#EXTINF:-1 tvg-name="OCS Max" tvg-id="OrangeCinemax.fr" group-title="FRANÇA", OCS Max
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4465.ts
 #EXTINF:-1 tvg-name="OCS City" tvg-id="OrangeCineHappy.fr" group-title="FRANÇA", OCS City
 http://clinetiptv.ddns.net:8000/live/alger/alger/765.m3u8
-#EXTINF:-1 tvg-name="OCS Choc" tvg-id="OCS Choc" group-title="FRANÇA", OCS Choc
+#EXTINF:-1 tvg-name="OCS Choc" tvg-id="OrangeCinechoc.fr" group-title="FRANÇA", OCS Choc
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4467.ts
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", OCS Novo
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", OCS Geants
 http://iptv.electro-clair.net:8000/live/nader/nader/442.ts
@@ -51,9 +53,11 @@ http://iptv.electro-clair.net:8000/live/nader/nader/1346.ts
 #EXTINF:-1 tvg-name="Action" tvg-id="Action" group-title="FRANÇA", Action
 http://clinetiptv.ddns.net:8000/live/alger/alger/92.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Disney Cinemagic
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4475.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Disney Cinemagic +1
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Pass Series
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", 13eme Rue Universal
+#EXTINF:-1 tvg-name="13eme Rue" tvg-id="13RUE.fr" group-title="FRANÇA", 13eme Rue
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4492.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Comedie +
 http://iptv.electro-clair.net:8000/live/nader/nader/1345.ts
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", SyFy Universal
@@ -64,34 +68,38 @@ http://clinetiptv.ddns.net:8000/live/alger/alger/291.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", MTV
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", June
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Non Stop People
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", E!
+#EXTINF:-1 tvg-name="E!" tvg-id="Eentertainment.fr" group-title="FRANÇA", E!
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4494.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", MCM
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Mangas
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Game One
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", AB1
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Jimmy
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Tv Breizh
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Téva
-http://iptv.electro-clair.net:8000/live/nader/nader/516.ts
+#EXTINF:-1 tvg-name="Téva" tvg-id="Teva.fr" group-title="FRANÇA", Téva
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4443.ts
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Paris Premiere
 http://iptv.electro-clair.net:8000/live/nader/nader/608.ts
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", RTL9
+#EXTINF:-1 tvg-name="RTL9" tvg-id="RTL9.fr" group-title="FRANÇA", RTL9
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4446.m3u8
 #EXTINF:-1 tvg-name="HD1" tvg-id="HD1" group-title="FRANÇA", HD1
 #EXTINF:-1 tvg-name="6ter" tvg-id="6ter" group-title="FRANÇA", 6Ter
-#EXTINF:-1 tvg-name="D8" tvg-id="D8" group-title="FRANÇA", D8
-#EXTINF:-1 tvg-name="W9" tvg-id="W9" group-title="FRANÇA", W9
-http://iptv.electro-clair.net:8000/live/nader/nader/208.ts
+#EXTINF:-1 tvg-name="D8" tvg-id="Direct8.fr" group-title="FRANÇA", D8
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4495.m3u8
+#EXTINF:-1 tvg-name="W9" tvg-id="W9.fr" group-title="FRANÇA", W9
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4442.m3u8
 #EXTINF:-1 tvg-name="TMC" tvg-id="TMC" group-title="FRANÇA", TMC
 http://iptv.electro-clair.net:8000/live/nader/nader/209.ts
-#EXTINF:-1 tvg-name="NT1" tvg-id="NT1" group-title="FRANÇA", NT1
+#EXTINF:-1 tvg-name="NT1" tvg-id="NT1.fr" group-title="FRANÇA", NT1
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4452.m3u8
 #EXTINF:-1 tvg-name="NRJ 12" tvg-id="NRJ 12" group-title="FRANÇA", NRJ12
 http://iptv.electro-clair.net:8000/live/nader/nader/1207.ts
 #EXTINF:-1 tvg-name="FRANCE 4" tvg-id="France4.fr" group-title="FRANÇA", France 4
 http://clinetiptv.ddns.net:8000/live/alger/alger/73.m3u8
-#EXTINF:-1 tvg-name="D17" tvg-id="D17" group-title="FRANÇA", D17
-http://iptv.electro-clair.net:8000/live/nader/nader/1342.ts
-#EXTINF:-1 tvg-name="FRANCE O" tvg-id="FRANCE O" group-title="FRANÇA", France Ô
-http://iptv.electro-clair.net:8000/live/nader/nader/527.ts
+#EXTINF:-1 tvg-name="D17" tvg-id="DirectStar.fr" group-title="FRANÇA", D17
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4496.m3u8
+#EXTINF:-1 tvg-name="FRANCE O" tvg-id="FranceO.fr" group-title="FRANÇA", France Ô
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4460.ts
 #EXTINF:-1 tvg-name="NUMERO 23" tvg-id="NUMERO 23" group-title="FRANÇA", Numero 23
 #EXTINF:-1 tvg-name="CHERIE 25" tvg-id="CHERIE 25" group-title="FRANÇA", Cherie 25
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", NRJ Paris
@@ -132,7 +140,8 @@ http://clinetiptv.ddns.net:8000/live/alger/alger/38.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", La Chaine Meteo
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", LCI
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", La Chaine Meteo
-#EXTINF:-1 tvg-name="I TELE" tvg-id="I TELE" group-title="FRANÇA", i>Tele
+#EXTINF:-1 tvg-name="I TELE" tvg-id="iTele.fr" group-title="FRANÇA", i>Tele
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4456.m3u8
 #EXTINF:-1 tvg-name="BFM TV" tvg-id="BFMTV.fr" group-title="FRANÇA", BFM Tv
 http://clinetiptv.ddns.net:8000/live/alger/alger/81.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Euronews
@@ -159,7 +168,8 @@ http://clinetiptv.ddns.net:8000/live/alger/alger/78.m3u8
 http://iptv.electro-clair.net:8000/live/nader/nader/529.ts
 #EXTINF:-1 tvg-name="Weo" tvg-id="Weo.fr" group-title="FRANÇA", WEO
 http://clinetiptv.ddns.net:8000/live/alger/alger/84.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Ma Chaine Sport
+#EXTINF:-1 tvg-name="" tvg-id="MaChaineSport.fr" group-title="FRANÇA", Ma Chaine Sport
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4470.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", MCS Extreme
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Kombat Sport
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Equidia Live
@@ -172,23 +182,23 @@ http://clinetiptv.ddns.net:8000/live/alger/alger/84.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", ESPN Classic
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", ESPN America
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Nautical Channel
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Bein Sports 1
-http://iptv.electro-clair.net:8000/live/nader/nader/439.ts
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Bein Sports 2
+#EXTINF:-1 tvg-name="" tvg-id="beINSport1.fr" group-title="FRANÇA", Bein Sports 1
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4500.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="beINSport2.fr" group-title="FRANÇA", Bein Sports 2
 http://portal.rapidiptv.com:8080/live/steph/steph/3609.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Bein Sports 3
+#EXTINF:-1 tvg-name="" tvg-id="beINSport3.fr" group-title="FRANÇA", Bein Sports 3
 http://portal.rapidiptv.com:8080/live/steph/steph/4477.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Golf+
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Extreme Sports
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Blackbelt Tv
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Ab Moteurs
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Disney Jr.
-http://iptv.electro-clair.net:8000/live/nader/nader/532.ts
+#EXTINF:-1 tvg-name="" tvg-id="DisneyJunior.fr" group-title="FRANÇA", Disney Jr.
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4474.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", TUI
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Nickelodeon Jr.
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Mon Nickelodeon Jr.
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Piwi+
-http://iptv.electro-clair.net:8000/live/nader/nader/238.ts
+#EXTINF:-1 tvg-name="" tvg-id="PIWI.fr" group-title="FRANÇA", Piwi+
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4451.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Boomerang
 http://iptv.electro-clair.net:8000/live/nader/nader/1338.ts
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Nickelodeon
@@ -220,7 +230,7 @@ http://clinetiptv.ddns.net:8000/live/alger/alger/294.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", MTV Hits
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", MTV Rocks
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", M6 Music
-http://iptv.electro-clair.net:8000/live/nader/nader/47.ts
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4453.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", M6 Music Player
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", M6 Music Black
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", M6 Music Club
