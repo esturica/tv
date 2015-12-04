@@ -4,6 +4,7 @@ http://37.48.83.131:1935/live/cbs77/playlist.m3u8?wowzasessionid=1679710383&wmsA
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",NBC 4 (New York)
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",FOX 5 (New York)
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",ABC 7 (New York)
+http://37.48.83.131:1935/live/abc77/playlist.m3u8?wowzasessionid=1291561044&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE1IDExOjAxOjMyIFBNJmhhc2hfdmFsdWU9RFk0aFA3Uktzd0V5TTlUTko4R29qUT09JnZhbGlkbWludXRlcz0yMA%3D%3D
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",MY Tv Network
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",CW[COLOR blue] HD
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",PBS
