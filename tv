@@ -1,14 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",CBS 2 (New York)
-http://37.48.83.131:1935/live/cbs77/playlist.m3u8?wowzasessionid=1679710383&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE1IDEwOjM1OjMyIFBNJmhhc2hfdmFsdWU9SXpDc0J1dkhWM3NXaG45MDNXMFhodz09JnZhbGlkbWludXRlcz0yMA%3D%3D
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",CBS East
-http://89.248.172.57:1935/edge/_definst_/dt0qvk6nmdhk8u6/playlist.m3u8?wowzasessionid=1618678503
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1430.mu8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",NBC 4 (New York)
-http://37.48.83.131:1935/live/nbc77/playlist.m3u8?wowzasessionid=1813931735&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE1IDExOjUyOjMzIFBNJmhhc2hfdmFsdWU9MU1XNlJXR1Z3dU10ODg4SmVGeE0vZz09JnZhbGlkbWludXRlcz0yMA%3D%3D
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1429.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",FOX 5 (New York)
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1435.ts
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1435.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",ABC 7 (New York)
-http://37.48.83.131:1935/live/abc77/playlist.m3u8?wowzasessionid=1291561044&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE1IDExOjAxOjMyIFBNJmhhc2hfdmFsdWU9RFk0aFA3Uktzd0V5TTlUTko4R29qUT09JnZhbGlkbWludXRlcz0yMA%3D%3D
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1437.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",MY Tv Network
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",CW 11 (New York)
 http://37.48.83.131:1935/live/cw77/playlist.m3u8?wowzasessionid=970363833&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE1IDExOjM1OjMyIFBNJmhhc2hfdmFsdWU9UElacGpXWnRNQVlpWHdYSXdkTVRGQT09JnZhbGlkbWludXRlcz0yMA%3D%3D
@@ -799,7 +797,7 @@ http://wownet.ro/str/0009.m3u9|X-Forwarded-For=81.17.18.50
 http://wownet.ro/str/0010.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",[COLOR lawngreen]::009::[COLOR white] Arte
 http://wownet.ro/str/0012.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",[COLOR lawngreen]::010::[COLOR white] 3sat
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",3sat
 http://wownet.ro/str/0014.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",[COLOR lawngreen]::011::[COLOR white] NDR Hamburg
 http://wownet.ro/str/0107.m3u8|X-Forwarded-For=81.17.18.50
