@@ -1,15 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",CBS 2 (New York)
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1430.mu8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",NBC 4 (New York)
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1429.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",FOX 5 (New York)
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1435.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",ABC 7 (New York)
+#EXTINF:-1 tvg-name="CBS 2" tvg-id="WCBSNewYorkCBSEast.us" group-title="USA",CBS 2 (New York)
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1430.m3u8
+#EXTINF:-1 tvg-name="CBS" tvg-id="" group-title="USA",CBS
+http://lv7.ustvnow.com/dvrtest/mp4:2E64BWHP0USTVNOW1/playlist.m3u8?key=SLFM198174908C8AEADB99212BE5FD38070AF212043
+#EXTINF:-1 tvg-name="NBC 4" tvg-id="WNBCNewYorkNBCEast.us" group-title="USA",NBC 4 (New York)
+http://37.48.83.131:1935/live/nbc77/playlist.m3u8?wowzasessionid=458535430&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDE1IDQ6MzU6MzEgUE0maGFzaF92YWx1ZT1aQmtHNGdReU0xbzRub1lESlJydjNnPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-name="NBC" tvg-id="" group-title="USA",NBC
+http://lv7.ustvnow.com/dvrtest/mp4:F68ADWGALUSTVNOW1/playlist.m3u8?key=SLFM198174908C8AEADB99212BE5FD38070AF212043
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",FOX 5
+http://lv7.ustvnow.com/dvrtest/mp4:16D9DWPMTUSTVNOW1/playlist.m3u8?key=SLFM198174908C8AEADB99212BE5FD38070AF212043
+#EXTINF:-1 tvg-name="ABC 7" tvg-id="WABCNewYorkABCEast.us" group-title="USA",ABC 7 (New York)
 http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1437.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",MY Tv Network
+#EXTINF:-1 tvg-name="ABC" tvg-id="" group-title="USA",ABC
+http://lv7.ustvnow.com/dvrtest/mp4:FFC1CWHTMUSTVNOW1/playlist.m3u8?key=SLFM198174908C8AEADB99212BE5FD38070AF212043
+#EXTINF:-1 tvg-name="My9" tvg-id="Myx.us" group-title="USA",MY Tv Network
+http://lv7.ustvnow.com/dvrtest/mp4:96291WHVLUSTVNOW1/playlist.m3u8?key=SLFM198174908C8AEADB99212BE5FD38070AF212043
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",CW 11 (New York)
-http://37.48.83.131:1935/live/cw77/playlist.m3u8?wowzasessionid=970363833&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE1IDExOjM1OjMyIFBNJmhhc2hfdmFsdWU9UElacGpXWnRNQVlpWHdYSXdkTVRGQT09JnZhbGlkbWludXRlcz0yMA%3D%3D
+http://37.48.83.131:1935/live/cw77/playlist.m3u8?wowzasessionid=429415873&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDE1IDQ6MzU6MzEgUE0maGFzaF92YWx1ZT1aQmtHNGdReU0xbzRub1lESlJydjNnPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-name="CW" tvg-id="" group-title="USA",CW
+http://lv7.ustvnow.com/dvrtest/mp4:67026WLYHUSTVNOW1/playlist.m3u8?key=SLFM198174908C8AEADB99212BE5FD38070AF212043
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",PBS
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Univision 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Telemundo 
@@ -33,8 +42,8 @@ http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1491.ts
 http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1432.ts
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",GSN
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",POP
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",A&E
-http://rtmp1.arconaitv.me/live/pUJjNApjnpTHypdjrfWXdw/1449338337/bb38d9048b7b91706264169a031f32a4.m3u8
+#EXTINF:-1 tvg-name="A&E" tvg-id="A-E.us" group-title="USA",A&E
+http://rtmp1.arconaitv.me/live/Pp20ghu9m2Bn3L9Hyuj_fA/1449428548/bb38d9048b7b91706264169a031f32a4.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",FYI
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",History
 http://rtmp1.arconaitv.me/live/jQccZnHzelcIMq7RvDxS5A/1449277141/d4a4950b7b7267417aa0b9733f30b6fe.m3u8
@@ -67,7 +76,8 @@ http://37.48.83.131:1935/live/espnn2/playlist.m3u8?wowzasessionid=1086870519&wms
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Fox Sports Florida
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",MLB Network
 http://lb.iptvserver.tv:8080/redirect/LiveEdge/MLBNetworkHD/playlist.m3u8?token=a75c6323cd6f15e7dcda1e99925a2757
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",NFL Network
+#EXTINF:-1 tvg-name="NFL Network" tvg-id="NFLSundayTicketGameMix.us" group-title="USA",NFL Network
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1521.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",NBA TV
 http://178.18.31.51:8081/liverepeater/226723/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE1IDExOjU2OjUwIFBNJmhhc2hfdmFsdWU9RndHZDUrenMvVk56UDFPTDdrZmhIdz09JnZhbGlkbWludXRlcz00
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",NHL Network
@@ -98,8 +108,8 @@ http://89.248.172.57:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasess
 http://89.248.172.57:1935/edge/_definst_/9l41fcr1sgmclej/playlist.m3u8?wowzasessionid=408215614
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",NickToon
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Discovery Family
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",ABC Family
-http://37.48.83.131:1935/live/abcfam77/playlist.m3u8?wowzasessionid=1025581327&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDE1IDM6NTI6MzEgUE0maGFzaF92YWx1ZT1VMk40bUZzcmlxRytxbytqU3h6c2RnPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-name="ABC Family" tvg-id="ABCFamilyChannel.us" group-title="USA",ABC Family
+http://37.48.83.131:1935/live/abcfam77/playlist.m3u8?wowzasessionid=1183374031&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDE1IDQ6MTg6MzEgUE0maGFzaF92YWx1ZT1namkzTFc1VmhjbjQrVUR1MXRib0J3PT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Teen Nick
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Discovery Channel
 http://rtmp1.arconaitv.me/live/dKb23NzhZfn7QOcXzllxHA/1449280942/a490ae75a3ec2acf16c9f592e889eb4c.m3u8
@@ -128,8 +138,8 @@ http://edge1.everyon.tv/etv1sb/phd16/playlist.m3u8
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Bloomberg TV
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Fox News Channel
-http://89.248.172.57:1935/edge/_definst_/w0mr10getvsikam/playlist.m3u8?wowzasessionid=1135978513
+#EXTINF:-1 tvg-name="Fox News" tvg-id="FOXNewsChannel.us" group-title="USA",Fox News Channel
+http://89.248.172.57:1935/edge/_definst_/w0mr10getvsikam/playlist.m3u8?wowzasessionid=1026698864
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",FOX Business
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",CNBC
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",
@@ -160,7 +170,8 @@ http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish1/kLive/smil:1_oorxcge2_al
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Nasa TV
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",EPIX Drive In
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",REELZ
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",HBO East
+#EXTINF:-1 tvg-name="HBO" tvg-id="HBOEast.us" group-title="USA",HBO East
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1441.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",HBO 2 East
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",HBO Signature East
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",HBO West
@@ -170,12 +181,13 @@ http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish1/kLive/smil:1_oorxcge2_al
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",HBO Zone
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",HBO Latino
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Cinemax East
+#EXTINF:-1 tvg-name="More Max" tvg-id="CinemaxMoreMaxHDEast.us" group-title="USA", Moremax
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1450.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Cinemax West
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",ActionMax East
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",5 StarMax
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",ThrillerMax East
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Showtime East
-http://37.48.83.131:1935/live/show77/playlist.m3u8?wowzasessionid=1446081856&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDE1IDEyOjAxOjMzIEFNJmhhc2hfdmFsdWU9NDlDME9OSmZ2MUd6WkNvTDA4WEhjQT09JnZhbGlkbWludXRlcz0yMA%3D%3D
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Showtime West
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Showtime 2 East
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Showtime Showcase East
@@ -184,7 +196,8 @@ http://37.48.83.131:1935/live/show77/playlist.m3u8?wowzasessionid=1446081856&wms
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",The Movie Channel East
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",The Movie Channel Xtra East
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Flix
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Encore East
+#EXTINF:-1 tvg-name="Encore East" tvg-id="Encore.us" group-title="USA",Encore East
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1469.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Encore West
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Encore Westerns
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Encore Action East
@@ -195,7 +208,8 @@ http://37.48.83.131:1935/live/show77/playlist.m3u8?wowzasessionid=1446081856&wms
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Starz East
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Starz West
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Starz Edge East
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Starz Cinema East
+#EXTINF:-1 tvg-name="Starz Cinema" tvg-id="StarzCinemaHD.us" group-title="USA",Starz Cinema East
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1468.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Starz Comedy East
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Starz In Black East
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Starz Kids & Family East
