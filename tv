@@ -15,12 +15,12 @@ http://skyiptv.ddns.net:8000/live/iptv1590/547879/277.m3u8
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/272.m3u8
 #EXTINF:-1 tvg-name="ARTE" tvg-id="ARTE.fr" group-title="FRANÇA",Arte
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/539.m3u8
-#EXTINF:-1 tvg-name="Canal+ Series" tvg-id="CanalplusSeries.fr" group-title="FRANÇA",Canal + Series
-http://iptv.electro-clair.net:8000/live/nader/nader/35.m3u8
+#EXTINF:-1 tvg-name="CanalplusSeries.fr" tvg-id="CanalplusSeries.fr" group-title="FRANÇA",Canal + Series
+http://iptv.electro-clair.net:8000/live/nader/nader/1545.m3u8
 #EXTINF:-1 tvg-name="Canal + Cinema" tvg-id="CANALplusCINEMA.fr" group-title="FRANÇA",Canal + Cinema
 http://iptv.electro-clair.net:8000/live/nader/nader/198.m3u8
 #EXTINF:-1 tvg-name="CANAL+ SPORT" tvg-id="CANALplusSPORT.fr" group-title="FRANÇA",CANAL+ Sport 
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/535.m3u8
+http://iptv.electro-clair.net:8000/live/nader/nader/539.m3u8
 #EXTINF:-1 tvg-name="CANAL+ FAMILY" tvg-id="CANALplusFamily.fr" group-title="FRANÇA",CANAL+ Family 
 http://iptv.electro-clair.net:8000/live/nader/nader/196.m3u8
 #EXTINF:-1 tvg-name="CANAL+ DECALE" tvg-id="CANALplusDECALE.fr" group-title="FRANÇA",CANAL+ Decale 
@@ -35,7 +35,7 @@ http://iptv.electro-clair.net:8000/live/nader/nader/1564.m3u8
 http://iptv.electro-clair.net:8000/live/nader/nader/1566.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Canal + Star
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Canal + Club
-#EXTINF:-1 tvg-name="Canal+ Classic" tvg-id="CinecinemaClassic.fr" group-title="FRANÇA",Canal + Classic
+#EXTINF:-1 tvg-name="Ciné cinéma Classic" tvg-id="CinecinemaClassic.fr" group-title="FRANÇA",Canal + Classic
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/263.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", TCM
 #EXTINF:-1 tvg-name="OCS Max" tvg-id="OrangeCinemax.fr" group-title="FRANÇA", OCS Max
@@ -43,23 +43,31 @@ http://skyiptv.ddns.net:8000/live/iptv1590/547879/263.m3u8
 #EXTINF:-1 tvg-name="OCS Choc" tvg-id="OrangeCinechoc.fr" group-title="FRANÇA", OCS Choc
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", OCS Novo
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", OCS Geants
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Polar
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Cine FX
-#EXTINF:-1 tvg-name="Action" tvg-id="Action" group-title="FRANÇA", Action
+#EXTINF:-1 tvg-name="CINE POLAR" tvg-id="CinePolar.fr" group-title="FRANÇA",Polar
+http://iptv.electro-clair.net:8000/live/nader/nader/1563.m3u8
+#EXTINF:-1 tvg-name="CINE FX" tvg-id="CineFX.fr" group-title="FRANÇA", Cine FX
+http://iptv.electro-clair.net:8000/live/nader/nader/607.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Action
+http://iptv.electro-clair.net:8000/live/nader/nader/1558.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Disney Cinemagic
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Disney Cinemagic +1
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Pass Series
-#EXTINF:-1 tvg-name="13eme Rue" tvg-id="13RUE.fr" group-title="FRANÇA", 13eme Rue
+#EXTINF:-1 tvg-name="13RUE.fr" tvg-id="13RUE.fr" group-title="FRANÇA",13eme Rue
+http://iptv.electro-clair.net:8000/live/nader/nader/1532.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Comedie +
-#EXTINF:-1 tvg-name="" tvg-id="Syfy.fr" group-title="FRANÇA", SyFy Universal
+#EXTINF:-1 tvg-name="Syfy Universal" tvg-id="Syfy.fr" group-title="FRANÇA", SyFy Universal
+http://iptv.electro-clair.net:8000/live/nader/nader/1208.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", TF6
-#EXTINF:-1 tvg-name="SerieClub" tvg-id="SerieClub.fr" group-title="FRANÇA", SerieClub
+#EXTINF:-1 tvg-name="SerieClub" tvg-id="SerieClub.fr" group-title="FRANÇA",SerieClub
+http://iptv.electro-clair.net:8000/live/nader/nader/193.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", MTV
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", June
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Non Stop People
-#EXTINF:-1 tvg-name="E!" tvg-id="Eentertainment.fr" group-title="FRANÇA", E!
+#EXTINF:-1 tvg-name="E!" tvg-id="Eentertainment.fr" group-title="FRANÇA",E!
+http://iptv.electro-clair.net:8000/live/nader/nader/1358.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", MCM
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Mangas
+#EXTINF:-1 tvg-name="Mangas.fr" tvg-id="Mangas.fr" group-title="FRANÇA",Mangas
+http://iptv.electro-clair.net:8000/live/nader/nader/1530.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Game One
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", AB1
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Jimmy
@@ -70,8 +78,10 @@ http://iptv.electro-clair.net:8000/live/nader/nader/608.m3u8
 #EXTINF:-1 tvg-name="RTL9" tvg-id="RTL9.fr" group-title="FRANÇA", RTL9
 #EXTINF:-1 tvg-name="HD1" tvg-id="HD1" group-title="FRANÇA", HD1
 #EXTINF:-1 tvg-name="6ter" tvg-id="6ter" group-title="FRANÇA", 6Ter
-#EXTINF:-1 tvg-name="D8" tvg-id="Direct8.fr" group-title="FRANÇA", D8
-#EXTINF:-1 tvg-name="W9" tvg-id="W9.fr" group-title="FRANÇA", W9
+#EXTINF:-1 tvg-name="Direct8.fr" tvg-id="Direct8.fr" group-title="FRANÇA",D8
+http://iptv.electro-clair.net:8000/live/nader/nader/1534.m3u8
+#EXTINF:-1 tvg-name="W9" tvg-id="W9.fr" group-title="FRANÇA",W9
+http://iptv.electro-clair.net:8000/live/nader/nader/208.m3u8
 #EXTINF:-1 tvg-name="TMC" tvg-id="TMC.fr" group-title="FRANÇA",TMC
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/536.m3u8
 #EXTINF:-1 tvg-name="NT1" tvg-id="NT1.fr" group-title="FRANÇA", NT1
@@ -79,7 +89,8 @@ http://skyiptv.ddns.net:8000/live/iptv1590/547879/536.m3u8
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/275.m3u8
 #EXTINF:-1 tvg-name="FRANCE 4" tvg-id="France4.fr" group-title="FRANÇA",France 4
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/278.m3u8
-#EXTINF:-1 tvg-name="D17" tvg-id="DirectStar.fr" group-title="FRANÇA", D17
+#EXTINF:-1 tvg-name="D17" tvg-id="DirectStar.fr" group-title="FRANÇA",D17
+http://iptv.electro-clair.net:8000/live/nader/nader/1342.m3u8
 #EXTINF:-1 tvg-name="FRANCE O" tvg-id="FranceO.fr" group-title="FRANÇA", France Ô
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/276.m3u8
 #EXTINF:-1 tvg-name="NUMERO 23" tvg-id="" group-title="FRANÇA", Numero 23
@@ -106,6 +117,7 @@ http://iptv.electro-clair.net:8000/live/nader/nader/206.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Histoire
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Toute L'Histoire
 #EXTINF:-1 tvg-name="Animaux" tvg-id="Animaux.fr" group-title="FRANÇA", Animaux
+http://iptv.electro-clair.net:8000/live/nader/nader/22.m3u8
 #EXTINF:-1 tvg-name="Chasse et Peche" tvg-id="ChassePeche.fr" group-title="FRANÇA", Chasse et Peche
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Escales
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Encyclo
@@ -132,7 +144,9 @@ http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/650.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", KTO
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Sport+
 #EXTINF:-1 tvg-name="Eurosport" tvg-id="Eurosport.fr" group-title="FRANÇA",Eurosport
-#EXTINF:-1 tvg-name="Infosport+" tvg-id="Infosport.fr" group-title="FRANÇA", Infosport+
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/282.m3u8
+#EXTINF:-1 tvg-name="INFOSPORT+" tvg-id="Infosport.fr" group-title="FRANÇA", Infosport+
+http://iptv.electro-clair.net:8000/live/nader/nader/1344.m3u8
 #EXTINF:-1 tvg-name="L'EQUIPE TV" tvg-id="L'EQUIPE TV" group-title="FRANÇA", L'Equipe 21
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Sport365
 #EXTINF:-1 tvg-name="Eurosport 2" tvg-id="Eurosport2.fr" group-title="FRANÇA",Eurosport 2
@@ -155,7 +169,8 @@ http://iptv.electro-clair.net:8000/live/nader/nader/529.m3u8
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/290.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 2" tvg-id="beINSport2.fr" group-title="FRANÇA",Bein Sports 2
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/289.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="beINSport3.fr" group-title="FRANÇA", Bein Sports 3
+#EXTINF:-1 tvg-name="Bein Sports 3" tvg-id="beINSport3.fr" group-title="FRANÇA",Bein Sports 3
+http://iptv.electro-clair.net:8000/live/nader/nader/439.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Golf+
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Extreme Sports
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Blackbelt Tv
@@ -180,7 +195,10 @@ http://skyiptv.ddns.net:8000/live/iptv1590/547879/265.m3u8
 http://iptv.electro-clair.net:8000/live/nader/nader/1560.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Teletoon+1
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Boing
-#EXTINF:-1 tvg-name="GULLI" tvg-id="Gulli.fr" group-title="FRANÇA", Gulli
+#EXTINF:-1 tvg-name="Tiji" tvg-id="Tiji.fr" group-title="FRANÇA",Tiji
+http://iptv.electro-clair.net:8000/live/nader/nader/1343.m3u8
+#EXTINF:-1 tvg-name="Gulli.fr" tvg-id="Gulli.fr" group-title="FRANÇA", Gulli
+http://iptv.electro-clair.net:8000/live/nader/nader/1533.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", MTV Base
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", MTV Pulse
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", MTV Idol
@@ -234,245 +252,33 @@ http://iptv.electro-clair.net:8000/live/nader/nader/1560.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", LA CHAINE NORMANDIE 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", TV Rennes 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Mirabelle TV 
-http://str81.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Yvelines Premiere 
-http://clinetiptv.ddns.net:8000/live/alger/alger/735.m3u8
-#EXTINF:-1,FR;Disney.Cinema
-http://iptv.electro-clair.net:8000/live/nader/nader/1659.ts
-#EXTINF:-1,FR;Disney.Channel
-http://iptv.electro-clair.net:8000/live/nader/nader/1660.ts
-#EXTINF:-1,FR:Disney.Junior
-http://iptv.electro-clair.net:8000/live/nader/nader/1658.ts
-#EXTINF:-1,FR_Mangas
-http://iptv.electro-clair.net:8000/live/nader/nader/1530.ts
-#EXTINF:-1,FR_Gulli
-http://iptv.electro-clair.net:8000/live/nader/nader/1533.ts
-#EXTINF:-1,FR_13emeRue
-http://iptv.electro-clair.net:8000/live/nader/nader/1532.ts
-#EXTINF:-1,FR_D8
-http://iptv.electro-clair.net:8000/live/nader/nader/1534.ts
-#EXTINF:-1,FR_Chasse&Peche
-http://iptv.electro-clair.net:8000/live/nader/nader/1531.ts
-#EXTINF:-1,FR_Canal+_Series_HD
-http://iptv.electro-clair.net:8000/live/nader/nader/1545.ts
-#EXTINF:-1,FR_Canal+_HD
-http://iptv.electro-clair.net:8000/live/nader/nader/1540.ts
-#EXTINF:-1,FR;RTL9HD
-http://iptv.electro-clair.net:8000/live/nader/nader/1557.ts
-#EXTINF:-1,FR.NATIONAL:GEO
-http://iptv.electro-clair.net:8000/live/nader/nader/1595.ts
-#EXTINF:-1,FR:MTV-PULSE
-http://iptv.electro-clair.net:8000/live/nader/nader/1590.ts
-#EXTINF:-1,FR:MTV-IDOL
-http://iptv.electro-clair.net:8000/live/nader/nader/1588.ts
-#EXTINF:-1,FR:MTV-BASE
-http://iptv.electro-clair.net:8000/live/nader/nader/1589.ts
-#EXTINF:-1,FR:MCM.Pop
-http://iptv.electro-clair.net:8000/live/nader/nader/1591.ts
-#EXTINF:-1,FR:Ma-Chaine-Sport
-http://iptv.electro-clair.net:8000/live/nader/nader/1593.ts
-#EXTINF:-1,FR:M6-MusicHD
-http://iptv.electro-clair.net:8000/live/nader/nader/1592.ts
-#EXTINF:-1,FR:Foot
-http://iptv.electro-clair.net:8000/live/nader/nader/1594.ts
-#EXTINF:-1,FR:CANALPLAY-9
-http://iptv.electro-clair.net:8000/live/nader/nader/1379.ts
-#EXTINF:-1,FR:CANALPLAY-8
-http://iptv.electro-clair.net:8000/live/nader/nader/1378.ts
-#EXTINF:-1,FR:CANALPLAY-7
-http://iptv.electro-clair.net:8000/live/nader/nader/1377.ts
-#EXTINF:-1,FR:CANALPLAY-5
-http://iptv.electro-clair.net:8000/live/nader/nader/1375.ts
-#EXTINF:-1,FR:CANALPLAY-4
-http://iptv.electro-clair.net:8000/live/nader/nader/1374.ts
-#EXTINF:-1,FR:CANALPLAY-3
-http://iptv.electro-clair.net:8000/live/nader/nader/1373.ts
-#EXTINF:-1,FR:CANALPLAY-2
-http://iptv.electro-clair.net:8000/live/nader/nader/1372.ts
-#EXTINF:-1,FR:CANALPLAY-10
-http://iptv.electro-clair.net:8000/live/nader/nader/1380.ts
-#EXTINF:-1,FR:CANALPLAY-1
-http://iptv.electro-clair.net:8000/live/nader/nader/1371.ts
-#EXTINF:-1,FR:CANAL.J.HD
-http://iptv.electro-clair.net:8000/live/nader/nader/1559.ts
-#EXTINF:-1,FR:ACTION
-http://iptv.electro-clair.net:8000/live/nader/nader/1558.ts
-#EXTINF:-1,FR:A.LA.CARTE.9
-http://iptv.electro-clair.net:8000/live/nader/nader/1494.ts
-#EXTINF:-1,FR:A.LA.CARTE.8
-http://iptv.electro-clair.net:8000/live/nader/nader/1493.ts
-#EXTINF:-1,FR:A.LA.CARTE.7
-http://iptv.electro-clair.net:8000/live/nader/nader/1492.ts
-#EXTINF:-1,FR:A.LA.CARTE.6
-http://iptv.electro-clair.net:8000/live/nader/nader/1491.ts
-#EXTINF:-1,FR:A.LA.CARTE.5
-http://iptv.electro-clair.net:8000/live/nader/nader/1490.ts
-#EXTINF:-1,FR:A.LA.CARTE.4
-http://iptv.electro-clair.net:8000/live/nader/nader/1489.ts
-#EXTINF:-1,FR:A.LA.CARTE.3
-http://iptv.electro-clair.net:8000/live/nader/nader/1488.ts
-#EXTINF:-1,FR:A.LA.CARTE.2
-http://iptv.electro-clair.net:8000/live/nader/nader/1487.ts
-#EXTINF:-1,FR:A.LA.CARTE.11
-http://iptv.electro-clair.net:8000/live/nader/nader/1496.ts
-#EXTINF:-1,FR:A.LA.CARTE.10
-http://iptv.electro-clair.net:8000/live/nader/nader/1495.ts
-#EXTINF:-1,FR:A.LA.CARTE.1
-http://iptv.electro-clair.net:8000/live/nader/nader/1486.ts
-#EXTINF:-1,FR.TELETOON+
-http://iptv.electro-clair.net:8000/live/nader/nader/1561.ts
-#EXTINF:-1,FR.TELETOON
-http://iptv.electro-clair.net:8000/live/nader/nader/1560.ts
-#EXTINF:-1,FR.CINE.POLAR
-http://iptv.electro-clair.net:8000/live/nader/nader/1563.ts
-#EXTINF:-1,FR.CINE.CLASSIC.HD
-http://iptv.electro-clair.net:8000/live/nader/nader/1562.ts
-#EXTINF:-1,FR.CINE+FRISSONHD
-http://iptv.electro-clair.net:8000/live/nader/nader/1565.ts
-#EXTINF:-1,FR.CINE+EMOTION.HD
-http://iptv.electro-clair.net:8000/live/nader/nader/1564.ts
-#EXTINF:-1,FR.CINE+FAMIZHD
-http://iptv.electro-clair.net:8000/live/nader/nader/1566.ts
-#EXTINF:-1,FR:NATIONAL.GEO.WILD.HD
-http://iptv.electro-clair.net:8000/live/nader/nader/1359.ts
-#EXTINF:-1,FR:MCM
-http://iptv.electro-clair.net:8000/live/nader/nader/1347.ts
-#EXTINF:-1,FR:E!
-http://iptv.electro-clair.net:8000/live/nader/nader/1358.ts
-#EXTINF:-1,FR:D17
-http://iptv.electro-clair.net:8000/live/nader/nader/1342.ts
-#EXTINF:-1,FR:TIJI
-http://iptv.electro-clair.net:8000/live/nader/nader/1343.ts
-#EXTINF:-1,FR:PLANETE.CI
-http://iptv.electro-clair.net:8000/live/nader/nader/1336.ts
-#EXTINF:-1,FR:Planète.HD
-http://iptv.electro-clair.net:8000/live/nader/nader/1335.ts
-#EXTINF:-1,FR:NAT.GEO.WILD
-http://iptv.electro-clair.net:8000/live/nader/nader/1341.ts
-#EXTINF:-1,FR:MA.Chaine.Sport
-http://iptv.electro-clair.net:8000/live/nader/nader/1346.ts
-#EXTINF:-1,FR:INFOSPORT
-http://iptv.electro-clair.net:8000/live/nader/nader/1344.ts
-#EXTINF:-1,FR:disney.ch
-http://iptv.electro-clair.net:8000/live/nader/nader/1340.ts
-#EXTINF:-1,FR:COMEDIE.HD
-http://iptv.electro-clair.net:8000/live/nader/nader/1345.ts
-#EXTINF:-1,FR:Cartoon.Network
-http://iptv.electro-clair.net:8000/live/nader/nader/1339.ts
-#EXTINF:-1,FR:Canal.J
-http://iptv.electro-clair.net:8000/live/nader/nader/1337.ts
-#EXTINF:-1,FR:Boomerang
-http://iptv.electro-clair.net:8000/live/nader/nader/1338.ts
-#EXTINF:-1,FR:Planete.Thalassa
-http://iptv.electro-clair.net:8000/live/nader/nader/609.ts
-#EXTINF:-1,FR:Paris.Premiere
-http://iptv.electro-clair.net:8000/live/nader/nader/608.ts
-#EXTINF:-1,FR:NRJ12
-http://iptv.electro-clair.net:8000/live/nader/nader/1207.ts
-#EXTINF:-1,FR-France24
-http://iptv.electro-clair.net:8000/live/nader/nader/1173.ts
-#EXTINF:-1,FR:CINE.FX
-http://iptv.electro-clair.net:8000/live/nader/nader/607.ts
-#EXTINF:-1,FR:BEIN_SPORT_HD1
-http://iptv.electro-clair.net:8000/live/nader/nader/1169.ts
-#EXTINF:-1,FR:SyFy
-http://iptv.electro-clair.net:8000/live/nader/nader/1208.ts
-#EXTINF:-1,FR:TevaHD
-http://iptv.electro-clair.net:8000/live/nader/nader/516.ts
-#EXTINF:-1,FR:M6HD
-http://iptv.electro-clair.net:8000/live/nader/nader/520.ts
-#EXTINF:-1,FR:W9
-http://iptv.electro-clair.net:8000/live/nader/nader/514.ts
-#EXTINF:-1,FR:France2
-http://iptv.electro-clair.net:8000/live/nader/nader/523.ts
-#EXTINF:-1,FR:France3
-http://iptv.electro-clair.net:8000/live/nader/nader/524.ts
-#EXTINF:-1,FR:France4
-http://iptv.electro-clair.net:8000/live/nader/nader/525.ts
-#EXTINF:-1,FR:France5
-http://iptv.electro-clair.net:8000/live/nader/nader/526.ts
-#EXTINF:-1,FR:FranceO
-http://iptv.electro-clair.net:8000/live/nader/nader/527.ts
-#EXTINF:-1,FR:Eurosport2
-http://iptv.electro-clair.net:8000/live/nader/nader/529.ts
-#EXTINF:-1,FR:DisneyCinemagic
-http://iptv.electro-clair.net:8000/live/nader/nader/532.ts
-#EXTINF:-1,FR:Discovery
-http://iptv.electro-clair.net:8000/live/nader/nader/531.ts
-#EXTINF:-1,FR:Canal+
-http://iptv.electro-clair.net:8000/live/nader/nader/535.ts
-#EXTINF:-1,FR:CanalCinema
-http://iptv.electro-clair.net:8000/live/nader/nader/536.ts
-#EXTINF:-1,FR:CanalSport
-http://iptv.electro-clair.net:8000/live/nader/nader/539.ts
-#EXTINF:-1,FR:CanalDecale
-http://iptv.electro-clair.net:8000/live/nader/nader/537.ts
-#EXTINF:-1,FR:CanalFamily
-http://iptv.electro-clair.net:8000/live/nader/nader/538.m3u8
-#EXTINF:-1,FR:OSC.CITYHD
-http://iptv.electro-clair.net:8000/live/nader/nader/443.ts
-#EXTINF:-1,FR:OCS_GeantsHD
-http://iptv.electro-clair.net:8000/live/nader/nader/442.ts
-#EXTINF:-1,FR:OCS.MaxHD
-http://iptv.electro-clair.net:8000/live/nader/nader/441.ts
-#EXTINF:-1,FR:Disney.XD
-http://iptv.electro-clair.net:8000/live/nader/nader/445.ts
-#EXTINF:-1,FR:BEIN_SPORT_HD2
-http://iptv.electro-clair.net:8000/live/nader/nader/440.ts
-#EXTINF:-1,FR:BEIN_SPORT_HD3
-http://iptv.electro-clair.net:8000/live/nader/nader/439.ts
-#EXTINF:-1,FRA-PIWI
-http://iptv.electro-clair.net:8000/live/nader/nader/238.ts
-#EXTINF:-1,FR-USHUIA
-http://iptv.electro-clair.net:8000/live/nader/nader/233.ts
-#EXTINF:-1,FR:W9HD
-http://iptv.electro-clair.net:8000/live/nader/nader/208.ts
-#EXTINF:-1,FR:TMC
-http://iptv.electro-clair.net:8000/live/nader/nader/209.ts
-#EXTINF:-1,FRE:TF1HD
-http://iptv.electro-clair.net:8000/live/nader/nader/210.ts
-#EXTINF:-1,FRE:NatGeoWildFR
-http://iptv.electro-clair.net:8000/live/nader/nader/206.ts
-#EXTINF:-1,FR:M6HD,
-http://iptv.electro-clair.net:8000/live/nader/nader/204.ts
-#EXTINF:-1,FR:COMEDIE+
-http://iptv.electro-clair.net:8000/live/nader/nader/189.ts
-#EXTINF:-1,FR:CINE-FAMIZ
-http://iptv.electro-clair.net:8000/live/nader/nader/192.ts
-#EXTINF:-1,FR:CANAL-SPORT-HD
-http://iptv.electro-clair.net:8000/live/nader/nader/194.ts
-#EXTINF:-1,FR:CANAL-DECALEHD
-http://iptv.electro-clair.net:8000/live/nader/nader/197.ts
-#EXTINF:-1,FRE:CANAL-CINEMAHD
-http://iptv.electro-clair.net:8000/live/nader/nader/198.ts
-#EXTINF:-1,FR:CANAL+FAMILYHD
-http://iptv.electro-clair.net:8000/live/nader/nader/196.ts
-#EXTINF:-1,FR:Serie-club
-http://iptv.electro-clair.net:8000/live/nader/nader/193.ts
-#EXTINF:-1,FR:CINE-PREMIERHD
-http://iptv.electro-clair.net:8000/live/nader/nader/191.ts
-#EXTINF:-1,FRA-FRANCE4
-http://iptv.electro-clair.net:8000/live/nader/nader/103.ts
-#EXTINF:-1,FRA-FRANCE3
-http://iptv.electro-clair.net:8000/live/nader/nader/102.ts
-#EXTINF:-1,FR-FRANCE2
-http://iptv.electro-clair.net:8000/live/nader/nader/101.ts
-#EXTINF:-1,FR-France5
-http://iptv.electro-clair.net:8000/live/nader/nader/100.ts
-#EXTINF:-1,FR:M6.Music
-http://iptv.electro-clair.net:8000/live/nader/nader/47.ts
-#EXTINF:-1,FR:TF1HD
-http://iptv.electro-clair.net:8000/live/nader/nader/33.ts
-#EXTINF:-1,FR:CANAL+Séries
-http://iptv.electro-clair.net:8000/live/nader/nader/35.ts
-#EXTINF:-1,FR:ANIMAUX.HD
-http://iptv.electro-clair.net:8000/live/nader/nader/22.ts
-#EXTINF:-1,FR:bein.sport.fr1
-http://iptv.electro-clair.net:8000/live/nader/nader/254.ts
-#EXTINF:-1,FR:bein.sport.fr2
-http://iptv.electro-clair.net:8000/live/nader/nader/255.ts
-#EXTINF:-1,FR:bein.sport.fr3
-http://iptv.electro-clair.net:8000/live/nader/nader/256.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA",CANALPLAY 1
+http://iptv.electro-clair.net:8000/live/nader/nader/1371.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA",CANALPLAY 2
+http://iptv.electro-clair.net:8000/live/nader/nader/1372.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA",CANALPLAY 3
+http://iptv.electro-clair.net:8000/live/nader/nader/1373.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA",CANALPLAY 4
+http://iptv.electro-clair.net:8000/live/nader/nader/1374.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA",CANALPLAY 5
+http://iptv.electro-clair.net:8000/live/nader/nader/1377.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA",CANALPLAY 6
+http://iptv.electro-clair.net:8000/live/nader/nader/1379.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA",A.LA.CARTE.1
+http://iptv.electro-clair.net:8000/live/nader/nader/1486.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA",A.LA.CARTE.2
+http://iptv.electro-clair.net:8000/live/nader/nader/1487.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA",A.LA.CARTE.6
+http://iptv.electro-clair.net:8000/live/nader/nader/1491.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA",A.LA.CARTE.7
+http://iptv.electro-clair.net:8000/live/nader/nader/1492.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA",A.LA.CARTE.9
+http://iptv.electro-clair.net:8000/live/nader/nader/1494.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA",A.LA.CARTE.11
+http://iptv.electro-clair.net:8000/live/nader/nader/1496.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA",A.LA.CARTE.10
+http://iptv.electro-clair.net:8000/live/nader/nader/1495.m3u8
 #EXTINF:-1 group-title="PORTUGAL", ### PORTUGAL CHANNELS ###
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/240.ts
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="PORTUGAL", EUROSPORT 1
@@ -1982,60 +1788,7 @@ http://skyiptv.ddns.net:8000/live/iptv1590/547879/533.ts
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/341.ts
 #EXTINF:-1 group-title="SKY", PINK comedy
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/346.ts
-#EXTINF:-1 group-title="SKY", ### FRENCH CHANNELS: CANAL  ###
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/255.ts
-#EXTINF:-1 group-title="SKY", FR CANAL  SPORT
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/535.ts
-#EXTINF:-1 group-title="SKY", C More Sport
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/542.ts
-#EXTINF:-1 group-title="SKY", (FR): TMC
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/536.ts
-#EXTINF:-1 group-title="SKY", (FR): Canal  Cinema HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/538.ts
-#EXTINF:-1 group-title="SKY", (FR): Arte
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/539.ts
-#EXTINF:-1 group-title="SKY", FR TMC
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/273.ts
-#EXTINF:-1 group-title="SKY", FR Syfy
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/274.ts
-#EXTINF:-1 group-title="SKY", FR NRJ 12
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/275.ts
-#EXTINF:-1 group-title="SKY", FR France O
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/276.ts
-#EXTINF:-1 group-title="SKY", FR France 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/280.ts
-#EXTINF:-1 group-title="SKY", FR France 3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/279.ts
-#EXTINF:-1 group-title="SKY", FR France 4
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/278.ts
-#EXTINF:-1 group-title="SKY", FR France 5
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/277.ts
-#EXTINF:-1 group-title="SKY", FR Eurosport 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/282.ts
-#EXTINF:-1 group-title="SKY", FR Eurosport 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/281.ts
-#EXTINF:-1 group-title="SKY", FR Cine Frisson
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/284.ts
-#EXTINF:-1 group-title="SKY", FR Cine  Premier
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/285.ts
-#EXTINF:-1 group-title="SKY", FR CANAL+
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/262.ts
-#EXTINF:-1 group-title="SKY", FR Canal  Cinema
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/287.ts
-#EXTINF:-1 group-title="SKY", FR BFMTV
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/288.ts
-#EXTINF:-1 group-title="SKY", FR Bein Sport 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/290.ts
-#EXTINF:-1 group-title="SKY", FR Bein Sport 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/289.ts
-#EXTINF:-1 group-title="SKY", FR Arte
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/291.ts
-#EXTINF:-1 group-title="SKY", FR 5 Plus
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/292.ts
-#EXTINF:-1 group-title="SKY", (FR): TF1 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/271.ts
-#EXTINF:-1 group-title="SKY", (FR): M6 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/272.ts
+
 #EXTINF:-1 group-title="SKY", CINE CLASSIC
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/263.ts
 #EXTINF:-1 group-title="SKY", Cartoon Network
