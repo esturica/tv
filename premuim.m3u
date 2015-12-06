@@ -1,837 +1,1274 @@
 #EXTM3U
-#EXTINF:-1,### ITALIAN: SKY ITALIA ###
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/1.ts
-#EXTINF:-1,IT: SKYIT F1 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/2.ts
-#EXTINF:-1,IT: SKYIT Cinema Hits HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/3.ts
-#EXTINF:-1,IT: SKYIT Cinema HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/4.ts
-#EXTINF:-1,IT TG Com 24
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/6.ts
-#EXTINF:-1,IT Sky Tg 24
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/7.ts
-#EXTINF:-1,IT Sky Supercalcio
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/8.ts
-#EXTINF:-1,IT Sky Sport Plus
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/9.ts
-#EXTINF:-1,IT Sky Sport F1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/10.ts
-#EXTINF:-1,IT Sky Sport 24
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/12.ts
-#EXTINF:-1,IT Sky Sport 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/14.ts
-#EXTINF:-1,IT Sky Sport 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/13.ts
-#EXTINF:-1,IT Sky Sport 3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/11.ts
-#EXTINF:-1,IT: Sky Sport MotoGP HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/16.ts
-#EXTINF:-1,IT Sky Cinema Passion
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/17.ts
-#EXTINF:-1,IT Sky Cinema Max  1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/18.ts
-#EXTINF:-1,IT Sky Cinema Max
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/19.ts
-#EXTINF:-1,IT Sky Cinema Family
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/20.ts
-#EXTINF:-1,IT Sky Cinema Cult
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/21.ts
-#EXTINF:-1,IT Sky Cinema Comedy
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/22.ts
-#EXTINF:-1,IT Sky Cinema Classic
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/23.ts
-#EXTINF:-1,IT Sky Cinema 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/24.ts
-#EXTINF:-1,IT Sky Cinema  24
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/25.ts
-#EXTINF:-1,IT Sky Calcio 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/26.ts
-#EXTINF:-1,IT Sky Calcio 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/27.ts
-#EXTINF:-1,IT Sky Calcio 3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/28.ts
-#EXTINF:-1,IT Sky Atlantic
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/29.ts
-#EXTINF:-1,IT Sky Arte
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/30.ts
-#EXTINF:-1,IT Rete 4
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/31.ts
-#EXTINF:-1,IT Rai 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/34.ts
-#EXTINF:-1,IT Rai 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/33.ts
-#EXTINF:-1,IT Rai 3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/32.ts
-#EXTINF:-1,IT Primafila 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/35.ts
-#EXTINF:-1,IT Primafila 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/36.ts
-#EXTINF:-1,IT Primafila 3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/37.ts
-#EXTINF:-1,IT Primafila 4
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/38.ts
-#EXTINF:-1,IT Primafila  5
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/39.ts
-#EXTINF:-1,IT Primafila 6
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/40.ts
-#EXTINF:-1,IT Primafila 7
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/41.ts
-#EXTINF:-1,IT Primafila 8
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/42.ts
-#EXTINF:-1,IT Primafila 9
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/43.ts
-#EXTINF:-1,IT Primafila 10
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/44.ts
-#EXTINF:-1,IT Primafila 11
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/45.ts
-#EXTINF:-1,IT Primafila 12
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/46.ts
-#EXTINF:-1,IT Primafila 13
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/47.ts
-#EXTINF:-1,IT Primafila 14
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/48.ts
-#EXTINF:-1,IT Primafila 15
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/49.ts
-#EXTINF:-1,IT Primafila 16
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/50.ts
-#EXTINF:-1,IT Primafila 17
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/51.ts
-#EXTINF:-1,IT Primafila 18
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/52.ts
-#EXTINF:-1,IT Primafila 19
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/53.ts
-#EXTINF:-1,IT Premium Studio Universal
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/54.ts
-#EXTINF:-1,IT Premium Mya
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/55.ts
-#EXTINF:-1,IT Premium Joy
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/56.ts
-#EXTINF:-1,IT Premium Energy
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/57.ts
-#EXTINF:-1,IT Premium Emotion
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/58.ts
-#EXTINF:-1,IT Premium Disney Junior
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/59.ts
-#EXTINF:-1,IT Premium Disney Channel
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/60.ts
-#EXTINF:-1,IT Premium Discovery World
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/61.ts
-#EXTINF:-1,IT Premium Crime
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/62.ts
-#EXTINF:-1,IT Premium Comedy
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/63.ts
-#EXTINF:-1,IT Premium Cinema
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/64.ts
-#EXTINF:-1,IT Premium Calcio 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/67.ts
-#EXTINF:-1,IT Premium Calcio 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/66.ts
-#EXTINF:-1,IT Premium Calcio 3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/678.ts
-#EXTINF:-1,IT Premium Calcio 4
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/679.ts
-#EXTINF:-1,IT Premium Calcio 5
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/680.ts
-#EXTINF:-1,IT Premium Calcio 6
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/681.ts
-#EXTINF:-1,IT Premium Calcio
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/68.ts
-#EXTINF:-1,IT Premium BBC
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/69.ts
-#EXTINF:-1,IT Premium Action
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/70.ts
-#EXTINF:-1,IT National Geographic
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/71.ts
-#EXTINF:-1,IT NatGeo Wild
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/72.ts
-#EXTINF:-1,IT LA 7
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/73.ts
-#EXTINF:-1,IT Italia 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/74.ts
-#EXTINF:-1,IT HIstory
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/75.ts
-#EXTINF:-1,IT Fox Sport
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/76.ts
-#EXTINF:-1,IT Fox Life
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/77.ts
-#EXTINF:-1,IT Fox Crime
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/78.ts
-#EXTINF:-1,IT Fox Comedy
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/79.ts
-#EXTINF:-1,IT Fox Animation
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/80.ts
-#EXTINF:-1,IT Fox
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/81.ts
-#EXTINF:-1,IT Dmax
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/82.ts
-#EXTINF:-1,IT Discovery World
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/83.ts
-#EXTINF:-1,IT Discovery Science
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/84.ts
-#EXTINF:-1,IT Discovery
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/85.ts
-#EXTINF:-1,IT Cielo
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/86.ts
-#EXTINF:-1,IT Canale 5
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/87.ts
-#EXTINF:-1,IT AXN
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/88.ts
-#EXTINF:-1,####### USA #######
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/219.ts
-#EXTINF:-1,USA Fox Sports 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/226.ts
-#EXTINF:-1,Weo
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/177.ts
-#EXTINF:-1,Vox Norway
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/178.ts
-#EXTINF:-1,USA TSN 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/223.ts
-#EXTINF:-1,USA TSN 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/224.ts
-#EXTINF:-1,USA TSN 4
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/225.ts
-#EXTINF:-1,### SKY UK CHANNELS ###
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/89.ts
-#EXTINF:-1,UK : Sky Movies Syfy HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/660.ts
-#EXTINF:-1,UK True Movies 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/117.ts
-#EXTINF:-1,UK True Movies 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/682.ts
-#EXTINF:-1,UK The Vault
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/118.ts
-#EXTINF:-1,UK TG 4
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/119.ts
-#EXTINF:-1,UK Sky Sports News
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/121.ts
-#EXTINF:-1,UK Sky Sports F1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/122.ts
-#EXTINF:-1,UK Sky Sports 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/127.ts
-#EXTINF:-1,UK Sky Sports 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/126.ts
-#EXTINF:-1,UK Sky Sports 3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/125.ts
-#EXTINF:-1,UK Sky Sports 4
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/124.ts
-#EXTINF:-1,UK Sky Sports 5
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/123.ts
-#EXTINF:-1,UK Sky Premiere Sports
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/128.ts
-#EXTINF:-1,UK Sky One
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/129.ts
-#EXTINF:-1,UK Sky Two
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/120.ts
-#EXTINF:-1,UK Sky Movies Scifi / Horror
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/130.ts
-#EXTINF:-1,UK Sky Arts 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/131.ts
-#EXTINF:-1,UK RTE 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/133.ts
-#EXTINF:-1,UK RTE 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/132.ts
-#EXTINF:-1,UK Quest
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/134.ts
-#EXTINF:-1,UK Nicktoons
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/135.ts
-#EXTINF:-1,UK Nickelodeon
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/136.ts
-#EXTINF:-1,UK National Geographic Wild
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/137.ts
-#EXTINF:-1,UK National Geographic
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/138.ts
-#EXTINF:-1,UK More 4
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/139.ts
-#EXTINF:-1,UK ITV 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/143.ts
-#EXTINF:-1,UK ITV 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/142.ts
-#EXTINF:-1,UK ITV 3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/141.ts
-#EXTINF:-1,UK ITV 4
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/140.ts
-#EXTINF:-1,UK Investigation
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/144.ts
-#EXTINF:-1,UK History Channel
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/145.ts
-#EXTINF:-1,UK Gold
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/146.ts
-#EXTINF:-1,UK Food Network
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/147.ts
-#EXTINF:-1,UK Flava
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/148.ts
-#EXTINF:-1,UK Eurosport 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/90.ts
-#EXTINF:-1,UK Eurosport 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/91.ts
-#EXTINF:-1,UK ESPN
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/92.ts
-#EXTINF:-1,UK Drama
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/94.ts
-#EXTINF:-1,UK Dmax
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/95.ts
-#EXTINF:-1,UK Disney Junior
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/96.ts
-#EXTINF:-1,UK Disney Channel
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/97.ts
-#EXTINF:-1,UK Discovery Science
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/98.ts
-#EXTINF:-1,UK Discovery Investigation
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/99.ts
-#EXTINF:-1,UK Discovery History
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/100.ts
-#EXTINF:-1,UK Dave
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/101.ts
-#EXTINF:-1,UK Channel 4
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/102.ts
-#EXTINF:-1,UK BT Sports 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/103.ts
-#EXTINF:-1,UK BT Sports 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/104.ts
-#EXTINF:-1,UK Boxnation
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/105.ts
-#EXTINF:-1,UK BBC 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/109.ts
-#EXTINF:-1,UK BBC 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/108.ts
-#EXTINF:-1,UK BBC 3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/107.ts
-#EXTINF:-1,UK BBC 4
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/106.ts
-#EXTINF:-1,UK At The Races
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/110.ts
-#EXTINF:-1,UK Animal Planet
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/111.ts
-#EXTINF:-1,UK Alibi
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/112.ts
-#EXTINF:-1,UK 5 Star
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/113.ts
-#EXTINF:-1,UK 3e
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/114.ts
-#EXTINF:-1,UK  Travel Channel
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/115.ts
-#EXTINF:-1,#########    Turk      #######
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/639.ts
-#EXTINF:-1,TR-Moviemax Premiere HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/625.ts
-#EXTINF:-1,TR-Movie Smart Platinum HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/624.ts
-#EXTINF:-1,TR-DREAM TV
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/623.ts
-#EXTINF:-1,TR: YABAN TV
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/228.ts
-#EXTINF:-1,TR: TRT SPOR
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/229.ts
-#EXTINF:-1,TR: sinema  hd
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/230.ts
-#EXTINF:-1,TR: KANAL TURK
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/233.ts
-#EXTINF:-1,TR: Kanal 7
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/234.ts
-#EXTINF:-1,TR: Beyaz TV
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/235.ts
-#EXTINF:-1,TR: Salon 3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/237.ts
-#EXTINF:-1,TR TRT 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/227.ts
-#EXTINF:-1,TR Salon 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/239.ts
-#EXTINF:-1,TR Salon 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/238.ts
-#EXTINF:-1,### SPORTS CHANNELS ###
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/240.ts
-#EXTINF:-1,SPORTS Sport Klub 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/243.ts
-#EXTINF:-1,SPORTS Sport Klub 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/242.ts
-#EXTINF:-1,SPORTS Sport Klub 3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/241.ts
-#EXTINF:-1,SPORTS LIG TV1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/246.ts
-#EXTINF:-1,SPORTS LIG TV2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/245.ts
-#EXTINF:-1,SPORTS LIG TV3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/244.ts
-#EXTINF:-1,SPORTS Arena sport 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/254.ts
-#EXTINF:-1,SPORTS Arena sport 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/253.ts
-#EXTINF:-1,SPORTS Arena sport 3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/252.ts
-#EXTINF:-1,SPORTS Arena sport 4
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/251.ts
-#EXTINF:-1,SPORTS Arena sport 5
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/250.ts
-#EXTINF:-1,########SPAIN######
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/641.ts
-#EXTINF:-1,SPAIN: SPORT Mania
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/463.ts
-#EXTINF:-1,SPAIN: Nova Spain
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/464.ts
-#EXTINF:-1,SPAIN: National Geographic Wild Spain
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/465.ts
-#EXTINF:-1,SPAIN: National Geographic Spain
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/466.ts
-#EXTINF:-1,SPAIN: MTV Spain
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/467.ts
-#EXTINF:-1,SPAIN: Hollywood Spain
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/468.ts
-#EXTINF:-1,SPAIN: History
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/469.ts
-#EXTINF:-1,SPAIN: GOL TV
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/470.ts
-#EXTINF:-1,SPAIN: Fox Spain
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/471.ts
-#EXTINF:-1,SPAIN: Fox Crime Spain
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/472.ts
-#EXTINF:-1,SPAIN: FDF Spain
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/473.ts
-#EXTINF:-1,SPAIN: Energy Spain
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/474.ts
-#EXTINF:-1,SPAIN: Disney XD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/475.ts
-#EXTINF:-1,SPAIN: Disney Channel
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/476.ts
-#EXTINF:-1,SPAIN: Canal   Toros
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/477.ts
-#EXTINF:-1,SPAIN: Canal   Liga
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/479.ts
-#EXTINF:-1,SPAIN: Canal   Golf
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/480.ts
-#EXTINF:-1,SPAIN: Canal   Futbol
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/481.ts
-#EXTINF:-1,SPAIN: Canal   Dcine
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/482.ts
-#EXTINF:-1,SPAIN: Canal   Comedia
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/483.ts
-#EXTINF:-1,SPAIN: Canal   1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/484.ts
-#EXTINF:-1,SPAIN: Boing Spain
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/485.ts
-#EXTINF:-1,SPAIN: Barca TV
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/486.ts
-#EXTINF:-1,SPAIN: AXN White Spain
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/487.ts
-#EXTINF:-1,SPAIN: AXN Spain
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/488.ts
-#EXTINF:-1,SPAIN: A&E Spain
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/489.ts
-#EXTINF:-1,#### PT ########
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/640.ts
-#EXTINF:-1,PT EUROSPORT 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/690.ts
-#EXTINF:-1,PT Euro News
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/701.ts
-#EXTINF:-1,PT BBC
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/694.ts
-#EXTINF:-1,PT AXN White
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/695.ts
-#EXTINF:-1,PT: TVI
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/417.ts
-#EXTINF:-1,PT: TVCine 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/421.ts
-#EXTINF:-1,PT: TVCine 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/420.ts
-#EXTINF:-1,PT: TVCine 3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/419.ts
-#EXTINF:-1,PT: TVCine 4
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/418.ts
-#EXTINF:-1,PT: TV Record
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/422.ts
-#EXTINF:-1,PT: Syfy
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/423.ts
-#EXTINF:-1,PT: SIC Noticias
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/424.ts
-#EXTINF:-1,PT: SIC K
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/425.ts
-#EXTINF:-1,PT: SIC
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/426.ts
-#EXTINF:-1,PT: RTP 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/428.ts
-#EXTINF:-1,PT: RTP 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/427.ts
-#EXTINF:-1,PT: PFC
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/429.ts
-#EXTINF:-1,PT: Odisseia
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/430.ts
-#EXTINF:-1,PT: Nat. Geographic
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/431.ts
-#EXTINF:-1,PT: TV GLOBO PREMIUM
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/433.ts
-#EXTINF:-1,PT: FOX
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/434.ts
-#EXTINF:-1,PT: CM TV
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/436.ts
-#EXTINF:-1,PT: Canal Panda
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/438.ts
-#EXTINF:-1,PT: Canal Historia
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/439.ts
-#EXTINF:-1,PT: A BOLA TV
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/440.ts
-#EXTINF:-1,PT Sport TV 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/415.ts
-#EXTINF:-1,IT Rai Sport 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/676.ts
-#EXTINF:-1,IT Rai Sport 2 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/677.ts
-#EXTINF:-1,PT Benfica TV1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/416.ts
-#EXTINF:-1,PT: BENFICA 2 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/674.ts
-#EXTINF:-1,PT : Discovery Channel
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/442.ts
-#EXTINF:-1,PT : Cinemundo
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/443.ts
-#EXTINF:-1,####### NEDHERLAND #######
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/175.ts
-#EXTINF:-1,Sport1 Voetbal HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/516.ts
-#EXTINF:-1,RTL 4 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/515.ts
-#EXTINF:-1,Omroep Zeeland
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/519.ts
-#EXTINF:-1,NPO 1 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/511.ts
-#EXTINF:-1,NPO 2 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/182.ts
-#EXTINF:-1,NPO 3 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/176.ts
-#EXTINF:-1,HBO 1 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/512.ts
-#EXTINF:-1,HBO 2 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/513.ts
-#EXTINF:-1,HBO 3 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/514.ts
-#EXTINF:-1,National Geographic Channel HD NL
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/521.ts
-#EXTINF:-1,Fox Sports 4 Internationaal
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/526.ts
-#EXTINF:-1,Fox Sports 3 Eredivisie
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/525.ts
-#EXTINF:-1,Fox Sports 2 International
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/524.ts
-#EXTINF:-1,Fox Sports 1 Usa
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/522.ts
-#EXTINF:-1,Fox Sports 1 Eredivisie HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/523.ts
-#EXTINF:-1,Film 1 SunDase
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/528.ts
-#EXTINF:-1,Disney Channel NL
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/533.ts
-#EXTINF:-1,PINK HORROR
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/341.ts
-#EXTINF:-1,PINK comedy
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/346.ts
-#EXTINF:-1,### FRENCH CHANNELS: CANAL  ###
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/255.ts
-#EXTINF:-1,FR CANAL  SPORT
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/535.ts
-#EXTINF:-1,C More Sport
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/542.ts
-#EXTINF:-1,(FR): TMC
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/536.ts
-#EXTINF:-1,(FR): Canal  Cinema HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/538.ts
-#EXTINF:-1,(FR): Arte
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/539.ts
-#EXTINF:-1,FR TMC
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/273.ts
-#EXTINF:-1,FR Syfy
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/274.ts
-#EXTINF:-1,FR NRJ 12
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/275.ts
-#EXTINF:-1,FR France O
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/276.ts
-#EXTINF:-1,FR France 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/280.ts
-#EXTINF:-1,FR France 3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/279.ts
-#EXTINF:-1,FR France 4
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/278.ts
-#EXTINF:-1,FR France 5
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/277.ts
-#EXTINF:-1,FR Eurosport 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/282.ts
-#EXTINF:-1,FR Eurosport 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/281.ts
-#EXTINF:-1,FR Cine Frisson
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/284.ts
-#EXTINF:-1,FR Cine  Premier
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/285.ts
-#EXTINF:-1,FR CANAL+
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/262.ts
-#EXTINF:-1,FR Canal  Cinema
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/287.ts
-#EXTINF:-1,FR BFMTV
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/288.ts
-#EXTINF:-1,FR Bein Sport 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/290.ts
-#EXTINF:-1,FR Bein Sport 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/289.ts
-#EXTINF:-1,FR Arte
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/291.ts
-#EXTINF:-1,FR 5 Plus
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/292.ts
-#EXTINF:-1,(FR): TF1 HD
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",CBS 2 (New York)
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1430.mu8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",NBC 4 (New York)
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1429.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",FOX 5 (New York)
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1435.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",ABC 7 (New York)
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1437.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",MY Tv Network
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",CW 11 (New York)
+http://37.48.83.131:1935/live/cw77/playlist.m3u8?wowzasessionid=970363833&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE1IDExOjM1OjMyIFBNJmhhc2hfdmFsdWU9UElacGpXWnRNQVlpWHdYSXdkTVRGQT09JnZhbGlkbWludXRlcz0yMA%3D%3D
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",PBS
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Univision 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Telemundo 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",UniMas 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",HSN
+http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31/mp4:420p500kB31.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",HSN2
+http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31/mp4:468p500kB3.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",USA
+http://37.48.83.131:1935/live/usa77/playlist.m3u8?wowzasessionid=181098943&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDE1IDEyOjE4OjM0IEFNJmhhc2hfdmFsdWU9V2F6dnA1RDBVWVpaTEt6QTg0bzY4Zz09JnZhbGlkbWludXRlcz0yMA%3D%3D
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Comedy Central East
+http://rtmp1.arconaitv.me/live/Ixo7OH4opApQe0sjKWmreg/1449280740/fa894851552e99b1cc146264a8ffaf4b.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Lifetime East 
+http://rtmp1.arconaitv.me/live/jdZcGByuhpRhihCnkS-Qpg/1449283946/1a10be3692cec335c74387f33221a6fa.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Food Network East
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",DIY Network USA
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1491.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",HGTV East
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Cooking Channel 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",E!
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1432.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",GSN
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",POP
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",A&E
+http://rtmp1.arconaitv.me/live/pUJjNApjnpTHypdjrfWXdw/1449338337/bb38d9048b7b91706264169a031f32a4.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",FYI
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",History
+http://rtmp1.arconaitv.me/live/jQccZnHzelcIMq7RvDxS5A/1449277141/d4a4950b7b7267417aa0b9733f30b6fe.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",H2
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1435.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Syfy
+http://89.248.172.57:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=363987176
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",BET
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Sundance
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Oxygen
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",WE TV
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Bravo East
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",HDNet Movies
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",AMC East
+http://37.48.83.131:1935/live/amc77/playlist.m3u8?wowzasessionid=953628342&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE1IDExOjE4OjMzIFBNJmhhc2hfdmFsdWU9Nms4aTBmcnRmdVp0cCt0ODBwVmd6Zz09JnZhbGlkbWludXRlcz0yMA%3D%3D
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",TCM US
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",IFC East
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Evine
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",QVC
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",TNT Drama
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",TBS East
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",ESPN
+http://89.248.172.57:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",ESPNU
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",ESPNews
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",ESPN 2
+http://37.48.83.131:1935/live/espnn2/playlist.m3u8?wowzasessionid=1086870519&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE1IDExOjM1OjMyIFBNJmhhc2hfdmFsdWU9UElacGpXWnRNQVlpWHdYSXdkTVRGQT09JnZhbGlkbWludXRlcz0yMA%3D%3D
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Fox Sports 1
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Fox Sports 2
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Fox Sports Florida
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",MLB Network
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/MLBNetworkHD/playlist.m3u8?token=a75c6323cd6f15e7dcda1e99925a2757
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",NFL Network
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",NBA TV
+http://178.18.31.51:8081/liverepeater/226723/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE1IDExOjU2OjUwIFBNJmhhc2hfdmFsdWU9RndHZDUrenMvVk56UDFPTDdrZmhIdz09JnZhbGlkbWludXRlcz00
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",NHL Network
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",CBS Sports Network
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",NBC Sport Network
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",MTV
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1481.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",MTV2
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",VH1
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",VH1 Classic
+http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Vevo1
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Vevo2
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Vevo3
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Fuse
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",GAC
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",CMT
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",AXS
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Disney Jr
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Nick Jr
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Nickelodeon East
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Disney Channel East
+http://89.248.172.57:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1422793355
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Disney Channel West
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Disney XD
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Boomerang
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Cartoon Network
+http://89.248.172.57:1935/edge/_definst_/9l41fcr1sgmclej/playlist.m3u8?wowzasessionid=408215614
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",NickToon
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Discovery Family
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",ABC Family
+http://37.48.83.131:1935/live/abcfam77/playlist.m3u8?wowzasessionid=1025581327&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDE1IDM6NTI6MzEgUE0maGFzaF92YWx1ZT1VMk40bUZzcmlxRytxbytqU3h6c2RnPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Teen Nick
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Discovery Channel
+http://rtmp1.arconaitv.me/live/dKb23NzhZfn7QOcXzllxHA/1449280942/a490ae75a3ec2acf16c9f592e889eb4c.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",TLC
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Animal Planet
+http://rtmp1.arconaitv.me/live/NrOXEiv_Cdq_PT91exB8ag/1449280746/52d1df7fff7b1ba3ac317b98ef2fdb80.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Hallmark
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",National Geographic Channel
+http://rtmp1.arconaitv.me/live/SQE8LJWui3Ztavo2LXD2fg/1449283947/e08dd4627a3cf468a30d8a357956d6f8.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Hallmark Movie Channel
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",UP
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",OWN
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Nat Geo Wild
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Esquire
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Investigation Discovery
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Science Channel
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Destination America
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",American Heroes Channel
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Travel Channel
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Pivot
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Chiller
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",CNN
+http://edge1.everyon.tv/etv1sb/phd16/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",HLN
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Bloomberg TV
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Fox News Channel
+http://89.248.172.57:1935/edge/_definst_/w0mr10getvsikam/playlist.m3u8?wowzasessionid=1135978513
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",FOX Business
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",CNBC
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",
+http://sjc-uhls-proxy03.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=12440345&stream=viewer_240p&connectionId=oldurl-45afead11e1570ebbb88830a195b55c72dfa8bf5&group=iphone
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",RT America
+http://rt.api.visionip.tv/live/ASHTTP/RT_America-MB/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",C-SPAN
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",C-SPAN 2
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",C-SPAN 3
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",The Weather Channel
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",The Weather Network
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",The Weather Nation
+http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish1/kLive/smil:1_oorxcge2_all.smil/chunklist_b475136.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Al Jazeera
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",FXX East
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Spike TV
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Tru TV East
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",NUVO
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Fusion
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Velocity
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Universal
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Crime + Investigation Network
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Centric
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",LOGO
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",QVC Plus
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",CCTV News
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",RT International
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Nasa TV
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",EPIX Drive In
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",REELZ
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",HBO East
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",HBO 2 East
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",HBO Signature East
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",HBO West
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",HBO 2 West
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",HBO Family East
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",HBO Comedy East
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",HBO Zone
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",HBO Latino
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Cinemax East
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Cinemax West
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",ActionMax East
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",5 StarMax
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",ThrillerMax East
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Showtime East
+http://37.48.83.131:1935/live/show77/playlist.m3u8?wowzasessionid=1446081856&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDE1IDEyOjAxOjMzIEFNJmhhc2hfdmFsdWU9NDlDME9OSmZ2MUd6WkNvTDA4WEhjQT09JnZhbGlkbWludXRlcz0yMA%3D%3D
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Showtime West
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Showtime 2 East
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Showtime Showcase East
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Showtime Extreme East
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Showtime Beyond East
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",The Movie Channel East
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",The Movie Channel Xtra East
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Flix
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Encore East
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Encore West
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Encore Westerns
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Encore Action East
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Encore Suspense
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Encore Black
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Encore Classic
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Encore Family
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Starz East
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Starz West
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Starz Edge East
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Starz Cinema East
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Starz Comedy East
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Starz In Black East
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Starz Kids & Family East
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Palladia
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Movie Plex
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Indie Plex
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Retro Plex
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Epix
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Epix 2
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Epix Hits
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Fox Movie Channel
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",MGM
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Sony Movie Channel
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",PiXL
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Fox Soccer Plus
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Bein Sport
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Pursuit Channel
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",WFN Fishing
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",The Sportsman Channel
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Outdoor Channel
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Tennis Channel
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/TennisChannelUS/playlist.m3u8?token=533030777ca0d52a5d68277c127ddb77
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Golf Channel
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1296k/prog.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",Big Ten Network
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",PAC 12 Network
+http://xrxs.net/video/live-p12netw-1728.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",PAC 12 Arizona
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",PAC 12 Bay Area
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",PAC 12 Los Angeles
+http://xrxs.net/video/live-p12losa-1728.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",PAC 12 Mountain
+http://xrxs.net/video/live-p12moun-2328.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",PAC 12 Oregon
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",PAC 12 Washington
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="USA",BYU
+#EXTINF:-1 tvg-name="TF1" tvg-id="TF1.fr" group-title="FRANÇA", TF1
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/271.ts
-#EXTINF:-1,(FR): M6 HD
+#EXTINF:-1 tvg-name="FRANCE 2" tvg-id="France2.fr" group-title="FRANÇA", France 2
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/280.ts
+#EXTINF:-1 tvg-name="FRANCE 3" tvg-id="France3.fr" group-title="FRANÇA", France 3
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/279.ts
+#EXTINF:-1 tvg-name="CANAL+" tvg-id="CANALplus.fr" group-title="FRANÇA", Canal +
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4487.ts
+#EXTINF:-1 tvg-name="FRANCE 5" tvg-id="France5.fr" group-title="FRANÇA", France 5
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/277.ts
+#EXTINF:-1 tvg-name="M6" tvg-id="M6.fr" group-title="FRANÇA", M6
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/272.ts
-#EXTINF:-1,CINE CLASSIC
+#EXTINF:-1 tvg-name="ARTE" tvg-id="ARTE.fr" group-title="FRANÇA", Arte
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/539.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Mosaique Canal +
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Canal + Series
+http://iptv.electro-clair.net:8000/live/nader/nader/35.ts
+#EXTINF:-1 tvg-name="Canal + Cinema" tvg-id="CANALplusCINEMA.fr" group-title="FRANÇA", Canal + Cinema
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/287.ts
+#EXTINF:-1 tvg-name="CANAL+ SPORT" tvg-id="CANALplusSPORT.fr" group-title="FRANÇA", CANAL+ Sport 
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/535.ts
+#EXTINF:-1 tvg-name="CANAL+ FAMILY" tvg-id="CANALplusFamily.fr" group-title="FRANÇA", CANAL+ Family 
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4488.ts
+#EXTINF:-1 tvg-name="CANAL+ DECALE" tvg-id="CANALplusDECALE.fr" group-title="FRANÇA", CANAL+ Decale 
+http://clinetiptv.ddns.net:8000/live/alger/alger/295.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="CinecinemaPremier.fr" group-title="FRANÇA", Canal + Premier
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/285.ts
+#EXTINF:-1 tvg-name="" tvg-id="CinecinemaFrisson.fr" group-title="FRANÇA", Canal + Frisson
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/284.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Canal + Emotion
+http://clinetiptv.ddns.net:8000/live/alger/alger/296.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Canal + Famiz
+http://iptv.electro-clair.net:8000/live/nader/nader/192.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Canal + Star
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Canal + Club
+#EXTINF:-1 tvg-name="" tvg-id="CinecinemaClassic.fr" group-title="FRANÇA", Canal + Classic
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/263.ts
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", TCM
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4444.m3u8
+#EXTINF:-1 tvg-name="OCS Max" tvg-id="OrangeCinemax.fr" group-title="FRANÇA", OCS Max
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4465.ts
+#EXTINF:-1 tvg-name="OCS City" tvg-id="OrangeCineHappy.fr" group-title="FRANÇA", OCS City
+http://clinetiptv.ddns.net:8000/live/alger/alger/765.m3u8
+#EXTINF:-1 tvg-name="OCS Choc" tvg-id="OrangeCinechoc.fr" group-title="FRANÇA", OCS Choc
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4467.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", OCS Novo
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", OCS Geants
+http://iptv.electro-clair.net:8000/live/nader/nader/442.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Polar
+http://iptv.electro-clair.net:8000/live/nader/nader/1346.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Cine FX
+#EXTINF:-1 tvg-name="Action" tvg-id="Action" group-title="FRANÇA", Action
+http://clinetiptv.ddns.net:8000/live/alger/alger/92.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Disney Cinemagic
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4475.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Disney Cinemagic +1
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Pass Series
+#EXTINF:-1 tvg-name="13eme Rue" tvg-id="13RUE.fr" group-title="FRANÇA", 13eme Rue
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4492.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Comedie +
+http://iptv.electro-clair.net:8000/live/nader/nader/1345.ts
+#EXTINF:-1 tvg-name="" tvg-id="Syfy.fr" group-title="FRANÇA", SyFy Universal
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/274.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", TF6
+#EXTINF:-1 tvg-name="SerieClub" tvg-id="SerieClub.fr" group-title="FRANÇA", SerieClub
+http://clinetiptv.ddns.net:8000/live/alger/alger/291.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", MTV
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", June
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Non Stop People
+#EXTINF:-1 tvg-name="E!" tvg-id="Eentertainment.fr" group-title="FRANÇA", E!
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4494.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", MCM
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Mangas
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Game One
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", AB1
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Jimmy
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Tv Breizh
+#EXTINF:-1 tvg-name="Téva" tvg-id="Teva.fr" group-title="FRANÇA", Téva
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4443.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Paris Premiere
+http://iptv.electro-clair.net:8000/live/nader/nader/608.ts
+#EXTINF:-1 tvg-name="RTL9" tvg-id="RTL9.fr" group-title="FRANÇA", RTL9
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4446.m3u8
+#EXTINF:-1 tvg-name="HD1" tvg-id="HD1" group-title="FRANÇA", HD1
+#EXTINF:-1 tvg-name="6ter" tvg-id="6ter" group-title="FRANÇA", 6Ter
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
+#EXTINF:-1 tvg-name="D8" tvg-id="Direct8.fr" group-title="FRANÇA", D8
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4495.m3u8
+#EXTINF:-1 tvg-name="W9" tvg-id="W9.fr" group-title="FRANÇA", W9
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4442.m3u8
+#EXTINF:-1 tvg-name="TMC" tvg-id="TMC.fr" group-title="FRANÇA", TMC
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/536.ts
+#EXTINF:-1 tvg-name="NT1" tvg-id="NT1.fr" group-title="FRANÇA", NT1
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4452.m3u8
+#EXTINF:-1 tvg-name="NRJ 12" tvg-id="NRJ12.fr" group-title="FRANÇA", NRJ12
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/275.ts
+#EXTINF:-1 tvg-name="FRANCE 4" tvg-id="France4.fr" group-title="FRANÇA", France 4
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/278.ts
+#EXTINF:-1 tvg-name="D17" tvg-id="DirectStar.fr" group-title="FRANÇA", D17
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4496.m3u8
+#EXTINF:-1 tvg-name="FRANCE O" tvg-id="FranceO.fr" group-title="FRANÇA", France Ô
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/276.ts
+#EXTINF:-1 tvg-name="NUMERO 23" tvg-id="NUMERO 23" group-title="FRANÇA", Numero 23
+#EXTINF:-1 tvg-name="CHERIE 25" tvg-id="CHERIE 25" group-title="FRANÇA", Cherie 25
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", NRJ Paris
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", TV5 Monde
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Cuisine+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Maison+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Vivolta
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", MCS Bien-Etre
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Liberty Tv
+#EXTINF:-1 tvg-name="Planete +" tvg-id="PLANETE.fr" group-title="FRANÇA", Planete +
+http://clinetiptv.ddns.net:8000/live/alger/alger/298.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Planete+ Thalassa
+http://iptv.electro-clair.net:8000/live/nader/nader/609.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Planete + Justice
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Planete + No Limit
+#EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery.fr" group-title="FRANÇA", Discovery Channel
+http://clinetiptv.ddns.net:8000/live/alger/alger/698.m3u8
+#EXTINF:-1 tvg-name="Discovery Science" tvg-id="DiscoveryScience.fr" group-title="FRANÇA", Discovery Science
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", National Geographic
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Nat Geo Wild
+http://iptv.electro-clair.net:8000/live/nader/nader/206.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Voyage
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Ushuaia Tv
+http://iptv.electro-clair.net:8000/live/nader/nader/233.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Histoire
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Toute L'Histoire
+#EXTINF:-1 tvg-name="Animaux" tvg-id="Animaux.fr" group-title="FRANÇA", Animaux
+http://clinetiptv.ddns.net:8000/live/alger/alger/91.m3u8
+#EXTINF:-1 tvg-name="Chasse et Peche" tvg-id="ChassePeche.fr" group-title="FRANÇA", Chasse et Peche
+http://clinetiptv.ddns.net:8000/live/alger/alger/763.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Escales
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Encyclo
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Seasons
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Montagne Tv
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", TV8 Mont-Blanc
+#EXTINF:-1 tvg-name="RMC Decouverte" tvg-id="RMCdecouverte.fr" group-title="FRANÇA", RMC Decouverte
+http://clinetiptv.ddns.net:8000/live/alger/alger/38.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", La Chaine Meteo
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", LCI
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", La Chaine Meteo
+#EXTINF:-1 tvg-name="I TELE" tvg-id="iTele.fr" group-title="FRANÇA", i>Tele
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4456.m3u8
+#EXTINF:-1 tvg-name="BFM TV" tvg-id="BFMTV.fr" group-title="FRANÇA", BFM Tv
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/288.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Euronews
+#EXTINF:-1 tvg-name="France 24" tvg-id="France24fr.fr" group-title="FRANÇA", France 24
+http://portal.rapidiptv.com:8080/live/steph/steph/3753.m3u8
+#EXTINF:-1 tvg-name="i24 News" tvg-id="i24News.fr" group-title="FRANÇA", i24 News
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/650.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", LCP Public Senat
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", BFM Business
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Bloomberg Tv
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", CNN International
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", BBC World News
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", CNBC
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Guysen Tv
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", KTO
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Sport+
+#EXTINF:-1 tvg-name="Eurosport" tvg-id="Eurosport.fr" group-title="FRANÇA", Eurosport
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/282.ts
+#EXTINF:-1 tvg-name="Infosport+" tvg-id="Infosport.fr" group-title="FRANÇA", Infosport+
+http://clinetiptv.ddns.net:8000/live/alger/alger/78.m3u8
+#EXTINF:-1 tvg-name="L'EQUIPE TV" tvg-id="L'EQUIPE TV" group-title="FRANÇA", L'Equipe 21
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Sport365
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Eurosport 2
+http://iptv.electro-clair.net:8000/live/nader/nader/529.ts
+#EXTINF:-1 tvg-name="Weo" tvg-id="Weo.fr" group-title="FRANÇA", WEO
+http://clinetiptv.ddns.net:8000/live/alger/alger/84.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="MaChaineSport.fr" group-title="FRANÇA", Ma Chaine Sport
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4470.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", MCS Extreme
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Kombat Sport
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Equidia Live
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Equidia Life
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Motors Tv
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", OM Tv
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", OL Tv
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Onzeo
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Girondis Tv
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", ESPN Classic
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", ESPN America
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Nautical Channel
+#EXTINF:-1 tvg-name="" tvg-id="beINSport1.fr" group-title="FRANÇA", Bein Sports 1
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/290.ts
+#EXTINF:-1 tvg-name="" tvg-id="beINSport2.fr" group-title="FRANÇA", Bein Sports 2
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/289.ts
+#EXTINF:-1 tvg-name="" tvg-id="beINSport3.fr" group-title="FRANÇA", Bein Sports 3
+http://portal.rapidiptv.com:8080/live/steph/steph/4477.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Golf+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Extreme Sports
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Blackbelt Tv
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Ab Moteurs
+#EXTINF:-1 tvg-name="" tvg-id="DisneyJunior.fr" group-title="FRANÇA", Disney Jr.
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4474.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", TUI
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Nickelodeon Jr.
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Mon Nickelodeon Jr.
+#EXTINF:-1 tvg-name="" tvg-id="PIWI.fr" group-title="FRANÇA", Piwi+
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4451.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Boomerang
+http://iptv.electro-clair.net:8000/live/nader/nader/1338.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Nickelodeon
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Canal J
+http://iptv.electro-clair.net:8000/live/nader/nader/1337.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Disney Channel
+http://iptv.electro-clair.net:8000/live/nader/nader/1340.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Disney Channel +1
+#EXTINF:-1 tvg-name="" tvg-id="CartoonNetwork.fr" group-title="FRANÇA", Cartoon Network
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/265.ts
-#EXTINF:-1,Canal 9
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/266.ts
-#EXTINF:-1,C More Live
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/267.ts
-#EXTINF:-1,C more Action
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/268.ts
-#EXTINF:-1,### GERMAN: SKY DE ###
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/293.ts
-#EXTINF:-1,DE: N24
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/295.ts
-#EXTINF:-1,DE: AXN
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/297.ts
-#EXTINF:-1,DE: ATV 24
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/298.ts
-#EXTINF:-1,DE: ARTE.DE
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/299.ts
-#EXTINF:-1,DE: ARD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/300.ts
-#EXTINF:-1,DE ZDF
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/306.ts
-#EXTINF:-1,DE VOX
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/307.ts
-#EXTINF:-1,DE SRF 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/308.ts
-#EXTINF:-1,DE SPORT TIME TV 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/314.ts
-#EXTINF:-1,DE SPORT TIME TV 3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/313.ts
-#EXTINF:-1,DE SPORT TIME TV 4
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/312.ts
-#EXTINF:-1,DE SPORT TIME TV 5
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/311.ts
-#EXTINF:-1,DE SPORT TIME TV 6
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/310.ts
-#EXTINF:-1,DE SPORT TIME TV 7
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/309.ts
-#EXTINF:-1,DE Sky Sport 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/316.ts
-#EXTINF:-1,DE Sky Sport 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/315.ts
-#EXTINF:-1,DE SKY Cinema  24
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/317.ts
-#EXTINF:-1,DE SKY Cinema
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/318.ts
-#EXTINF:-1,DE SKY Bundesliga
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/319.ts
-#EXTINF:-1,DE Sat 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/321.ts
-#EXTINF:-1,DE RTL 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/322.ts
-#EXTINF:-1,DE RTL
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/323.ts
-#EXTINF:-1,DE Pro 7
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/324.ts
-#EXTINF:-1,DE Sky.National.GeographicHD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/686.ts
-#EXTINF:-1,DE National Geographic
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/325.ts
-#EXTINF:-1,DE Nat Geo wild
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/326.ts
-#EXTINF:-1,DE Kabel 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/327.ts
-#EXTINF:-1,DE FOX life
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/328.ts
-#EXTINF:-1,D-sky emotion
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/302.ts
-#EXTINF:-1,D-sky comedy
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/303.ts
-#EXTINF:-1,D-sky action
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/305.ts
-#EXTINF:-1,DE: Sky Germany Select 1 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/504.ts
-#EXTINF:-1,DE: Sky Germany Select 2 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/505.ts
-#EXTINF:-1,DE: Sky Germany Select 3 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/506.ts
-#EXTINF:-1,DE: Sky Germany Select 4 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/507.ts
-#EXTINF:-1,DE: Sky Germany Select 5 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/508.ts
-#EXTINF:-1,DE: Sky Germany Select 6 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/509.ts
-#EXTINF:-1,Skyde Cinema 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/294.ts
-#EXTINF:-1,RTL 8 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/179.ts
-#EXTINF:-1,RTL 7 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/180.ts
-#EXTINF:-1,RTL 5 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/181.ts
-#EXTINF:-1,DIGIRO-DIGI SPORT 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/607.ts
-#EXTINF:-1,### ALBANIAN: TRING DIGITALB SUPERSPORT ###
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/348.ts
-#EXTINF:-1,ALBANIA : Vision Plus
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/503.ts
-#EXTINF:-1,ALBANIA : Top Channel HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/355.ts
-#EXTINF:-1,AL Super Sport 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/381.ts
-#EXTINF:-1,ALBANIA : Supersport 1 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/360.ts
-#EXTINF:-1,ALBANIA : Supersport 2 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/359.ts
-#EXTINF:-1,ALBANIA : Supersport 3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/358.ts
-#EXTINF:-1,ALBANIA : Supersport 4
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/357.ts
-#EXTINF:-1,ALBANIA : Ktv
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/361.ts
-#EXTINF:-1,ALBANIA : Klan Kosova
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/362.ts
-#EXTINF:-1,ALBANIA : Klan HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/363.ts
-#EXTINF:-1,ALBANIA : Film Komedi
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/366.ts
-#EXTINF:-1,ALBANIA : Film Aksion
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/367.ts
-#EXTINF:-1,ALBANIA : Big Brother 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/368.ts
-#EXTINF:-1,ALBANIA : Alsat M
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/349.ts
-#EXTINF:-1,ALBANIA : 21 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/350.ts
-#EXTINF:-1,ALBANIA :  Slager TV
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/351.ts
-#EXTINF:-1,ALBANIA :  RTK
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/352.ts
-#EXTINF:-1,ALBANIA :  Planettv SLO
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/353.ts
-#EXTINF:-1,ALBANIA :  NET TV INFO
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/354.ts
-#EXTINF:-1,AL Tring World
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/370.ts
-#EXTINF:-1,AL Tring Super
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/369.ts
-#EXTINF:-1,AL Tring Shqip
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/371.ts
-#EXTINF:-1,AL Tring Max
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/372.ts
-#EXTINF:-1,AL Tring Life
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/373.ts
-#EXTINF:-1,AL Tring History
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/374.ts
-#EXTINF:-1,AL Tring Fantasy
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/375.ts
-#EXTINF:-1,AL Tring Comedy
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/376.ts
-#EXTINF:-1,AL Fox Crime
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/384.ts
-#EXTINF:-1,AL Folk
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/385.ts
-#EXTINF:-1,AL Film Thriller
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/386.ts
-#EXTINF:-1,AL Film Nje
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/387.ts
-#EXTINF:-1,AL Film Komedi
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/388.ts
-#EXTINF:-1,AL Film Hits
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/389.ts
-#EXTINF:-1,AL Film Dy
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/390.ts
-#EXTINF:-1,AL Film Drame
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/391.ts
-#EXTINF:-1,AL Film Autor
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/392.ts
-#EXTINF:-1,AL Film Aktion
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/393.ts
-#EXTINF:-1,### BEIN SPORT CHANNELS ###
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/329.ts
-#EXTINF:-1,BEIN SPORTS 1 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/491.ts
-#EXTINF:-1,BEIN SPORTS 2 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/492.ts
-#EXTINF:-1,BEIN SPORTS 3 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/493.ts
-#EXTINF:-1,BEIN SPORTS 4 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/494.ts
-#EXTINF:-1,BEIN SPORTS 5 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/495.ts
-#EXTINF:-1,BEIN SPORTS 6 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/496.ts
-#EXTINF:-1,BEIN SPORTS 7 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/497.ts
-#EXTINF:-1,BEIN SPORTS 8 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/498.ts
-#EXTINF:-1,BEIN SPORTS 9 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/499.ts
-#EXTINF:-1,BEIN SPORTS 10 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/500.ts
-#EXTINF:-1,#######   Arabic    ##########
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/394.ts
-#EXTINF:-1,ARABIC : MBC1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/397.ts
-#EXTINF:-1,ARABIC : MBC2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/398.ts
-#EXTINF:-1,ARABIC :  MBC3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/399.ts
-#EXTINF:-1,AR: MBC 4 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/400.ts
-#EXTINF:-1,AR: MBC Masr 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/402.ts
-#EXTINF:-1,AR: MBC Masr 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/401.ts
-#EXTINF:-1,ARABIC : MBC Max
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/403.ts
-#EXTINF:-1,ARABIC : MBC Drama
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/404.ts
-#EXTINF:-1,AR: MBC Pro Sports 1 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/396.ts
-#EXTINF:-1,AR: MBC Pro Sports 2 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/395.ts
-#EXTINF:-1,AR: Dubai Sport 3 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/405.ts
-#EXTINF:-1,AR: Cartoon Network AR
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/406.ts
-#EXTINF:-1,AR: CAIRO CINEMA HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/407.ts
-#EXTINF:-1,AR: B4U PLUS HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/408.ts
-#EXTINF:-1,AR: AL MANAR
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/410.ts
-#EXTINF:-1,AR: AD Sports 1 (UAE)
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/412.ts
-#EXTINF:-1,AR: AD Sports 2 (UAE)
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/411.ts
-#EXTINF:-1,AR: Nile Drama
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/602.ts
-#EXTINF:-1,AR: Nile Sports
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/596.ts
-#EXTINF:-1,AR-Nile Cinema
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/595.ts
-#EXTINF:-1,OSN:MOVIE PREMIER HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/667.ts
-#EXTINF:-1,OSN:AlYoum
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/671.ts
-#EXTINF:-1,OSN--Star-Movies1-HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/663.ts
-#EXTINF:-1,###ROMANIA####
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/637.ts
-#EXTINF:-1,#####Russia#####
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/638.ts
-#EXTINF:-1,Russia SPORT
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/444.ts
-#EXTINF:-1,Russia Foxlife
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/445.ts
-#EXTINF:-1,Russia Fox
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/446.ts
-#EXTINF:-1,Russia Eurosport
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/448.ts
-#EXTINF:-1,Russia Eurosport 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/447.ts
-#EXTINF:-1,Rusia Russia 24
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/450.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Disney XD
+#EXTINF:-1 tvg-name="Teletoon +" tvg-id="TeleTOON.fr" group-title="FRANÇA", Teletoon+
+http://clinetiptv.ddns.net:8000/live/alger/alger/519.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Teletoon+1
+http://iptv.electro-clair.net:8000/live/nader/nader/1560.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Boing
+#EXTINF:-1 tvg-name="GULLI" tvg-id="Gulli.fr" group-title="FRANÇA", Gulli
+http://clinetiptv.ddns.net:8000/live/alger/alger/294.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", MTV Base
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", MTV Pulse
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", MTV Idol
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", MTV Live
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Trace Urban
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", NRJ Hits
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", MCM Top
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", MCM Pop
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Brava
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Trace Tropical
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", MTV Hits
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", MTV Rocks
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", M6 Music
+http://bstream.starsplanet.org:8000/live/maradona/maradona/4453.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", M6 Music Player
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", M6 Music Black
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", M6 Music Club
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", VH1
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", VH1 Classic
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Tele Melody
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Mezzo
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Mezzo Live
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Djazz Tv
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", M6 Boutique & Co
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Best of Shopping
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Cash Tv
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", France 3 Alpes
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", France 3 Alsace
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", France 3 Aquitaine
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", France 3 Auvergine
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", France 3 Basse-Normandie
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", France 3 Bourgogne
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", France 3 Bretagne
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", France 3 Centre
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", France 3 Champagne-Ardenne
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", France 3 Corse
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", France 3 Cote D'Azur
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", France 3 Franche Comte
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", France 3 Haute Normandie
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", France 3 Languedoc Roussilon
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", France 3 Limousin
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", France 3 Lorraine
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", France 3 Midi-Pyrenees
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", France 3 Nord-Pas-De-Calais
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", France 3 Paris Ille-De-france
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", France 3 Pays De La Loire
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", France 3 Picardie
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", France 3 Poitou-Charentes
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", France 3 Provences-Alpes
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", France 3 Rhones-Alpes
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", TébéSud 
+rtmp://streaming1.extrazimut.net/azimutlive playpath=tytele swfUrl=http://streaming1.extrazimut.net/players/lecteurStreaming.swf?idFlash=lecteurSTRM&fichierConfig=&serveurFMS=1&applicationFMS=live&autostart=true&&video=tytele&autorisePleinEcran=y&%20largeurJS=500&hauteurJS=380 swfVfy=1 live=1 pageUrl=http://www.freeintertv.com/modules/View/screen.php?nametv=Tele+TY+%28France%29&idtv=3132&TVSESS=79c599fca55625978118f3ae865e86d9
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", LA CHAINE NORMANDIE 
+rtmp://live.lachainenormande.fr:80/live/lcn/livestream
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", TV Rennes 
+http://streaming1.interactivplatform.fr/tvrennes35-live/_definst_/smil:tvrennes35mob.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Mirabelle TV 
+http://str81.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="FRANÇA", Yvelines Premiere 
+http://clinetiptv.ddns.net:8000/live/alger/alger/735.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="PORTUGAL", EUROSPORT 1
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/690.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="PORTUGAL", Euro News
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/701.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="PORTUGAL", AXN White
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/695.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="PORTUGAL",: TVI
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/417.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="PORTUGAL",: TVCine 1
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/421.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="PORTUGAL",: TVCine 2
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/420.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="PORTUGAL",: TVCine 3
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/419.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="PORTUGAL",: TVCine 4
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/418.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="PORTUGAL",: TV Record
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/422.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="PORTUGAL",: TV Globo
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/423.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="PORTUGAL",: SIC Noticias
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/424.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="PORTUGAL",: SIC K
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/425.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="PORTUGAL",: SIC
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/426.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="PORTUGAL",: RTP 1
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/428.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="PORTUGAL",: RTP 2
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/427.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="PORTUGAL",: RTP1
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/429.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="PORTUGAL",: TV GLOBO PREMIUM
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/433.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="PORTUGAL",: FOX
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/434.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="PORTUGAL",: CM TV
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/436.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="PORTUGAL",: Canal Panda
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/438.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="PORTUGAL",: A&E
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/439.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="PORTUGAL",: A BOLA TV
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/440.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="PORTUGAL", Sport TV 2
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/415.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="PORTUGAL", Benfica TV1
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/416.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="PORTUGAL",: TVCine 1
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/674.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="PORTUGAL", : Discovery Channel
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/442.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="PORTUGAL", : Cinemundo
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/443.ts
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="SUIÇA", RTS Un
+http://wownet.ro/str/0210.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="SUIÇA", RTS Info
+http://wownet.ro/str/0211.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="SUIÇA", RTS deux
+http://wownet.ro/str/0213.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="SUIÇA", TVM3
+http://wownet.ro/str/0240.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="SUIÇA", Rouge TV
+http://wownet.ro/str/0241.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="SUIÇA", Kanal 9
+http://wownet.ro/str/0242.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="SUIÇA", La Tele
+http://wownet.ro/str/0244.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="SUIÇA", Leman Bleu
+http://wownet.ro/str/0245.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 group-title="SUIÇA", Canal Aplha
+http://wownet.ro/str/0246.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="SUIÇA", SRF 1
+http://finalmente.hopto.org:8000/live/croci/croci/1292.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="SUIÇA", SRF 2
+http://finalmente.hopto.org:8000/live/croci/croci/1291.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="SUIÇA", ORF 1
+http://finalmente.hopto.org:8000/live/croci/croci/1319.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="SUIÇA", ORF 2
+http://finalmente.hopto.org:8000/live/croci/croci/1318.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="SUIÇA", Teleclub Sport 1
+http://finalmente.hopto.org:8000/live/croci/croci/750.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="SUIÇA", Teleclub Sport 2
+http://finalmente.hopto.org:8000/live/croci/croci/751.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="SUIÇA", Teleclub Sport 3
+http://finalmente.hopto.org:8000/live/croci/croci/752.m3u8
+#EXTINF:-1 tvg-name="BBC One Lon" tvg-id="BBC One Lon" group-title="UK", [COLOR white]BBC One
+http://wownet.ro/str/0402.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="BBC Two Eng" tvg-id="BBC Two Eng" group-title="UK", [COLOR white]BBC Two
+http://wownet.ro/str/0404.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="ITV" tvg-id="ITV" group-title="UK", [COLOR white]Itv 1
+http://wownet.ro/str/0410.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="Channel 4" tvg-id="Channel 4" group-title="UK", [COLOR white]Channel 4
+http://wownet.ro/str/0414.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="Channel 5" tvg-id="Channel 5" group-title="UK", [COLOR white]Channel 5
+http://wownet.ro/str/0416.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="Sky1" tvg-id="Sky1" group-title="UK", [COLOR white]Sky 1
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/124.m3u8
+#EXTINF:-1 tvg-name="Sky Living" tvg-id="Sky Living" group-title="UK", [COLOR white]Sky Living
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/644.m3u8
+#EXTINF:-1 tvg-name="Sky Atlantic" tvg-id="Sky Atlantic" group-title="UK", [COLOR white]Sky Atlantic
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/639.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK", [COLOR white]Watch
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK", [COLOR white]Gold
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK", [COLOR white]Dave
+#EXTINF:-1 tvg-name="ComedyCentral" tvg-id="ComedyCentral" group-title="UK", [COLOR white]Comedy Central
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/60.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK", [COLOR white]Universal
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK", [COLOR white]SyFy
+#EXTINF:-1 tvg-name="BBC Three" tvg-id="BBC Three" group-title="UK", [COLOR white]BBC Three
+http://wownet.ro/str/0406.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="BBC Four" tvg-id="BBC Four" group-title="UK", [COLOR white]BBC Four
+http://wownet.ro/str/0408.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="ITV2" tvg-id="ITV2" group-title="UK", [COLOR white]Itv 2
+http://wownet.ro/str/0411.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="ITV3" tvg-id="ITV3" group-title="UK", [COLOR white]Itv 3
+http://wownet.ro/str/0412.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="ITV4" tvg-id="ITV4" group-title="UK", [COLOR white]Itv 4
+http://wownet.ro/str/0413.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK", [COLOR white]Sky Living +1
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK", [COLOR white]Sky Livingit
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK", [COLOR white]Sky Livingit +1
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK", [COLOR white]FX
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK", [COLOR white]Challenge
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK", [COLOR white]MTV
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK", [COLOR white]Comedy Central +1
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK", [COLOR white]Comedy Central Extra
+#EXTINF:-1 tvg-name="Sky2" tvg-id="Sky2" group-title="UK", [COLOR white]Sky 2
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/636.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK", [COLOR white]Sky Living Loves
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK", [COLOR white]ITV 1 +1
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK", [COLOR white]Alibi
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK", [COLOR white]Gold +1
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK", [COLOR white]S4C (C4 Wales)
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK", [COLOR white]Channel 4 +1
+#EXTINF:-1 tvg-name="E4" tvg-id="E4" group-title="UK", [COLOR white]E4
+http://wownet.ro/str/0418.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK", [COLOR white]E4 +1
+#EXTINF:-1 tvg-name="More4" tvg-id="More4" group-title="UK", [COLOR white]More 4
+http://wownet.ro/str/0417.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK", [COLOR white]More 4 +1
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK", [COLOR white]DMax
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK", [COLOR white]Dmax +1
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK", [COLOR white]CBS Reality
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK", [COLOR white]CBS Reality +1
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK", [COLOR white]CBS Action
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK", [COLOR white]CBS Drama
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK", [COLOR white]Universal +1
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK", [COLOR white]E! Entertainment
+#EXTINF:-1 tvg-name="Discovery Shed" tvg-id="Discovery Shed" group-title="UK", [COLOR white]Discovery Shed
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/652.m3u8
+#EXTINF:-1 tvg-name="Travel Channel" tvg-id="Travel Channel" group-title="UK", [COLOR white]Travel Channel
+http://wownet.ro/str/0420.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="Sky Premiere" tvg-id="Sky Premiere" group-title="UK", [COLOR white]Sky Movies Premier
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/647.m3u8
+#EXTINF:-1 tvg-name="Sky Showcase" tvg-id="Sky Showcase" group-title="UK", [COLOR white]Sky Movies Showcase
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/650.m3u8
+#EXTINF:-1 tvg-name="Sky Star Wars" tvg-id="Sky Star Wars" group-title="UK", [COLOR white]Sky Movies Greats
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/645.m3u8
+#EXTINF:-1 tvg-name="Sky Disney" tvg-id="Sky Disney" group-title="UK", [COLOR white]Sky Movies Disney
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/131.m3u8
+#EXTINF:-1 tvg-name="Sky Family" tvg-id="Sky Family" group-title="UK", [COLOR white]Sky Movies Family
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/643.m3u8
+#EXTINF:-1 tvg-name="Sky Action" tvg-id="Sky Action" group-title="UK", [COLOR white]Sky Movies Action & Adventure
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/637.m3u8
+#EXTINF:-1 tvg-name="Sky Comedy" tvg-id="Sky Comedy" group-title="UK", [COLOR white]Sky Movies Comedy
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/640.m3u8
+#EXTINF:-1 tvg-name="Sky DramaRom" tvg-id="Sky DramaRom" group-title="UK", [COLOR white]Sky Movies Drama & Romance
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/98.m3u8
+#EXTINF:-1 tvg-name="Sky ScFi\/Horror" tvg-id="Sky ScFi\/Horror" group-title="UK", [COLOR white]Sky Movies Sci Fi & Horror
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/648.m3u8
+#EXTINF:-1 tvg-name="Sky Select" tvg-id="Sky Select" group-title="UK", [COLOR white]Sky Movies Select
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/649.m3u8
+#EXTINF:-1 tvg-name="Film4" tvg-id="Film4" group-title="UK", [COLOR white]Film 4
+http://wownet.ro/str/0415.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="TCM" tvg-id="TCM" group-title="UK", [COLOR white]TCM
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/130.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK", [COLOR white]Cartoon Network
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/casthls/4.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK", [COLOR white]Nick
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/casthls/97.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK", [COLOR white]Disney Channel
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/casthls/89.m3u8
+#EXTINF:-1 tvg-name="Sky Sports 1" tvg-id="Sky Sports 1" group-title="UK", [COLOR white]Sky Sports 1
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/63.m3u8
+#EXTINF:-1 tvg-name="Sky Spts Ashes" tvg-id="Sky Spts Ashes" group-title="UK", [COLOR white]Sky Sports 2
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/64.m3u8
+#EXTINF:-1 tvg-name="Sky Sports 3" tvg-id="Sky Sports 3" group-title="UK", [COLOR white]Sky Sports 3
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/66.m3u8
+#EXTINF:-1 tvg-name="Sky Sports 4" tvg-id="Sky Sports 4" group-title="UK", [COLOR white]Sky Sports 4
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/67.m3u8
+#EXTINF:-1 tvg-name="Sky Sports 5" tvg-id="Sky Sports 5" group-title="UK", [COLOR white]Sky Sports 5
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/68.m3u8
+#EXTINF:-1 tvg-name="Sky Sports F1" tvg-id="Sky Sports F1" group-title="UK", [COLOR white]Sky Sports F1
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/78.m3u8
+#EXTINF:-1 tvg-name="Eurosport" tvg-id="Eurosport 2" group-title="UK", [COLOR white]British Eurosport
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/56.m3u8
+#EXTINF:-1 tvg-name="Eurosport 2" tvg-id="Eurosport 2" group-title="UK", [COLOR white]British Eurosport 2
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/57.m3u8
+#EXTINF:-1 tvg-name="BT Sport 1" tvg-id="BT Sport 1" group-title="UK", [COLOR white]BT Sport 1
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/54.m3u8
+#EXTINF:-1 tvg-name="BT Sport 2" tvg-id="BT Sport 2" group-title="UK", [COLOR white]BT Sport 2
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/55.m3u8
+#EXTINF:-1 tvg-name="BT Sport\/\/ESPN" tvg-id="BT Sport\/\/ESPN" group-title="UK", [COLOR white]BT Sport ESPN
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/59.m3u8
+#EXTINF:-1 tvg-name="Sky News" tvg-id="Sky News" group-title="UK", [COLOR white]Sky News
+http://wownet.ro/str/0430.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="Bloomberg" tvg-id="Bloomberg" group-title="UK", [COLOR white]Bloomberg
+http://wownet.ro/str/0426.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="BBC NEWS" tvg-id="BBC NEWS" group-title="UK", [COLOR white]BBC News
+http://wownet.ro/str/0421.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="CNBC" tvg-id="CNBC" group-title="UK", [COLOR white]CNBC
+http://wownet.ro/str/0427.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="CNN" tvg-id="CNN" group-title="UK", [COLOR white]CNN
+http://wownet.ro/str/0423.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="Euronews" tvg-id="Euronews" group-title="UK", [COLOR white]Euronews
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
+#EXTINF:-1 tvg-name="RT" tvg-id="RT" group-title="UK", [COLOR white]RT
+http://wownet.ro/str/0431.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-name="Al Jazeera Eng" tvg-id="Al Jazeera Eng" group-title="UK", [COLOR white]Aljazeera
+http://wownet.ro/str/0425.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="Disc.Turbo" tvg-id="Disc.Turbo" group-title="UK", [COLOR white]Turbo
+http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/653.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK",[COLOR blue]:: [COLOR white]Nat Geo
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/casthls/96.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK",[COLOR blue]:: [COLOR white]Hot Rod garage
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/casthls/95.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK",[COLOR blue]:: [COLOR white]CNET
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/casthls/90.m3u8
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png" group-title="PORTUGAL",[COLOR white]RTP 1
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="rtp2.png" group-title="PORTUGAL",[COLOR white]RTP 2
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC.png" group-title="PORTUGAL",[COLOR white]SIC
+http://213.13.26.11:1935/live/sic/magellan.m3u8
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="TVI.png" group-title="PORTUGAL",[COLOR white]TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="sic_noticias.png" group-title="PORTUGAL",[COLOR white]SIC NOTICIAS 
+rtmp://213.13.26.43/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tviol.com/tv/sicnoticias.html
+#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="rtp informaçao.png" group-title="PORTUGAL",[COLOR white]RTP 3
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="tvi_24.png" group-title="PORTUGAL",[COLOR white]TVI 24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="rtp_africa.png" group-title="PORTUGAL",[COLOR white]RTP ÁFRICA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="rtp_memoria.png" group-title="PORTUGAL",[COLOR white]RTP MEMÓRIA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="RTP Madeira.png" group-title="PORTUGAL",[COLOR white]RTP MADEIRA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="rtp_açores.png" group-title="PORTUGAL",[COLOR white]RTP AÇORES
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="rtp_internacional.png" group-title="PORTUGAL",[COLOR white]RTP INTERNACIONAL
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="EconomicaTV.pt" tvg-logo="etv_pt.png" group-title="PORTUGAL",[COLOR white]ECONÓMICO TV
+http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
+#EXTINF:-1 tvg-id="TPA" tvg-logo="tpa i.png" group-title="PORTUGAL",[COLOR white]TPA
+http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="tvc.pt" tvg-logo="tcv.png" group-title="PORTUGAL",[COLOR white]TV CABO VERDE
+rtmp://213.13.26.12/live playpath=rtc_teste swfUrl=http://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/v.ideojs.swf live=1 pageUrl=http://rd.videos.sapo.cv/playhtml?file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24 timeout=10
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="ARTV_Logo.png" group-title="PORTUGAL",[COLOR white]TV PARLAMENTO
+rtsp://www.canal.parlamento.pt/Live
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SportTV 1.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 1 
+rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SportTV 2.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 2 
+rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="sporttv3.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 3/BTV 2 
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="sporttv4.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 4 
+rtmp://209.95.43.170:1935/stream/ playpath=0tkBo1519y0yBoVGgd2jl.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d2257g448sp7749l2257on14x7749ib7749b691pp7749l2257op7749l2257op7749l2257od2257g448sn448h69o&width=600&height=460&st=14l4t5n4w574x2s2f436q24693u5y3d3m5k5w2e4c4s2x2b4f444y26403q2a4v2q2v2&adx=&stream=h564f4d4a4o574z2e4k554h5644494n23406h4a3f4w21374f476w226d3j475h3b474t2r5e4y3x223a4n284a4a444x2s24464n234n4q5e3h44494v213p4v2x4o4x585j3k5b4u2r5m2a4c4l4m584s5w4q2y3o434242434x264b474z2i5x264w274l5h523t2p213a474m5b4a454v2x2k5a4t27403c47464t2u2y3m234242434p2&sooor=OA==&str=is&ok=&cat=16&link=4&idom=/magellan
+#EXTINF:-1 tvg-id="" tvg-logo="sport_tv_americas.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV AMÉRICAS 
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="bentv-ver2.png" group-title=“DESPORTO”,[COLOR blue][I][B]BENFICA TV 1
+rtmp://209.95.43.170:1935/stream/ playpath=9DOBo1519y0yBoXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d7816g463sp6829l7816on276x6829ib6829b885pp6829l7816op6829l7816op6829l7816od7816g463sn463h608o&width=600&height=460&st=a49315n4w574x2s2f436q24693u504a4s446u4n4n4s2x2b4f444y26403q2a4v2q2v2&adx=&stream=84q2n584b4m59464745434c4t2i5z2n2c4o4p3a3f4w21374f476w226d3j495e4h3r4r406p4y3x223a4n284a4a444x2s24464n2c4b3y4e3h44494v213p4v2x4o4x5a5g4q4v4s406m2a4c4l4m584s5w4q2y3o434242434s2s2o5i5v2j564b4e4348484a474w2y2c4o574o5a4140303b47403745494z2a4t2u2y3m234242434p2&sooor=MTU=&str=is&ok=&cat=16&link=1&idom=/magellan
+#EXTINF:-1 group-title="PORTUGAL", [COLOR red] : : : : : : : : : : : : : : : : : : : 
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="tve_internacional_eu.png" group-title="ESPANHA",[COLOR cyan][I][B]TVE 
+http://hlslive.rtve.es/LA1_LV3_IPH/master.m3u8 
+#EXTINF:-1 tvg-logo="Telecinco.png" group-title="ESPANHA",[COLOR cyan][I][B]TELECINCO 
+http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-b.m3u8
+#EXTINF:-1 tvg-logo="Antena3.png" group-title="ESPANHA",[COLOR cyan][I][B]ANTENA 3 
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1 tvg-logo="la_sexta.png" group-title="ESPANHA",[COLOR cyan][I][B]LA SEXTA 
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1 tvg-logo="mega_tv.png" group-title="ESPANHA",[COLOR cyan][I][B]MEGA 
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
+#EXTINF:-1 tvg-logo="canal-sur.png" group-title="ESPANHA",[COLOR cyan][I][B]CANAL SUR 
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:-1 tvg-logo="13TV logo 2012.png" group-title="ESPANHA",[COLOR cyan][I][B]13 TV  
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8 
+#EXTINF:-1 tvg-logo="galicia_tv_eu.png" group-title="ESPANHA",[COLOR cyan][I][B]GALIZA TV 
+http://media3.crtvg.es/live/tvge/vcx7.m3u8
+#EXTINF:-1 tvg-logo="RTPA_logo.svg.png" group-title="ESPANHA",[COLOR cyan][I][B]RTP ASTURIAS 
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1 tvg-logo="extremaduratv.png" group-title="ESPANHA",[COLOR cyan][I][B]EXTREMADURA TV 
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+#EXTINF:-1 tvg-logo="andorra.png" group-title="ESPANHA",[COLOR cyan][I][B]ANDORRA TV 
+http://194.158.80.31:443/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-logo="Nova logo 2012.png" group-title="ESPANHA",[COLOR cyan][I][B]NOVA 
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel11/eventos_6_700K_640x368_baseline.m3u8
+#EXTINF:-1 tvg-logo="castilla la mancha.png" group-title="ESPANHA",[COLOR cyan][I][B]CASTILLA LA MANCHA TV 
+http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8
+#EXTINF:-1 tvg-logo="melilla tv.png" group-title="ESPANHA",[COLOR cyan][I][B]TV MELILLA 
+rtmp://stream.tvmelilla.es:1935/tvmelilla playpath=live swfUrl=http://tvmelilla.es/jwplayer/player.swf live=1 pageUrl=http://tvmelilla.es/directo.html
+#EXTINF:-1 tvg-logo="canarias.png" group-title="ESPANHA",[COLOR cyan][I][B]TV CANARIAS 
+rtmp://streamrtvcdrb.mad.idec.net/rtvcnet/rtvcnet.drb.stream swfUrl=http://www2.rtvc.es/swf/flowplayer.rtmp-3.1.3.swf pageUrl=http://www2.rtvc.es/television/Directo.aspx
+#EXTINF:-1 tvg-logo="Ultra-Cine-TV_o.png" group-title="ESPANHA",[COLOR cyan][I][B]ULTRACINE 
+http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="travel _tv.png" group-title="ESPANHA",[COLOR cyan][I][B]TRAVEL TV 
+rtmp://87.106.219.140/live/myStream_2
+#EXTINF:-1 tvg-logo="animeTV.png" group-title="ESPANHA",[COLOR cyan][I][B]ANIME TV 
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?
+#EXTINF:-1, Spike
+http://iptvchoice.zapto.org:8000/live/grkaveman96@yahoo.com/CMKDKLtTp6/3094.ts
+#EXTINF:-1,Kiss Tv Music
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",001::[COLOR white] Das Erste
+http://wownet.ro/str/0002.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",002::[COLOR white] ZDF
+http://wownet.ro/str/0004.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",003::[COLOR white] RTL
+http://wownet.ro/str/0005.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",004::[COLOR white] Sat.1
+http://wownet.ro/str/0006.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",005::[COLOR white] ProSieben
+http://wownet.ro/str/0007.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",006::[COLOR white] Kabel Eins
+http://wownet.ro/str/0008.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",007::[COLOR white] RTL II
+http://wownet.ro/str/0009.m3u9|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",008::[COLOR white] VOX
+http://wownet.ro/str/0010.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",009::[COLOR white] Arte
+http://wownet.ro/str/0012.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",3sat
+http://wownet.ro/str/0014.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",011::[COLOR white] NDR Hamburg
+http://wownet.ro/str/0107.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",012::[COLOR white] NDR Meck.-Vorp.
+http://wownet.ro/str/0109.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",013::[COLOR white] NDR Niedersachsen
+http://wownet.ro/str/0111.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",014::[COLOR white] NDR Schleswig-Hol..
+http://wownet.ro/str/0113.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",015::[COLOR white] WDR
+http://wownet.ro/str/0018.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",016::[COLOR white] MDR Sachsenanhalt
+http://wownet.ro/str/0116.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",017::[COLOR white] MDR Sachsen
+http://wownet.ro/str/0117.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",018::[COLOR white] MDR Thüringen
+http://wownet.ro/str/0118.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",019::[COLOR white] MDR
+http://wownet.ro/str/0020.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",020::[COLOR white] BR
+http://wownet.ro/str/0022.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",021::]HR
+http://wownet.ro/str/0026.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",022::RBB
+http://wownet.ro/str/0028.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",023::Phoenix
+http://wownet.ro/str/0030.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",024::ARD Alpha
+http://wownet.ro/str/0031.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",025::N24
+http://wownet.ro/str/0033.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",026::n-tv
+http://wownet.ro/str/0034.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",027::euronews
+http://wownet.ro/str/0035.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",028::Disney Channel
+http://wownet.ro/str/0036.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",029::Sixx
+http://wownet.ro/str/0037.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",030::ServusTV DE HD
+http://wownet.ro/str/0123.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",031::RTL NITRO
+http://wownet.ro/str/0040.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",032::TELE 5
+http://wownet.ro/str/0041.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",033::JOIZ DE HD
+http://wownet.ro/str/01201.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",034::Nickelodeon
+http://wownet.ro/str/0043.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",035::Viva/Comedy Central
+http://wownet.ro/str/0044.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",036::Super RTL
+http://wownet.ro/str/0045.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",037::KiKA HD
+http://wownet.ro/str/0047.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",038::RIC
+http://wownet.ro/str/0048.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",039::Eurosport
+http://wownet.ro/str/0049.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",040::SPORT1
+http://wownet.ro/str/0050.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",041::ProSieben Maxx
+http://wownet.ro/str/0051.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",042::DMAX
+http://wownet.ro/str/0052.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",043::münchen.tv
+http://wownet.ro/str/0124.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",044::blizz TV HD
+http://wownet.ro/str/0100.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",045::Family TV HD
+http://wownet.ro/str/0119.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",046::Alex Berlin
+http://wownet.ro/str/0103.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",047::NRW TV HD
+http://wownet.ro/str/0104.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",048::ZDFneo HD
+http://wownet.ro/str/0054.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",049::ZDFkultur HD
+http://wownet.ro/str/0056.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",050::ZDFinfo HD
+http://wownet.ro/str/0058.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",051::eins|plus HD
+http://wownet.ro/str/0060.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",052::eins.festival HD
+http://wownet.ro/str/0062.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",053::tagesschau24 HD
+http://wownet.ro/str/0064.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",054::Deluxe Music
+http://wownet.ro/str/0065.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",055::Anixe HD
+http://wownet.ro/str/0067.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",056::Deutsche Welle
+http://wownet.ro/str/0125.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",057::DW Europe
+http://wownet.ro/str/0068.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",058::DAF
+http://wownet.ro/str/0098.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",059::Welt der Wunder TV
+http://wownet.ro/str/0099.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",060::k-tv
+http://wownet.ro/str/0069.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",061::Bibel TV
+http://wownet.ro/str/0105.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",062::ORF eins HD
+http://wownet.ro/str/0071.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",063::ORF 2 HD
+http://wownet.ro/str/0073.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",064::ORF III
+http://wownet.ro/str/0096.m3u8|X-Forwarded-For=84.114.88.26
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",065::ORF Sport+
+http://wownet.ro/str/0097.m3u8|X-Forwarded-For=84.114.88.26
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",066::ATV
+http://wownet.ro/str/0074.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",067::gotv Music
+http://wownet.ro/str/0126.m3u8|X-Forwarded-For=84.114.88.26
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",068::SRF 1 HD
+http://wownet.ro/str/0076.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",069::SRF zwei HD
+http://wownet.ro/str/0078.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",070::SRF info
+http://wownet.ro/str/0079.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",071::3plus
+http://wownet.ro/str/0080.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",072::JOIZ CH
+http://wownet.ro/str/0042.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",073::S1 HD
+http://wownet.ro/str/0081.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",074::TV24 HD
+http://wownet.ro/str/0082.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",075::Tele Züri HD
+http://wownet.ro/str/0084.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",076::Tele Bärn
+http://wownet.ro/str/0085.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",077::Tele Basel
+http://wownet.ro/str/0086.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",078::Tele Bielingue
+http://wownet.ro/str/0087.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",079::Tele Südostschweiz
+http://wownet.ro/str/0088.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",080::Tele Ostschweiz
+http://wownet.ro/str/0089.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",081::Tele 1
+http://wownet.ro/str/0090.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",082::Tele Top SH
+http://wownet.ro/str/0091.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",083::Tele Top TG
+http://wownet.ro/str/0092.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",084::Tele Top ZH
+http://wownet.ro/str/0093.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",085::Tele M1 Ost
+http://wownet.ro/str/0094.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",086::Tele M1 West
+http://wownet.ro/str/0095.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",101::[COLOR white] SPORT TIME TV 1 
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",102::[COLOR white] SPORT TIME TV 2 
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",103::[COLOR white] SPORT TIME TV 3 
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",104::[COLOR white] SPORT TIME TV 4 
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_800
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",105::[COLOR white] SPORT TIME TV 5 
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",106::[COLOR white] SPORT TIME TV 6 
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ALEMANHA",107::[COLOR white] SPORT TIME TV 7 
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",Rai 1
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/34.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",Rai 2
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/33.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",Rai 3
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/32.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",Rete 4
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/31.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",Canale 5
+http://wownet.ro/str/0614.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",Italia 1
+http://wownet.ro/str/0615.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",LA7
+http://wownet.ro/str/0617.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",Rai 4
+http://wownet.ro/str/0623.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",Rai 5
+http://wownet.ro/str/0624.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",RSI LA 1
+http://wownet.ro/str/0601.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",RSI LA 1 HD
+http://wownet.ro/str/0602.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",RSI LA 2
+http://wownet.ro/str/0603.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",RSI LA 2 HD
+http://wownet.ro/str/0604.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",Rai Gulp
+http://wownet.ro/str/0608.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",Rai Scoula
+http://wownet.ro/str/0609.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",Rai Storia
+http://wownet.ro/str/0610.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",Rai Sport 1
+http://wownet.ro/str/0611.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",Rai Sport 2
+http://wownet.ro/str/0612.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",Rai News
+http://wownet.ro/str/0613.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",Rai Movie
+http://wownet.ro/str/0621.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",Rai Premium
+http://wownet.ro/str/0622.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",TV Moda
+http://wownet.ro/str/0616.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",Cielo
+http://wownet.ro/str/0620.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",Tele Ticino
+http://wownet.ro/str/0618.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Iris Mediaset
+http://sky-iptv.dyndns.org:8000/live/test6/test6/480.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Italia 2 Mediaset
+http://sky-iptv.dyndns.org:8000/live/test6/test6/481.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", La 5 Mediaset
+http://sky-iptv.dyndns.org:8000/live/test6/test6/482.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Top Crime
+http://sky-iptv.dyndns.org:8000/live/test6/test6/483.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Mediaset Extra
+http://sky-iptv.dyndns.org:8000/live/test6/test6/484.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",Telemilano
+http://91.121.222.160:1935/piublu/piublu.sdp/HasBahCa.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",Sky Uno
+http://sky-iptv.dyndns.org:8000/live/test6/test6/15.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",Sky Uno +1
+http://sky-iptv.dyndns.org:8000/live/test6/test6/16.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Sky Atlantic
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/29.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Sky Atlantic +1
+http://sky-iptv.dyndns.org:8000/live/test6/test6/24.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Fox
+http://sky-iptv.dyndns.org:8000/live/test6/test6/17.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Fox +1
+http://sky-iptv.dyndns.org:8000/live/test6/test6/18.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Fox Life
+http://sky-iptv.dyndns.org:8000/live/test6/test6/19.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Fox Crime
+http://sky-iptv.dyndns.org:8000/live/test6/test6/21.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Fox Crime +1
+http://sky-iptv.dyndns.org:8000/live/test6/test6/22.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",AXN
+http://sky-iptv.dyndns.org:8000/live/test6/test6/28.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Fox Animation
+http://sky-iptv.dyndns.org:8000/live/test6/test6/26.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",Fox Comedy
+http://sky-iptv.dyndns.org:8000/live/test6/test6/27.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",Real Time
+http://sky-iptv.dyndns.org:8000/live/test6/test6/463.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",AXN Sci-Fi
+http://sky-iptv.dyndns.org:8000/live/test6/test6/464.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Explora
+http://sky-iptv.dyndns.org:8000/live/test6/test6/465.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Gambero Rosso
+http://sky-iptv.dyndns.org:8000/live/test6/test6/466.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",136::Dmax
+http://sky-iptv.dyndns.org:8000/live/test6/test6/616.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", BBC Knowledge
+http://sky-iptv.dyndns.org:8000/live/test6/test6/131.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Discovery Channel
+http://sky-iptv.dyndns.org:8000/live/test6/test6/60.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", National Geographic
+http://sky-iptv.dyndns.org:8000/live/test6/test6/61.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Animal Planet
+http://sky-iptv.dyndns.org:8000/live/test6/test6/631.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Discovery Science
+http://sky-iptv.dyndns.org:8000/live/test6/test6/62.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Discovery Travel & Living
+http://sky-iptv.dyndns.org:8000/live/test6/test6/63.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Nat Geo People
+http://sky-iptv.dyndns.org:8000/live/test6/test6/64.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Nat Geo Wild
+http://sky-iptv.dyndns.org:8000/live/test6/test6/65.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Crime & Investigation
+http://sky-iptv.dyndns.org:8000/live/test6/test6/68.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", History
+http://sky-iptv.dyndns.org:8000/live/test6/test6/623.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Arte
+http://sky-iptv.dyndns.org:8000/live/test6/test6/624.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Disney Channel
+http://sky-iptv.dyndns.org:8000/live/test6/test6/72.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Man-Ga
+http://sky-iptv.dyndns.org:8000/live/test6/test6/73.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Cartoon Network
+http://sky-iptv.dyndns.org:8000/live/test6/test6/75.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Disney Jr.
+http://sky-iptv.dyndns.org:8000/live/test6/test6/77.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Disney XD +1
+http://sky-iptv.dyndns.org:8000/live/test6/test6/632.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Boing
+http://sky-iptv.dyndns.org:8000/live/test6/test6/626.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Boomerang
+http://sky-iptv.dyndns.org:8000/live/test6/test6/639.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="Tgcom24.it" group-title="ITALIA", Mediaset TGCOM 24
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/6.ts
+#EXTINF:-1 tvg-name="" tvg-id="SkyTG24DTT.it" group-title="ITALIA", SKY TG 24
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/7.ts
+#EXTINF:-1 tvg-name="" tvg-id="SKYSport24.it" group-title="ITALIA", Sky Sport 24
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/12.ts
+#EXTINF:-1 tvg-name="" tvg-id="SKYSport1.it" group-title="ITALIA", Sky Sport 1
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/14.ts
+#EXTINF:-1 tvg-name="" tvg-id="SKYSport2.it" group-title="ITALIA", Sky Sport 2
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/13.ts
+#EXTINF:-1 tvg-name="" tvg-id="SKYSport3.it" group-title="ITALIA", Sky Sport 3
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/11.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Sky Sport 4
+http://sky-iptv.dyndns.org:8000/live/test6/test6/36.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Fox Sports
+http://sky-iptv.dyndns.org:8000/live/test6/test6/39.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="SkySportPlus.it" group-title="ITALIA", Sky Sport Plus
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/9.ts
+#EXTINF:-1 tvg-name="" tvg-id="SkySupercalcio.it" group-title="ITALIA", Sky Sport Calcio
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/8.ts
+#EXTINF:-1 tvg-name="" tvg-id="SkySportF1.it" group-title="ITALIA",Sky Sport F1
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/2.ts
+#EXTINF:-1 tvg-name="" tvg-id="SkySportMotoGP.it" group-title="ITALIA", Sky Sport MotoGP
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/16.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Super Tennis
+http://sky-iptv.dyndns.org:8000/live/test6/test6/41.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Eurosport
+http://sky-iptv.dyndns.org:8000/live/test6/test6/42.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Eurosport 2
+http://sky-iptv.dyndns.org:8000/live/test6/test6/629.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Juventus Tv
+http://sky-iptv.dyndns.org:8000/live/test6/test6/460.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Roma Tv
+http://sky-iptv.dyndns.org:8000/live/test6/test6/741.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Milan Channel
+http://sky-iptv.dyndns.org:8000/live/test6/test6/461.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Inter Channel
+http://sky-iptv.dyndns.org:8000/live/test6/test6/462.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Lazio Style
+http://sky-iptv.dyndns.org:8000/live/test6/test6/742.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Sky Calcio 1
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/26.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Sky Calcio 2
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/27.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Sky Calcio 3
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/28.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Sky Calcio 4
+http://sky-iptv.dyndns.org:8000/live/test6/test6/54.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA",255:: Sky Calcio 5
+http://sky-iptv.dyndns.org:8000/live/test6/test6/55.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Sky Calcio 6
+http://sky-iptv.dyndns.org:8000/live/test6/test6/56.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Sky Calcio 7
+http://sky-iptv.dyndns.org:8000/live/test6/test6/57.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Sky Calcio 8
+http://sky-iptv.dyndns.org:8000/live/test6/test6/58.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Premium Sport
+http://sky-iptv.dyndns.org:8000/live/test6/test6/136.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Premium Calcio
+http://sky-iptv.dyndns.org:8000/live/test6/test6/138.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", PI24[]/COLOR]
+http://sky-iptv.dyndns.org:8000/live/test6/test6/487.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Caccia
+http://sky-iptv.dyndns.org:8000/live/test6/test6/488.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="SKYCinema1.it" group-title="ITALIA", Sky Cinema 1
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/24.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Sky Cinema 1 +1
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Sky Cinema +24
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/25.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Sky Cinema 007
+http://sky-iptv.dyndns.org:8000/live/test6/test6/7.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="CinemaFamily.it" group-title="ITALIA",: Sky Cinema Family
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/20.ts
+#EXTINF:-1 tvg-name="" tvg-id="CinemaPassionHD.it" group-title="ITALIA", Sky Cinema Passion
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/17.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Sky Cinema Comedy
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/22.ts
+#EXTINF:-1 tvg-name="" tvg-id="CinemaMax.it" group-title="ITALIA",: Sky Cinema Max
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/19.ts
+#EXTINF:-1 tvg-name="" tvg-id="CinemaHits.it" group-title="ITALIA",: Sky Cinema Hits
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/3.ts
+#EXTINF:-1 tvg-name="" tvg-id="Cult.it" group-title="ITALIA", Sky Cinema Cult
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/21.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Sky Cinema Classics
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/23.ts
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Premium Cinema
+http://sky-iptv.dyndns.org:8000/live/test6/test6/120.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Premium Cinema Emotion
+http://sky-iptv.dyndns.org:8000/live/test6/test6/122.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Premium Cinema Energy
+http://sky-iptv.dyndns.org:8000/live/test6/test6/123.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Premium Cinema Comedy
+http://sky-iptv.dyndns.org:8000/live/test6/test6/124.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Premium Joi
+http://sky-iptv.dyndns.org:8000/live/test6/test6/125.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Studio Universal
+http://sky-iptv.dyndns.org:8000/live/test6/test6/128.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Cinema Family +1
+http://sky-iptv.dyndns.org:8000/live/test6/test6/486.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Sky Primafila 1
+http://sky-iptv.dyndns.org:8000/live/test6/test6/87.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Sky Primafila 2
+http://sky-iptv.dyndns.org:8000/live/test6/test6/88.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Sky Primafila 3
+http://sky-iptv.dyndns.org:8000/live/test6/test6/89.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Sky Primafila 4
+http://sky-iptv.dyndns.org:8000/live/test6/test6/90.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Sky Primafila 5
+http://sky-iptv.dyndns.org:8000/live/test6/test6/91.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Sky Primafila 6
+http://sky-iptv.dyndns.org:8000/live/test6/test6/92.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Sky Primafila 7
+http://sky-iptv.dyndns.org:8000/live/test6/test6/93.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Sky Primafila 8
+http://sky-iptv.dyndns.org:8000/live/test6/test6/97.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Sky Primafila 9
+http://sky-iptv.dyndns.org:8000/live/test6/test6/98.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Sky Primafila 10
+http://sky-iptv.dyndns.org:8000/live/test6/test6/99.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ITALIA", Sky Primafila 11
+http://sky-iptv.dyndns.org:8000/live/test6/test6/100.m3u8
+#EXTINF:-1,La7d
+http://finalmente.hopto.org:8000/live/croci/croci/774.m3u8
+
