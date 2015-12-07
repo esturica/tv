@@ -391,21 +391,20 @@ http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playl
 #EXTINF:-1 tvg-id="" group-title="ESPANHA",MEGA 
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
 EXTINF:-1 group-title="ALEMANHA", ### ALEMANHA CHANNELS ###
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/240.ts
-#EXTINF:-1 tvg-id="" group-title="ALEMANHA",001::[COLOR white] Das Erste
-http://wownet.ro/str/0002.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="" group-title="ALEMANHA",002::[COLOR white] ZDF
-http://wownet.ro/str/0004.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="" group-title="ALEMANHA",003::[COLOR white] RTL
-http://wownet.ro/str/0005.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="" group-title="ALEMANHA",004::[COLOR white] Sat.1
-http://wownet.ro/str/0006.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="" group-title="ALEMANHA",005::[COLOR white] ProSieben
-http://wownet.ro/str/0007.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="" group-title="ALEMANHA",006::[COLOR white] Kabel Eins
-http://wownet.ro/str/0008.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="" group-title="ALEMANHA",007::[COLOR white] RTL II
-http://wownet.ro/str/0009.m3u9|X-Forwarded-For=81.17.18.50
+http://192.0.0.1
+#EXTINF:-1 tvg-id="" group-title="ALEMANHA",Das Erste
+#EXTINF:-1 tvg-id="ZDF.de" group-title="ALEMANHA",ZDF
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/306.m3u8
+#EXTINF:-1 tvg-id="RTL.de" group-title="ALEMANHA",RTL
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/323.m3u8
+#EXTINF:-1 tvg-id="Sat1.de" group-title="ALEMANHA",Sat.1
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/321.m3u8
+#EXTINF:-1 tvg-id="Pro7.de" group-title="ALEMANHA",ProSieben
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/324.m3u8
+#EXTINF:-1 tvg-id="Kabel.de" group-title="ALEMANHA",Kabel Eins
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/327.ts
+#EXTINF:-1 tvg-id="RTL2.de" group-title="ALEMANHA",RTL II
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/322.ts
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",008::[COLOR white] VOX
 http://wownet.ro/str/0010.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",009::[COLOR white] Arte
