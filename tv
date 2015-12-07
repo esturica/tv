@@ -392,7 +392,8 @@ http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playl
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
 EXTINF:-1 group-title="ALEMANHA", ### ALEMANHA CHANNELS ###
 http://192.0.0.1
-#EXTINF:-1 tvg-id="" group-title="ALEMANHA",Das Erste
+#EXTINF:-1 tvg-id="ARD.de" group-title="ALEMANHA",Das Erste
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/300.m3u8
 #EXTINF:-1 tvg-id="ZDF.de" group-title="ALEMANHA",ZDF
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/306.m3u8
 #EXTINF:-1 tvg-id="RTL.de" group-title="ALEMANHA",RTL
@@ -402,35 +403,24 @@ http://skyiptv.ddns.net:8000/live/iptv1590/547879/321.m3u8
 #EXTINF:-1 tvg-id="Pro7.de" group-title="ALEMANHA",ProSieben
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/324.m3u8
 #EXTINF:-1 tvg-id="Kabel.de" group-title="ALEMANHA",Kabel Eins
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/327.ts
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/327.m3u8
 #EXTINF:-1 tvg-id="RTL2.de" group-title="ALEMANHA",RTL II
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/322.ts
-#EXTINF:-1 tvg-id="" group-title="ALEMANHA",008::[COLOR white] VOX
-http://wownet.ro/str/0010.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="" group-title="ALEMANHA",009::[COLOR white] Arte
-http://wownet.ro/str/0012.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="" group-title="ALEMANHA",3sat
-http://wownet.ro/str/0014.m3u8|X-Forwarded-For=81.17.18.50
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/322.m3u8
+#EXTINF:-1 tvg-id="Vox.de" group-title="ALEMANHA",VOX
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/307.m3u8
+#EXTINF:-1 tvg-id="ARTE.de" group-title="ALEMANHA",Arte
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/299.m3u8
+#EXTINF:-1 tvg-id="3sat.de" group-title="ALEMANHA",3sat
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",011::[COLOR white] NDR Hamburg
-http://wownet.ro/str/0107.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",012::[COLOR white] NDR Meck.-Vorp.
-http://wownet.ro/str/0109.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",013::[COLOR white] NDR Niedersachsen
-http://wownet.ro/str/0111.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",014::[COLOR white] NDR Schleswig-Hol..
-http://wownet.ro/str/0113.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="" group-title="ALEMANHA",015::[COLOR white] WDR
-http://wownet.ro/str/0018.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="" group-title="ALEMANHA",016::[COLOR white] MDR Sachsenanhalt
-http://wownet.ro/str/0116.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="" group-title="ALEMANHA",017::[COLOR white] MDR Sachsen
-http://wownet.ro/str/0117.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="" group-title="ALEMANHA",018::[COLOR white] MDR Thüringen
-http://wownet.ro/str/0118.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="WDR.de" group-title="ALEMANHA",WDR
+#EXTINF:-1 tvg-id="MDRS-Anhalt.de" group-title="ALEMANHA",016::[COLOR white] MDR Sachsenanhalt
+#EXTINF:-1 tvg-id="MDRSachsen.de" group-title="ALEMANHA",017::[COLOR white] MDR Sachsen
+#EXTINF:-1 tvg-id="MDRThuringen.de" group-title="ALEMANHA",018::[COLOR white] MDR Thüringen
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",019::[COLOR white] MDR
-http://wownet.ro/str/0020.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",020::[COLOR white] BR
-http://wownet.ro/str/0022.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",021::]HR
 http://wownet.ro/str/0026.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",022::RBB
@@ -439,8 +429,8 @@ http://wownet.ro/str/0028.m3u8|X-Forwarded-For=81.17.18.50
 http://wownet.ro/str/0030.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",024::ARD Alpha
 http://wownet.ro/str/0031.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="" group-title="ALEMANHA",025::N24
-http://wownet.ro/str/0033.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="n24.de" group-title="ALEMANHA",025::N24
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/295.m3u8
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",026::n-tv
 http://wownet.ro/str/0034.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",027::euronews
@@ -564,19 +554,26 @@ http://wownet.ro/str/0094.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",086::Tele M1 West
 http://wownet.ro/str/0095.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",101::[COLOR white] SPORT TIME TV 1 
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
-#EXTINF:-1 tvg-id="" group-title="ALEMANHA",102::[COLOR white] SPORT TIME TV 2 
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
-#EXTINF:-1 tvg-id="" group-title="ALEMANHA",103::[COLOR white] SPORT TIME TV 3 
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
+#EXTINF:-1 tvg-id="" group-title="ALEMANHA",SPORT TIME TV 2 
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/314.m3u8
+#EXTINF:-1 tvg-id="" group-title="ALEMANHA",SPORT TIME TV 3 
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/313.m3u8
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",104::[COLOR white] SPORT TIME TV 4 
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_800
-#EXTINF:-1 tvg-id="" group-title="ALEMANHA",105::[COLOR white] SPORT TIME TV 5 
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800
-#EXTINF:-1 tvg-id="" group-title="ALEMANHA",106::[COLOR white] SPORT TIME TV 6 
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800
-#EXTINF:-1 tvg-id="" group-title="ALEMANHA",107::[COLOR white] SPORT TIME TV 7 
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800
+#EXTINF:-1 tvg-id="" group-title="ALEMANHA",SPORT TIME TV 5 
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/311.m3u8
+#EXTINF:-1 tvg-id="" group-title="ALEMANHA",SPORT TIME TV 6 
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/310.m3u8
+#EXTINF:-1 tvg-id="" group-title="ALEMANHA",SPORT TIME TV 7 
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/309.m3u8
+#EXTINF:-1 tvg-id="" group-title="ALEMANHA",SKY Sport 1 
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/316.m3u8
+#EXTINF:-1 tvg-id="" group-title="ALEMANHA",Sky Sport 2
+#EXTINF:-1 tvg-id="" group-title="ALEMANHA",SKY Cinema  24
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/317.m3u8
+#EXTINF:-1 tvg-id="" group-title="ALEMANHA",SKY Cinema
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/318.m3u8
+#EXTINF:-1 tvg-id="" group-title="ALEMANHA",SKY Bundesliga
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/319.m3u8
 #EXTINF:-1 group-title="ITALIA", ### ITALIA CHANNELS ###
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/240.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA",Rai 1
