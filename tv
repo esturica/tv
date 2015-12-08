@@ -2,9 +2,9 @@
 #EXTINF:-1 group-title="FRANÇA", ### FRANÇA ###
 http://192.0.0.1
 #EXTINF:-1 tvg-id="TF1.fr" group-title="FRANÇA",TF1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/271.m3u8
+http://iptv.electro-clair.net:8000/live/nader/nader/33.m3u8
 #EXTINF:-1 tvg-id="France2.fr" group-title="FRANÇA",France 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/280.m3u8
+http://iptv.electro-clair.net:8000/live/nader/nader/101.m3u8
 #EXTINF:-1 tvg-id="France3.fr" group-title="FRANÇA",France 3
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/279.m3u8
 #EXTINF:-1 tvg-id="CANALplus.fr" group-title="FRANÇA",Canal +
@@ -15,16 +15,16 @@ http://skyiptv.ddns.net:8000/live/iptv1590/547879/277.m3u8
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/272.m3u8
 #EXTINF:-1 tvg-id="ARTE.fr" group-title="FRANÇA",Arte
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/539.m3u8
-#EXTINF:-1 tvg-id="CanalplusSeries.fr" group-title="FRANÇA",Canal + Series
-http://iptv.electro-clair.net:8000/live/nader/nader/1545.m3u8
 #EXTINF:-1 tvg-id="CANALplusCINEMA.fr" group-title="FRANÇA",Canal + Cinema
 http://iptv.electro-clair.net:8000/live/nader/nader/198.m3u8
 #EXTINF:-1 tvg-id="CANALplusSPORT.fr" group-title="FRANÇA",CANAL+ Sport 
 http://iptv.electro-clair.net:8000/live/nader/nader/539.m3u8
+#EXTINF:-1 tvg-id="CanalplusSeries.fr" group-title="FRANÇA",Canal + Series
+http://iptv.electro-clair.net:8000/live/nader/nader/1545.m3u8
 #EXTINF:-1 tvg-id="CANALplusFamily.fr" group-title="FRANÇA",CANAL+ Family 
 http://iptv.electro-clair.net:8000/live/nader/nader/196.m3u8
 #EXTINF:-1 tvg-id="CANALplusDECALE.fr" group-title="FRANÇA",CANAL+ Decale 
-http://iptv.electro-clair.net:8000/live/nader/nader/197.m3u8
+http://iptv.electro-clair.net:8000/live/nader/nader/537.m3u8
 #EXTINF:-1 tvg-id="CinecinemaPremier.fr" group-title="FRANÇA",Canal + Premier
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/285.m3u8
 #EXTINF:-1 tvg-id="CinecinemaFrisson.fr" group-title="FRANÇA",Canal + Frisson
@@ -32,7 +32,6 @@ http://skyiptv.ddns.net:8000/live/iptv1590/547879/284.m3u8
 #EXTINF:-1 tvg-id="CinecinemaEmotion.fr" group-title="FRANÇA",Canal + Emotion
 http://iptv.electro-clair.net:8000/live/nader/nader/1564.m3u8
 #EXTINF:-1 tvg-id="CinecinemaFamiz.fr" group-title="FRANÇA",Canal + Famiz
-http://iptv.electro-clair.net:8000/live/nader/nader/1566.m3u8
 #EXTINF:-1 tvg-id="" group-title="FRANÇA", Canal + Star
 #EXTINF:-1 tvg-id="" group-title="FRANÇA", Canal + Club
 #EXTINF:-1 tvg-id="CinecinemaClassic.fr" group-title="FRANÇA",Canal + Classic
@@ -49,7 +48,8 @@ http://iptv.electro-clair.net:8000/live/nader/nader/1563.m3u8
 http://iptv.electro-clair.net:8000/live/nader/nader/607.m3u8
 #EXTINF:-1 tvg-id="" group-title="FRANÇA", Action
 http://iptv.electro-clair.net:8000/live/nader/nader/1558.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Disney Cinemagic
+#EXTINF:-1 tvg-id="DisneyMagic.fr" group-title="FRANÇA", Disney Cinema
+http://iptv.electro-clair.net:8000/live/nader/nader/1659.m3u8
 #EXTINF:-1 tvg-id="" group-title="FRANÇA", Disney Cinemagic +1
 #EXTINF:-1 tvg-id="" group-title="FRANÇA", Pass Series
 #EXTINF:-1 tvg-id="13RUE.fr" group-title="FRANÇA",13eme Rue
@@ -186,7 +186,7 @@ http://iptv.electro-clair.net:8000/live/nader/nader/1338.m3u8
 #EXTINF:-1 tvg-id="CanalJ.fr" group-title="FRANÇA",Canal J
 http://iptv.electro-clair.net:8000/live/nader/nader/1337.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.fr" group-title="FRANÇA",Disney Channel
-http://iptv.electro-clair.net:8000/live/nader/nader/1340.m3u8
+http://iptv.electro-clair.net:8000/live/nader/nader/1660.m3u8
 #EXTINF:-1 tvg-id="" group-title="FRANÇA", Disney Channel +1
 #EXTINF:-1 tvg-id="CartoonNetwork.fr" group-title="FRANÇA",Cartoon Network
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/265.m3u8
@@ -281,6 +281,8 @@ http://iptv.electro-clair.net:8000/live/nader/nader/1496.m3u8
 http://iptv.electro-clair.net:8000/live/nader/nader/1495.m3u8
 #EXTINF:-1 group-title="PORTUGAL", ### PORTUGAL CHANNELS ###
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/240.ts
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",TVI Reality
+http://62.210.82.241:1935/liverepeat/TVIReality24/live.m3u8?wowzasessionid=1894366668
 #EXTINF:-1 tvg-id="" group-title="PORTUGAL",Euro News
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/701.m3u8
 #EXTINF:-1 tvg-id="" group-title="PORTUGAL",AXN White
@@ -333,6 +335,7 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
 #EXTINF:-1 tvg-id="" group-title="ESPANHA",Canal + Estrenos
 #EXTINF:-1 tvg-id="" group-title="ESPANHA",Canal + Xtra
 #EXTINF:-1 tvg-id="" group-title="ESPANHA",Canal + Accion
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/280.m3u8
 #EXTINF:-1 tvg-id="" group-title="ESPANHA",Canal + Comedia
 #EXTINF:-1 tvg-id="" group-title="ESPANHA",Canal + DCine
 #EXTINF:-1 tvg-id="" group-title="ESPANHA",DCine Espanol
@@ -574,7 +577,7 @@ http://skyiptv.ddns.net:8000/live/iptv1590/547879/317.m3u8
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/318.m3u8
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",SKY Bundesliga
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/319.m3u8
-#EXTINF:-1 group-title="ITALIA", ### ITALIA CHANNELS ###
+#EXTINF:-1 group-title="ITALIA", ### ITALIA ##
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/240.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA",Rai 1
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/34.ts
@@ -792,256 +795,43 @@ http://skyiptv.ddns.net:8000/live/iptv1590/547879/21.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Cinema Classics
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/23.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Premium Cinema
-http://sky-iptv.dyndns.org:8000/live/test6/test6/120.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Premium Cinema Emotion
-http://sky-iptv.dyndns.org:8000/live/test6/test6/122.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Premium Cinema Energy
-http://sky-iptv.dyndns.org:8000/live/test6/test6/123.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Premium Cinema Comedy
-http://sky-iptv.dyndns.org:8000/live/test6/test6/124.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Premium Joi
-http://sky-iptv.dyndns.org:8000/live/test6/test6/125.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Studio Universal
-http://sky-iptv.dyndns.org:8000/live/test6/test6/128.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Cinema Family +1
-http://sky-iptv.dyndns.org:8000/live/test6/test6/486.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Primafila 1
-http://sky-iptv.dyndns.org:8000/live/test6/test6/87.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Primafila 2
-http://sky-iptv.dyndns.org:8000/live/test6/test6/88.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Primafila 3
-http://sky-iptv.dyndns.org:8000/live/test6/test6/89.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Primafila 4
-http://sky-iptv.dyndns.org:8000/live/test6/test6/90.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Primafila 5
-http://sky-iptv.dyndns.org:8000/live/test6/test6/91.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Primafila 6
-http://sky-iptv.dyndns.org:8000/live/test6/test6/92.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Primafila 7
-http://sky-iptv.dyndns.org:8000/live/test6/test6/93.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Primafila 8
-http://sky-iptv.dyndns.org:8000/live/test6/test6/97.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Primafila 9
-http://sky-iptv.dyndns.org:8000/live/test6/test6/98.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Primafila 10
-http://sky-iptv.dyndns.org:8000/live/test6/test6/99.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Primafila 11
-http://sky-iptv.dyndns.org:8000/live/test6/test6/100.m3u8
-#EXTINF:-1,La7d
-http://finalmente.hopto.org:8000/live/croci/croci/774.m3u8
-#EXTINF:-1 group-title="SKY", ### ITALIAN: SKY ITALIA ###
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/1.ts
-#EXTINF:-1 group-title="SKY", IT: SKYIT F1 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/2.ts
-#EXTINF:-1 group-title="SKY", IT: SKYIT Cinema Hits HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/3.ts
-#EXTINF:-1 group-title="SKY", IT: SKYIT Cinema HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/4.ts
-#EXTINF:-1 group-title="SKY", IT TG Com 24
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/6.ts
-#EXTINF:-1 group-title="SKY", IT Sky Tg 24
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/7.ts
-#EXTINF:-1 group-title="SKY", IT Sky Supercalcio
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/8.ts
-#EXTINF:-1 group-title="SKY", IT Sky Sport Plus
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/9.ts
-#EXTINF:-1 group-title="SKY", IT Sky Sport F1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/10.ts
-#EXTINF:-1 group-title="SKY", IT Sky Sport 24
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/12.ts
-#EXTINF:-1 group-title="SKY", IT Sky Sport 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/14.ts
-#EXTINF:-1 group-title="SKY", IT Sky Sport 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/13.ts
-#EXTINF:-1 group-title="SKY", IT Sky Sport 3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/11.ts
-#EXTINF:-1 group-title="SKY", IT: Sky Sport MotoGP HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/16.ts
-#EXTINF:-1 group-title="SKY", IT Sky Cinema Passion
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/17.ts
-#EXTINF:-1 group-title="SKY", IT Sky Cinema Max  1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/18.ts
-#EXTINF:-1 group-title="SKY", IT Sky Cinema Max
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/19.ts
-#EXTINF:-1 group-title="SKY", IT Sky Cinema Family
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/20.ts
-#EXTINF:-1 group-title="SKY", IT Sky Cinema Cult
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/21.ts
-#EXTINF:-1 group-title="SKY", IT Sky Cinema Comedy
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/22.ts
-#EXTINF:-1 group-title="SKY", IT Sky Cinema Classic
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/23.ts
-#EXTINF:-1 group-title="SKY", IT Sky Cinema 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/24.ts
-#EXTINF:-1 group-title="SKY", IT Sky Cinema  24
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/25.ts
-#EXTINF:-1 group-title="SKY", IT Sky Calcio 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/26.ts
-#EXTINF:-1 group-title="SKY", IT Sky Calcio 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/27.ts
-#EXTINF:-1 group-title="SKY", IT Sky Calcio 3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/28.ts
-#EXTINF:-1 group-title="SKY", IT Sky Atlantic
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/29.ts
-#EXTINF:-1 group-title="SKY", IT Sky Arte
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/30.ts
-#EXTINF:-1 group-title="SKY", IT Rete 4
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/31.ts
-#EXTINF:-1 group-title="SKY", IT Rai 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/34.ts
-#EXTINF:-1 group-title="SKY", IT Rai 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/33.ts
-#EXTINF:-1 group-title="SKY", IT Rai 3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/32.ts
-#EXTINF:-1 group-title="SKY", IT Primafila 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/35.ts
-#EXTINF:-1 group-title="SKY", IT Primafila 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/36.ts
-#EXTINF:-1 group-title="SKY", IT Primafila 3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/37.ts
-#EXTINF:-1 group-title="SKY", IT Primafila 4
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/38.ts
-#EXTINF:-1 group-title="SKY", IT Primafila  5
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/39.ts
-#EXTINF:-1 group-title="SKY", IT Primafila 6
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/40.ts
-#EXTINF:-1 group-title="SKY", IT Primafila 7
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/41.ts
-#EXTINF:-1 group-title="SKY", IT Primafila 8
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/42.ts
-#EXTINF:-1 group-title="SKY", IT Primafila 9
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/43.ts
-#EXTINF:-1 group-title="SKY", IT Primafila 10
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/44.ts
-#EXTINF:-1 group-title="SKY", IT Primafila 11
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/45.ts
-#EXTINF:-1 group-title="SKY", IT Primafila 12
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/46.ts
-#EXTINF:-1 group-title="SKY", IT Primafila 13
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/47.ts
-#EXTINF:-1 group-title="SKY", IT Primafila 14
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/48.ts
-#EXTINF:-1 group-title="SKY", IT Primafila 15
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/49.ts
-#EXTINF:-1 group-title="SKY", IT Primafila 16
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/50.ts
-#EXTINF:-1 group-title="SKY", IT Primafila 17
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/51.ts
-#EXTINF:-1 group-title="SKY", IT Primafila 18
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/52.ts
-#EXTINF:-1 group-title="SKY", IT Primafila 19
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/53.ts
-#EXTINF:-1 group-title="SKY", IT Premium Studio Universal
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/54.ts
-#EXTINF:-1 group-title="SKY", IT Premium Mya
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/55.ts
-#EXTINF:-1 group-title="SKY", IT Premium Joy
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/56.ts
-#EXTINF:-1 group-title="SKY", IT Premium Energy
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/57.ts
-#EXTINF:-1 group-title="SKY", IT Premium Emotion
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/58.ts
-#EXTINF:-1 group-title="SKY", IT Premium Disney Junior
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/59.ts
-#EXTINF:-1 group-title="SKY", IT Premium Disney Channel
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/60.ts
-#EXTINF:-1 group-title="SKY", IT Premium Discovery World
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/61.ts
-#EXTINF:-1 group-title="SKY", IT Premium Crime
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/62.ts
-#EXTINF:-1 group-title="SKY", IT Premium Comedy
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/63.ts
-#EXTINF:-1 group-title="SKY", IT Premium Cinema
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/64.ts
-#EXTINF:-1 group-title="SKY", IT Premium Calcio 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/67.ts
-#EXTINF:-1 group-title="SKY", IT Premium Calcio 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/66.ts
-#EXTINF:-1 group-title="SKY", IT Premium Calcio 3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/678.ts
-#EXTINF:-1 group-title="SKY", IT Premium Calcio 4
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/679.ts
-#EXTINF:-1 group-title="SKY", IT Premium Calcio 5
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/680.ts
-#EXTINF:-1 group-title="SKY", IT Premium Calcio 6
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/681.ts
-#EXTINF:-1 group-title="SKY", IT Premium Calcio
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/68.ts
-#EXTINF:-1 group-title="SKY", IT Premium BBC
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/69.ts
-#EXTINF:-1 group-title="SKY", IT Premium Action
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/70.ts
-#EXTINF:-1 group-title="SKY", IT National Geographic
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/71.ts
-#EXTINF:-1 group-title="SKY", IT NatGeo Wild
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/72.ts
-#EXTINF:-1 group-title="SKY", IT LA 7
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/73.ts
-#EXTINF:-1 group-title="SKY", IT Italia 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/74.ts
-#EXTINF:-1 group-title="SKY", IT HIstory
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/75.ts
-#EXTINF:-1 group-title="SKY", IT Fox Sport
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/76.ts
-#EXTINF:-1 group-title="SKY", IT Fox Life
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/77.ts
-#EXTINF:-1 group-title="SKY", IT Fox Crime
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/78.ts
-#EXTINF:-1 group-title="SKY", IT Fox Comedy
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/79.ts
-#EXTINF:-1 group-title="SKY", IT Fox Animation
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/80.ts
-#EXTINF:-1 group-title="SKY", IT Fox
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/81.ts
-#EXTINF:-1 group-title="SKY", IT Dmax
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/82.ts
-#EXTINF:-1 group-title="SKY", IT Discovery World
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/83.ts
-#EXTINF:-1 group-title="SKY", IT Discovery Science
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/84.ts
-#EXTINF:-1 group-title="SKY", IT Discovery
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/85.ts
-#EXTINF:-1 group-title="SKY", IT Cielo
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/86.ts
-#EXTINF:-1 group-title="SKY", IT Canale 5
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/87.ts
-#EXTINF:-1 group-title="SKY", IT AXN
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/88.ts
-#EXTINF:-1 group-title="UK", ### UK CHANNELS ###
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/240.ts
+#EXTINF:-1 group-title="UK", ### UK ###
 #EXTINF:-1 tvg-name="BBC One Lon" tvg-id="BBC One Lon" group-title="UK", [COLOR white]BBC One
-http://wownet.ro/str/0402.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-name="BBC Two Eng" tvg-id="BBC Two Eng" group-title="UK", [COLOR white]BBC Two
-http://wownet.ro/str/0404.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-name="ITV" tvg-id="ITV" group-title="UK", [COLOR white]Itv 1
-http://wownet.ro/str/0410.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-name="Channel 4" tvg-id="Channel 4" group-title="UK", [COLOR white]Channel 4
-http://wownet.ro/str/0414.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-name="Channel 5" tvg-id="Channel 5" group-title="UK", [COLOR white]Channel 5
-http://wownet.ro/str/0416.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-name="Sky1" tvg-id="Sky1" group-title="UK", [COLOR white]Sky 1
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/124.m3u8
 #EXTINF:-1 tvg-name="Sky Living" tvg-id="Sky Living" group-title="UK", [COLOR white]Sky Living
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/644.m3u8
 #EXTINF:-1 tvg-name="Sky Atlantic" tvg-id="Sky Atlantic" group-title="UK", [COLOR white]Sky Atlantic
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/639.m3u8
 #EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Watch
 #EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Gold
 #EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Dave
 #EXTINF:-1 tvg-name="ComedyCentral" tvg-id="ComedyCentral" group-title="UK", [COLOR white]Comedy Central
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/60.m3u8
 #EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Universal
 #EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]SyFy
 #EXTINF:-1 tvg-name="BBC Three" tvg-id="BBC Three" group-title="UK", [COLOR white]BBC Three
-http://wownet.ro/str/0406.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-name="BBC Four" tvg-id="BBC Four" group-title="UK", [COLOR white]BBC Four
-http://wownet.ro/str/0408.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-name="ITV2" tvg-id="ITV2" group-title="UK", [COLOR white]Itv 2
-http://wownet.ro/str/0411.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-name="ITV3" tvg-id="ITV3" group-title="UK", [COLOR white]Itv 3
-http://wownet.ro/str/0412.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-name="ITV4" tvg-id="ITV4" group-title="UK", [COLOR white]Itv 4
-http://wownet.ro/str/0413.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Sky Living +1
 #EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Sky Livingit
 #EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Sky Livingit +1
@@ -1051,7 +841,6 @@ http://wownet.ro/str/0413.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Comedy Central +1
 #EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Comedy Central Extra
 #EXTINF:-1 tvg-name="Sky2" tvg-id="Sky2" group-title="UK", [COLOR white]Sky 2
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/636.m3u8
 #EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Sky Living Loves
 #EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]ITV 1 +1
 #EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Alibi
@@ -1059,10 +848,8 @@ http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/636.m3u8
 #EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]S4C (C4 Wales)
 #EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Channel 4 +1
 #EXTINF:-1 tvg-name="E4" tvg-id="E4" group-title="UK", [COLOR white]E4
-http://wownet.ro/str/0418.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]E4 +1
 #EXTINF:-1 tvg-name="More4" tvg-id="More4" group-title="UK", [COLOR white]More 4
-http://wownet.ro/str/0417.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]More 4 +1
 #EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]DMax
 #EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Dmax +1
@@ -1073,86 +860,46 @@ http://wownet.ro/str/0417.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Universal +1
 #EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]E! Entertainment
 #EXTINF:-1 tvg-name="Discovery Shed" tvg-id="Discovery Shed" group-title="UK", [COLOR white]Discovery Shed
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/652.m3u8
 #EXTINF:-1 tvg-name="Travel Channel" tvg-id="Travel Channel" group-title="UK", [COLOR white]Travel Channel
-http://wownet.ro/str/0420.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-name="Sky Premiere" tvg-id="Sky Premiere" group-title="UK", [COLOR white]Sky Movies Premier
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/647.m3u8
 #EXTINF:-1 tvg-name="Sky Showcase" tvg-id="Sky Showcase" group-title="UK", [COLOR white]Sky Movies Showcase
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/650.m3u8
 #EXTINF:-1 tvg-name="Sky Star Wars" tvg-id="Sky Star Wars" group-title="UK", [COLOR white]Sky Movies Greats
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/645.m3u8
 #EXTINF:-1 tvg-name="Sky Disney" tvg-id="Sky Disney" group-title="UK", [COLOR white]Sky Movies Disney
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/131.m3u8
 #EXTINF:-1 tvg-name="Sky Family" tvg-id="Sky Family" group-title="UK", [COLOR white]Sky Movies Family
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/643.m3u8
 #EXTINF:-1 tvg-name="Sky Action" tvg-id="Sky Action" group-title="UK", [COLOR white]Sky Movies Action & Adventure
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/637.m3u8
 #EXTINF:-1 tvg-name="Sky Comedy" tvg-id="Sky Comedy" group-title="UK", [COLOR white]Sky Movies Comedy
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/640.m3u8
 #EXTINF:-1 tvg-name="Sky DramaRom" tvg-id="Sky DramaRom" group-title="UK", [COLOR white]Sky Movies Drama & Romance
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/98.m3u8
 #EXTINF:-1 tvg-name="Sky ScFi\/Horror" tvg-id="Sky ScFi\/Horror" group-title="UK", [COLOR white]Sky Movies Sci Fi & Horror
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/648.m3u8
 #EXTINF:-1 tvg-name="Sky Select" tvg-id="Sky Select" group-title="UK", [COLOR white]Sky Movies Select
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/649.m3u8
 #EXTINF:-1 tvg-name="Film4" tvg-id="Film4" group-title="UK", [COLOR white]Film 4
-http://wownet.ro/str/0415.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-name="TCM" tvg-id="TCM" group-title="UK", [COLOR white]TCM
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/130.m3u8
 #EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Cartoon Network
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/casthls/4.m3u8
 #EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Nick
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/casthls/97.m3u8
 #EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Disney Channel
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/casthls/89.m3u8
 #EXTINF:-1 tvg-name="Sky Sports 1" tvg-id="Sky Sports 1" group-title="UK", [COLOR white]Sky Sports 1
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/63.m3u8
 #EXTINF:-1 tvg-name="Sky Spts Ashes" tvg-id="Sky Spts Ashes" group-title="UK", [COLOR white]Sky Sports 2
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/64.m3u8
 #EXTINF:-1 tvg-name="Sky Sports 3" tvg-id="Sky Sports 3" group-title="UK", [COLOR white]Sky Sports 3
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/66.m3u8
 #EXTINF:-1 tvg-name="Sky Sports 4" tvg-id="Sky Sports 4" group-title="UK", [COLOR white]Sky Sports 4
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/67.m3u8
 #EXTINF:-1 tvg-name="Sky Sports 5" tvg-id="Sky Sports 5" group-title="UK", [COLOR white]Sky Sports 5
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/68.m3u8
 #EXTINF:-1 tvg-name="Sky Sports F1" tvg-id="Sky Sports F1" group-title="UK", [COLOR white]Sky Sports F1
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/78.m3u8
 #EXTINF:-1 tvg-name="Eurosport" tvg-id="Eurosport 2" group-title="UK", [COLOR white]British Eurosport
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/282.m3u8
 #EXTINF:-1 tvg-name="Eurosport 2" tvg-id="Eurosport 2" group-title="UK", [COLOR white]British Eurosport 2
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/57.m3u8
 #EXTINF:-1 tvg-name="BT Sport 1" tvg-id="BT Sport 1" group-title="UK", [COLOR white]BT Sport 1
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/54.m3u8
 #EXTINF:-1 tvg-name="BT Sport 2" tvg-id="BT Sport 2" group-title="UK", [COLOR white]BT Sport 2
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/55.m3u8
 #EXTINF:-1 tvg-name="BT Sport\/\/ESPN" tvg-id="BT Sport\/\/ESPN" group-title="UK", [COLOR white]BT Sport ESPN
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/59.m3u8
 #EXTINF:-1 tvg-name="Sky News" tvg-id="Sky News" group-title="UK", [COLOR white]Sky News
-http://wownet.ro/str/0430.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-name="Bloomberg" tvg-id="Bloomberg" group-title="UK", [COLOR white]Bloomberg
-http://wownet.ro/str/0426.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-name="BBC NEWS" tvg-id="BBC NEWS" group-title="UK", [COLOR white]BBC News
-http://wownet.ro/str/0421.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-name="CNBC" tvg-id="CNBC" group-title="UK", [COLOR white]CNBC
-http://wownet.ro/str/0427.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-name="CNN" tvg-id="CNN" group-title="UK", [COLOR white]CNN
-http://wownet.ro/str/0423.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-name="Euronews" tvg-id="Euronews" group-title="UK", [COLOR white]Euronews
-http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
 #EXTINF:-1 tvg-name="RT" tvg-id="RT" group-title="UK", [COLOR white]RT
-http://wownet.ro/str/0431.m3u8|X-Forwarded-For=78.43.32.8
 #EXTINF:-1 tvg-name="Al Jazeera Eng" tvg-id="Al Jazeera Eng" group-title="UK", [COLOR white]Aljazeera
-http://wownet.ro/str/0425.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-name="Disc.Turbo" tvg-id="Disc.Turbo" group-title="UK", [COLOR white]Turbo
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/653.m3u8
 #EXTINF:-1 tvg-id="" group-title="UK",[COLOR blue]:: [COLOR white]Nat Geo
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/casthls/96.m3u8
 #EXTINF:-1 tvg-id="" group-title="UK",[COLOR blue]:: [COLOR white]Hot Rod garage
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/casthls/95.m3u8
 #EXTINF:-1 tvg-id="" group-title="UK",[COLOR blue]:: [COLOR white]CNET
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/casthls/90.m3u8
-#EXTINF:-1 group-title="USA", ### USA CHANNELS ###
+#EXTINF:-1 group-title="USA", ### USA ###
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/240.ts
 #EXTINF:-1 tvg-name="CBS 2" tvg-id="WCBSNewYorkCBSEast.us" group-title="USA",CBS 2 (New York)
 http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1430.m3u8
@@ -1400,934 +1147,6 @@ http://xrxs.net/video/live-p12moun-2328.m3u8
 http://xrxs.net/video/live-p12oreg-2328.m3u8
 #EXTINF:-1 tvg-id="" group-title="USA",PAC 12 Washington
 http://xrxs.net/video/live-p12wash-4728.m3u8
-#EXTINF:-1 tvg-id="" group-title="USA",BYU
-#EXTINF:-1 group-title="SKY", ####### USA #######
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/219.ts
-#EXTINF:-1 group-title="SKY", USA Fox Sports 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/226.ts
-#EXTINF:-1 group-title="SKY", Weo
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/177.ts
-#EXTINF:-1 group-title="SKY", Vox Norway
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/178.ts
-#EXTINF:-1 group-title="SKY", USA TSN 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/223.ts
-#EXTINF:-1 group-title="SKY", USA TSN 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/224.ts
-#EXTINF:-1 group-title="SKY", USA TSN 4
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/225.ts
-#EXTINF:-1 group-title="SKY", ### SKY UK CHANNELS ###
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/89.ts
-#EXTINF:-1 group-title="SKY", UK : Sky Movies Syfy HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/660.ts
-#EXTINF:-1 group-title="SKY", UK True Movies 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/117.ts
-#EXTINF:-1 group-title="SKY", UK True Movies 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/682.ts
-#EXTINF:-1 group-title="SKY", UK The Vault
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/118.ts
-#EXTINF:-1 group-title="SKY", UK TG 4
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/119.ts
-#EXTINF:-1 group-title="SKY", UK Sky Sports News
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/121.ts
-#EXTINF:-1 group-title="SKY", UK Sky Sports F1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/122.ts
-#EXTINF:-1 group-title="SKY", UK Sky Sports 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/127.ts
-#EXTINF:-1 group-title="SKY", UK Sky Sports 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/126.ts
-#EXTINF:-1 group-title="SKY", UK Sky Sports 3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/125.ts
-#EXTINF:-1 group-title="SKY", UK Sky Sports 4
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/124.ts
-#EXTINF:-1 group-title="SKY", UK Sky Sports 5
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/123.ts
-#EXTINF:-1 group-title="SKY", UK Sky Premiere Sports
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/128.ts
-#EXTINF:-1 group-title="SKY", UK Sky One
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/129.ts
-#EXTINF:-1 group-title="SKY", UK Sky Two
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/120.ts
-#EXTINF:-1 group-title="SKY", UK Sky Movies Scifi / Horror
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/130.ts
-#EXTINF:-1 group-title="SKY", UK Sky Arts 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/131.ts
-#EXTINF:-1 group-title="SKY", UK RTE 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/133.ts
-#EXTINF:-1 group-title="SKY", UK RTE 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/132.ts
-#EXTINF:-1 group-title="SKY", UK Quest
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/134.ts
-#EXTINF:-1 group-title="SKY", UK Nicktoons
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/135.ts
-#EXTINF:-1 group-title="SKY", UK Nickelodeon
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/136.ts
-#EXTINF:-1 group-title="SKY", UK National Geographic Wild
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/137.ts
-#EXTINF:-1 group-title="SKY", UK National Geographic
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/138.ts
-#EXTINF:-1 group-title="SKY", UK More 4
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/139.ts
-#EXTINF:-1 group-title="SKY", UK ITV 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/143.ts
-#EXTINF:-1 group-title="SKY", UK ITV 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/142.ts
-#EXTINF:-1 group-title="SKY", UK ITV 3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/141.ts
-#EXTINF:-1 group-title="SKY", UK ITV 4
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/140.ts
-#EXTINF:-1 group-title="SKY", UK Investigation
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/144.ts
-#EXTINF:-1 group-title="SKY", UK History Channel
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/145.ts
-#EXTINF:-1 group-title="SKY", UK Gold
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/146.ts
-#EXTINF:-1 group-title="SKY", UK Food Network
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/147.ts
-#EXTINF:-1 group-title="SKY", UK Flava
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/148.ts
-#EXTINF:-1 group-title="SKY", UK Eurosport 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/90.ts
-#EXTINF:-1 group-title="SKY", UK Eurosport 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/91.ts
-#EXTINF:-1 group-title="SKY", UK ESPN
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/92.ts
-#EXTINF:-1 group-title="SKY", UK Drama
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/94.ts
-#EXTINF:-1 group-title="SKY", UK Dmax
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/95.ts
-#EXTINF:-1 group-title="SKY", UK Disney Junior
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/96.ts
-#EXTINF:-1 group-title="SKY", UK Disney Channel
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/97.ts
-#EXTINF:-1 group-title="SKY", UK Discovery Science
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/98.ts
-#EXTINF:-1 group-title="SKY", UK Discovery Investigation
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/99.ts
-#EXTINF:-1 group-title="SKY", UK Discovery History
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/100.ts
-#EXTINF:-1 group-title="SKY", UK Dave
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/101.ts
-#EXTINF:-1 group-title="SKY", UK Channel 4
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/102.ts
-#EXTINF:-1 group-title="SKY", UK BT Sports 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/103.ts
-#EXTINF:-1 group-title="SKY", UK BT Sports 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/104.ts
-#EXTINF:-1 group-title="SKY", UK Boxnation
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/105.ts
-#EXTINF:-1 group-title="SKY", UK BBC 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/109.ts
-#EXTINF:-1 group-title="SKY", UK BBC 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/108.ts
-#EXTINF:-1 group-title="SKY", UK BBC 3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/107.ts
-#EXTINF:-1 group-title="SKY", UK BBC 4
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/106.ts
-#EXTINF:-1 group-title="SKY", UK At The Races
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/110.ts
-#EXTINF:-1 group-title="SKY", UK Animal Planet
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/111.ts
-#EXTINF:-1 group-title="SKY", UK Alibi
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/112.ts
-#EXTINF:-1 group-title="SKY", UK 5 Star
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/113.ts
-#EXTINF:-1 group-title="SKY", UK 3e
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/114.ts
-#EXTINF:-1 group-title="SKY", UK  Travel Channel
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/115.ts
-#EXTINF:-1 group-title="SKY", ### SPORTS CHANNELS ###
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/240.ts
-#EXTINF:-1 group-title="SKY", SPORTS Sport Klub 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/243.ts
-#EXTINF:-1 group-title="SKY", SPORTS Sport Klub 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/242.ts
-#EXTINF:-1 group-title="SKY", SPORTS Sport Klub 3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/241.ts
-#EXTINF:-1 group-title="SKY", SPORTS LIG TV1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/246.ts
-#EXTINF:-1 group-title="SKY", SPORTS LIG TV2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/245.ts
-#EXTINF:-1 group-title="SKY", SPORTS LIG TV3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/244.ts
-#EXTINF:-1 group-title="SKY", SPORTS Arena sport 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/254.ts
-#EXTINF:-1 group-title="SKY", SPORTS Arena sport 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/253.ts
-#EXTINF:-1 group-title="SKY", SPORTS Arena sport 3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/252.ts
-#EXTINF:-1 group-title="SKY", SPORTS Arena sport 4
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/251.ts
-#EXTINF:-1 group-title="SKY", SPORTS Arena sport 5
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/250.ts
-#EXTINF:-1 group-title="SKY", ########SPAIN######
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/641.ts
-#EXTINF:-1 group-title="SKY", SPAIN: SPORT Mania
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/463.ts
-#EXTINF:-1 group-title="SKY", SPAIN: Nova Spain
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/464.ts
-#EXTINF:-1 group-title="SKY", SPAIN: National Geographic Wild Spain
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/465.ts
-#EXTINF:-1 group-title="SKY", SPAIN: National Geographic Spain
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/466.ts
-#EXTINF:-1 group-title="SKY", SPAIN: MTV Spain
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/467.ts
-#EXTINF:-1 group-title="SKY", SPAIN: Hollywood Spain
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/468.ts
-#EXTINF:-1 group-title="SKY", SPAIN: History
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/469.ts
-#EXTINF:-1 group-title="SKY", SPAIN: GOL TV
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/470.ts
-#EXTINF:-1 group-title="SKY", SPAIN: Fox Spain
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/471.ts
-#EXTINF:-1 group-title="SKY", SPAIN: Fox Crime Spain
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/472.ts
-#EXTINF:-1 group-title="SKY", SPAIN: FDF Spain
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/473.ts
-#EXTINF:-1 group-title="SKY", SPAIN: Energy Spain
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/474.ts
-#EXTINF:-1 group-title="SKY", SPAIN: Disney XD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/475.ts
-#EXTINF:-1 group-title="SKY", SPAIN: Disney Channel
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/476.ts
-#EXTINF:-1 group-title="SKY", SPAIN: Canal   Toros
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/477.ts
-#EXTINF:-1 group-title="SKY", SPAIN: Canal   Liga
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/479.ts
-#EXTINF:-1 group-title="SKY", SPAIN: Canal   Golf
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/480.ts
-#EXTINF:-1 group-title="SKY", SPAIN: Canal   Futbol
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/481.ts
-#EXTINF:-1 group-title="SKY", SPAIN: Canal   Dcine
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/482.ts
-#EXTINF:-1 group-title="SKY", SPAIN: Canal   Comedia
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/483.ts
-#EXTINF:-1 group-title="SKY", SPAIN: Canal   1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/484.ts
-#EXTINF:-1 group-title="SKY", SPAIN: Boing Spain
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/485.ts
-#EXTINF:-1 group-title="SKY", SPAIN: Barca TV
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/486.ts
-#EXTINF:-1 group-title="SKY", SPAIN: AXN White Spain
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/487.ts
-#EXTINF:-1 group-title="SKY", SPAIN: AXN Spain
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/488.ts
-#EXTINF:-1 group-title="SKY", SPAIN: A&E Spain
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/489.ts
-#EXTINF:-1 group-title="SKY", #### PT ########
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/640.ts
-#EXTINF:-1 group-title="SKY", PT EUROSPORT 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/690.ts
-#EXTINF:-1 group-title="SKY", PT Euro News
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/701.ts
-#EXTINF:-1 group-title="SKY", PT BBC
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/694.ts
-#EXTINF:-1 group-title="SKY", PT AXN White
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/695.ts
-#EXTINF:-1 group-title="SKY", PT: TVI
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/417.ts
-#EXTINF:-1 group-title="SKY", PT: TVCine 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/421.ts
-#EXTINF:-1 group-title="SKY", PT: TVCine 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/420.ts
-#EXTINF:-1 group-title="SKY", PT: TVCine 3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/419.ts
-#EXTINF:-1 group-title="SKY", PT: TVCine 4
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/418.ts
-#EXTINF:-1 group-title="SKY", PT: TV Record
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/422.ts
-#EXTINF:-1 group-title="SKY", PT: Syfy
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/423.ts
-#EXTINF:-1 group-title="SKY", PT: SIC Noticias
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/424.ts
-#EXTINF:-1 group-title="SKY", PT: SIC K
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/425.ts
-#EXTINF:-1 group-title="SKY", PT: SIC
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/426.ts
-#EXTINF:-1 group-title="SKY", PT: RTP 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/428.ts
-#EXTINF:-1 group-title="SKY", PT: RTP 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/427.ts
-#EXTINF:-1 group-title="SKY", PT: PFC
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/429.ts
-#EXTINF:-1 group-title="SKY", PT: Odisseia
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/430.ts
-#EXTINF:-1 group-title="SKY", PT: Nat. Geographic
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/431.ts
-#EXTINF:-1 group-title="SKY", PT: TV GLOBO PREMIUM
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/433.ts
-#EXTINF:-1 group-title="SKY", PT: FOX
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/434.ts
-#EXTINF:-1 group-title="SKY", PT: CM TV
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/436.ts
-#EXTINF:-1 group-title="SKY", PT: Canal Panda
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/438.ts
-#EXTINF:-1 group-title="SKY", PT: Canal Historia
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/439.ts
-#EXTINF:-1 group-title="SKY", PT: A BOLA TV
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/440.ts
-#EXTINF:-1 group-title="SKY", PT Sport TV 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/415.ts
-#EXTINF:-1 group-title="SKY", IT Rai Sport 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/676.ts
-#EXTINF:-1 group-title="SKY", IT Rai Sport 2 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/677.ts
-#EXTINF:-1 group-title="SKY", PT Benfica TV1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/416.ts
-#EXTINF:-1 group-title="SKY", PT: BENFICA 2 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/674.ts
-#EXTINF:-1 group-title="SKY", PT : Discovery Channel
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/442.ts
-#EXTINF:-1 group-title="SKY", PT : Cinemundo
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/443.ts
-#EXTINF:-1 group-title="SKY", ####### NEDHERLAND #######
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/175.ts
-#EXTINF:-1 group-title="SKY", Sport1 Voetbal HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/516.ts
-#EXTINF:-1 group-title="SKY", RTL 4 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/515.ts
-#EXTINF:-1 group-title="SKY", Omroep Zeeland
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/519.ts
-#EXTINF:-1 group-title="SKY", NPO 1 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/511.ts
-#EXTINF:-1 group-title="SKY", NPO 2 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/182.ts
-#EXTINF:-1 group-title="SKY", NPO 3 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/176.ts
-#EXTINF:-1 group-title="SKY", HBO 1 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/512.ts
-#EXTINF:-1 group-title="SKY", HBO 2 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/513.ts
-#EXTINF:-1 group-title="SKY", HBO 3 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/514.ts
-#EXTINF:-1 group-title="SKY", National Geographic Channel HD NL
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/521.ts
-#EXTINF:-1 group-title="SKY", Fox Sports 4 Internationaal
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/526.ts
-#EXTINF:-1 group-title="SKY", Fox Sports 3 Eredivisie
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/525.ts
-#EXTINF:-1 group-title="SKY", Fox Sports 2 International
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/524.ts
-#EXTINF:-1 group-title="SKY", Fox Sports 1 Usa
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/522.ts
-#EXTINF:-1 group-title="SKY", Fox Sports 1 Eredivisie HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/523.ts
-#EXTINF:-1 group-title="SKY", Film 1 SunDase
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/528.ts
-#EXTINF:-1 group-title="SKY", Disney Channel NL
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/533.ts
-#EXTINF:-1 group-title="SKY", PINK HORROR
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/341.ts
-#EXTINF:-1 group-title="SKY", PINK comedy
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/346.ts
 
-#EXTINF:-1 group-title="SKY", CINE CLASSIC
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/263.ts
-#EXTINF:-1 group-title="SKY", Cartoon Network
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/265.ts
-#EXTINF:-1 group-title="SKY", Canal 9
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/266.ts
-#EXTINF:-1 group-title="SKY", C More Live
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/267.ts
-#EXTINF:-1 group-title="SKY", C more Action
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/268.ts
-#EXTINF:-1 group-title="SKY", ### GERMAN: SKY DE ###
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/293.ts
-#EXTINF:-1 group-title="SKY", DE: N24
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/295.ts
-#EXTINF:-1 group-title="SKY", DE: AXN
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/297.ts
-#EXTINF:-1 group-title="SKY", DE: ATV 24
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/298.ts
-#EXTINF:-1 group-title="SKY", DE: ARTE.DE
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/299.ts
-#EXTINF:-1 group-title="SKY", DE: ARD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/300.ts
-#EXTINF:-1 group-title="SKY", DE ZDF
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/306.ts
-#EXTINF:-1 group-title="SKY", DE VOX
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/307.ts
-#EXTINF:-1 group-title="SKY", DE SRF 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/308.ts
-#EXTINF:-1 group-title="SKY", DE SPORT TIME TV 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/314.ts
-#EXTINF:-1 group-title="SKY", DE SPORT TIME TV 3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/313.ts
-#EXTINF:-1 group-title="SKY", DE SPORT TIME TV 4
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/312.ts
-#EXTINF:-1 group-title="SKY", DE SPORT TIME TV 5
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/311.ts
-#EXTINF:-1 group-title="SKY", DE SPORT TIME TV 6
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/310.ts
-#EXTINF:-1 group-title="SKY", DE SPORT TIME TV 7
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/309.ts
-#EXTINF:-1 group-title="SKY", DE Sky Sport 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/316.ts
-#EXTINF:-1 group-title="SKY", DE Sky Sport 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/315.ts
-#EXTINF:-1 group-title="SKY", DE SKY Cinema  24
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/317.ts
-#EXTINF:-1 group-title="SKY", DE SKY Cinema
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/318.ts
-#EXTINF:-1 group-title="SKY", DE SKY Bundesliga
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/319.ts
-#EXTINF:-1 group-title="SKY", DE Sat 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/321.ts
-#EXTINF:-1 group-title="SKY", DE RTL 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/322.ts
-#EXTINF:-1 group-title="SKY", DE RTL
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/323.ts
-#EXTINF:-1 group-title="SKY", DE Pro 7
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/324.ts
-#EXTINF:-1 group-title="SKY", DE Sky.National.GeographicHD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/686.ts
-#EXTINF:-1 group-title="SKY", DE National Geographic
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/325.ts
-#EXTINF:-1 group-title="SKY", DE Nat Geo wild
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/326.ts
-#EXTINF:-1 group-title="SKY", DE Kabel 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/327.ts
-#EXTINF:-1 group-title="SKY", DE FOX life
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/328.ts
-#EXTINF:-1 group-title="SKY", D-sky emotion
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/302.ts
-#EXTINF:-1 group-title="SKY", D-sky comedy
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/303.ts
-#EXTINF:-1 group-title="SKY", D-sky action
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/305.ts
-#EXTINF:-1 group-title="SKY", DE: Sky Germany Select 1 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/504.ts
-#EXTINF:-1 group-title="SKY", DE: Sky Germany Select 2 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/505.ts
-#EXTINF:-1 group-title="SKY", DE: Sky Germany Select 3 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/506.ts
-#EXTINF:-1 group-title="SKY", DE: Sky Germany Select 4 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/507.ts
-#EXTINF:-1 group-title="SKY", DE: Sky Germany Select 5 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/508.ts
-#EXTINF:-1 group-title="SKY", DE: Sky Germany Select 6 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/509.ts
-#EXTINF:-1 group-title="SKY", Skyde Cinema 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/294.ts
-#EXTINF:-1 group-title="SKY", RTL 8 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/179.ts
-#EXTINF:-1 group-title="SKY", RTL 7 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/180.ts
-#EXTINF:-1 group-title="SKY", RTL 5 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/181.ts
-#EXTINF:-1 group-title="SKY", DIGIRO-DIGI SPORT 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/607.ts
-#EXTINF:-1 group-title="SKY", ### BEIN SPORT CHANNELS ###
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/329.ts
-#EXTINF:-1 group-title="SKY", BEIN SPORTS 1 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/491.ts
-#EXTINF:-1 group-title="SKY", BEIN SPORTS 2 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/492.ts
-#EXTINF:-1 group-title="SKY", BEIN SPORTS 3 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/493.ts
-#EXTINF:-1 group-title="SKY", BEIN SPORTS 4 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/494.ts
-#EXTINF:-1 group-title="SKY", BEIN SPORTS 5 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/495.ts
-#EXTINF:-1 group-title="SKY", BEIN SPORTS 6 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/496.ts
-#EXTINF:-1 group-title="SKY", BEIN SPORTS 7 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/497.ts
-#EXTINF:-1 group-title="SKY", BEIN SPORTS 8 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/498.ts
-#EXTINF:-1 group-title="SKY", BEIN SPORTS 9 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/499.ts
-#EXTINF:-1 group-title="SKY", BEIN SPORTS 10 HD
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/500.ts
-#EXTINF:-1 group-title="SKY", #####Russia#####
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/638.ts
-#EXTINF:-1 group-title="SKY", Russia SPORT
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/444.ts
-#EXTINF:-1 group-title="SKY", Russia Foxlife
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/445.ts
-#EXTINF:-1 group-title="SKY", Russia Fox
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/446.ts
-#EXTINF:-1 group-title="SKY", Russia Eurosport
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/448.ts
-#EXTINF:-1 group-title="SKY", Russia Eurosport 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/447.ts
-#EXTINF:-1 group-title="SKY", Rusia Russia 24
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/450.ts
-#EXTINF:-1 group-title="Premium",DE: TNTSerie DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2998.ts
-#EXTINF:-1 group-title="Premium",DE: TheMGMChannel DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2996.ts
-#EXTINF:-1 group-title="Premium",DE: SyfyDeutschland DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3006.ts
-#EXTINF:-1 group-title="Premium",DE: Sky Sport5 DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3012.ts
-#EXTINF:-1 group-title="Premium",DE: Sky Sport3 DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2989.ts
-#EXTINF:-1 group-title="Premium",DE: Sky Sport News DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2991.ts
-#EXTINF:-1 group-title="Premium",DE: Sky Sport Austria DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3000.ts
-#EXTINF:-1 group-title="Premium",DE: Sky Sport 4 DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3011.ts
-#EXTINF:-1 group-title="Premium",DE: Sky Sport 2HD DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2982.ts
-#EXTINF:-1 group-title="Premium",DE: Sky Sport 1HD DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2981.ts
-#EXTINF:-1 group-title="Premium",DE: Sky Nostalgie DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2983.ts
-#EXTINF:-1 group-title="Premium",DE: Sky Krimi DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2978.ts
-#EXTINF:-1 group-title="Premium",DE: Sky Emotion DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2987.ts
-#EXTINF:-1 group-title="Premium",DE: Sky Comedy DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2984.ts
-#EXTINF:-1 group-title="Premium",DE: Sky Cinema DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2985.ts
-#EXTINF:-1 group-title="Premium",DE: Sky Cinema 24 DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2988.ts
-#EXTINF:-1 group-title="Premium",DE: Sky Cinema 1 DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2986.ts
-#EXTINF:-1 group-title="Premium",DE: Sky Bundesliga4 DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3014.ts
-#EXTINF:-1 group-title="Premium",DE: Sky Bundesliga3 DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3013.ts
-#EXTINF:-1 group-title="Premium",DE: Sky Bundesliga2 DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3009.ts
-#EXTINF:-1 group-title="Premium",DE: Sky Bundesliga1 DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2990.ts
-#EXTINF:-1 group-title="Premium",DE: Sky Atlantic DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2979.ts
-#EXTINF:-1 group-title="Premium",DE: Sky Action DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2977.ts
-#EXTINF:-1 group-title="Premium",DE: Sky 007 DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2980.ts
-#EXTINF:-1 group-title="Premium",DE: RTLCrime DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2999.ts
-#EXTINF:-1 group-title="Premium",DE: RTL Passion
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2995.ts
-#EXTINF:-1 group-title="Premium",DE: National Geographic Channel DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2994.ts
-#EXTINF:-1 group-title="Premium",DE: NatGeoWild DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3005.ts
-#EXTINF:-1 group-title="Premium",DE: MotorvisionTV DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3008.ts
-#EXTINF:-1 group-title="Premium",DE: Junior DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3015.ts
-#EXTINF:-1 group-title="Premium",DE: Juke box
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2992.ts
-#EXTINF:-1 group-title="Premium",DE: Heimatkanal DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3003.ts
-#EXTINF:-1 group-title="Premium",DE: GoldStarTV DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3001.ts
-#EXTINF:-1 group-title="Premium",DE: Fox Serie DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3004.ts
-#EXTINF:-1 group-title="Premium",DE: DisneyXD DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2997.ts
-#EXTINF:-1 group-title="Premium",DE: DisneyCinemagic DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3010.ts
-#EXTINF:-1 group-title="Premium",DE: Disney Junior DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3016.ts
-#EXTINF:-1 group-title="Premium",DE: Discovery Channel DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2993.ts
-#EXTINF:-1 group-title="Premium",DE: Classica Deutschland DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3002.ts
-#EXTINF:-1 group-title="Premium",DE: 13thStreet DE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3007.ts
-#EXTINF:-1 group-title="Premium",EXYU: ZDRAVA TV
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2898.ts
-#EXTINF:-1 group-title="Premium",EXYU: Slon
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2911.ts
-#EXTINF:-1 group-title="Premium",EXYU: POSAVINA TV
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2925.ts
-#EXTINF:-1 group-title="Premium",EXYU: Pink Zabava
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2913.ts
-#EXTINF:-1 group-title="Premium",EXYU: Pink World Cinema
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2932.ts
-#EXTINF:-1 group-title="Premium",EXYU: PINK WESTERN
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2907.ts
-#EXTINF:-1 group-title="Premium",EXYU: PINK SUPER KIDS
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2935.ts
-#EXTINF:-1 group-title="Premium",EXYU: PINK STYLE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2908.ts
-#EXTINF:-1 group-title="Premium",EXYU: PINK SOAP
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2900.ts
-#EXTINF:-1 group-title="Premium",EXYU: PINK SHOW
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2936.ts
-#EXTINF:-1 group-title="Premium",EXYU: PINK SERIJE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2933.ts
-#EXTINF:-1 group-title="Premium",EXYU: PINK REALITY
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2902.ts
-#EXTINF:-1 group-title="Premium",EXYU: PINK PLUS
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2897.ts
-#EXTINF:-1 group-title="Premium",EXYU: PINK PEDIA
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2901.ts
-#EXTINF:-1 group-title="Premium",EXYU: PINK MUSIC3
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2903.ts
-#EXTINF:-1 group-title="Premium",EXYU: Pink music 5
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2926.ts
-#EXTINF:-1 group-title="Premium",EXYU: Pink Music 4
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2928.ts
-#EXTINF:-1 group-title="Premium",EXYU: Pink Music 2
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2927.ts
-#EXTINF:-1 group-title="Premium",EXYU: PINK MUSIC
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2930.ts
-#EXTINF:-1 group-title="Premium",EXYU: PINK MOVIES 3
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2896.ts
-#EXTINF:-1 group-title="Premium",EXYU: PINK MOVIES 2
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2895.ts
-#EXTINF:-1 group-title="Premium",EXYU: PINK MOVIES
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2931.ts
-#EXTINF:-1 group-title="Premium",EXYU: PINK M
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2922.ts
-#EXTINF:-1 group-title="Premium",EXYU: PINK LIVE
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2904.ts
-#EXTINF:-1 group-title="Premium",EXYU: PINK KUVAR
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2934.ts
-#EXTINF:-1 group-title="Premium",EXYU: Pink Kids
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2912.ts
-#EXTINF:-1 group-title="Premium",EXYU: PINK HORROR
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2899.ts
-#EXTINF:-1 group-title="Premium",EXYU: PINK FOLK 2
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2920.ts
-#EXTINF:-1 group-title="Premium",EXYU: Pink Film
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2914.ts
-#EXTINF:-1 group-title="Premium",EXYU: PINK FASHION
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2909.ts
-#EXTINF:-1 group-title="Premium",EXYU: Pink Family
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2916.ts
-#EXTINF:-1 group-title="Premium",EXYU: pink extra
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2921.ts
-#EXTINF:-1 group-title="Premium",EXYU: PINK EROTIK 4
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2905.ts
-#EXTINF:-1 group-title="Premium",EXYU: PINK EROTIK 3
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2919.ts
-#EXTINF:-1 group-title="Premium",EXYU: PINK EROTIK 2
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2918.ts
-#EXTINF:-1 group-title="Premium",EXYU: PINK EROTIK 1
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2917.ts
-#EXTINF:-1 group-title="Premium",EXYU: PINK CLASSIC
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2929.ts
-#EXTINF:-1 group-title="Premium",EXYU: PINK BH
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2906.ts
-#EXTINF:-1 group-title="Premium",EXYU: PINK ACTION 3
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2894.ts
-#EXTINF:-1 group-title="Premium",EXYU: PINK ACTION 2
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2893.ts
-#EXTINF:-1 group-title="Premium",EXYU: Pink Action
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2915.ts
-#EXTINF:-1 group-title="Premium",EXYU: PINK 3
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2892.ts
-#EXTINF:-1 group-title="Premium",EXYU: PINK 2
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2891.ts
-#EXTINF:-1 group-title="Premium",EXYU: PINK
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2890.ts
-#EXTINF:-1 group-title="Premium",EXYU: kanal 6
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2923.ts
-#EXTINF:-1 group-title="Premium",EXYU: DUGA TV
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2924.ts
-#EXTINF:-1 group-title="Premium",EXYU: BRAVO MUSIC
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2910.ts
-#EXTINF:-1 group-title="Premium",UK: Yesterday
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2738.ts
-#EXTINF:-1 group-title="Premium",UK: Watch UK
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2739.ts
-#EXTINF:-1 group-title="Premium",UK: Vh1 Classic
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2754.ts
-#EXTINF:-1 group-title="Premium",UK: True Movies 2
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2755.ts
-#EXTINF:-1 group-title="Premium",UK: True Movies 1
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2756.ts
-#EXTINF:-1 group-title="Premium",UK: TLC
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2757.ts
-#EXTINF:-1 group-title="Premium",UK: Tiny Pop
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2758.ts
-#EXTINF:-1 group-title="Premium",UK: Sy-Fy
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2740.ts
-#EXTINF:-1 group-title="Premium",UK: Sky Two
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2759.ts
-#EXTINF:-1 group-title="Premium",UK: Sky Thriller
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2760.ts
-#EXTINF:-1 group-title="Premium",UK: Sky Sports News HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2761.ts
-#EXTINF:-1 group-title="Premium",UK: Sky Sport F1 HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2762.ts
-#EXTINF:-1 group-title="Premium",UK: SKY SPORT 5 HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2763.ts
-#EXTINF:-1 group-title="Premium",UK: Sky Sport 4 HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2764.ts
-#EXTINF:-1 group-title="Premium",UK: Sky Sport 3 HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2765.ts
-#EXTINF:-1 group-title="Premium",UK: SKY SPORT 2HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2766.ts
-#EXTINF:-1 group-title="Premium",UK: SKY SPORT 1 HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2767.ts
-#EXTINF:-1 group-title="Premium",UK: Sky Sport 1
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2768.ts
-#EXTINF:-1 group-title="Premium",UK: Sky Sci-Fi
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2769.ts
-#EXTINF:-1 group-title="Premium",UK: Sky pop
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2770.ts
-#EXTINF:-1 group-title="Premium",UK: Sky One
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2771.ts
-#EXTINF:-1 group-title="Premium",UK: Sky News
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2772.ts
-#EXTINF:-1 group-title="Premium",UK: Sky Movies Thriller HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2773.ts
-#EXTINF:-1 group-title="Premium",UK: Sky Movies ShowCase
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2741.ts
-#EXTINF:-1 group-title="Premium",UK: Sky Movies Sci-Fi HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2774.ts
-#EXTINF:-1 group-title="Premium",UK: Sky Movies Premiere HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2775.ts
-#EXTINF:-1 group-title="Premium",UK: Sky Movies Modern Great HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2742.ts
-#EXTINF:-1 group-title="Premium",UK: Sky Movies Modern Great
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2776.ts
-#EXTINF:-1 group-title="Premium",UK: Sky Movies Family HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2743.ts
-#EXTINF:-1 group-title="Premium",UK: Sky Movies Drama HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2777.ts
-#EXTINF:-1 group-title="Premium",UK: Sky Movies Disney HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2744.ts
-#EXTINF:-1 group-title="Premium",UK: Sky Movies Action HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2778.ts
-#EXTINF:-1 group-title="Premium",UK: Sky MOVIE Drama
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2779.ts
-#EXTINF:-1 group-title="Premium",UK: Sky Living
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2780.ts
-#EXTINF:-1 group-title="Premium",UK: Sky Family
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2781.ts
-#EXTINF:-1 group-title="Premium",UK: Sky Disney
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2782.ts
-#EXTINF:-1 group-title="Premium",UK: Sky Comedy
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2783.ts
-#EXTINF:-1 group-title="Premium",UK: Sky Atlantic
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2784.ts
-#EXTINF:-1 group-title="Premium",UK: Sky Arts 1
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2785.ts
-#EXTINF:-1 group-title="Premium",UK: Setanta Sport
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2786.ts
-#EXTINF:-1 group-title="Premium",UK: RTE 2 HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2787.ts
-#EXTINF:-1 group-title="Premium",UK: RTE 1 HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2788.ts
-#EXTINF:-1 group-title="Premium",UK: Really
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2745.ts
-#EXTINF:-1 group-title="Premium",UK: Racing
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2789.ts
-#EXTINF:-1 group-title="Premium",UK: Quest
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2746.ts
-#EXTINF:-1 group-title="Premium",UK: Premiere Sport
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2790.ts
-#EXTINF:-1 group-title="Premium",UK: Pick TV
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2747.ts
-#EXTINF:-1 group-title="Premium",UK: Nick JR
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2748.ts
-#EXTINF:-1 group-title="Premium",UK: Nick
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2791.ts
-#EXTINF:-1 group-title="Premium",UK: National Geography Wild
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2792.ts
-#EXTINF:-1 group-title="Premium",UK: NATIONAL GEOGRAPHIC
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2793.ts
-#EXTINF:-1 group-title="Premium",UK: MUTV
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2794.ts
-#EXTINF:-1 group-title="Premium",UK: Movies 4 Men
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2795.ts
-#EXTINF:-1 group-title="Premium",UK: Mototrs TV
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2796.ts
-#EXTINF:-1 group-title="Premium",UK: More4
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2749.ts
-#EXTINF:-1 group-title="Premium",UK: Living
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2797.ts
-#EXTINF:-1 group-title="Premium",UK: Horror Channel
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2798.ts
-#EXTINF:-1 group-title="Premium",UK: Home
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2799.ts
-#EXTINF:-1 group-title="Premium",UK: H2
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2800.ts
-#EXTINF:-1 group-title="Premium",UK: Good Food
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2801.ts
-#EXTINF:-1 group-title="Premium",UK: Gold
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2802.ts
-#EXTINF:-1 group-title="Premium",UK: Fox
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2803.ts
-#EXTINF:-1 group-title="Premium",UK: Food Network
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2804.ts
-#EXTINF:-1 group-title="Premium",UK: Five
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2805.ts
-#EXTINF:-1 group-title="Premium",UK: Film 4
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2806.ts
-#EXTINF:-1 group-title="Premium",UK: Eurosport 2 HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2807.ts
-#EXTINF:-1 group-title="Premium",UK: Eurosport 1 HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2808.ts
-#EXTINF:-1 group-title="Premium",UK: ESPN HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2809.ts
-#EXTINF:-1 group-title="Premium",UK: E4
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2810.ts
-#EXTINF:-1 group-title="Premium",UK: E!
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2811.ts
-#EXTINF:-1 group-title="Premium",UK: Drama
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2812.ts
-#EXTINF:-1 group-title="Premium",UK: Dmax
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2813.ts
-#EXTINF:-1 group-title="Premium",UK: Disney Junior
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2814.ts
-#EXTINF:-1 group-title="Premium",UK: Disney Channel
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2815.ts
-#EXTINF:-1 group-title="Premium",UK: Discovery World
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2816.ts
-#EXTINF:-1 group-title="Premium",UK: Discovery Turbo
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2817.ts
-#EXTINF:-1 group-title="Premium",UK: Discovery Science HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2818.ts
-#EXTINF:-1 group-title="Premium",UK: Discovery Science
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2819.ts
-#EXTINF:-1 group-title="Premium",UK: Discovery Investigation
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2820.ts
-#EXTINF:-1 group-title="Premium",UK: Discovery History
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2821.ts
-#EXTINF:-1 group-title="Premium",UK: Comedy Central
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2822.ts
-#EXTINF:-1 group-title="Premium",UK: CNN
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2750.ts
-#EXTINF:-1 group-title="Premium",UK: Channel 5
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2823.ts
-#EXTINF:-1 group-title="Premium",UK: Channel 4
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2824.ts
-#EXTINF:-1 group-title="Premium",UK: CBS Reality
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2825.ts
-#EXTINF:-1 group-title="Premium",UK: CBS Drama
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2826.ts
-#EXTINF:-1 group-title="Premium",UK: CBS Action
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2827.ts
-#EXTINF:-1 group-title="Premium",UK: Cartoon NetWork
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2828.ts
-#EXTINF:-1 group-title="Premium",UK: BT Sports 2 HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2829.ts
-#EXTINF:-1 group-title="Premium",UK: BT Sports 1
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2830.ts
-#EXTINF:-1 group-title="Premium",UK: Box Nation
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2831.ts
-#EXTINF:-1 group-title="Premium",UK: Bomerang
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2832.ts
-#EXTINF:-1 group-title="Premium",UK: BBC NEWS SD/HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2833.ts
-#EXTINF:-1 group-title="Premium",UK: BBC 4 HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2751.ts
-#EXTINF:-1 group-title="Premium",UK: BBC 1 HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2752.ts
-#EXTINF:-1 group-title="Premium",UK: Animal Planet
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2834.ts
-#EXTINF:-1 group-title="Premium",UK: Alibi
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2835.ts
-#EXTINF:-1 group-title="Premium",UK: 4 seven
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2753.ts
-#EXTINF:-1 group-title="Premium",UK: 3E
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2836.ts
-#EXTINF:-1 group-title="Premium",IT: Sky Uno HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2685.ts
-#EXTINF:-1 group-title="Premium",IT: Sky TG 24
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2686.ts
-#EXTINF:-1 group-title="Premium",IT: Sky Supercalcio HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2687.ts
-#EXTINF:-1 group-title="Premium",IT: Sky Sport F1 HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2688.ts
-#EXTINF:-1 group-title="Premium",IT: Sky Sport 3 HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2689.ts
-#EXTINF:-1 group-title="Premium",IT: Sky Sport 24 HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2690.ts
-#EXTINF:-1 group-title="Premium",IT: Sky Sport 2 HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2691.ts
-#EXTINF:-1 group-title="Premium",IT: Sky Sport 1 HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2692.ts
-#EXTINF:-1 group-title="Premium",IT: Sky Moto GP HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2693.ts
-#EXTINF:-1 group-title="Premium",IT: Sky Cinema Passion HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2694.ts
-#EXTINF:-1 group-title="Premium",IT: Sky Cinema Max HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2695.ts
-#EXTINF:-1 group-title="Premium",IT: Sky Cinema Family HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2696.ts
-#EXTINF:-1 group-title="Premium",IT: Sky Cinema Cult HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2697.ts
-#EXTINF:-1 group-title="Premium",IT: Sky Cinema Comedy HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2698.ts
-#EXTINF:-1 group-title="Premium",IT: Sky Cinema 1 HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2699.ts
-#EXTINF:-1 group-title="Premium",IT: Sky Cinema  24 HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2700.ts
-#EXTINF:-1 group-title="Premium",IT: Sky Calcio 7 HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2701.ts
-#EXTINF:-1 group-title="Premium",IT: Sky Calcio 6 HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2702.ts
-#EXTINF:-1 group-title="Premium",IT: Sky Calcio 4 HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2703.ts
-#EXTINF:-1 group-title="Premium",IT: Sky Calcio 3 HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2704.ts
-#EXTINF:-1 group-title="Premium",IT: Sky Calcio 2 HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2705.ts
-#EXTINF:-1 group-title="Premium",IT: Sky Calcio 1 HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2706.ts
-#EXTINF:-1 group-title="Premium",IT: Sky Atlantic HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2707.ts
-#EXTINF:-1 group-title="Premium",IT: Sky Arte HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2708.ts
-#EXTINF:-1 group-title="Premium",IT: Premium Studio Universal
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2709.ts
-#EXTINF:-1 group-title="Premium",IT: Premium Stories
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2710.ts
-#EXTINF:-1 group-title="Premium",IT: Premium Sport HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2711.ts
-#EXTINF:-1 group-title="Premium",IT: Premium Joy
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2712.ts
-#EXTINF:-1 group-title="Premium",IT: Premium Energy
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2713.ts
-#EXTINF:-1 group-title="Premium",IT: Premium Emotion
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2714.ts
-#EXTINF:-1 group-title="Premium",IT: Premium Disney Junior  1
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2715.ts
-#EXTINF:-1 group-title="Premium",IT: Premium Disney Junior
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2716.ts
-#EXTINF:-1 group-title="Premium",IT: Premium Disney Channel
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2717.ts
-#EXTINF:-1 group-title="Premium",IT: Premium Discovery World
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2718.ts
-#EXTINF:-1 group-title="Premium",IT: Premium Crime HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2719.ts
-#EXTINF:-1 group-title="Premium",IT: Premium Crime  24
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2720.ts
-#EXTINF:-1 group-title="Premium",IT: Premium Comedy
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2721.ts
-#EXTINF:-1 group-title="Premium",IT: Premium Cinema HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2722.ts
-#EXTINF:-1 group-title="Premium",IT: Premium Cinema 2 HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2723.ts
-#EXTINF:-1 group-title="Premium",IT: Premium Cinema 2  24
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2724.ts
-#EXTINF:-1 group-title="Premium",IT: Premium Cinema  24
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2725.ts
-#EXTINF:-1 group-title="Premium",IT: Premium Cartoon Network
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2726.ts
-#EXTINF:-1 group-title="Premium",IT: Premium Calcio 7
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2727.ts
-#EXTINF:-1 group-title="Premium",IT: Premium Calcio 6
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2728.ts
-#EXTINF:-1 group-title="Premium",IT: Premium Calcio 5
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2729.ts
-#EXTINF:-1 group-title="Premium",IT: Premium Calcio 4
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2730.ts
-#EXTINF:-1 group-title="Premium",IT: Premium Calcio 3
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2731.ts
-#EXTINF:-1 group-title="Premium",IT: Premium Calcio 2 HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2732.ts
-#EXTINF:-1 group-title="Premium",IT: Premium Calcio 1 HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2733.ts
-#EXTINF:-1 group-title="Premium",IT: Premium Calcio
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2734.ts
-#EXTINF:-1 group-title="Premium",IT: Premium BBC
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2735.ts
-#EXTINF:-1 group-title="Premium",IT: Premium Action HD
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2736.ts
-#EXTINF:-1 group-title="Premium",IT: Premium Action  24
-http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2737.ts
+
 
