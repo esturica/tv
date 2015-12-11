@@ -316,7 +316,7 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
 #EXTINF:-1 tvg-id="" group-title="ESPANHA",Cuatro
 #EXTINF:-1 tvg-id="" group-title="ESPANHA",Telecinco
 #EXTINF:-1 tvg-id="" group-title="ESPANHA",La Sexta
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
+http://www.iptvsaga.com/play/tv3/0013.m3u8
 #EXTINF:-1 tvg-id="" group-title="ESPANHA",Canal +
 #EXTINF:-1 tvg-id="" group-title="ESPANHA",Canal + Series
 #EXTINF:-1 tvg-id="" group-title="ESPANHA",Canal + Series Xtra
@@ -582,23 +582,23 @@ http://skyiptv.ddns.net:8000/live/iptv1590/547879/319.m3u8
 #EXTINF:-1 group-title="ITALIA", ### ITALIA ##
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/240.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA",Rai 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/34.ts
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/34.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA",Rai 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/33.ts
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/33.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA",Rai 3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/32.ts
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/32.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA",Rete 4
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/31.ts
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/31.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA",Canale 5
-http://wownet.ro/str/0614.m3u8|X-Forwarded-For=81.17.18.50
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/87.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA",Italia 1
-http://wownet.ro/str/0615.m3u8|X-Forwarded-For=81.17.18.50
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/74.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA",LA7
-http://wownet.ro/str/0617.m3u8|X-Forwarded-For=81.17.18.50
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/73.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA",Rai 4
-http://wownet.ro/str/0623.m3u8|X-Forwarded-For=81.17.18.50
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/713.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA",Rai 5
-http://wownet.ro/str/0624.m3u8|X-Forwarded-For=81.17.18.50
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/714.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA",RSI LA 1
 http://wownet.ro/str/0601.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ITALIA",RSI LA 1 HD
@@ -614,9 +614,9 @@ http://wownet.ro/str/0609.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ITALIA",Rai Storia
 http://wownet.ro/str/0610.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ITALIA",Rai Sport 1
-http://wownet.ro/str/0611.m3u8|X-Forwarded-For=81.17.18.50
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/676.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA",Rai Sport 2
-http://wownet.ro/str/0612.m3u8|X-Forwarded-For=81.17.18.50
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/677.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA",Rai News
 http://wownet.ro/str/0613.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ITALIA",Rai Movie
@@ -626,7 +626,7 @@ http://wownet.ro/str/0622.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ITALIA",TV Moda
 http://wownet.ro/str/0616.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ITALIA",Cielo
-http://wownet.ro/str/0620.m3u8|X-Forwarded-For=81.17.18.50
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/86.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA",Tele Ticino
 http://wownet.ro/str/0618.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Iris Mediaset
@@ -646,25 +646,25 @@ http://sky-iptv.dyndns.org:8000/live/test6/test6/15.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA",Sky Uno +1
 http://sky-iptv.dyndns.org:8000/live/test6/test6/16.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Atlantic
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/29.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Atlantic +1
-http://sky-iptv.dyndns.org:8000/live/test6/test6/24.m3u8
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/29.m3u8
+#EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Arte
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/30.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Fox
-http://sky-iptv.dyndns.org:8000/live/test6/test6/17.m3u8
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/81.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Fox +1
 http://sky-iptv.dyndns.org:8000/live/test6/test6/18.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Fox Life
-http://sky-iptv.dyndns.org:8000/live/test6/test6/19.m3u8
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/77.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Fox Crime
-http://sky-iptv.dyndns.org:8000/live/test6/test6/21.m3u8
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/78.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Fox Crime +1
 http://sky-iptv.dyndns.org:8000/live/test6/test6/22.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA",AXN
-http://sky-iptv.dyndns.org:8000/live/test6/test6/28.m3u8
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/88.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Fox Animation
-http://sky-iptv.dyndns.org:8000/live/test6/test6/26.m3u8
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/80.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA",Fox Comedy
-http://sky-iptv.dyndns.org:8000/live/test6/test6/27.m3u8
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/79.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA",Real Time
 http://sky-iptv.dyndns.org:8000/live/test6/test6/463.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA",AXN Sci-Fi
@@ -673,38 +673,40 @@ http://sky-iptv.dyndns.org:8000/live/test6/test6/464.m3u8
 http://sky-iptv.dyndns.org:8000/live/test6/test6/465.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Gambero Rosso
 http://sky-iptv.dyndns.org:8000/live/test6/test6/466.m3u8
-#EXTINF:-1 tvg-id="" group-title="ITALIA",136::Dmax
+#EXTINF:-1 tvg-id="" group-title="ITALIA", Dmax
 http://sky-iptv.dyndns.org:8000/live/test6/test6/616.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", BBC Knowledge
-http://sky-iptv.dyndns.org:8000/live/test6/test6/131.m3u8
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/69.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Discovery Channel
-http://sky-iptv.dyndns.org:8000/live/test6/test6/60.m3u8
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/85.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", National Geographic
-http://sky-iptv.dyndns.org:8000/live/test6/test6/61.m3u8
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/71.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Animal Planet
 http://sky-iptv.dyndns.org:8000/live/test6/test6/631.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Discovery Science
-http://sky-iptv.dyndns.org:8000/live/test6/test6/62.m3u8
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/84.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Discovery Travel & Living
 http://sky-iptv.dyndns.org:8000/live/test6/test6/63.m3u8
+#EXTINF:-1 tvg-id="" group-title="ITALIA", Discovery World
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/83.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Nat Geo People
 http://sky-iptv.dyndns.org:8000/live/test6/test6/64.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Nat Geo Wild
-http://sky-iptv.dyndns.org:8000/live/test6/test6/65.m3u8
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/72.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Crime & Investigation
 http://sky-iptv.dyndns.org:8000/live/test6/test6/68.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", History
-http://sky-iptv.dyndns.org:8000/live/test6/test6/623.m3u8
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/75.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Arte
 http://sky-iptv.dyndns.org:8000/live/test6/test6/624.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Disney Channel
-http://sky-iptv.dyndns.org:8000/live/test6/test6/72.m3u8
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/60.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Man-Ga
 http://sky-iptv.dyndns.org:8000/live/test6/test6/73.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Cartoon Network
 http://sky-iptv.dyndns.org:8000/live/test6/test6/75.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Disney Jr.
-http://sky-iptv.dyndns.org:8000/live/test6/test6/77.m3u8
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/59.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Disney XD +1
 http://sky-iptv.dyndns.org:8000/live/test6/test6/632.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Boing
@@ -712,45 +714,37 @@ http://sky-iptv.dyndns.org:8000/live/test6/test6/626.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Boomerang
 http://sky-iptv.dyndns.org:8000/live/test6/test6/639.m3u8
 #EXTINF:-1 tvg-id="Tgcom24.it" group-title="ITALIA", Mediaset TGCOM 24
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/6.ts
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/6.m3u8
 #EXTINF:-1 tvg-id="SkyTG24DTT.it" group-title="ITALIA", SKY TG 24
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/7.ts
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/7.m3u8
 #EXTINF:-1 tvg-id="SKYSport24.it" group-title="ITALIA", Sky Sport 24
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/12.ts
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/12.m3u8
 #EXTINF:-1 tvg-id="SKYSport1.it" group-title="ITALIA", Sky Sport 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/14.ts
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/14.m3u8
 #EXTINF:-1 tvg-id="SKYSport2.it" group-title="ITALIA", Sky Sport 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/13.ts
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/13.m3u8
 #EXTINF:-1 tvg-id="SKYSport3.it" group-title="ITALIA", Sky Sport 3
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/11.ts
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/11.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Sport 4
-http://sky-iptv.dyndns.org:8000/live/test6/test6/36.m3u8
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/715.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Fox Sports
-http://sky-iptv.dyndns.org:8000/live/test6/test6/39.m3u8
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/76.ts
 #EXTINF:-1 tvg-id="SkySportPlus.it" group-title="ITALIA", Sky Sport Plus
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/9.ts
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/9.m3u8
 #EXTINF:-1 tvg-id="SkySupercalcio.it" group-title="ITALIA", Sky Sport Calcio
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/8.ts
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/8.m3u8
 #EXTINF:-1 tvg-id="SkySportF1.it" group-title="ITALIA",Sky Sport F1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/2.ts
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/2.m3u8
 #EXTINF:-1 tvg-id="SkySportMotoGP.it" group-title="ITALIA", Sky Sport MotoGP
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/16.ts
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/16.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Super Tennis
-http://sky-iptv.dyndns.org:8000/live/test6/test6/41.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Eurosport
-http://sky-iptv.dyndns.org:8000/live/test6/test6/42.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Eurosport 2
-http://sky-iptv.dyndns.org:8000/live/test6/test6/629.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Juventus Tv
-http://sky-iptv.dyndns.org:8000/live/test6/test6/460.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Roma Tv
-http://sky-iptv.dyndns.org:8000/live/test6/test6/741.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Milan Channel
-http://sky-iptv.dyndns.org:8000/live/test6/test6/461.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Inter Channel
-http://sky-iptv.dyndns.org:8000/live/test6/test6/462.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Lazio Style
-http://sky-iptv.dyndns.org:8000/live/test6/test6/742.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Calcio 1
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/26.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Calcio 2
@@ -758,62 +752,107 @@ http://skyiptv.ddns.net:8000/live/iptv1590/547879/27.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Calcio 3
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/28.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Calcio 4
-http://sky-iptv.dyndns.org:8000/live/test6/test6/54.m3u8
-#EXTINF:-1 tvg-id="" group-title="ITALIA",255:: Sky Calcio 5
-http://sky-iptv.dyndns.org:8000/live/test6/test6/55.m3u8
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/82.ts
+#EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Calcio 5
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Calcio 6
-http://sky-iptv.dyndns.org:8000/live/test6/test6/56.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Calcio 7
-http://sky-iptv.dyndns.org:8000/live/test6/test6/57.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Calcio 8
-http://sky-iptv.dyndns.org:8000/live/test6/test6/58.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Premium Sport
-http://sky-iptv.dyndns.org:8000/live/test6/test6/136.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Premium Calcio
-http://sky-iptv.dyndns.org:8000/live/test6/test6/138.m3u8
-#EXTINF:-1 tvg-id="" group-title="ITALIA", PI24[]/COLOR]
-http://sky-iptv.dyndns.org:8000/live/test6/test6/487.m3u8
-#EXTINF:-1 tvg-id="" group-title="ITALIA", Caccia
-http://sky-iptv.dyndns.org:8000/live/test6/test6/488.m3u8
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/68.ts
+#EXTINF:-1 tvg-id="" group-title="ITALIA", Premium Calcio 1
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/67.ts
+#EXTINF:-1 tvg-id="" group-title="ITALIA", Premium Calcio 2
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/66.ts
+#EXTINF:-1 tvg-id="" group-title="ITALIA", Premium Calcio 3
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/678.ts
+#EXTINF:-1 tvg-id="" group-title="ITALIA", Premium Calcio 4
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/679.ts
+#EXTINF:-1 tvg-id="" group-title="ITALIA", Premium Calcio 5
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/680.ts
+#EXTINF:-1 tvg-id="" group-title="ITALIA", Premium Calcio 6
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/681.ts
+#EXTINF:-1 tvg-id="" group-title="ITALIA", PI24
+#EXTINF:-1 tvg-id="" group-title="ITALIA", Caccia e Pesca
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/719.m3u8
 #EXTINF:-1 tvg-id="SKYCinema1.it" group-title="ITALIA", Sky Cinema 1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/24.ts
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/24.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Cinema 1 +1
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Cinema +24
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/25.ts
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/25.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Cinema 007
 http://sky-iptv.dyndns.org:8000/live/test6/test6/7.m3u8
 #EXTINF:-1 tvg-id="CinemaFamily.it" group-title="ITALIA",: Sky Cinema Family
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/20.ts
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/20.m3u8
 #EXTINF:-1 tvg-id="CinemaPassionHD.it" group-title="ITALIA", Sky Cinema Passion
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/17.ts
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/17.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Cinema Comedy
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/22.ts
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/22.m3u8
 #EXTINF:-1 tvg-id="CinemaMax.it" group-title="ITALIA",: Sky Cinema Max
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/19.ts
 #EXTINF:-1 tvg-id="CinemaHits.it" group-title="ITALIA",: Sky Cinema Hits
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/3.ts
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/3.m3u8
 #EXTINF:-1 tvg-id="Cult.it" group-title="ITALIA", Sky Cinema Cult
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/21.ts
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/21.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Cinema Classics
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/23.ts
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/23.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Premium Cinema
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/64.ts
+#EXTINF:-1 tvg-id="" group-title="ITALIA", Premium Crime
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/62.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Premium Cinema Emotion
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/58.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Premium Cinema Energy
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/57.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Premium Cinema Comedy
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/63.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Premium Joi
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/56.ts
+#EXTINF:-1 tvg-id="" group-title="ITALIA", Premium Stories
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/55.ts
+#EXTINF:-1 tvg-id="" group-title="ITALIA", Premium Action
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/70.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Studio Universal
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/54.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Cinema Family +1
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Primafila 1
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/35.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Primafila 2
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/36.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Primafila 3
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/37.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Primafila 4
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/38.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Primafila 5
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/39.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Primafila 6
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/40.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Primafila 7
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/41.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Primafila 8
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/42.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Primafila 9
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/43.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Primafila 10
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/44.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Sky Primafila 11
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/45.ts
+#EXTINF:-1 tvg-id="" group-title="ITALIA", Primafila 12
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/46.ts
+#EXTINF:-1 tvg-id="" group-title="ITALIA", Primafila 13
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/47.ts
+#EXTINF:-1 tvg-id="" group-title="ITALIA", Primafila 14
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/48.ts
+#EXTINF:-1 tvg-id="" group-title="ITALIA", Primafila 15
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/49.ts
+#EXTINF:-1 tvg-id="" group-title="ITALIA", Primafila 16
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/50.ts
+#EXTINF:-1 tvg-id="" group-title="ITALIA", Primafila 17
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/51.ts
+#EXTINF:-1 tvg-id="" group-title="ITALIA", Primafila 18
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/52.ts
+#EXTINF:-1 tvg-id="" group-title="ITALIA", Primafila 19
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/53.ts
 #EXTINF:-1 group-title="UK", ### UK ###
 #EXTINF:-1 tvg-name="BBC One Lon" tvg-id="BBC One Lon" group-title="UK", [COLOR white]BBC One
 #EXTINF:-1 tvg-name="BBC Two Eng" tvg-id="BBC Two Eng" group-title="UK", [COLOR white]BBC Two
