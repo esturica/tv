@@ -416,16 +416,16 @@ http://skyiptv.ddns.net:8000/live/iptv1590/547879/307.m3u8
 #EXTINF:-1 tvg-id="ARTE.de" group-title="ALEMANHA",Arte
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/299.m3u8
 #EXTINF:-1 tvg-id="3sat.de" group-title="ALEMANHA",3sat
-#EXTINF:-1 tvg-id="" group-title="ALEMANHA",011::[COLOR white] NDR Hamburg
-#EXTINF:-1 tvg-id="" group-title="ALEMANHA",012::[COLOR white] NDR Meck.-Vorp.
-#EXTINF:-1 tvg-id="" group-title="ALEMANHA",013::[COLOR white] NDR Niedersachsen
-#EXTINF:-1 tvg-id="" group-title="ALEMANHA",014::[COLOR white] NDR Schleswig-Hol..
+#EXTINF:-1 tvg-id="" group-title="ALEMANHA",011:: NDR Hamburg
+#EXTINF:-1 tvg-id="" group-title="ALEMANHA",012:: NDR Meck.-Vorp.
+#EXTINF:-1 tvg-id="" group-title="ALEMANHA",013:: NDR Niedersachsen
+#EXTINF:-1 tvg-id="" group-title="ALEMANHA",014:: NDR Schleswig-Hol..
 #EXTINF:-1 tvg-id="WDR.de" group-title="ALEMANHA",WDR
-#EXTINF:-1 tvg-id="MDRS-Anhalt.de" group-title="ALEMANHA",016::[COLOR white] MDR Sachsenanhalt
-#EXTINF:-1 tvg-id="MDRSachsen.de" group-title="ALEMANHA",017::[COLOR white] MDR Sachsen
-#EXTINF:-1 tvg-id="MDRThuringen.de" group-title="ALEMANHA",018::[COLOR white] MDR Thüringen
-#EXTINF:-1 tvg-id="" group-title="ALEMANHA",019::[COLOR white] MDR
-#EXTINF:-1 tvg-id="" group-title="ALEMANHA",020::[COLOR white] BR
+#EXTINF:-1 tvg-id="MDRS-Anhalt.de" group-title="ALEMANHA",016:: MDR Sachsenanhalt
+#EXTINF:-1 tvg-id="MDRSachsen.de" group-title="ALEMANHA",017:: MDR Sachsen
+#EXTINF:-1 tvg-id="MDRThuringen.de" group-title="ALEMANHA",018:: MDR Thüringen
+#EXTINF:-1 tvg-id="" group-title="ALEMANHA",019:: MDR
+#EXTINF:-1 tvg-id="" group-title="ALEMANHA",020:: BR
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",021::]HR
 http://wownet.ro/str/0026.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",022::RBB
@@ -558,12 +558,12 @@ http://wownet.ro/str/0093.m3u8|X-Forwarded-For=81.17.18.50
 http://wownet.ro/str/0094.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",086::Tele M1 West
 http://wownet.ro/str/0095.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="" group-title="ALEMANHA",101::[COLOR white] SPORT TIME TV 1 
+#EXTINF:-1 tvg-id="" group-title="ALEMANHA",101:: SPORT TIME TV 1 
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",SPORT TIME TV 2 
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/314.m3u8
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",SPORT TIME TV 3 
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/313.m3u8
-#EXTINF:-1 tvg-id="" group-title="ALEMANHA",104::[COLOR white] SPORT TIME TV 4 
+#EXTINF:-1 tvg-id="" group-title="ALEMANHA",104:: SPORT TIME TV 4 
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",SPORT TIME TV 5 
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/311.m3u8
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",SPORT TIME TV 6 
@@ -854,92 +854,177 @@ http://skyiptv.ddns.net:8000/live/iptv1590/547879/52.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Primafila 19
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/53.ts
 #EXTINF:-1 group-title="UK", ### UK ###
-#EXTINF:-1 tvg-name="BBC One Lon" tvg-id="BBC One Lon" group-title="UK", [COLOR white]BBC One
-#EXTINF:-1 tvg-name="BBC Two Eng" tvg-id="BBC Two Eng" group-title="UK", [COLOR white]BBC Two
-#EXTINF:-1 tvg-name="ITV" tvg-id="ITV" group-title="UK", [COLOR white]Itv 1
-#EXTINF:-1 tvg-name="Channel 4" tvg-id="Channel 4" group-title="UK", [COLOR white]Channel 4
-#EXTINF:-1 tvg-name="Channel 5" tvg-id="Channel 5" group-title="UK", [COLOR white]Channel 5
-#EXTINF:-1 tvg-name="Sky1" tvg-id="Sky1" group-title="UK", [COLOR white]Sky 1
-#EXTINF:-1 tvg-name="Sky Living" tvg-id="Sky Living" group-title="UK", [COLOR white]Sky Living
-#EXTINF:-1 tvg-name="Sky Atlantic" tvg-id="Sky Atlantic" group-title="UK", [COLOR white]Sky Atlantic
-#EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Watch
-#EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Gold
-#EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Dave
-#EXTINF:-1 tvg-name="ComedyCentral" tvg-id="ComedyCentral" group-title="UK", [COLOR white]Comedy Central
-#EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Universal
-#EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]SyFy
-#EXTINF:-1 tvg-name="BBC Three" tvg-id="BBC Three" group-title="UK", [COLOR white]BBC Three
-#EXTINF:-1 tvg-name="BBC Four" tvg-id="BBC Four" group-title="UK", [COLOR white]BBC Four
-#EXTINF:-1 tvg-name="ITV2" tvg-id="ITV2" group-title="UK", [COLOR white]Itv 2
-#EXTINF:-1 tvg-name="ITV3" tvg-id="ITV3" group-title="UK", [COLOR white]Itv 3
-#EXTINF:-1 tvg-name="ITV4" tvg-id="ITV4" group-title="UK", [COLOR white]Itv 4
-#EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Sky Living +1
-#EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Sky Livingit
-#EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Sky Livingit +1
-#EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]FX
-#EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Challenge
-#EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]MTV
-#EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Comedy Central +1
-#EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Comedy Central Extra
-#EXTINF:-1 tvg-name="Sky2" tvg-id="Sky2" group-title="UK", [COLOR white]Sky 2
-#EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Sky Living Loves
-#EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]ITV 1 +1
-#EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Alibi
-#EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Gold +1
-#EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]S4C (C4 Wales)
-#EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Channel 4 +1
-#EXTINF:-1 tvg-name="E4" tvg-id="E4" group-title="UK", [COLOR white]E4
-#EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]E4 +1
-#EXTINF:-1 tvg-name="More4" tvg-id="More4" group-title="UK", [COLOR white]More 4
-#EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]More 4 +1
-#EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]DMax
-#EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Dmax +1
-#EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]CBS Reality
-#EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]CBS Reality +1
-#EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]CBS Action
-#EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]CBS Drama
-#EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Universal +1
-#EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]E! Entertainment
-#EXTINF:-1 tvg-name="Discovery Shed" tvg-id="Discovery Shed" group-title="UK", [COLOR white]Discovery Shed
-#EXTINF:-1 tvg-name="Travel Channel" tvg-id="Travel Channel" group-title="UK", [COLOR white]Travel Channel
-#EXTINF:-1 tvg-name="Sky Premiere" tvg-id="Sky Premiere" group-title="UK", [COLOR white]Sky Movies Premier
-#EXTINF:-1 tvg-name="Sky Showcase" tvg-id="Sky Showcase" group-title="UK", [COLOR white]Sky Movies Showcase
-#EXTINF:-1 tvg-name="Sky Star Wars" tvg-id="Sky Star Wars" group-title="UK", [COLOR white]Sky Movies Greats
-#EXTINF:-1 tvg-name="Sky Disney" tvg-id="Sky Disney" group-title="UK", [COLOR white]Sky Movies Disney
-#EXTINF:-1 tvg-name="Sky Family" tvg-id="Sky Family" group-title="UK", [COLOR white]Sky Movies Family
-#EXTINF:-1 tvg-name="Sky Action" tvg-id="Sky Action" group-title="UK", [COLOR white]Sky Movies Action & Adventure
-#EXTINF:-1 tvg-name="Sky Comedy" tvg-id="Sky Comedy" group-title="UK", [COLOR white]Sky Movies Comedy
-#EXTINF:-1 tvg-name="Sky DramaRom" tvg-id="Sky DramaRom" group-title="UK", [COLOR white]Sky Movies Drama & Romance
-#EXTINF:-1 tvg-name="Sky ScFi\/Horror" tvg-id="Sky ScFi\/Horror" group-title="UK", [COLOR white]Sky Movies Sci Fi & Horror
-#EXTINF:-1 tvg-name="Sky Select" tvg-id="Sky Select" group-title="UK", [COLOR white]Sky Movies Select
-#EXTINF:-1 tvg-name="Film4" tvg-id="Film4" group-title="UK", [COLOR white]Film 4
-#EXTINF:-1 tvg-name="TCM" tvg-id="TCM" group-title="UK", [COLOR white]TCM
-#EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Cartoon Network
-#EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Nick
-#EXTINF:-1 tvg-id="" group-title="UK", [COLOR white]Disney Channel
-#EXTINF:-1 tvg-name="Sky Sports 1" tvg-id="Sky Sports 1" group-title="UK", [COLOR white]Sky Sports 1
-#EXTINF:-1 tvg-name="Sky Spts Ashes" tvg-id="Sky Spts Ashes" group-title="UK", [COLOR white]Sky Sports 2
-#EXTINF:-1 tvg-name="Sky Sports 3" tvg-id="Sky Sports 3" group-title="UK", [COLOR white]Sky Sports 3
-#EXTINF:-1 tvg-name="Sky Sports 4" tvg-id="Sky Sports 4" group-title="UK", [COLOR white]Sky Sports 4
-#EXTINF:-1 tvg-name="Sky Sports 5" tvg-id="Sky Sports 5" group-title="UK", [COLOR white]Sky Sports 5
-#EXTINF:-1 tvg-name="Sky Sports F1" tvg-id="Sky Sports F1" group-title="UK", [COLOR white]Sky Sports F1
-#EXTINF:-1 tvg-name="Eurosport" tvg-id="Eurosport 2" group-title="UK", [COLOR white]British Eurosport
-#EXTINF:-1 tvg-name="Eurosport 2" tvg-id="Eurosport 2" group-title="UK", [COLOR white]British Eurosport 2
-#EXTINF:-1 tvg-name="BT Sport 1" tvg-id="BT Sport 1" group-title="UK", [COLOR white]BT Sport 1
-#EXTINF:-1 tvg-name="BT Sport 2" tvg-id="BT Sport 2" group-title="UK", [COLOR white]BT Sport 2
-#EXTINF:-1 tvg-name="BT Sport\/\/ESPN" tvg-id="BT Sport\/\/ESPN" group-title="UK", [COLOR white]BT Sport ESPN
-#EXTINF:-1 tvg-name="Sky News" tvg-id="Sky News" group-title="UK", [COLOR white]Sky News
-#EXTINF:-1 tvg-name="Bloomberg" tvg-id="Bloomberg" group-title="UK", [COLOR white]Bloomberg
-#EXTINF:-1 tvg-name="BBC NEWS" tvg-id="BBC NEWS" group-title="UK", [COLOR white]BBC News
-#EXTINF:-1 tvg-name="CNBC" tvg-id="CNBC" group-title="UK", [COLOR white]CNBC
-#EXTINF:-1 tvg-name="CNN" tvg-id="CNN" group-title="UK", [COLOR white]CNN
-#EXTINF:-1 tvg-name="Euronews" tvg-id="Euronews" group-title="UK", [COLOR white]Euronews
-#EXTINF:-1 tvg-name="RT" tvg-id="RT" group-title="UK", [COLOR white]RT
-#EXTINF:-1 tvg-name="Al Jazeera Eng" tvg-id="Al Jazeera Eng" group-title="UK", [COLOR white]Aljazeera
-#EXTINF:-1 tvg-name="Disc.Turbo" tvg-id="Disc.Turbo" group-title="UK", [COLOR white]Turbo
-#EXTINF:-1 tvg-id="" group-title="UK",[COLOR blue]:: [COLOR white]Nat Geo
-#EXTINF:-1 tvg-id="" group-title="UK",[COLOR blue]:: [COLOR white]Hot Rod garage
-#EXTINF:-1 tvg-id="" group-title="UK",[COLOR blue]:: [COLOR white]CNET
+#EXTINF:-1 tvg-id="" group-title="UK", BBC One
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/109.ts
+#EXTINF:-1 tvg-id="" group-title="UK", BBC Two
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/108.ts
+#EXTINF:-1 tvg-id="" group-title="UK", Itv 1
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/143.ts
+#EXTINF:-1 tvg-id="" group-title="UK", Channel 4
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/102.ts
+#EXTINF:-1 tvg-name="Channel 5" tvg-id="Channel 5" group-title="UK", Channel 5
+#EXTINF:-1 tvg-id="" group-title="UK", Sky One
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/129.ts
+#EXTINF:-1 tvg-id="" group-title="UK", Sky Two
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/120.ts
+#EXTINF:-1 tvg-id="" group-title="UK", RTE 1
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/133.ts
+#EXTINF:-1 tvg-id="" group-title="UK", RTE 2
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/132.ts
+#EXTINF:-1 tvg-name="Sky Living" tvg-id="Sky Living" group-title="UK", Sky Living
+#EXTINF:-1 tvg-name="Sky Atlantic" tvg-id="Sky Atlantic" group-title="UK", Sky Atlantic
+#EXTINF:-1 tvg-id="" group-title="UK", Watch
+#EXTINF:-1 tvg-id="" group-title="UK", Gold
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/146.ts
+#EXTINF:-1 tvg-id="" group-title="UK", Dave
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/101.ts
+#EXTINF:-1 tvg-name="ComedyCentral" tvg-id="ComedyCentral" group-title="UK", Comedy Central
+#EXTINF:-1 tvg-id="" group-title="UK", Universal
+#EXTINF:-1 tvg-id="" group-title="UK", SyFy
+#EXTINF:-1 tvg-id="" group-title="UK", BBC Three
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/107.ts
+#EXTINF:-1 tvg-id="" group-title="UK", BBC Four
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/106.ts
+#EXTINF:-1 tvg-id="" group-title="UK", Itv 2
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/142.ts
+#EXTINF:-1 tvg-id="" group-title="UK", Itv 3
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/141.ts
+#EXTINF:-1 tvg-id="" group-title="UK", Itv 4
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/140.ts
+#EXTINF:-1 tvg-id="" group-title="UK", Sky Living +1
+#EXTINF:-1 tvg-id="" group-title="UK", Sky Livingit
+#EXTINF:-1 tvg-id="" group-title="UK", Sky Livingit +1
+#EXTINF:-1 tvg-id="" group-title="UK", FX
+#EXTINF:-1 tvg-id="" group-title="UK", Challenge
+#EXTINF:-1 tvg-id="" group-title="UK", MTV
+#EXTINF:-1 tvg-id="" group-title="UK", Comedy Central +1
+#EXTINF:-1 tvg-id="" group-title="UK", Comedy Central Extra
+#EXTINF:-1 tvg-id="" group-title="UK", Sky Living Loves
+#EXTINF:-1 tvg-id="" group-title="UK", ITV 1 +1
+#EXTINF:-1 tvg-id="" group-title="UK", Alibi
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/112.ts
+#EXTINF:-1,UK 5 Star
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/113.ts
+#EXTINF:-1,UK 3e
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/114.ts
+#EXTINF:-1,UK  Travel Channel
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/115.ts
+#EXTINF:-1 tvg-id="" group-title="UK", Quest
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/134.ts
+#EXTINF:-1 tvg-id="" group-title="UK", NickToons
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/135.ts
+#EXTINF:-1 tvg-id="" group-title="UK", Nickelodeon
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/136.ts
+#EXTINF:-1,UK Disney Junior
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/96.ts
+#EXTINF:-1,UK Disney Channel
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/97.ts
+#EXTINF:-1 tvg-id="" group-title="UK", Gold +1
+#EXTINF:-1 tvg-id="" group-title="UK", S4C (C4 Wales)
+#EXTINF:-1 tvg-id="" group-title="UK", Channel 4 +1
+#EXTINF:-1 tvg-name="E4" tvg-id="E4" group-title="UK", E4
+#EXTINF:-1 tvg-id="" group-title="UK", E4 +1
+#EXTINF:-1 tvg-id="" group-title="UK", More 4
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/139.ts
+#EXTINF:-1 tvg-id="" group-title="UK", More 4 +1
+#EXTINF:-1 tvg-id="" group-title="UK", DMax
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/95.ts
+#EXTINF:-1 tvg-id="" group-title="UK", Dmax +1
+#EXTINF:-1 tvg-id="" group-title="UK", Drama
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/94.ts
+#EXTINF:-1 tvg-id="" group-title="UK", CBS Reality
+#EXTINF:-1 tvg-id="" group-title="UK", CBS Reality +1
+#EXTINF:-1 tvg-id="" group-title="UK", CBS Action
+#EXTINF:-1 tvg-id="" group-title="UK", CBS Drama
+#EXTINF:-1 tvg-id="" group-title="UK", Universal +1
+#EXTINF:-1 tvg-id="" group-title="UK", E! Entertainment
+#EXTINF:-1 tvg-id="Discovery Shed" group-title="UK", Discovery Shed
+#EXTINF:-1 tvg-id="Travel Channel" group-title="UK", Travel Channel
+#EXTINF:-1 tvg-id="Sky Premiere" group-title="UK", Sky Movies Premier
+#EXTINF:-1 Showcase" tvg-id="Sky Showcase" group-title="UK", Sky Movies Showcase
+#EXTINF:-1 tvg-id="Sky Star Wars" group-title="UK", Sky Movies Greats
+#EXTINF:-1 tvg-id="Sky Disney" group-title="UK", Sky Movies Disney
+#EXTINF:-1 tvg-id="Sky Family" group-title="UK", Sky Movies Family
+#EXTINF:-1 tvg-id="Sky Action" group-title="UK", Sky Movies Action & Adventure
+#EXTINF:-1 tvg-id="Sky Comedy" group-title="UK", Sky Movies Comedy
+#EXTINF:-1 tvg-id="Sky DramaRom" group-title="UK", Sky Movies Drama & Romance
+#EXTINF:-1 tvg-id="" group-title="UK",Sky Movies Sci Fi & Horror
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/660.m3u8
+#EXTINF:-1 tvg-id="Sky Select" group-title="UK", Sky Movies Select
+#EXTINF:-1 tvg-id="Film4" group-title="UK", Film 4
+#EXTINF:-1 tvg-id="" group-title="UK", True Movies
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/117.ts
+#EXTINF:-1 tvg-id="" group-title="UK", True Movies 2
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/682.ts
+#EXTINF:-1 tvg-id="" group-title="UK", The Vault
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/118.ts
+#EXTINF:-1 tvg-id="" group-title="UK", TG4
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/119.ts
+#EXTINF:-1 tvg-id="TCM" group-title="UK", TCM
+#EXTINF:-1 tvg-id="" group-title="UK", Cartoon Network
+#EXTINF:-1 tvg-id="" group-title="UK", Nick
+#EXTINF:-1 tvg-id="" group-title="UK", Disney Channel
+#EXTINF:-1 tvg-id="" group-title="UK", Sky Sports 1
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/127.ts
+#EXTINF:-1 tvg-id="" group-title="UK", Sky Sports 2
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/126.ts
+#EXTINF:-1 tvg-id="" group-title="UK", Sky Sports 3
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/125.ts
+#EXTINF:-1 tvg-id="" group-title="UK", Sky Sports 4
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/124.ts
+#EXTINF:-1 tvg-id="" group-title="UK", Sky Sports 5
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/123.ts
+#EXTINF:-1 tvg-id="" group-title="UK", Sky Sports F1
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/122.ts
+#EXTINF:-1 tvg-id="" group-title="UK", Sky Sports News
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/121.ts
+#EXTINF:-1 tvg-id="" group-title="UK", Sky Premiere Sports
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/128.ts
+#EXTINF:-1 tvg-id="" group-title="UK", British Eurosport
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/91.ts
+#EXTINF:-1 tvg-id="" group-title="UK", British Eurosport 2
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/90.ts
+#EXTINF:-1 tvg-id="" group-title="UK", BT Sport 1
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/104.ts
+#EXTINF:-1 tvg-id="" group-title="UK", BT Sport 2
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/103.ts
+#EXTINF:-1 tvg-id="" group-title="UK", BT Sport ESPN
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/92.ts
+#EXTINF:-1,UK Boxnation
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/105.ts
+#EXTINF:-1 tvg-name="Sky News" tvg-id="Sky News" group-title="UK", Sky News
+#EXTINF:-1 tvg-name="Bloomberg" tvg-id="Bloomberg" group-title="UK", Bloomberg
+#EXTINF:-1 tvg-name="BBC NEWS" tvg-id="BBC NEWS" group-title="UK", BBC News
+#EXTINF:-1 tvg-name="CNBC" tvg-id="CNBC" group-title="UK", CNBC
+#EXTINF:-1 tvg-name="CNN" tvg-id="CNN" group-title="UK", CNN
+#EXTINF:-1 tvg-name="Euronews" tvg-id="Euronews" group-title="UK", Euronews
+#EXTINF:-1 tvg-name="RT" tvg-id="RT" group-title="UK", RT
+#EXTINF:-1 tvg-name="Al Jazeera Eng" tvg-id="Al Jazeera Eng" group-title="UK", Aljazeera
+#EXTINF:-1 tvg-name="Disc.Turbo" tvg-id="Disc.Turbo" group-title="UK", Turbo
+#EXTINF:-1,UK At The Races
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/110.ts
+#EXTINF:-1,UK Animal Planet
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/111.ts
+#EXTINF:-1,UK Discovery Science
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/98.ts
+#EXTINF:-1,UK Discovery Investigation
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/99.ts
+#EXTINF:-1,UK Discovery History
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/100.ts
+#EXTINF:-1 tvg-id="" group-title="UK", National Geographic Wild
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/137.ts
+#EXTINF:-1 tvg-id="" group-title="UK", National Geographic
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/138.ts
+#EXTINF:-1 tvg-id="" group-title="UK", Investigation
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/144.ts
+#EXTINF:-1 tvg-id="" group-title="UK", History Channel
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/145.ts
+#EXTINF:-1 tvg-id="" group-title="UK", Food Network
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/147.ts
+#EXTINF:-1 tvg-id="" group-title="UK", Flava
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/148.ts
+#EXTINF:-1 tvg-id="" group-title="UK",[COLOR blue]:: Hot Rod garage
+#EXTINF:-1 tvg-id="" group-title="UK",[COLOR blue]:: CNET
 #EXTINF:-1 group-title="USA", ### USA ###
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/240.ts
 #EXTINF:-1 tvg-name="CBS 2" tvg-id="WCBSNewYorkCBSEast.us" group-title="USA",CBS 2 (New York)
