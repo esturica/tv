@@ -2,9 +2,9 @@
 #EXTINF:-1 group-title="FRANÇA", ### FRANÇA ###
 http://192.0.0.1
 #EXTINF:-1 tvg-id="TF1.fr" group-title="FRANÇA",TF1
-http://iptv.electro-clair.net:8000/live/nader/nader/33.m3u8
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/271.m3u8
 #EXTINF:-1 tvg-id="France2.fr" group-title="FRANÇA",France 2
-http://iptv.electro-clair.net:8000/live/nader/nader/101.m3u8
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/280.m3u8
 #EXTINF:-1 tvg-id="France3.fr" group-title="FRANÇA",France 3
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/279.m3u8
 #EXTINF:-1 tvg-id="CANALplus.fr" group-title="FRANÇA",Canal +
@@ -16,9 +16,9 @@ http://skyiptv.ddns.net:8000/live/iptv1590/547879/272.m3u8
 #EXTINF:-1 tvg-id="ARTE.fr" group-title="FRANÇA",Arte
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/539.m3u8
 #EXTINF:-1 tvg-id="CANALplusCINEMA.fr" group-title="FRANÇA",Canal + Cinema
-http://iptv.electro-clair.net:8000/live/nader/nader/198.m3u8
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/287.m3u8
 #EXTINF:-1 tvg-id="CANALplusSPORT.fr" group-title="FRANÇA",CANAL+ Sport 
-http://iptv.electro-clair.net:8000/live/nader/nader/539.m3u8
+http://skyiptv.ddns.net:8000/live/iptv1590/547879/535.m3u8
 #EXTINF:-1 tvg-id="CanalplusSeries.fr" group-title="FRANÇA",Canal + Series
 http://iptv.electro-clair.net:8000/live/nader/nader/1545.m3u8
 #EXTINF:-1 tvg-id="CANALplusFamily.fr" group-title="FRANÇA",CANAL+ Family 
@@ -152,6 +152,7 @@ http://iptv.electro-clair.net:8000/live/nader/nader/1344.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr" group-title="FRANÇA",Eurosport 2
 http://iptv.electro-clair.net:8000/live/nader/nader/529.m3u8
 #EXTINF:-1 tvg-id="Weo.fr" group-title="FRANÇA", WEO
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/1210.m3u8
 #EXTINF:-1 tvg-id="MaChaineSport.fr" group-title="FRANÇA", Ma Chaine Sport
 #EXTINF:-1 tvg-id="" group-title="FRANÇA", MCS Extreme
 #EXTINF:-1 tvg-id="" group-title="FRANÇA", Kombat Sport
@@ -305,6 +306,110 @@ http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="PORTUGAL",SPORT TV AMÉRICAS 
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
+#EXTINF:-1,PT-SPORTING TV
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/891.ts
+#EXTINF:-1,PT-SIC RADICAL
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/888.ts
+#EXTINF:-1,PT-SIC NOTICIAS
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/889.ts
+#EXTINF:-1,PT-SIC
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/887.ts
+#EXTINF:-1,PT-RTP MADEIRA
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/895.ts
+#EXTINF:-1,PT-RTP INTERNATIONAL
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/893.ts
+#EXTINF:-1,PT-RTP INFORMACAO
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/894.ts
+#EXTINF:-1,PT-RTP ACORES
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/896.ts
+#EXTINF:-1,PT-PORTO CANAL
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/897.ts
+#EXTINF:-1,PT-MOV TV
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/890.ts
+#EXTINF:-1,PT-24H KITCHEN
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/892.ts
+#EXTINF:-1,PT-RTP 2
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/665.ts
+#EXTINF:-1,PT-RTP 1
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/664.ts
+#EXTINF:-1,PT-DISCOVERY
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/661.ts
+#EXTINF:-1,PT-RTP 3
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/663.ts
+#EXTINF:-1,PT-SPORTING
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/658.ts
+#EXTINF:-1,PT-NATIONAL GEOGRAPHIC
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/312.ts
+#EXTINF:-1,PT-NAT GEO WILD
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/311.ts
+#EXTINF:-1,PT-BENFICA 2
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/314.ts
+#EXTINF:-1,PT-BENFICA 1
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/313.ts
+#EXTINF:-1,PT-AXN WHITE
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/316.ts
+#EXTINF:-1,PT-AXN
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/315.ts
+#EXTINF:-1,PT-BBC INTER
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/662.ts
+#EXTINF:-1,PT-SPORT TV 4
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/657.ts
+#EXTINF:-1,PT-SPORT TV 3
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/324.ts
+#EXTINF:-1,PT-SPORT TV 2
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/656.ts
+#EXTINF:-1,PT-SPORT TV 1
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/310.ts
+#EXTINF:-1,PT-TV CINES 2
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/309.ts
+#EXTINF:-1,PT-TV CINES 1
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/308.ts
+#EXTINF:-1,PT-TV GLOBO
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/323.ts
+#EXTINF:-1,PT-BENFICA TV 2
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/654.ts
+#EXTINF:-1,PT-BENFICA TV 1
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/655.ts
+#EXTINF:-1,PT-EUROSPORT 2
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/660.ts
+#EXTINF:-1,PT-EUROSPORT
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/659.ts
+#EXTINF:-1,PT-FOX CRIME
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/935.ts
+#EXTINF:-1,PT-FOX LIFE
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/934.ts
+#EXTINF:-1,PT-FOX MOVIES
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/933.ts
+#EXTINF:-1,PT-FOX TV
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/936.ts
+#EXTINF:-1,PT-JIM JAM
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/932.ts
+#EXTINF:-1,PT-MOTORS TV
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/937.ts
+#EXTINF:-1,PT-NICKELODEON
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/930.ts
+#EXTINF:-1,PT-SYFY
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/929.ts
+#EXTINF:-1,PT-HOLLYWOOD
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/928.ts
+#EXTINF:-1,PR-TLC
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/927.ts
+#EXTINF:-1,PT-CANAL PANDA
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/1666.ts
+#EXTINF:-1,PT-SIC MULHER
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/1667.ts
+#EXTINF:-1,PT-SPORT TV 5
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/1665.ts
+#EXTINF:-1,PT-TV CINE 3
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/1663.ts
+#EXTINF:-1,PT-TV CINE 4
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/1664.ts
+#EXTINF:-1,PT-CM TV
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/1654.ts
+#EXTINF:-1,PT-TVI
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/1652.ts
+#EXTINF:-1,PT-TVI 24
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/1653.ts
 #EXTINF:-1 group-title="ESPANHA", ### ESPANHA###
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/240.ts
 #EXTINF:-1 tvg-id="LA1.es" group-title="ESPANHA",LA 1
@@ -395,6 +500,104 @@ http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8 
 #EXTINF:-1 tvg-id="" group-title="ESPANHA",MEGA 
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
+#EXTINF:-1,SPA-beIN SPORT
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/1565.ts
+#EXTINF:-1,SPA-La 1
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/643.ts
+#EXTINF:-1,SPA-La 2
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/644.ts
+#EXTINF:-1,SPA-TNT
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/608.ts
+#EXTINF:-1,SPA-Odisea
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/605.ts
+#EXTINF:-1,SPA-Iberalia TV
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/604.ts
+#EXTINF:-1,SPA-Hollywood
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/612.ts
+#EXTINF:-1,SPA-Historia
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/606.ts
+#EXTINF:-1,SPA-FOX Life
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/615.ts
+#EXTINF:-1,SPA-FOX
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/614.ts
+#EXTINF:-1,SPA-Discovery MAX
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/603.ts
+#EXTINF:-1,SPA-Discovery Channel
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/602.ts
+#EXTINF:-1,SPA-Cosmo
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/613.ts
+#EXTINF:-1,SPA-CI
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/601.ts
+#EXTINF:-1,SPA-Calle 13
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/611.ts
+#EXTINF:-1,SPA-AXN White
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/610.ts
+#EXTINF:-1,SPA-AXN
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/609.ts
+#EXTINF:-1,SPA-AMC
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/607.ts
+#EXTINF:-1,SPA-24
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/127.ts
+#EXTINF:-1,SPA-DEPORTE
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/216.ts
+#EXTINF:-1,SPA-ANTENA 3
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/138.ts
+#EXTINF:-1,SPA-AXN White.
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/215.ts
+#EXTINF:-1,SPA-Barca TV
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/214.ts
+#EXTINF:-1,SPA-Canal   Comedia
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/213.ts
+#EXTINF:-1,SPA-Canal   Dcine
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/212.ts
+#EXTINF:-1,SPA-Canal   Futbol
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/211.ts
+#EXTINF:-1,SPA-Canal   Golf
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/210.ts
+#EXTINF:-1,SPA-Canal   Liga
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/209.ts
+#EXTINF:-1,SPA-CANAL FUTBALL
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/178.ts
+#EXTINF:-1,SPA-Disney XD
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/208.ts
+#EXTINF:-1,SPA-FIRST MUSIC
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/142.ts
+#EXTINF:-1,SPA-MOUVIESTAR MOTOGP
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/207.ts
+#EXTINF:-1,SPA-Fox Spain
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/206.ts
+#EXTINF:-1,SPA-History
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/205.ts
+#EXTINF:-1,SPA-Hollywood Spain
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/204.ts
+#EXTINF:-1,SPA-LA SEXTA HD
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/139.ts
+#EXTINF:-1,SPA-National Geographic
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/203.ts
+#EXTINF:-1,SPA-TV GALICIA
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/141.ts
+#EXTINF:-1,SPA-TVG America
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/140.ts
+#EXTINF:-1,SPA-Canal
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/645.ts
+#EXTINF:-1,SPA-Canal  Accion
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/648.ts
+#EXTINF:-1,SPA-Canal  Comedia
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/649.ts
+#EXTINF:-1,SPA-Canal  DCine
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/650.ts
+#EXTINF:-1,SPA-40 TV
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/1226.ts
+#EXTINF:-1,SPA-CANAL COCINA
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/1225.ts
+#EXTINF:-1,SPA-Canal  Estrenos
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/652.ts
+#EXTINF:-1,SPA-Canal  Series
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/646.ts
+#EXTINF:-1,SPA-Canal  Series Xtra
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/647.ts
+#EXTINF:-1,SPA-REAL MADRID TV
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/985.ts
 EXTINF:-1 group-title="ALEMANHA", ### ALEMANHA CHANNELS ###
 http://192.0.0.1
 #EXTINF:-1 tvg-id="ARD.de" group-title="ALEMANHA",Das Erste
