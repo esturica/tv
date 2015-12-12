@@ -437,6 +437,12 @@ http://skyiptv.ddns.net:8000/live/iptv1590/547879/299.m3u8
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",029::Sixx
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",030::ServusTV DE HD
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",031::RTL NITRO
+#EXTINF:-1,DE: TNTSerie DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2998.ts
+#EXTINF:-1,DE: TheMGMChannel DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2996.ts
+#EXTINF:-1,DE: SyfyDeutschland DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3006.ts
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",032::TELE 5
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",033::JOIZ DE HD
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",034::Nickelodeon
@@ -507,12 +513,86 @@ http://skyiptv.ddns.net:8000/live/iptv1590/547879/309.m3u8
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",SKY Sport 1 
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/316.m3u8
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",Sky Sport 2
+#EXTINF:-1,DE: Sky Sport3 DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2989.ts
+#EXTINF:-1,DE: Sky Sport5 DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3012.ts
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",SKY Cinema  24
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/317.m3u8
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",SKY Cinema
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/318.m3u8
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",SKY Bundesliga
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/319.m3u8
+#EXTINF:-1,DE: Sky Sport News DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2991.ts
+#EXTINF:-1,DE: Sky Sport Austria DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3000.ts
+#EXTINF:-1,DE: Sky Sport 4 DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3011.ts
+#EXTINF:-1,DE: Sky Sport 2HD DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2982.ts
+#EXTINF:-1,DE: Sky Sport 1HD DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2981.ts
+#EXTINF:-1,DE: Sky Nostalgie DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2983.ts
+#EXTINF:-1,DE: Sky Krimi DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2978.ts
+#EXTINF:-1,DE: Sky Emotion DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2987.ts
+#EXTINF:-1,DE: Sky Comedy DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2984.ts
+#EXTINF:-1,DE: Sky Cinema DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2985.ts
+#EXTINF:-1,DE: Sky Cinema 24 DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2988.ts
+#EXTINF:-1,DE: Sky Cinema 1 DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2986.ts
+#EXTINF:-1,DE: Sky Bundesliga4 DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3014.ts
+#EXTINF:-1,DE: Sky Bundesliga3 DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3013.ts
+#EXTINF:-1,DE: Sky Bundesliga2 DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3009.ts
+#EXTINF:-1,DE: Sky Bundesliga1 DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2990.ts
+#EXTINF:-1,DE: Sky Atlantic DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2979.ts
+#EXTINF:-1,DE: Sky Action DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2977.ts
+#EXTINF:-1,DE: Sky 007 DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2980.ts
+#EXTINF:-1,DE: RTLCrime DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2999.ts
+#EXTINF:-1,DE: RTL Passion
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2995.ts
+#EXTINF:-1,DE: National Geographic Channel DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2994.ts
+#EXTINF:-1,DE: NatGeoWild DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3005.ts
+#EXTINF:-1,DE: MotorvisionTV DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3008.ts
+#EXTINF:-1,DE: Junior DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3015.ts
+#EXTINF:-1,DE: Juke box
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2992.ts
+#EXTINF:-1,DE: Heimatkanal DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3003.ts
+#EXTINF:-1,DE: GoldStarTV DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3001.ts
+#EXTINF:-1,DE: Fox Serie DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3004.ts
+#EXTINF:-1,DE: DisneyXD DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2997.ts
+#EXTINF:-1,DE: DisneyCinemagic DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3010.ts
+#EXTINF:-1,DE: Disney Junior DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3016.ts
+#EXTINF:-1,DE: Discovery Channel DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2993.ts
+#EXTINF:-1,DE: Classica Deutschland DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3002.ts
+#EXTINF:-1,DE: 13thStreet DE
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/3007.ts
 #EXTINF:-1 group-title="ITALIA", ### ITALIA ##
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/240.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA",Rai 1
@@ -775,6 +855,112 @@ http://skyiptv.ddns.net:8000/live/iptv1590/547879/51.ts
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/52.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Primafila 19
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/53.ts
+#EXTINF:-1,IT: Sky Uno HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2685.ts
+#EXTINF:-1,IT: Sky TG 24
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2686.ts
+#EXTINF:-1,IT: Sky Supercalcio HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2687.ts
+#EXTINF:-1,IT: Sky Sport F1 HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2688.ts
+#EXTINF:-1,IT: Sky Sport 3 HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2689.ts
+#EXTINF:-1,IT: Sky Sport 24 HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2690.ts
+#EXTINF:-1,IT: Sky Sport 2 HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2691.ts
+#EXTINF:-1,IT: Sky Sport 1 HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2692.ts
+#EXTINF:-1,IT: Sky Moto GP HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2693.ts
+#EXTINF:-1,IT: Sky Cinema Passion HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2694.ts
+#EXTINF:-1,IT: Sky Cinema Max HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2695.ts
+#EXTINF:-1,IT: Sky Cinema Family HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2696.ts
+#EXTINF:-1,IT: Sky Cinema Cult HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2697.ts
+#EXTINF:-1,IT: Sky Cinema Comedy HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2698.ts
+#EXTINF:-1,IT: Sky Cinema 1 HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2699.ts
+#EXTINF:-1,IT: Sky Cinema  24 HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2700.ts
+#EXTINF:-1,IT: Sky Calcio 7 HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2701.ts
+#EXTINF:-1,IT: Sky Calcio 6 HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2702.ts
+#EXTINF:-1,IT: Sky Calcio 4 HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2703.ts
+#EXTINF:-1,IT: Sky Calcio 3 HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2704.ts
+#EXTINF:-1,IT: Sky Calcio 2 HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2705.ts
+#EXTINF:-1,IT: Sky Calcio 1 HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2706.ts
+#EXTINF:-1,IT: Sky Atlantic HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2707.ts
+#EXTINF:-1,IT: Sky Arte HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2708.ts
+#EXTINF:-1,IT: Premium Studio Universal
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2709.ts
+#EXTINF:-1,IT: Premium Stories
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2710.ts
+#EXTINF:-1,IT: Premium Sport HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2711.ts
+#EXTINF:-1,IT: Premium Joy
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2712.ts
+#EXTINF:-1,IT: Premium Energy
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2713.ts
+#EXTINF:-1,IT: Premium Emotion
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2714.ts
+#EXTINF:-1,IT: Premium Disney Junior  1
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2715.ts
+#EXTINF:-1,IT: Premium Disney Junior
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2716.ts
+#EXTINF:-1,IT: Premium Disney Channel
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2717.ts
+#EXTINF:-1,IT: Premium Discovery World
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2718.ts
+#EXTINF:-1,IT: Premium Crime HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2719.ts
+#EXTINF:-1,IT: Premium Crime  24
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2720.ts
+#EXTINF:-1,IT: Premium Comedy
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2721.ts
+#EXTINF:-1,IT: Premium Cinema HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2722.ts
+#EXTINF:-1,IT: Premium Cinema 2 HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2723.ts
+#EXTINF:-1,IT: Premium Cinema 2  24
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2724.ts
+#EXTINF:-1,IT: Premium Cinema  24
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2725.ts
+#EXTINF:-1,IT: Premium Cartoon Network
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2726.ts
+#EXTINF:-1,IT: Premium Calcio 7
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2727.ts
+#EXTINF:-1,IT: Premium Calcio 6
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2728.ts
+#EXTINF:-1,IT: Premium Calcio 5
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2729.ts
+#EXTINF:-1,IT: Premium Calcio 4
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2730.ts
+#EXTINF:-1,IT: Premium Calcio 3
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2731.ts
+#EXTINF:-1,IT: Premium Calcio 2 HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2732.ts
+#EXTINF:-1,IT: Premium Calcio 1 HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2733.ts
+#EXTINF:-1,IT: Premium Calcio
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2734.ts
+#EXTINF:-1,IT: Premium BBC
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2735.ts
+#EXTINF:-1,IT: Premium Action HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2736.ts
+#EXTINF:-1,IT: Premium Action  24
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2737.ts
 #EXTINF:-1 group-title="UK", ### UK ###
 #EXTINF:-1 tvg-id="" group-title="UK", BBC One
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/109.ts
@@ -796,6 +982,7 @@ http://skyiptv.ddns.net:8000/live/iptv1590/547879/132.ts
 #EXTINF:-1 tvg-name="Sky Living" tvg-id="Sky Living" group-title="UK", Sky Living
 #EXTINF:-1 tvg-name="Sky Atlantic" tvg-id="Sky Atlantic" group-title="UK", Sky Atlantic
 #EXTINF:-1 tvg-id="" group-title="UK", Watch
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2739.ts
 #EXTINF:-1 tvg-id="" group-title="UK", Gold
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/146.ts
 #EXTINF:-1 tvg-id="" group-title="UK", Dave
@@ -846,6 +1033,8 @@ http://skyiptv.ddns.net:8000/live/iptv1590/547879/97.ts
 #EXTINF:-1 tvg-id="" group-title="UK", Channel 4 +1
 #EXTINF:-1 tvg-name="E4" tvg-id="E4" group-title="UK", E4
 #EXTINF:-1 tvg-id="" group-title="UK", E4 +1
+#EXTINF:-1,UK: Yesterday
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2738.ts
 #EXTINF:-1 tvg-id="" group-title="UK", More 4
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/139.ts
 #EXTINF:-1 tvg-id="" group-title="UK", More 4 +1
@@ -947,6 +1136,200 @@ http://skyiptv.ddns.net:8000/live/iptv1590/547879/147.ts
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/148.ts
 #EXTINF:-1 tvg-id="" group-title="UK",[COLOR blue]:: Hot Rod garage
 #EXTINF:-1 tvg-id="" group-title="UK",[COLOR blue]:: CNET
+#EXTINF:-1,UK: Vh1 Classic
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2754.ts
+#EXTINF:-1,UK: True Movies 2
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2755.ts
+#EXTINF:-1,UK: True Movies 1
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2756.ts
+#EXTINF:-1,UK: TLC
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2757.ts
+#EXTINF:-1,UK: Tiny Pop
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2758.ts
+#EXTINF:-1,UK: Sy-Fy
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2740.ts
+#EXTINF:-1,UK: Sky Two
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2759.ts
+#EXTINF:-1,UK: Sky Thriller
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2760.ts
+#EXTINF:-1,UK: Sky Sports News HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2761.ts
+#EXTINF:-1,UK: Sky Sport F1 HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2762.ts
+#EXTINF:-1,UK: SKY SPORT 5 HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2763.ts
+#EXTINF:-1,UK: Sky Sport 4 HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2764.ts
+#EXTINF:-1,UK: Sky Sport 3 HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2765.ts
+#EXTINF:-1,UK: SKY SPORT 2HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2766.ts
+#EXTINF:-1,UK: SKY SPORT 1 HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2767.ts
+#EXTINF:-1,UK: Sky Sport 1
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2768.ts
+#EXTINF:-1,UK: Sky Sci-Fi
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2769.ts
+#EXTINF:-1,UK: Sky pop
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2770.ts
+#EXTINF:-1,UK: Sky One
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2771.ts
+#EXTINF:-1,UK: Sky News
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2772.ts
+#EXTINF:-1,UK: Sky Movies Thriller HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2773.ts
+#EXTINF:-1,UK: Sky Movies ShowCase
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2741.ts
+#EXTINF:-1,UK: Sky Movies Sci-Fi HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2774.ts
+#EXTINF:-1,UK: Sky Movies Premiere HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2775.ts
+#EXTINF:-1,UK: Sky Movies Modern Great HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2742.ts
+#EXTINF:-1,UK: Sky Movies Modern Great
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2776.ts
+#EXTINF:-1,UK: Sky Movies Family HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2743.ts
+#EXTINF:-1,UK: Sky Movies Drama HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2777.ts
+#EXTINF:-1,UK: Sky Movies Disney HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2744.ts
+#EXTINF:-1,UK: Sky Movies Action HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2778.ts
+#EXTINF:-1,UK: Sky MOVIE Drama
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2779.ts
+#EXTINF:-1,UK: Sky Living
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2780.ts
+#EXTINF:-1,UK: Sky Family
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2781.ts
+#EXTINF:-1,UK: Sky Disney
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2782.ts
+#EXTINF:-1,UK: Sky Comedy
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2783.ts
+#EXTINF:-1,UK: Sky Atlantic
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2784.ts
+#EXTINF:-1,UK: Sky Arts 1
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2785.ts
+#EXTINF:-1,UK: Setanta Sport
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2786.ts
+#EXTINF:-1,UK: RTE 2 HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2787.ts
+#EXTINF:-1,UK: RTE 1 HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2788.ts
+#EXTINF:-1,UK: Really
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2745.ts
+#EXTINF:-1,UK: Racing
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2789.ts
+#EXTINF:-1,UK: Quest
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2746.ts
+#EXTINF:-1,UK: Premiere Sport
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2790.ts
+#EXTINF:-1,UK: Pick TV
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2747.ts
+#EXTINF:-1,UK: Nick JR
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2748.ts
+#EXTINF:-1,UK: Nick
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2791.ts
+#EXTINF:-1,UK: National Geography Wild
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2792.ts
+#EXTINF:-1,UK: NATIONAL GEOGRAPHIC
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2793.ts
+#EXTINF:-1,UK: MUTV
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2794.ts
+#EXTINF:-1,UK: Movies 4 Men
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2795.ts
+#EXTINF:-1,UK: Mototrs TV
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2796.ts
+#EXTINF:-1,UK: More4
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2749.ts
+#EXTINF:-1,UK: Living
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2797.ts
+#EXTINF:-1,UK: Horror Channel
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2798.ts
+#EXTINF:-1,UK: Home
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2799.ts
+#EXTINF:-1,UK: H2
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2800.ts
+#EXTINF:-1,UK: Good Food
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2801.ts
+#EXTINF:-1,UK: Gold
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2802.ts
+#EXTINF:-1,UK: Fox
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2803.ts
+#EXTINF:-1,UK: Food Network
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2804.ts
+#EXTINF:-1,UK: Five
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2805.ts
+#EXTINF:-1,UK: Film 4
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2806.ts
+#EXTINF:-1,UK: Eurosport 2 HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2807.ts
+#EXTINF:-1,UK: Eurosport 1 HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2808.ts
+#EXTINF:-1,UK: ESPN HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2809.ts
+#EXTINF:-1,UK: E4
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2810.ts
+#EXTINF:-1,UK: E!
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2811.ts
+#EXTINF:-1,UK: Drama
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2812.ts
+#EXTINF:-1,UK: Dmax
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2813.ts
+#EXTINF:-1,UK: Disney Junior
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2814.ts
+#EXTINF:-1,UK: Disney Channel
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2815.ts
+#EXTINF:-1,UK: Discovery World
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2816.ts
+#EXTINF:-1,UK: Discovery Turbo
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2817.ts
+#EXTINF:-1,UK: Discovery Science HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2818.ts
+#EXTINF:-1,UK: Discovery Science
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2819.ts
+#EXTINF:-1,UK: Discovery Investigation
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2820.ts
+#EXTINF:-1,UK: Discovery History
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2821.ts
+#EXTINF:-1,UK: Comedy Central
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2822.ts
+#EXTINF:-1,UK: CNN
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2750.ts
+#EXTINF:-1,UK: Channel 5
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2823.ts
+#EXTINF:-1,UK: Channel 4
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2824.ts
+#EXTINF:-1,UK: CBS Reality
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2825.ts
+#EXTINF:-1,UK: CBS Drama
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2826.ts
+#EXTINF:-1,UK: CBS Action
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2827.ts
+#EXTINF:-1,UK: Cartoon NetWork
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2828.ts
+#EXTINF:-1,UK: BT Sports 2 HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2829.ts
+#EXTINF:-1,UK: BT Sports 1
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2830.ts
+#EXTINF:-1,UK: Box Nation
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2831.ts
+#EXTINF:-1,UK: Bomerang
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2832.ts
+#EXTINF:-1,UK: BBC NEWS SD/HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2833.ts
+#EXTINF:-1,UK: BBC 4 HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2751.ts
+#EXTINF:-1,UK: BBC 1 HD
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2752.ts
+#EXTINF:-1,UK: Animal Planet
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2834.ts
+#EXTINF:-1,UK: Alibi
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2835.ts
+#EXTINF:-1,UK: 4 seven
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2753.ts
+#EXTINF:-1,UK: 3E
+http://cp.dmbshare.net:8000/live/samuel_monteiro/samuel_monteiro/2836.ts
 #EXTINF:-1 group-title="USA", ### USA ###
 http://192.0.0.1
 #EXTINF:-1 tvg-name="CBS 2" tvg-id="WCBSNewYorkCBSEast.us" group-title="USA",CBS 2 (New York)
