@@ -280,7 +280,7 @@ http://iptv.electro-clair.net:8000/live/nader/nader/1494.m3u8
 http://iptv.electro-clair.net:8000/live/nader/nader/1496.m3u8
 #EXTINF:-1 tvg-id="" group-title="FRANÇA",A.LA.CARTE.10
 http://iptv.electro-clair.net:8000/live/nader/nader/1495.m3u8
-#EXTINF:-1 group-title="PORTUGAL", ### PORTUGAL CHANNELS ###
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", ### PORTUGAL CHANNELS ###
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/240.ts
 #EXTINF:-1 tvg-id="" group-title="PORTUGAL",Sport TV 1
 http://31.204.128.112:8081/live/portugal1/playlist.m3u8
@@ -306,109 +306,109 @@ http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="PORTUGAL",SPORT TV AMÉRICAS 
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
-#EXTINF:-1,PT-SPORTING TV
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", SPORTING TV
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/891.ts
-#EXTINF:-1,PT-SIC RADICAL
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", SIC RADICAL
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/888.ts
-#EXTINF:-1,PT-SIC NOTICIAS
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", SIC NOTICIAS
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/889.ts
-#EXTINF:-1,PT-SIC
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", SIC
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/887.ts
-#EXTINF:-1,PT-RTP MADEIRA
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", RTP MADEIRA
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/895.ts
-#EXTINF:-1,PT-RTP INTERNATIONAL
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", RTP INTERNATIONAL
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/893.ts
-#EXTINF:-1,PT-RTP INFORMACAO
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", RTP INFORMACAO
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/894.ts
-#EXTINF:-1,PT-RTP ACORES
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", RTP ACORES
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/896.ts
-#EXTINF:-1,PT-PORTO CANAL
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", PORTO CANAL
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/897.ts
-#EXTINF:-1,PT-MOV TV
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", MOV TV
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/890.ts
-#EXTINF:-1,PT-24H KITCHEN
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", 24H KITCHEN
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/892.ts
-#EXTINF:-1,PT-RTP 2
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", RTP 2
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/665.ts
-#EXTINF:-1,PT-RTP 1
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", RTP 1
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/664.ts
-#EXTINF:-1,PT-DISCOVERY
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", DISCOVERY
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/661.ts
-#EXTINF:-1,PT-RTP 3
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", RTP 3
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/663.ts
-#EXTINF:-1,PT-SPORTING
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", SPORTING
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/658.ts
-#EXTINF:-1,PT-NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", NATIONAL GEOGRAPHIC
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/312.ts
-#EXTINF:-1,PT-NAT GEO WILD
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", NAT GEO WILD
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/311.ts
-#EXTINF:-1,PT-BENFICA 2
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", BENFICA 2
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/314.ts
-#EXTINF:-1,PT-BENFICA 1
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", BENFICA 1
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/313.ts
-#EXTINF:-1,PT-AXN WHITE
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", AXN WHITE
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/316.ts
-#EXTINF:-1,PT-AXN
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", AXN
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/315.ts
-#EXTINF:-1,PT-BBC INTER
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", BBC INTER
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/662.ts
-#EXTINF:-1,PT-SPORT TV 4
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", SPORT TV 4
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/657.ts
-#EXTINF:-1,PT-SPORT TV 3
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", SPORT TV 3
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/324.ts
-#EXTINF:-1,PT-SPORT TV 2
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", SPORT TV 2
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/656.ts
-#EXTINF:-1,PT-SPORT TV 1
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", SPORT TV 1
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/310.ts
-#EXTINF:-1,PT-TV CINES 2
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", TV CINES 2
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/309.ts
-#EXTINF:-1,PT-TV CINES 1
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", TV CINES 1
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/308.ts
-#EXTINF:-1,PT-TV GLOBO
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", TV GLOBO
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/323.ts
-#EXTINF:-1,PT-BENFICA TV 2
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", BENFICA TV 2
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/654.ts
-#EXTINF:-1,PT-BENFICA TV 1
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", BENFICA TV 1
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/655.ts
-#EXTINF:-1,PT-EUROSPORT 2
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", EUROSPORT 2
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/660.ts
-#EXTINF:-1,PT-EUROSPORT
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", EUROSPORT
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/659.ts
-#EXTINF:-1,PT-FOX CRIME
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", FOX CRIME
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/935.ts
-#EXTINF:-1,PT-FOX LIFE
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", FOX LIFE
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/934.ts
-#EXTINF:-1,PT-FOX MOVIES
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", FOX MOVIES
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/933.ts
-#EXTINF:-1,PT-FOX TV
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", FOX TV
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/936.ts
-#EXTINF:-1,PT-JIM JAM
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", JIM JAM
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/932.ts
-#EXTINF:-1,PT-MOTORS TV
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", MOTORS TV
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/937.ts
-#EXTINF:-1,PT-NICKELODEON
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", NICKELODEON
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/930.ts
-#EXTINF:-1,PT-SYFY
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", SYFY
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/929.ts
-#EXTINF:-1,PT-HOLLYWOOD
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", HOLLYWOOD
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/928.ts
 #EXTINF:-1,PR-TLC
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/927.ts
-#EXTINF:-1,PT-CANAL PANDA
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", CANAL PANDA
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/1666.ts
-#EXTINF:-1,PT-SIC MULHER
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", SIC MULHER
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/1667.ts
-#EXTINF:-1,PT-SPORT TV 5
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", SPORT TV 5
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/1665.ts
-#EXTINF:-1,PT-TV CINE 3
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", TV CINE 3
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/1663.ts
-#EXTINF:-1,PT-TV CINE 4
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", TV CINE 4
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/1664.ts
-#EXTINF:-1,PT-CM TV
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", CM TV
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/1654.ts
-#EXTINF:-1,PT-TVI
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", TVI
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/1652.ts
-#EXTINF:-1,PT-TVI 24
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL", TVI 24
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/1653.ts
 #EXTINF:-1 group-title="ESPANHA", ### ESPANHA###
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/240.ts
