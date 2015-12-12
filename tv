@@ -427,137 +427,71 @@ http://skyiptv.ddns.net:8000/live/iptv1590/547879/299.m3u8
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",019:: MDR
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",020:: BR
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",021::]HR
-http://wownet.ro/str/0026.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",022::RBB
-http://wownet.ro/str/0028.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",023::Phoenix
-http://wownet.ro/str/0030.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",024::ARD Alpha
-http://wownet.ro/str/0031.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="n24.de" group-title="ALEMANHA",025::N24
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/295.m3u8
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",026::n-tv
-http://wownet.ro/str/0034.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",027::euronews
-http://wownet.ro/str/0035.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",028::Disney Channel
-http://wownet.ro/str/0036.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",029::Sixx
-http://wownet.ro/str/0037.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",030::ServusTV DE HD
-http://wownet.ro/str/0123.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",031::RTL NITRO
-http://wownet.ro/str/0040.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",032::TELE 5
-http://wownet.ro/str/0041.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",033::JOIZ DE HD
-http://wownet.ro/str/01201.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",034::Nickelodeon
-http://wownet.ro/str/0043.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",035::Viva/Comedy Central
-http://wownet.ro/str/0044.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",036::Super RTL
-http://wownet.ro/str/0045.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",037::KiKA HD
-http://wownet.ro/str/0047.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",038::RIC
-http://wownet.ro/str/0048.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",039::Eurosport
-http://wownet.ro/str/0049.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",040::SPORT1
-http://wownet.ro/str/0050.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",041::ProSieben Maxx
-http://wownet.ro/str/0051.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",042::DMAX
-http://wownet.ro/str/0052.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",043::münchen.tv
-http://wownet.ro/str/0124.m3u8|X-Forwarded-For=78.43.32.8
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",044::blizz TV HD
-http://wownet.ro/str/0100.m3u8|X-Forwarded-For=78.43.32.8
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",045::Family TV HD
-http://wownet.ro/str/0119.m3u8|X-Forwarded-For=78.43.32.8
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",046::Alex Berlin
-http://wownet.ro/str/0103.m3u8|X-Forwarded-For=78.43.32.8
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",047::NRW TV HD
-http://wownet.ro/str/0104.m3u8|X-Forwarded-For=78.43.32.8
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",048::ZDFneo HD
-http://wownet.ro/str/0054.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",049::ZDFkultur HD
-http://wownet.ro/str/0056.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",050::ZDFinfo HD
-http://wownet.ro/str/0058.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",051::eins|plus HD
-http://wownet.ro/str/0060.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",052::eins.festival HD
-http://wownet.ro/str/0062.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",053::tagesschau24 HD
-http://wownet.ro/str/0064.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",054::Deluxe Music
-http://wownet.ro/str/0065.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",055::Anixe HD
-http://wownet.ro/str/0067.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",056::Deutsche Welle
-http://wownet.ro/str/0125.m3u8|X-Forwarded-For=78.43.32.8
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",057::DW Europe
-http://wownet.ro/str/0068.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",058::DAF
-http://wownet.ro/str/0098.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",059::Welt der Wunder TV
-http://wownet.ro/str/0099.m3u8|X-Forwarded-For=78.43.32.8
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",060::k-tv
-http://wownet.ro/str/0069.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",061::Bibel TV
-http://wownet.ro/str/0105.m3u8|X-Forwarded-For=78.43.32.8
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",062::ORF eins HD
-http://wownet.ro/str/0071.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",063::ORF 2 HD
-http://wownet.ro/str/0073.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",064::ORF III
-http://wownet.ro/str/0096.m3u8|X-Forwarded-For=84.114.88.26
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",065::ORF Sport+
-http://wownet.ro/str/0097.m3u8|X-Forwarded-For=84.114.88.26
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",066::ATV
-http://wownet.ro/str/0074.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",067::gotv Music
-http://wownet.ro/str/0126.m3u8|X-Forwarded-For=84.114.88.26
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",068::SRF 1 HD
-http://wownet.ro/str/0076.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",069::SRF zwei HD
-http://wownet.ro/str/0078.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",070::SRF info
-http://wownet.ro/str/0079.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",071::3plus
-http://wownet.ro/str/0080.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",072::JOIZ CH
-http://wownet.ro/str/0042.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",073::S1 HD
-http://wownet.ro/str/0081.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",074::TV24 HD
-http://wownet.ro/str/0082.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",075::Tele Züri HD
-http://wownet.ro/str/0084.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",076::Tele Bärn
-http://wownet.ro/str/0085.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",077::Tele Basel
-http://wownet.ro/str/0086.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",078::Tele Bielingue
-http://wownet.ro/str/0087.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",079::Tele Südostschweiz
-http://wownet.ro/str/0088.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",080::Tele Ostschweiz
-http://wownet.ro/str/0089.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",081::Tele 1
-http://wownet.ro/str/0090.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",082::Tele Top SH
-http://wownet.ro/str/0091.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",083::Tele Top TG
-http://wownet.ro/str/0092.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",084::Tele Top ZH
-http://wownet.ro/str/0093.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",085::Tele M1 Ost
-http://wownet.ro/str/0094.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",086::Tele M1 West
-http://wownet.ro/str/0095.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",101:: SPORT TIME TV 1 
 #EXTINF:-1 tvg-id="" group-title="ALEMANHA",SPORT TIME TV 2 
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/314.m3u8
@@ -600,35 +534,23 @@ http://skyiptv.ddns.net:8000/live/iptv1590/547879/713.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA",Rai 5
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/714.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA",RSI LA 1
-http://wownet.ro/str/0601.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ITALIA",RSI LA 1 HD
-http://wownet.ro/str/0602.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ITALIA",RSI LA 2
-http://wownet.ro/str/0603.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ITALIA",RSI LA 2 HD
-http://wownet.ro/str/0604.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ITALIA",Rai Gulp
-http://wownet.ro/str/0608.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ITALIA",Rai Scoula
-http://wownet.ro/str/0609.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ITALIA",Rai Storia
-http://wownet.ro/str/0610.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ITALIA",Rai Sport 1
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/676.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA",Rai Sport 2
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/677.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA",Rai News
-http://wownet.ro/str/0613.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ITALIA",Rai Movie
-http://wownet.ro/str/0621.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ITALIA",Rai Premium
-http://wownet.ro/str/0622.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ITALIA",TV Moda
-http://wownet.ro/str/0616.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ITALIA",Cielo
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/86.ts
 #EXTINF:-1 tvg-id="" group-title="ITALIA",Tele Ticino
-http://wownet.ro/str/0618.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Iris Mediaset
 http://sky-iptv.dyndns.org:8000/live/test6/test6/480.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA", Italia 2 Mediaset
@@ -1026,55 +948,35 @@ http://skyiptv.ddns.net:8000/live/iptv1590/547879/148.ts
 #EXTINF:-1 tvg-id="" group-title="UK",[COLOR blue]:: Hot Rod garage
 #EXTINF:-1 tvg-id="" group-title="UK",[COLOR blue]:: CNET
 #EXTINF:-1 group-title="USA", ### USA ###
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/240.ts
+http://192.0.0.1
 #EXTINF:-1 tvg-name="CBS 2" tvg-id="WCBSNewYorkCBSEast.us" group-title="USA",CBS 2 (New York)
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1430.m3u8
 #EXTINF:-1 tvg-name="CBS" tvg-id="" group-title="USA",CBS
-http://lv7.ustvnow.com/dvrtest/mp4:2E64BWHP0USTVNOW1/playlist.m3u8?key=SLFM198174908C8AEADB99212BE5FD38070AF212043
 #EXTINF:-1 tvg-name="NBC 4" tvg-id="WNBCNewYorkNBCEast.us" group-title="USA",NBC 4 (New York)
-http://37.48.83.131:1935/live/nbc77/playlist.m3u8?wowzasessionid=458535430&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDE1IDQ6MzU6MzEgUE0maGFzaF92YWx1ZT1aQmtHNGdReU0xbzRub1lESlJydjNnPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-name="NBC" tvg-id="" group-title="USA",NBC
-http://lv7.ustvnow.com/dvrtest/mp4:F68ADWGALUSTVNOW1/playlist.m3u8?key=SLFM198174908C8AEADB99212BE5FD38070AF212043
 #EXTINF:-1 tvg-id="" group-title="USA",FOX 5
-http://lv7.ustvnow.com/dvrtest/mp4:16D9DWPMTUSTVNOW1/playlist.m3u8?key=SLFM198174908C8AEADB99212BE5FD38070AF212043
 #EXTINF:-1 tvg-name="ABC 7" tvg-id="WABCNewYorkABCEast.us" group-title="USA",ABC 7 (New York)
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1437.m3u8
 #EXTINF:-1 tvg-name="ABC" tvg-id="" group-title="USA",ABC
-http://lv7.ustvnow.com/dvrtest/mp4:FFC1CWHTMUSTVNOW1/playlist.m3u8?key=SLFM198174908C8AEADB99212BE5FD38070AF212043
 #EXTINF:-1 tvg-name="My9" tvg-id="Myx.us" group-title="USA",MY Tv Network
-http://lv7.ustvnow.com/dvrtest/mp4:96291WHVLUSTVNOW1/playlist.m3u8?key=SLFM198174908C8AEADB99212BE5FD38070AF212043
 #EXTINF:-1 tvg-id="" group-title="USA",CW 11 (New York)
-http://37.48.83.131:1935/live/cw77/playlist.m3u8?wowzasessionid=429415873&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDE1IDQ6MzU6MzEgUE0maGFzaF92YWx1ZT1aQmtHNGdReU0xbzRub1lESlJydjNnPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-name="CW" tvg-id="" group-title="USA",CW
-http://lv7.ustvnow.com/dvrtest/mp4:67026WLYHUSTVNOW1/playlist.m3u8?key=SLFM198174908C8AEADB99212BE5FD38070AF212043
 #EXTINF:-1 tvg-name="PBS" tvg-id="PBSVirt.us" group-title="USA",PBS
-http://lv7.ustvnow.com/dvrtest/mp4:EDE45WPSUUSTVNOW1/playlist.m3u8?key=SLFM198174908C8AEADB99212BE5FD38070AF212043
 #EXTINF:-1 tvg-id="" group-title="USA",HSN
-http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31/mp4:420p500kB31.m3u8
 #EXTINF:-1 tvg-id="" group-title="USA",HSN2
-http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31/mp4:468p500kB3.m3u8
 #EXTINF:-1 tvg-id="" group-title="USA",USA
 #EXTINF:-1 tvg-id="" group-title="USA",Comedy Central East
 #EXTINF:-1 tvg-id="" group-title="USA",Lifetime East 
-http://rtmp1.arconaitv.me/live/jdZcGByuhpRhihCnkS-Qpg/1449283946/1a10be3692cec335c74387f33221a6fa.m3u8
 #EXTINF:-1 tvg-id="" group-title="USA",Food Network East
 #EXTINF:-1 tvg-id="" group-title="USA",DIY Network USA
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1491.ts
 #EXTINF:-1 tvg-id="" group-title="USA",HGTV East
 #EXTINF:-1 tvg-id="" group-title="USA",Cooking Channel 
 #EXTINF:-1 tvg-id="" group-title="USA",E!
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1432.ts
 #EXTINF:-1 tvg-id="" group-title="USA",GSN
 #EXTINF:-1 tvg-id="" group-title="USA",POP
 #EXTINF:-1 tvg-name="A&E" tvg-id="A-E.us" group-title="USA",A&E
-http://rtmp1.arconaitv.me/live/Pp20ghu9m2Bn3L9Hyuj_fA/1449428548/bb38d9048b7b91706264169a031f32a4.m3u8
 #EXTINF:-1 tvg-id="" group-title="USA",FYI
 #EXTINF:-1 tvg-id="" group-title="USA",History
-http://rtmp1.arconaitv.me/live/jQccZnHzelcIMq7RvDxS5A/1449277141/d4a4950b7b7267417aa0b9733f30b6fe.m3u8
 #EXTINF:-1 tvg-id="" group-title="USA",H2
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1435.ts
 #EXTINF:-1 tvg-id="" group-title="USA",Syfy
-http://89.248.172.57:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=363987176
 #EXTINF:-1 tvg-id="" group-title="USA",BET
 #EXTINF:-1 tvg-id="" group-title="USA",Sundance
 #EXTINF:-1 tvg-id="" group-title="USA",Oxygen
@@ -1082,7 +984,6 @@ http://89.248.172.57:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasess
 #EXTINF:-1 tvg-id="" group-title="USA",Bravo East
 #EXTINF:-1 tvg-id="" group-title="USA",HDNet Movies
 #EXTINF:-1 tvg-id="" group-title="USA",AMC East
-http://37.48.83.131:1935/live/amc77/playlist.m3u8?wowzasessionid=953628342&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE1IDExOjE4OjMzIFBNJmhhc2hfdmFsdWU9Nms4aTBmcnRmdVp0cCt0ODBwVmd6Zz09JnZhbGlkbWludXRlcz0yMA%3D%3D
 #EXTINF:-1 tvg-id="" group-title="USA",TCM US
 #EXTINF:-1 tvg-id="" group-title="USA",IFC East
 #EXTINF:-1 tvg-id="" group-title="USA",Evine
@@ -1090,29 +991,22 @@ http://37.48.83.131:1935/live/amc77/playlist.m3u8?wowzasessionid=953628342&wmsAu
 #EXTINF:-1 tvg-id="" group-title="USA",TNT Drama
 #EXTINF:-1 tvg-id="" group-title="USA",TBS East
 #EXTINF:-1 tvg-id="" group-title="USA",ESPN
-http://89.248.172.57:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
 #EXTINF:-1 tvg-id="" group-title="USA",ESPNU
 #EXTINF:-1 tvg-id="" group-title="USA",ESPNews
 #EXTINF:-1 tvg-id="" group-title="USA",ESPN 2
-http://37.48.83.131:1935/live/espnn2/playlist.m3u8?wowzasessionid=1086870519&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE1IDExOjM1OjMyIFBNJmhhc2hfdmFsdWU9UElacGpXWnRNQVlpWHdYSXdkTVRGQT09JnZhbGlkbWludXRlcz0yMA%3D%3D
 #EXTINF:-1 tvg-id="" group-title="USA",Fox Sports 1
 #EXTINF:-1 tvg-id="" group-title="USA",Fox Sports 2
 #EXTINF:-1 tvg-id="" group-title="USA",Fox Sports Florida
 #EXTINF:-1 tvg-id="" group-title="USA",MLB Network
-http://lb.iptvserver.tv:8080/redirect/LiveEdge/MLBNetworkHD/playlist.m3u8?token=a75c6323cd6f15e7dcda1e99925a2757
 #EXTINF:-1 tvg-name="NFL Network" tvg-id="NFLSundayTicketGameMix.us" group-title="USA",NFL Network
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1521.m3u8
 #EXTINF:-1 tvg-id="" group-title="USA",NBA TV
-http://178.18.31.51:8081/liverepeater/226723/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE1IDExOjU2OjUwIFBNJmhhc2hfdmFsdWU9RndHZDUrenMvVk56UDFPTDdrZmhIdz09JnZhbGlkbWludXRlcz00
 #EXTINF:-1 tvg-id="" group-title="USA",NHL Network
 #EXTINF:-1 tvg-id="" group-title="USA",CBS Sports Network
 #EXTINF:-1 tvg-id="" group-title="USA",NBC Sport Network
 #EXTINF:-1 tvg-id="" group-title="USA",MTV
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1481.ts
 #EXTINF:-1 tvg-id="" group-title="USA",MTV2
 #EXTINF:-1 tvg-id="" group-title="USA",VH1
 #EXTINF:-1 tvg-id="" group-title="USA",VH1 Classic
-http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 tvg-id="" group-title="USA",Vevo1
 #EXTINF:-1 tvg-id="" group-title="USA",Vevo2
 #EXTINF:-1 tvg-id="" group-title="USA",Vevo3
@@ -1124,25 +1018,19 @@ http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 tvg-id="" group-title="USA",Nick Jr
 #EXTINF:-1 tvg-id="" group-title="USA",Nickelodeon East
 #EXTINF:-1 tvg-id="" group-title="USA",Disney Channel East
-http://89.248.172.57:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1422793355
 #EXTINF:-1 tvg-id="" group-title="USA",Disney Channel West
 #EXTINF:-1 tvg-id="" group-title="USA",Disney XD
 #EXTINF:-1 tvg-id="" group-title="USA",Boomerang
 #EXTINF:-1 tvg-id="" group-title="USA",Cartoon Network
-http://89.248.172.57:1935/edge/_definst_/9l41fcr1sgmclej/playlist.m3u8?wowzasessionid=408215614
 #EXTINF:-1 tvg-id="" group-title="USA",NickToon
 #EXTINF:-1 tvg-id="" group-title="USA",Discovery Family
 #EXTINF:-1 tvg-name="ABC Family" tvg-id="ABCFamilyChannel.us" group-title="USA",ABC Family
-http://37.48.83.131:1935/live/abcfam77/playlist.m3u8?wowzasessionid=1183374031&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDE1IDQ6MTg6MzEgUE0maGFzaF92YWx1ZT1namkzTFc1VmhjbjQrVUR1MXRib0J3PT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-id="" group-title="USA",Teen Nick
 #EXTINF:-1 tvg-id="" group-title="USA",Discovery Channel
-http://rtmp1.arconaitv.me/live/dKb23NzhZfn7QOcXzllxHA/1449280942/a490ae75a3ec2acf16c9f592e889eb4c.m3u8
 #EXTINF:-1 tvg-id="" group-title="USA",TLC
 #EXTINF:-1 tvg-id="" group-title="USA",Animal Planet
-http://rtmp1.arconaitv.me/live/NrOXEiv_Cdq_PT91exB8ag/1449280746/52d1df7fff7b1ba3ac317b98ef2fdb80.m3u8
 #EXTINF:-1 tvg-id="" group-title="USA",Hallmark
 #EXTINF:-1 tvg-id="" group-title="USA",National Geographic Channel
-http://rtmp1.arconaitv.me/live/SQE8LJWui3Ztavo2LXD2fg/1449283947/e08dd4627a3cf468a30d8a357956d6f8.m3u8
 #EXTINF:-1 tvg-id="" group-title="USA",Hallmark Movie Channel
 #EXTINF:-1 tvg-id="" group-title="USA",UP
 #EXTINF:-1 tvg-id="" group-title="USA",OWN
@@ -1156,27 +1044,19 @@ http://rtmp1.arconaitv.me/live/SQE8LJWui3Ztavo2LXD2fg/1449283947/e08dd4627a3cf46
 #EXTINF:-1 tvg-id="" group-title="USA",Pivot
 #EXTINF:-1 tvg-id="" group-title="USA",Chiller
 #EXTINF:-1 tvg-id="" group-title="USA",CNN
-http://edge1.everyon.tv/etv1sb/phd16/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="USA",HLN
 #EXTINF:-1 tvg-id="" group-title="USA",ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1 tvg-id="" group-title="USA",Bloomberg TV
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 #EXTINF:-1 tvg-name="Fox News" tvg-id="FOXNewsChannel.us" group-title="USA",Fox News Channel
-http://89.248.172.57:1935/edge/_definst_/w0mr10getvsikam/playlist.m3u8?wowzasessionid=1026698864
 #EXTINF:-1 tvg-id="" group-title="USA",FOX Business
 #EXTINF:-1 tvg-id="" group-title="USA",CNBC
-#EXTINF:-1 tvg-id="" group-title="USA",
-http://sjc-uhls-proxy03.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=12440345&stream=viewer_240p&connectionId=oldurl-45afead11e1570ebbb88830a195b55c72dfa8bf5&group=iphone
 #EXTINF:-1 tvg-id="" group-title="USA",RT America
-http://rt.api.visionip.tv/live/ASHTTP/RT_America-MB/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="USA",C-SPAN
 #EXTINF:-1 tvg-id="" group-title="USA",C-SPAN 2
 #EXTINF:-1 tvg-id="" group-title="USA",C-SPAN 3
 #EXTINF:-1 tvg-id="" group-title="USA",The Weather Channel
 #EXTINF:-1 tvg-id="" group-title="USA",The Weather Network
 #EXTINF:-1 tvg-id="" group-title="USA",The Weather Nation
-http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish1/kLive/smil:1_oorxcge2_all.smil/chunklist_b475136.m3u8
 #EXTINF:-1 tvg-id="" group-title="USA",Al Jazeera
 #EXTINF:-1 tvg-id="" group-title="USA",FXX East
 #EXTINF:-1 tvg-id="" group-title="USA",Spike TV
@@ -1195,7 +1075,6 @@ http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish1/kLive/smil:1_oorxcge2_al
 #EXTINF:-1 tvg-id="" group-title="USA",EPIX Drive In
 #EXTINF:-1 tvg-id="" group-title="USA",REELZ
 #EXTINF:-1 tvg-name="HBO" tvg-id="HBOEast.us" group-title="USA",HBO East
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1441.m3u8
 #EXTINF:-1 tvg-id="" group-title="USA",HBO 2 East
 #EXTINF:-1 tvg-id="" group-title="USA",HBO Signature East
 #EXTINF:-1 tvg-id="" group-title="USA",HBO West
@@ -1206,7 +1085,6 @@ http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1441.m3u8
 #EXTINF:-1 tvg-id="" group-title="USA",HBO Latino
 #EXTINF:-1 tvg-id="" group-title="USA",Cinemax East
 #EXTINF:-1 tvg-name="More Max" tvg-id="CinemaxMoreMaxHDEast.us" group-title="USA", Moremax
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1450.m3u8
 #EXTINF:-1 tvg-id="" group-title="USA",Cinemax West
 #EXTINF:-1 tvg-id="" group-title="USA",ActionMax East
 #EXTINF:-1 tvg-id="" group-title="USA",5 StarMax
@@ -1221,7 +1099,6 @@ http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1450.m3u8
 #EXTINF:-1 tvg-id="" group-title="USA",The Movie Channel Xtra East
 #EXTINF:-1 tvg-id="" group-title="USA",Flix
 #EXTINF:-1 tvg-name="Encore East" tvg-id="Encore.us" group-title="USA",Encore East
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1469.m3u8
 #EXTINF:-1 tvg-id="" group-title="USA",Encore West
 #EXTINF:-1 tvg-id="" group-title="USA",Encore Westerns
 #EXTINF:-1 tvg-id="" group-title="USA",Encore Action East
@@ -1233,7 +1110,6 @@ http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1469.m3u8
 #EXTINF:-1 tvg-id="" group-title="USA",Starz West
 #EXTINF:-1 tvg-id="" group-title="USA",Starz Edge East
 #EXTINF:-1 tvg-name="Starz Cinema" tvg-id="StarzCinemaHD.us" group-title="USA",Starz Cinema East
-http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1468.m3u8
 #EXTINF:-1 tvg-id="" group-title="USA",Starz Comedy East
 #EXTINF:-1 tvg-id="" group-title="USA",Starz In Black East
 #EXTINF:-1 tvg-id="" group-title="USA",Starz Kids & Family East
@@ -1255,9 +1131,7 @@ http://50.7.136.90:81/live/slfm1981@gmail.com/inquisitate@81/1468.m3u8
 #EXTINF:-1 tvg-id="" group-title="USA",The Sportsman Channel
 #EXTINF:-1 tvg-id="" group-title="USA",Outdoor Channel
 #EXTINF:-1 tvg-id="" group-title="USA",Tennis Channel
-http://lb.iptvserver.tv:8080/redirect/LiveEdge/TennisChannelUS/playlist.m3u8?token=533030777ca0d52a5d68277c127ddb77
 #EXTINF:-1 tvg-id="" group-title="USA",Golf Channel
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1296k/prog.m3u8
 #EXTINF:-1 tvg-id="" group-title="USA",Big Ten Network
 #EXTINF:-1 tvg-id="" group-title="USA",PAC 12 Network
 http://xrxs.net/video/live-p12netw-1728.m3u8
