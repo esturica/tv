@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FRANÇA", ### FRANÇA ###
+#EXTINF:-1 group-title="FRANÇA",### FRANÇA ###
 http://192.0.0.1
 #EXTINF:-1 tvg-id="TF1.fr" group-title="FRANÇA",TF1
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/271.m3u8
@@ -32,237 +32,237 @@ http://skyiptv.ddns.net:8000/live/iptv1590/547879/284.m3u8
 http://iptv.electro-clair.net:8000/live/nader/nader/1564.m3u8
 #EXTINF:-1 tvg-id="CinecinemaFamiz.fr" group-title="FRANÇA",Canal + Famiz
 http://iptv.electro-clair.net:8000/live/nader/nader/1566.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Canal + Star
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Canal + Club
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Canal + Star
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Canal + Club
 #EXTINF:-1 tvg-id="CinecinemaClassic.fr" group-title="FRANÇA",Canal + Classic
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/263.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", TCM
-#EXTINF:-1 tvg-id="OrangeCinemax.fr" group-title="FRANÇA", OCS Max
-#EXTINF:-1 tvg-id="OrangeCineHappy.fr" group-title="FRANÇA", OCS City
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",TCM
+#EXTINF:-1 tvg-id="OrangeCinemax.fr" group-title="FRANÇA",OCS Max
+#EXTINF:-1 tvg-id="OrangeCineHappy.fr" group-title="FRANÇA",OCS City
 http://iptv.electro-clair.net:8000/live/nader/nader/443.m3u8
-#EXTINF:-1 tvg-id="OrangeCinechoc.fr" group-title="FRANÇA", OCS Choc
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", OCS Novo
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", OCS Geants
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", FOX
+#EXTINF:-1 tvg-id="OrangeCinechoc.fr" group-title="FRANÇA",OCS Choc
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",OCS Novo
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",OCS Geants
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",FOX
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/279.m3u8
 #EXTINF:-1 tvg-id="CinePolar.fr" group-title="FRANÇA",Polar
 http://iptv.electro-clair.net:8000/live/nader/nader/1563.m3u8
-#EXTINF:-1 tvg-id="CineFX.fr" group-title="FRANÇA", Cine FX
+#EXTINF:-1 tvg-id="CineFX.fr" group-title="FRANÇA",Cine FX
 http://iptv.electro-clair.net:8000/live/nader/nader/607.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Action
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Action
 http://iptv.electro-clair.net:8000/live/nader/nader/1558.m3u8
-#EXTINF:-1 tvg-id="DisneyMagic.fr" group-title="FRANÇA", Disney Cinema
+#EXTINF:-1 tvg-id="DisneyMagic.fr" group-title="FRANÇA",Disney Cinema
 http://iptv.electro-clair.net:8000/live/nader/nader/1659.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Disney Cinemagic +1
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Pass Series
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Disney Cinemagic +1
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Pass Series
 #EXTINF:-1 tvg-id="13RUE.fr" group-title="FRANÇA",13eme Rue
 http://iptv.electro-clair.net:8000/live/nader/nader/1532.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Comedie +
-#EXTINF:-1 tvg-id="Syfy.fr" group-title="FRANÇA", SyFy
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Comedie +
+#EXTINF:-1 tvg-id="Syfy.fr" group-title="FRANÇA",SyFy
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/274.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", TF6
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",TF6
 #EXTINF:-1 tvg-id="SerieClub.fr" group-title="FRANÇA",SerieClub
 http://iptv.electro-clair.net:8000/live/nader/nader/193.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", MTV
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", June
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Non Stop People
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",MTV
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",June
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Non Stop People
 #EXTINF:-1 tvg-id="Eentertainment.fr" group-title="FRANÇA",E!
 http://iptv.electro-clair.net:8000/live/nader/nader/1358.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", MCM
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",MCM
 #EXTINF:-1 tvg-id="Mangas.fr" group-title="FRANÇA",Mangas
 http://iptv.electro-clair.net:8000/live/nader/nader/1530.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Game One
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", AB1
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Jimmy
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Tv Breizh
-#EXTINF:-1 tvg-id="Teva.fr" group-title="FRANÇA", Téva
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Game One
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",AB1
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Jimmy
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Tv Breizh
+#EXTINF:-1 tvg-id="Teva.fr" group-title="FRANÇA",Téva
 #EXTINF:-1 tvg-id="ParisPremiere.fr" group-title="FRANÇA",Paris Premiere
 http://iptv.electro-clair.net:8000/live/nader/nader/608.m3u8
-#EXTINF:-1 tvg-id="RTL9.fr" group-title="FRANÇA", RTL9
+#EXTINF:-1 tvg-id="RTL9.fr" group-title="FRANÇA",RTL9
 http://iptv.electro-clair.net:8000/live/nader/nader/1557.ts
-#EXTINF:-1 tvg-id="HD1" group-title="FRANÇA", HD1
-#EXTINF:-1 tvg-id="6ter" group-title="FRANÇA", 6Ter
+#EXTINF:-1 tvg-id="HD1" group-title="FRANÇA",HD1
+#EXTINF:-1 tvg-id="6ter" group-title="FRANÇA",6Ter
 #EXTINF:-1 tvg-id="Direct8.fr" group-title="FRANÇA",D8
 http://iptv.electro-clair.net:8000/live/nader/nader/1534.m3u8
 #EXTINF:-1 tvg-id="W9.fr" group-title="FRANÇA",W9
 http://iptv.electro-clair.net:8000/live/nader/nader/208.m3u8
 #EXTINF:-1 tvg-id="TMC.fr" group-title="FRANÇA",TMC
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/273.m3u8
-#EXTINF:-1 tvg-id="NT1.fr" group-title="FRANÇA", NT1
+#EXTINF:-1 tvg-id="NT1.fr" group-title="FRANÇA",NT1
 #EXTINF:-1 tvg-id="NRJ12.fr" group-title="FRANÇA",NRJ12
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/275.m3u8
 #EXTINF:-1 tvg-id="France4.fr" group-title="FRANÇA",France 4
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/278.m3u8
 #EXTINF:-1 tvg-id="DirectStar.fr" group-title="FRANÇA",D17
 http://iptv.electro-clair.net:8000/live/nader/nader/1342.m3u8
-#EXTINF:-1 tvg-id="FranceO.fr" group-title="FRANÇA", France Ô
+#EXTINF:-1 tvg-id="FranceO.fr" group-title="FRANÇA",France Ô
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/276.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Numero 23
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Cherie 25
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", NRJ Paris
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", TV5 Monde
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Cuisine+
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Maison+
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Vivolta
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", MCS Bien-Etre
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Liberty Tv
-#EXTINF:-1 tvg-id="PLANETE.fr" group-title="FRANÇA", Planete +
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Numero 23
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Cherie 25
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",NRJ Paris
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",TV5 Monde
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Cuisine+
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Maison+
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Vivolta
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",MCS Bien-Etre
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Liberty Tv
+#EXTINF:-1 tvg-id="PLANETE.fr" group-title="FRANÇA",Planete +
 #EXTINF:-1 tvg-id="PLANETETHALASSA.fr" group-title="FRANÇA",Planete+ Thalassa
 http://iptv.electro-clair.net:8000/live/nader/nader/609.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Planete + Justice
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Planete + No Limit
-#EXTINF:-1 tvg-id="Discovery.fr" group-title="FRANÇA", Discovery Channel
-#EXTINF:-1 tvg-id="DiscoveryScience.fr" group-title="FRANÇA", Discovery Science
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Planete + Justice
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Planete + No Limit
+#EXTINF:-1 tvg-id="Discovery.fr" group-title="FRANÇA",Discovery Channel
+#EXTINF:-1 tvg-id="DiscoveryScience.fr" group-title="FRANÇA",Discovery Science
 #EXTINF:-1 tvg-id="NationalGeographic.fr" group-title="FRANÇA",National Geographic
 http://iptv.electro-clair.net:8000/live/nader/nader/206.m3u8
 #EXTINF:-1 tvg-id="" group-title="FRANÇA",Nat Geo Wild
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Voyage
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Ushuaia Tv
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Histoire
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Toute L'Histoire
-#EXTINF:-1 tvg-id="Animaux.fr" group-title="FRANÇA", Animaux
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Voyage
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Ushuaia Tv
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Histoire
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Toute L'Histoire
+#EXTINF:-1 tvg-id="Animaux.fr" group-title="FRANÇA",Animaux
 http://iptv.electro-clair.net:8000/live/nader/nader/22.m3u8
-#EXTINF:-1 tvg-id="ChassePeche.fr" group-title="FRANÇA", Chasse et Peche
+#EXTINF:-1 tvg-id="ChassePeche.fr" group-title="FRANÇA",Chasse et Peche
 http://iptv.electro-clair.net:8000/live/nader/nader/441.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Escales
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Encyclo
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Seasons
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Montagne Tv
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", TV8 Mont-Blanc
-#EXTINF:-1 tvg-id="RMCdecouverte.fr" group-title="FRANÇA", RMC Decouverte
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", La Chaine Meteo
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", LCI
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", La Chaine Meteo
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Escales
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Encyclo
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Seasons
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Montagne Tv
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",TV8 Mont-Blanc
+#EXTINF:-1 tvg-id="RMCdecouverte.fr" group-title="FRANÇA",RMC Decouverte
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",La Chaine Meteo
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",LCI
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",La Chaine Meteo
 #EXTINF:-1 tvg-id="BFMTV.fr" group-title="FRANÇA",BFM Tv
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/288.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Euronews
-#EXTINF:-1 tvg-id="France24fr.fr" group-title="FRANÇA", France 24
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Euronews
+#EXTINF:-1 tvg-id="France24fr.fr" group-title="FRANÇA",France 24
 #EXTINF:-1 tvg-id="i24News.fr" group-title="FRANÇA",i24 News
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/650.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", LCP Public Senat
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", BFM Business
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Bloomberg Tv
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", CNN International
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", BBC World News
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", CNBC
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Guysen Tv
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", KTO
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Sport+
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",LCP Public Senat
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",BFM Business
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Bloomberg Tv
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",CNN International
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",BBC World News
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",CNBC
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Guysen Tv
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",KTO
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Sport+
 #EXTINF:-1 tvg-id="Eurosport.fr" group-title="FRANÇA",Eurosport
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/282.m3u8
-#EXTINF:-1 tvg-id="Infosport.fr" group-title="FRANÇA", Infosport+
+#EXTINF:-1 tvg-id="Infosport.fr" group-title="FRANÇA",Infosport+
 http://iptv.electro-clair.net:8000/live/nader/nader/1344.m3u8
-#EXTINF:-1 tvg-id="L'EQUIPE TV" group-title="FRANÇA", L'Equipe 21
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Sport365
+#EXTINF:-1 tvg-id="L'EQUIPE TV" group-title="FRANÇA",L'Equipe 21
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Sport365
 #EXTINF:-1 tvg-id="Eurosport2.fr" group-title="FRANÇA",Eurosport 2
 http://iptv.electro-clair.net:8000/live/nader/nader/529.m3u8
-#EXTINF:-1 tvg-id="Weo.fr" group-title="FRANÇA", WEO
+#EXTINF:-1 tvg-id="Weo.fr" group-title="FRANÇA",WEO
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/1210.m3u8
-#EXTINF:-1 tvg-id="MaChaineSport.fr" group-title="FRANÇA", Ma Chaine Sport
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", MCS Extreme
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Kombat Sport
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Equidia Live
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Equidia Life
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Motors Tv
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", OM Tv
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", OL Tv
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Onzeo
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Girondis Tv
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", ESPN Classic
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", ESPN America
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Nautical Channel
+#EXTINF:-1 tvg-id="MaChaineSport.fr" group-title="FRANÇA",Ma Chaine Sport
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",MCS Extreme
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Kombat Sport
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Equidia Live
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Equidia Life
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Motors Tv
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",OM Tv
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",OL Tv
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Onzeo
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Girondis Tv
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",ESPN Classic
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",ESPN America
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Nautical Channel
 #EXTINF:-1 tvg-id="beINSport1.fr" group-title="FRANÇA",Bein Sports 1
 http://iptv.electro-clair.net:8000/live/nader/nader/1169.m3u8
 #EXTINF:-1 tvg-id="beINSport2.fr" group-title="FRANÇA",Bein Sports 2
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/289.m3u8
 #EXTINF:-1 tvg-id="beINSport3.fr" group-title="FRANÇA",Bein Sports 3
 http://iptv.electro-clair.net:8000/live/nader/nader/256.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Golf+
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Extreme Sports
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Blackbelt Tv
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Ab Moteurs
-#EXTINF:-1 tvg-id="DisneyJunior.fr" group-title="FRANÇA", Disney Jr.
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Golf+
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Extreme Sports
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Blackbelt Tv
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Ab Moteurs
+#EXTINF:-1 tvg-id="DisneyJunior.fr" group-title="FRANÇA",Disney Jr.
 http://iptv.electro-clair.net:8000/live/nader/nader/532.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", TUI
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Nickelodeon Jr.
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Mon Nickelodeon Jr.
-#EXTINF:-1 tvg-id="PIWI.fr" group-title="FRANÇA", Piwi+
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",TUI
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Nickelodeon Jr.
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Mon Nickelodeon Jr.
+#EXTINF:-1 tvg-id="PIWI.fr" group-title="FRANÇA",Piwi+
 #EXTINF:-1 tvg-id="Boomerang.fr" group-title="FRANÇA",Boomerang
 http://iptv.electro-clair.net:8000/live/nader/nader/1338.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Nickelodeon
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Nickelodeon
 #EXTINF:-1 tvg-id="CanalJ.fr" group-title="FRANÇA",Canal J
 http://iptv.electro-clair.net:8000/live/nader/nader/1337.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.fr" group-title="FRANÇA",Disney Channel
 http://iptv.electro-clair.net:8000/live/nader/nader/1340.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Disney Channel +1
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Disney Channel +1
 #EXTINF:-1 tvg-id="CartoonNetwork.fr" group-title="FRANÇA",Cartoon Network
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/265.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Disney XD
-#EXTINF:-1 tvg-id="TeleTOON.fr" group-title="FRANÇA", Teletoon+
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Disney XD
+#EXTINF:-1 tvg-id="TeleTOON.fr" group-title="FRANÇA",Teletoon+
 http://iptv.electro-clair.net:8000/live/nader/nader/1560.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Teletoon+1
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Boing
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Teletoon+1
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Boing
 #EXTINF:-1 tvg-id="Tiji.fr" group-title="FRANÇA",Tiji
 http://iptv.electro-clair.net:8000/live/nader/nader/1343.m3u8
-#EXTINF:-1 tvg-id="Gulli.fr" group-title="FRANÇA", Gulli
+#EXTINF:-1 tvg-id="Gulli.fr" group-title="FRANÇA",Gulli
 http://iptv.electro-clair.net:8000/live/nader/nader/1533.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", MTV Base
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", MTV Pulse
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", MTV Idol
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", MTV Live
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Trace Urban
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", NRJ Hits
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", MCM Top
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", MCM Pop
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Brava
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Trace Tropical
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", MTV Hits
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", MTV Rocks
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", M6 Music
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", M6 Music Player
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", M6 Music Black
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", M6 Music Club
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", VH1
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", VH1 Classic
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Tele Melody
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Mezzo
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Mezzo Live
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Djazz Tv
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", M6 Boutique & Co
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Best of Shopping
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Cash Tv
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", France 3 Alpes
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", France 3 Alsace
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", France 3 Aquitaine
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", France 3 Auvergine
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", France 3 Basse-Normandie
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", France 3 Bourgogne
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", France 3 Bretagne
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", France 3 Centre
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", France 3 Champagne-Ardenne
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", France 3 Corse
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", France 3 Cote D'Azur
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", France 3 Franche Comte
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", France 3 Haute Normandie
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", France 3 Languedoc Roussilon
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", France 3 Limousin
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", France 3 Lorraine
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", France 3 Midi-Pyrenees
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", France 3 Nord-Pas-De-Calais
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", France 3 Paris Ille-De-france
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", France 3 Pays De La Loire
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", France 3 Picardie
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", France 3 Poitou-Charentes
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", France 3 Provences-Alpes
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", France 3 Rhones-Alpes
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", TébéSud 
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", LA CHAINE NORMANDIE 
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", TV Rennes 
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Mirabelle TV 
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Yvelines Premiere 
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Canal Play 1
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",MTV Base
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",MTV Pulse
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",MTV Idol
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",MTV Live
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Trace Urban
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",NRJ Hits
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",MCM Top
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",MCM Pop
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Brava
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Trace Tropical
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",MTV Hits
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",MTV Rocks
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",M6 Music
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",M6 Music Player
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",M6 Music Black
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",M6 Music Club
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",VH1
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",VH1 Classic
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Tele Melody
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Mezzo
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Mezzo Live
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Djazz Tv
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",M6 Boutique & Co
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Best of Shopping
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Cash Tv
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",France 3 Alpes
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",France 3 Alsace
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",France 3 Aquitaine
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",France 3 Auvergine
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",France 3 Basse-Normandie
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",France 3 Bourgogne
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",France 3 Bretagne
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",France 3 Centre
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",France 3 Champagne-Ardenne
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",France 3 Corse
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",France 3 Cote D'Azur
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",France 3 Franche Comte
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",France 3 Haute Normandie
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",France 3 Languedoc Roussilon
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",France 3 Limousin
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",France 3 Lorraine
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",France 3 Midi-Pyrenees
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",France 3 Nord-Pas-De-Calais
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",France 3 Paris Ille-De-france
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",France 3 Pays De La Loire
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",France 3 Picardie
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",France 3 Poitou-Charentes
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",France 3 Provences-Alpes
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",France 3 Rhones-Alpes
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",TébéSud 
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",LA CHAINE NORMANDIE 
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",TV Rennes 
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Mirabelle TV 
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Yvelines Premiere 
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Canal Play 1
 http://iptv.electro-clair.net:8000/live/nader/nader/1371.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRANÇA", Canal Play 2
+#EXTINF:-1 tvg-id="" group-title="FRANÇA",Canal Play 2
 http://iptv.electro-clair.net:8000/live/nader/nader/1372.m3u8
 #EXTINF:-1 tvg-id="" group-title="FRANÇA",Canal Play 3
 http://iptv.electro-clair.net:8000/live/nader/nader/1373.m3u8
