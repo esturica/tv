@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="FRANÇA",### FRANÇA ###
 http://192.0.0.1
 #EXTINF:-1 tvg-id="TF1.fr" group-title="FRANÇA",TF1
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/271.m3u8
+http://iptv.electro-clair.net:8000/live/nader/nader/210.m3u8
 #EXTINF:-1 tvg-id="France2.fr" group-title="FRANÇA",France 2
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/280.m3u8
 #EXTINF:-1 tvg-id="France3.fr" group-title="FRANÇA",France 3
@@ -66,7 +66,6 @@ http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/806.ts
 #EXTINF:-1 tvg-id="Mangas.fr" group-title="FRANÇA",Mangas
 http://iptv.electro-clair.net:8000/live/nader/nader/1530.m3u8
 #EXTINF:-1 tvg-id="AB1.fr" group-title="FRANÇA",AB1
-http://cdn-default.internetdiffusion.tv/stream5/live/ab1.m3u8?ip=89.155.36.250&s=1450041848&e=1450041968&r=www.latvdefrance.com&h=402a38b3da733a4f17fd263c0cdb23a5
 #EXTINF:-1 tvg-id="TVBreizh.fr" group-title="FRANÇA",Tv Breizh
 #EXTINF:-1 tvg-id="Teva.fr" group-title="FRANÇA",Téva
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/1213.m3u8
@@ -82,7 +81,6 @@ http://iptv.electro-clair.net:8000/live/nader/nader/208.m3u8
 #EXTINF:-1 tvg-id="TMC.fr" group-title="FRANÇA",TMC
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/273.m3u8
 #EXTINF:-1 tvg-id="NT1.fr" group-title="FRANÇA",NT1
-http://cdn-default.internetdiffusion.tv/stream6/live/nt1.m3u8?ip=89.155.36.250&s=1450041683&e=1450041803&r=www.latvdefrance.com&h=a5f04407942aa22128e228157b958e71
 #EXTINF:-1 tvg-id="NRJ12.fr" group-title="FRANÇA",NRJ12
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/275.m3u8
 #EXTINF:-1 tvg-id="France4.fr" group-title="FRANÇA",France 4
@@ -92,11 +90,8 @@ http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/1223.m3u8
 #EXTINF:-1 tvg-id="FranceO.fr" group-title="FRANÇA",France Ô
 http://skyiptv.ddns.net:8000/live/iptv1590/547879/276.m3u8
 #EXTINF:-1 tvg-id="HD1.fr" group-title="FRANÇA",HD1
-http://cdn-default.internetdiffusion.tv/stream3/live/hd1.m3u8?ip=89.155.36.250&s=1450041811&e=1450041931&r=www.latvdefrance.com&h=ae47a156db5710f1a30ef5d003341fbd
 #EXTINF:-1 tvg-id="6ter.fr" group-title="FRANÇA",6Ter
-http://cdn-default.internetdiffusion.tv/stream2/live/6ter.m3u8?ip=89.155.36.250&s=1450041992&e=1450042112&r=www.latvdefrance.com&h=2d454dcd201f81bd0b45cb5908a445f8
 #EXTINF:-1 tvg-id="Numero23.fr" group-title="FRANÇA",Numero 23
-http://cdn-default.internetdiffusion.tv/stream6/live/numero23.m3u8?ip=89.155.36.250&s=1450042042&e=1450042162&r=www.latvdefrance.com&h=1420a8029f0eb6e481877818d201e400
 #EXTINF:-1 tvg-id="Cherie25.fr" group-title="FRANÇA",Cherie 25
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" group-title="FRANÇA",TV5 Monde
 http://origin2.live.web.tv.streamprovider.net/streams/3fda8a704aca20e7d1ec7df8f45602ec/index.m3u8
@@ -121,12 +116,10 @@ http://iptv.electro-clair.net:8000/live/nader/nader/206.m3u8
 #EXTINF:-1 tvg-id="Animaux.fr" group-title="FRANÇA",Animaux
 http://iptv.electro-clair.net:8000/live/nader/nader/22.m3u8
 #EXTINF:-1 tvg-id="Escales.fr" group-title="FRANÇA",Trek
-http://cdn-default.internetdiffusion.tv/stream6/live/trek.m3u8?ip=89.155.36.250&s=1450042747&e=1450042867&r=www.latvdefrance.com&h=353913e2c25b6c9b6b43d7d26ce2d021&time=1450042766296
 #EXTINF:-1 tvg-id="Encyclopedia.fr" group-title="FRANÇA",Science & Vie
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/270.m3u8
 #EXTINF:-1 tvg-id="Seasons.fr" group-title="FRANÇA",Seasons
 #EXTINF:-1 tvg-id="RMCdecouverte.fr" group-title="FRANÇA",RMC Decouverte
-http://cdn-default.internetdiffusion.tv/stream6/live/rmc.m3u8?ip=89.155.36.250&s=1450042888&e=1450043008&r=www.latvdefrance.com&h=e8bdca2ffc6ece184d858f0d461f4ca8
 #EXTINF:-1 tvg-id="LaChaineMeteo.fr" group-title="FRANÇA",La Chaine Meteo
 #EXTINF:-1 tvg-id="LCI.fr" group-title="FRANÇA",LCI
 #EXTINF:-1 tvg-id="iTele.fr" group-title="FRANÇA",I Tele
@@ -136,9 +129,7 @@ http://skyiptv.ddns.net:8000/live/iptv1590/547879/288.m3u8
 #EXTINF:-1 tvg-id="Euronews.nws" group-title="FRANÇA",Euronews
 http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/9-live.m3u8
 #EXTINF:-1 tvg-id="France24fr.fr" group-title="FRANÇA",France 24
-http://cdn-default.internetdiffusion.tv/stream6/live/france24.m3u8?ip=89.155.36.250&s=1450043325&e=1450043445&r=www.latvdefrance.com&h=b593c36274aa26df15b974491acce63d
 #EXTINF:-1 tvg-id="LCP.fr" group-title="FRANÇA",LCP Public Senat
-http://cdn-default.internetdiffusion.tv/stream0/live/lcp.m3u8?ip=89.155.36.250&s=1450043331&e=1450043451&r=www.latvdefrance.com&h=bb8da399292fc2e8013477c4142fca66
 #EXTINF:-1 tvg-id="BFMBusiness.fr" group-title="FRANÇA",BFM Business
 #EXTINF:-1 tvg-id="CNN.nws" group-title="FRANÇA",CNN International
 #EXTINF:-1 tvg-id="BBCWorldNews.nws" group-title="FRANÇA",BBC World News
@@ -163,7 +154,6 @@ http://iptv.electro-clair.net:8000/live/nader/nader/529.m3u8
 #EXTINF:-1 tvg-id="Golf.fr" group-title="FRANÇA",Golf+
 #EXTINF:-1 tvg-id="ExtremeSports.fr" group-title="FRANÇA",Extreme Sports
 #EXTINF:-1 tvg-id="ABMoteurs.fr" group-title="FRANÇA",Ab Moteurs
-http://cdn-default.internetdiffusion.tv/stream5/live/abmoteur.m3u8?ip=89.155.36.250&s=1450044154&e=1450044274&r=www.latvdefrance.com&h=38c1ddf3a28580f6dce34296a3ea0965
 #EXTINF:-1 tvg-id="beINSport1.fr" group-title="FRANÇA",Bein Sports 1
 http://iptv.electro-clair.net:8000/live/nader/nader/1169.m3u8
 #EXTINF:-1 tvg-id="beINSport2.fr" group-title="FRANÇA",Bein Sports 2
@@ -171,7 +161,6 @@ http://skyiptv.ddns.net:8000/live/iptv1590/547879/289.m3u8
 #EXTINF:-1 tvg-id="beINSport3.fr" group-title="FRANÇA",Bein Sports 3
 http://iptv.electro-clair.net:8000/live/nader/nader/256.m3u8
 #EXTINF:-1 tvg-id="L'EQUIPE TV" group-title="FRANÇA",L'Equipe 21
-http://cdn-default.internetdiffusion.tv/stream3/live/lequipe.m3u8?ip=89.155.36.250&s=1450044198&e=1450044318&r=www.latvdefrance.com&h=3f8ecd24da0b6c7953b4e8e37fb70bd7
 #EXTINF:-1 tvg-id="DisneyJunior.fr" group-title="FRANÇA",Disney Jr.
 http://iptv.electro-clair.net:8000/live/nader/nader/532.m3u8
 #EXTINF:-1 tvg-id="Tiji.fr" group-title="FRANÇA",Tiji
@@ -243,6 +232,8 @@ http://streaming1.interactivplatform.fr/tvrennes35-live/_definst_/smil:tvrennes3
 http://str81.creacast.com/mirabelletv/smil:mirabelletv.smil/HasBahCa.m3u8 
 #EXTINF:-1 tvg-id="" group-title="FRANÇA",Yvelines Premiere
 http://rtmp.infomaniak.ch/livecast/yveline1/index.m3u8 
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",TVI Reality
+http://62.210.82.241:1935/liverepeat/TVIReality24/live.m3u8?wowzasessionid=1894366668
 
 
 
