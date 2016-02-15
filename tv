@@ -1,241 +1,2215 @@
 #EXTM3U
-#EXTINF:-1 group-title="FRANÇA",### FRANÇA ###
-http://192.0.0.1
-#EXTINF:-1 tvg-id="TF1.fr" group-title="FRANÇA",TF1
-http://iptv.electro-clair.net:8000/live/nader/nader/210.m3u8
-#EXTINF:-1 tvg-id="France2.fr" group-title="FRANÇA",France 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/280.m3u8
-#EXTINF:-1 tvg-id="France3.fr" group-title="FRANÇA",France 3
-http://iptv.electro-clair.net:8000/live/nader/nader/524.m3u8
-#EXTINF:-1 tvg-id="CANALplus.fr" group-title="FRANÇA",Canal +
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/262.m3u8
-#EXTINF:-1 tvg-id="France5.fr" group-title="FRANÇA",France 5
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/277.m3u8
-#EXTINF:-1 tvg-id="M6.fr" group-title="FRANÇA",M6
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/272.m3u8
-#EXTINF:-1 tvg-id="ARTE.fr" group-title="FRANÇA",Arte
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/539.m3u8
-#EXTINF:-1 tvg-id="CANALplusCINEMA.fr" group-title="FRANÇA",Canal + Cinema
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/287.m3u8
-#EXTINF:-1 tvg-id="CANALplusSPORT.fr" group-title="FRANÇA",CANAL+ Sport 
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/535.m3u8
-#EXTINF:-1 tvg-id="CanalplusSeries.fr" group-title="FRANÇA",Canal + Series
-http://iptv.electro-clair.net:8000/live/nader/nader/1545.m3u8
-#EXTINF:-1 tvg-id="CANALplusFamily.fr" group-title="FRANÇA",CANAL+ Family 
-http://iptv.electro-clair.net:8000/live/nader/nader/196.m3u8
-#EXTINF:-1 tvg-id="CANALplusDECALE.fr" group-title="FRANÇA",CANAL+ Decale
-http://136.243.53.209:6070/CanalDecale/mono.m3u8?token=uI4zW3QtB1
-#EXTINF:-1 tvg-id="CinecinemaPremier.fr" group-title="FRANÇA",Cine + Premier
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/285.m3u8
-#EXTINF:-1 tvg-id="CinecinemaFrisson.fr" group-title="FRANÇA",Cine + Frisson
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/284.m3u8
-#EXTINF:-1 tvg-id="CinecinemaEmotion.fr" group-title="FRANÇA",Cine + Emotion
-http://iptv.electro-clair.net:8000/live/nader/nader/1564.m3u8
-#EXTINF:-1 tvg-id="CinecinemaFamiz.fr" group-title="FRANÇA",Cine + Famiz
-http://iptv.electro-clair.net:8000/live/nader/nader/1566.m3u8
-#EXTINF:-1 tvg-id="CinecinemaClub.fr" group-title="FRANÇA",Cine + Club
-#EXTINF:-1 tvg-id="CinecinemaClassic.fr" group-title="FRANÇA",Canal + Classic
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/263.m3u8
-#EXTINF:-1 tvg-id="OrangeCinemax.fr" group-title="FRANÇA",OCS Max
-#EXTINF:-1 tvg-id="OrangeCineHappy.fr" group-title="FRANÇA",OCS City
-http://iptv.electro-clair.net:8000/live/nader/nader/443.m3u8
-#EXTINF:-1 tvg-id="OrangeCinechoc.fr" group-title="FRANÇA",OCS Choc
-http://satloveriptv.com:8090/live/mexicano/mexciano/4285.m3u8
-#EXTINF:-1 tvg-id="OrangeCineGeants.fr" group-title="FRANÇA",OCS Geants
-#EXTINF:-1 tvg-id="DisneyMagic.fr" group-title="FRANÇA",Disney Cinema
-http://iptv.electro-clair.net:8000/live/nader/nader/1659.m3u8
-#EXTINF:-1 tvg-id="TCM.fr" group-title="FRANÇA",TCM
-#EXTINF:-1 tvg-id="ParamountChannel.fr" group-title="FRANÇA",Paramount
-#EXTINF:-1 tvg-id="Action.csh" group-title="FRANÇA",Action
-http://iptv.electro-clair.net:8000/live/nader/nader/1558.m3u8
-#EXTINF:-1 tvg-id="Comedie.fr" group-title="FRANÇA",Comedie +
-#EXTINF:-1 tvg-id="13RUE.fr" group-title="FRANÇA",13eme Rue
-http://iptv.electro-clair.net:8000/live/nader/nader/1532.m3u8
-#EXTINF:-1 tvg-id="Syfy.fr" group-title="FRANÇA",SyFy
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/274.m3u8
-#EXTINF:-1 tvg-id="SerieClub.fr" group-title="FRANÇA",SerieClub
-http://iptv.electro-clair.net:8000/live/nader/nader/193.m3u8
-#EXTINF:-1 tvg-id="MTV.fr" group-title="FRANÇA",MTV
-#EXTINF:-1 tvg-id="June.fr" group-title="FRANÇA",June
-#EXTINF:-1 tvg-id="NonStopPeople.fr" group-title="FRANÇA",Non Stop People
-#EXTINF:-1 tvg-id="Eentertainment.fr" group-title="FRANÇA",E!
-http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/806.ts
-#EXTINF:-1 tvg-id="MCM.fr" group-title="FRANÇA",MCM
-#EXTINF:-1 tvg-id="GameOne.fr" group-title="FRANÇA",Game One
-#EXTINF:-1 tvg-id="JOne.fr" group-title="FRANÇA",J-One
-#EXTINF:-1 tvg-id="Mangas.fr" group-title="FRANÇA",Mangas
-http://iptv.electro-clair.net:8000/live/nader/nader/1530.m3u8
-#EXTINF:-1 tvg-id="AB1.fr" group-title="FRANÇA",AB1
-#EXTINF:-1 tvg-id="TVBreizh.fr" group-title="FRANÇA",Tv Breizh
-#EXTINF:-1 tvg-id="Teva.fr" group-title="FRANÇA",Téva
-http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/1213.m3u8
-#EXTINF:-1 tvg-id="ParisPremiere.fr" group-title="FRANÇA",Paris Premiere
-http://iptv.electro-clair.net:8000/live/nader/nader/608.m3u8
-#EXTINF:-1 tvg-id="RTL9.fr" group-title="FRANÇA",RTL9
-http://iptv.electro-clair.net:8000/live/nader/nader/1557.ts
-#EXTINF:-1 tvg-id="BET.fr" group-title="FRANÇA",BET
-#EXTINF:-1 tvg-id="Direct8.fr" group-title="FRANÇA",D8
-http://iptv.electro-clair.net:8000/live/nader/nader/1534.m3u8
-#EXTINF:-1 tvg-id="W9.fr" group-title="FRANÇA",W9
-http://iptv.electro-clair.net:8000/live/nader/nader/208.m3u8
-#EXTINF:-1 tvg-id="TMC.fr" group-title="FRANÇA",TMC
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/273.m3u8
-#EXTINF:-1 tvg-id="NT1.fr" group-title="FRANÇA",NT1
-#EXTINF:-1 tvg-id="NRJ12.fr" group-title="FRANÇA",NRJ12
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/275.m3u8
-#EXTINF:-1 tvg-id="France4.fr" group-title="FRANÇA",France 4
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/278.m3u8
-#EXTINF:-1 tvg-id="DirectStar.fr" group-title="FRANÇA",D17
-http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/1223.m3u8
-#EXTINF:-1 tvg-id="FranceO.fr" group-title="FRANÇA",France Ô
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/276.m3u8
-#EXTINF:-1 tvg-id="HD1.fr" group-title="FRANÇA",HD1
-#EXTINF:-1 tvg-id="6ter.fr" group-title="FRANÇA",6Ter
-#EXTINF:-1 tvg-id="Numero23.fr" group-title="FRANÇA",Numero 23
-#EXTINF:-1 tvg-id="Cherie25.fr" group-title="FRANÇA",Cherie 25
-#EXTINF:-1 tvg-id="TV5MondeEurope.fr" group-title="FRANÇA",TV5 Monde
-http://origin2.live.web.tv.streamprovider.net/streams/3fda8a704aca20e7d1ec7df8f45602ec/index.m3u8
-#EXTINF:-1 tvg-id="MCSBienEtre.fr" group-title="FRANÇA",MCS Bien-Etre
-#EXTINF:-1 tvg-id="QVC.fr" group-title="FRANÇA",QVC
-#EXTINF:-1 tvg-id="PLANETE.fr" group-title="FRANÇA",Planete+
-#EXTINF:-1 tvg-id="PLANETETHALASSA.fr" group-title="FRANÇA",Planete+ Thalassa
-http://iptv.electro-clair.net:8000/live/nader/nader/609.m3u8
-#EXTINF:-1 tvg-id="PLANETEJustice.fr" group-title="FRANÇA",Planete+ CI
-http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/389.m3u8
-#EXTINF:-1 tvg-id="PLANETEnoLIMIT.fr" group-title="FRANÇA",Planete+ A&E
-#EXTINF:-1 tvg-id="Discovery.fr" group-title="FRANÇA",Discovery Channel
-#EXTINF:-1 tvg-id="DiscoveryScience.fr" group-title="FRANÇA",Discovery Science
-http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/269.ts
-#EXTINF:-1 tvg-id="NationalGeographic.fr" group-title="FRANÇA",National Geographic
-http://iptv.electro-clair.net:8000/live/nader/nader/206.m3u8
-#EXTINF:-1 tvg-id="NatGeoWildHD.fr" group-title="FRANÇA",Nat Geo Wild
-#EXTINF:-1 tvg-id="Voyage.fr" group-title="FRANÇA",Voyage
-#EXTINF:-1 tvg-id="UshuaiaTV.fr" group-title="FRANÇA",Ushuaia Tv
-#EXTINF:-1 tvg-id="Histoire.fr" group-title="FRANÇA",Histoire
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",Toute L'Histoire
-#EXTINF:-1 tvg-id="Animaux.fr" group-title="FRANÇA",Animaux
-http://iptv.electro-clair.net:8000/live/nader/nader/22.m3u8
-#EXTINF:-1 tvg-id="Escales.fr" group-title="FRANÇA",Trek
-#EXTINF:-1 tvg-id="Encyclopedia.fr" group-title="FRANÇA",Science & Vie
-http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/270.m3u8
-#EXTINF:-1 tvg-id="Seasons.fr" group-title="FRANÇA",Seasons
-#EXTINF:-1 tvg-id="RMCdecouverte.fr" group-title="FRANÇA",RMC Decouverte
-#EXTINF:-1 tvg-id="LaChaineMeteo.fr" group-title="FRANÇA",La Chaine Meteo
-#EXTINF:-1 tvg-id="LCI.fr" group-title="FRANÇA",LCI
-#EXTINF:-1 tvg-id="iTele.fr" group-title="FRANÇA",I Tele
-http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/252.m3u8
-#EXTINF:-1 tvg-id="BFMTV.fr" group-title="FRANÇA",BFM Tv
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/288.m3u8
-#EXTINF:-1 tvg-id="Euronews.nws" group-title="FRANÇA",Euronews
-http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/9-live.m3u8
-#EXTINF:-1 tvg-id="France24fr.fr" group-title="FRANÇA",France 24
-#EXTINF:-1 tvg-id="LCP.fr" group-title="FRANÇA",LCP Public Senat
-#EXTINF:-1 tvg-id="BFMBusiness.fr" group-title="FRANÇA",BFM Business
-#EXTINF:-1 tvg-id="CNN.nws" group-title="FRANÇA",CNN International
-#EXTINF:-1 tvg-id="BBCWorldNews.nws" group-title="FRANÇA",BBC World News
-#EXTINF:-1 tvg-id="i24News.fr" group-title="FRANÇA",i24 News
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/650.m3u8
-#EXTINF:-1 tvg-id="Infosport.fr" group-title="FRANÇA",Infosport+
-http://iptv.electro-clair.net:8000/live/nader/nader/1344.m3u8
-#EXTINF:-1 tvg-id="Eurosport.fr" group-title="FRANÇA",Eurosport
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/282.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.fr" group-title="FRANÇA",Eurosport 2
-http://iptv.electro-clair.net:8000/live/nader/nader/529.m3u8
-#EXTINF:-1 tvg-id="MaChaineSport.fr" group-title="FRANÇA",Ma Chaine Sport
-#EXTINF:-1 tvg-id="MCSExtreme.fr" group-title="FRANÇA",Ma Chaine Sport Extreme
-#EXTINF:-1 tvg-id="KombatSport.fr" group-title="FRANÇA",Kombat Sport
-#EXTINF:-1 tvg-id="MotorsTV.fr" group-title="FRANÇA",Motors Tv
-#EXTINF:-1 tvg-id="OMTV.fr" group-title="FRANÇA",OM Tv
-#EXTINF:-1 tvg-id="OLTV.fr" group-title="FRANÇA",OL Tv
-#EXTINF:-1 tvg-id="Onzeo.fr" group-title="FRANÇA",Onzeo
-#EXTINF:-1 tvg-id="GirondinsTV.fr" group-title="FRANÇA",Girondis Tv
-#EXTINF:-1 tvg-id="EquidiaLife.fr" group-title="FRANÇA",Equidia Life
-#EXTINF:-1 tvg-id="Sport365.fr" group-title="FRANÇA",Sport 365
-#EXTINF:-1 tvg-id="Golf.fr" group-title="FRANÇA",Golf+
-#EXTINF:-1 tvg-id="ExtremeSports.fr" group-title="FRANÇA",Extreme Sports
-#EXTINF:-1 tvg-id="ABMoteurs.fr" group-title="FRANÇA",Ab Moteurs
-#EXTINF:-1 tvg-id="beINSport1.fr" group-title="FRANÇA",Bein Sports 1
-http://iptv.electro-clair.net:8000/live/nader/nader/1169.m3u8
-#EXTINF:-1 tvg-id="beINSport2.fr" group-title="FRANÇA",Bein Sports 2
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/289.m3u8
-#EXTINF:-1 tvg-id="beINSport3.fr" group-title="FRANÇA",Bein Sports 3
-http://iptv.electro-clair.net:8000/live/nader/nader/256.m3u8
-#EXTINF:-1 tvg-id="L'EQUIPE TV" group-title="FRANÇA",L'Equipe 21
-#EXTINF:-1 tvg-id="DisneyJunior.fr" group-title="FRANÇA",Disney Jr.
-http://iptv.electro-clair.net:8000/live/nader/nader/532.m3u8
-#EXTINF:-1 tvg-id="Tiji.fr" group-title="FRANÇA",Tiji
-http://iptv.electro-clair.net:8000/live/nader/nader/1343.m3u8
-#EXTINF:-1 tvg-id="NickJr.fr" group-title="FRANÇA",Nickelodeon Jr.
-#EXTINF:-1 tvg-id="PIWI.fr" group-title="FRANÇA",Piwi+
-#EXTINF:-1 tvg-id="Boomerang.fr" group-title="FRANÇA",Boomerang
-http://iptv.electro-clair.net:8000/live/nader/nader/1338.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",Nickelodeon
-#EXTINF:-1 tvg-id="CanalJ.fr" group-title="FRANÇA",Canal J
-http://iptv.electro-clair.net:8000/live/nader/nader/1337.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.fr" group-title="FRANÇA",Cartoon Network
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/265.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.fr" group-title="FRANÇA",Disney XD
-#EXTINF:-1 tvg-id="TeleTOON.fr" group-title="FRANÇA",Teletoon +
-http://iptv.electro-clair.net:8000/live/nader/nader/1560.m3u8
-#EXTINF:-1 tvg-id="TeleTOONplus1.fr" group-title="FRANÇA",Teletoon +1
-#EXTINF:-1 tvg-id="Nick4teens.fr" group-title="FRANÇA",Nickelodeon 4teen
-#EXTINF:-1 tvg-id="DisneyChannel.fr" group-title="FRANÇA",Disney Channel
-http://iptv.electro-clair.net:8000/live/nader/nader/1340.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelPlus1.fr" group-title="FRANÇA",Disney Channel +1
-#EXTINF:-1 tvg-id="Boing.fr" group-title="FRANÇA",Boing
-#EXTINF:-1 tvg-id="Gulli.fr" group-title="FRANÇA",Gulli
-http://iptv.electro-clair.net:8000/live/nader/nader/1533.m3u8
-#EXTINF:-1 tvg-id="MTVHits.fr" group-title="FRANÇA",MTV Hits
-#EXTINF:-1 tvg-id="M6MusicHits.fr" group-title="FRANÇA",M6 Music
-http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/744.m3u8
-#EXTINF:-1 tvg-id="NRJHits.fr" group-title="FRANÇA",NRJ Hits
-#EXTINF:-1 tvg-id="TraceUrban.fr" group-title="FRANÇA",Trace Urban
-#EXTINF:-1 tvg-id="RFMTV.fr" group-title="FRANÇA",RFM Tv
-#EXTINF:-1 tvg-id="BravaHD.fr" group-title="FRANÇA",Brava
-#EXTINF:-1 tvg-id="TeleMelody.fr" group-title="FRANÇA",Melody
-#EXTINF:-1 tvg-id="Mezzo.fr" group-title="FRANÇA",Mezzo
-#EXTINF:-1 tvg-id="MezzoLiveHD.fr" group-title="FRANÇA",Mezzo Live
-#EXTINF:-1 tvg-id="DjazzTV.fr" group-title="FRANÇA",Djazz Tv
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",Vevo Rock
-http://satloveriptv.com:8090/live/mexicano/mexciano/3982.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",Vevo Music
-http://satloveriptv.com:8090/live/mexicano/mexciano/3983.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",Vevo Hip Hop
-http://satloveriptv.com:8090/live/mexicano/mexciano/3984.m3u8
-#EXTINF:-1 tvg-id="Nollywood.fr" group-title="FRANÇA",Nollywood
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FOX
-http://skyiptv.ddns.net:8000/live/iptv1590/547879/279.m3u8
-#EXTINF:-1 tvg-id="CinePolar.fr" group-title="FRANÇA",Polar
-http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/804.m3u8
-#EXTINF:-1 tvg-id="CineFX.fr" group-title="FRANÇA",Cine FX
-http://iptv.electro-clair.net:8000/live/nader/nader/607.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",Enorme Tv
-http://satloveriptv.com:8090/live/mexicano/mexciano/3990.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",La Tele
-http://satloveriptv.com:8090/live/mexicano/mexciano/3989.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",Rouge
-http://satloveriptv.com:8090/live/mexicano/mexciano/3985.m3u8
-#EXTINF:-1 tvg-id="ChassePeche.fr" group-title="FRANÇA",Chasse et Peche
-http://iptv.electro-clair.net:8000/live/nader/nader/441.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",Montagne Tv
-#EXTINF:-1 tvg-id="TV8MontBlanc.fr" group-title="FRANÇA",TV8 Mont-Blanc
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",Lyon Tv
-http://satloveriptv.com:8090/live/mexicano/mexciano/3966.m3u8
-#EXTINF:-1 tvg-id="Weo.fr" group-title="FRANÇA",WEO
-http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/1210.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",TébéSud 
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",La Chaine Normande
-rtmp://live.lachainenormande.fr:80/live/lcn/livestream
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",TV Rennes 
-http://streaming1.interactivplatform.fr/tvrennes35-live/_definst_/smil:tvrennes35mob.smil/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="MirabelleTV.fr" group-title="FRANÇA",Mirabelle TV
-http://str81.creacast.com/mirabelletv/smil:mirabelletv.smil/HasBahCa.m3u8 
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",Yvelines Premiere
-http://rtmp.infomaniak.ch/livecast/yveline1/index.m3u8 
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",RTP 1
+http://aziptv.mine.nu:8000/live/David/David/25.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",RTP 2
+http://aziptv.mine.nu:8000/live/David/David/26.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",SIC
+http://aziptv.mine.nu:8000/live/David/David/40.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",TVI
+http://aziptv.mine.nu:8000/live/David/David/38.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",SIC Noticias
+http://aziptv.mine.nu:8000/live/David/David/41.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",TVI 24
+http://aziptv.mine.nu:8000/live/David/David/32.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",RTP Informação
+http://aziptv.mine.nu:8000/live/David/David/28.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",SIC RADICAL
+http://aziptv.mine.nu:8000/live/David/David/43.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",SIC MULHER
+http://aziptv.mine.nu:8000/live/David/David/44.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",SIC Caras
+http://aziptv.mine.nu:8000/live/David/David/78.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",TVI Ficção
+http://aziptv.mine.nu:8000/live/David/David/83.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Porto Canal
+http://aziptv.mine.nu:8000/live/David/David/77.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Canal Q
+http://aziptv.mine.nu:8000/live/David/David/113.m3u8
 #EXTINF:-1 tvg-id="" group-title="PORTUGAL",TVI Reality
-http://62.210.82.241:1935/liverepeat/TVIReality24/live.m3u8?wowzasessionid=1894366668
-
-
-
-
-
+http://aziptv.mine.nu:8000/live/David/David/156.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Reality Camera
+http://aziptv.mine.nu:8000/live/David/David/158.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",TVI Reality Mosaico
+http://aziptv.mine.nu:8000/live/David/David/157.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",RTP Memória
+http://aziptv.mine.nu:8000/live/David/David/79.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",RTP Madeira
+http://aziptv.mine.nu:8000/live/David/David/30.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",RTP Açores
+http://aziptv.mine.nu:8000/live/David/David/29.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",RTP Internacional
+http://aziptv.mine.nu:8000/live/David/David/31.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",RTP Africa
+http://aziptv.mine.nu:8000/live/David/David/136.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",TPA
+http://aziptv.mine.nu:8000/live/David/David/27.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Tv Cabo Verde
+http://aziptv.mine.nu:8000/live/David/David/261.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",TV RECORD
+http://aziptv.mine.nu:8000/live/David/David/54.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",GLOBO PORTUGAL
+http://aziptv.mine.nu:8000/live/David/David/55.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",CM TV
+http://aziptv.mine.nu:8000/live/David/David/42.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",A BOLA TV
+http://aziptv.mine.nu:8000/live/David/David/46.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Sport Tv 1
+http://aziptv.mine.nu:8000/live/David/David/100.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Sport Tv 1 HD
+http://aziptv.mine.nu:8000/live/David/David/129.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Sport Tv 2
+http://aziptv.mine.nu:8000/live/David/David/10.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",https://iptv.zone Sport Tv 2 HD
+http://aziptv.mine.nu:8000/live/David/David/128.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Sport Tv 3
+http://aziptv.mine.nu:8000/live/David/David/11.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Sport Tv 3 HD
+http://aziptv.mine.nu:8000/live/David/David/168.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Sport Tv 4
+http://aziptv.mine.nu:8000/live/David/David/12.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Sport Tv 4 HD
+http://aziptv.mine.nu:8000/live/David/David/101.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Sport Tv 5
+http://aziptv.mine.nu:8000/live/David/David/13.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Sport Tv 5 HD
+http://aziptv.mine.nu:8000/live/David/David/169.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Benfica Tv 1
+http://aziptv.mine.nu:8000/live/David/David/14.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Benfica Tv 1 HD
+http://aziptv.mine.nu:8000/live/David/David/140.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Benfica Tv 2
+http://aziptv.mine.nu:8000/live/David/David/15.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Sporting TV
+http://aziptv.mine.nu:8000/live/David/David/74.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",EUROSPORT 1 HD
+http://aziptv.mine.nu:8000/live/David/David/245.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",EUROSPORT 1
+http://aziptv.mine.nu:8000/live/David/David/47.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",EUROSPORT 2
+http://aziptv.mine.nu:8000/live/David/David/48.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Eurosport News
+http://aziptv.mine.nu:8000/live/David/David/138.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PFC
+http://aziptv.mine.nu:8000/live/David/David/76.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Chelsea TV
+http://aziptv.mine.nu:8000/live/David/David/162.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Real Madrid TV
+http://aziptv.mine.nu:8000/live/David/David/165.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Motors TV
+http://aziptv.mine.nu:8000/live/David/David/37.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Motorvision
+http://aziptv.mine.nu:8000/live/David/David/153.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Fuel TV HD
+http://aziptv.mine.nu:8000/live/David/David/59.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",TVC 1
+http://aziptv.mine.nu:8000/live/David/David/19.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",TVC 2
+http://aziptv.mine.nu:8000/live/David/David/18.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",TVC 3
+http://aziptv.mine.nu:8000/live/David/David/17.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",TVC 4
+http://aziptv.mine.nu:8000/live/David/David/16.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Hollywood
+http://aziptv.mine.nu:8000/live/David/David/21.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Hollywood HD
+http://aziptv.mine.nu:8000/live/David/David/164.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",MOV HD
+http://aziptv.mine.nu:8000/live/David/David/97.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Cinemundo
+http://aziptv.mine.nu:8000/live/David/David/23.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Fox Movies
+http://aziptv.mine.nu:8000/live/David/David/4.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",AMC
+http://aziptv.mine.nu:8000/live/David/David/73.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",AXN HD
+http://aziptv.mine.nu:8000/live/David/David/50.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",AXN WHITE HD
+http://aziptv.mine.nu:8000/live/David/David/51.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",AXN BLACK HD
+http://aziptv.mine.nu:8000/live/David/David/52.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",SYFY
+http://aziptv.mine.nu:8000/live/David/David/57.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",FOX
+http://aziptv.mine.nu:8000/live/David/David/22.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",FOX LIFE HD
+http://aziptv.mine.nu:8000/live/David/David/53.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",FOX CRIME HD
+http://aziptv.mine.nu:8000/live/David/David/60.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",TV Series HD
+http://aziptv.mine.nu:8000/live/David/David/49.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Fox Comedy
+http://aziptv.mine.nu:8000/live/David/David/58.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",BBC Entertainment
+http://aziptv.mine.nu:8000/live/David/David/80.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",CBS Reality
+http://aziptv.mine.nu:8000/live/David/David/24.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",ODISSEIA
+http://aziptv.mine.nu:8000/live/David/David/69.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",NATIONAL GEOGRAPHIC HD
+http://aziptv.mine.nu:8000/live/David/David/68.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Nat Geo Wild
+http://aziptv.mine.nu:8000/live/David/David/20.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Discovery Channel
+http://aziptv.mine.nu:8000/live/David/David/66.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",DISCOVERY HD SHOWCASE
+http://aziptv.mine.nu:8000/live/David/David/67.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Canal Historia
+http://aziptv.mine.nu:8000/live/David/David/70.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",TLC
+http://aziptv.mine.nu:8000/live/David/David/3.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Travel Channel HD
+http://aziptv.mine.nu:8000/live/David/David/85.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",24 KITCHEN
+http://aziptv.mine.nu:8000/live/David/David/65.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Fashion Tv HD
+http://aziptv.mine.nu:8000/live/David/David/84.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",A&amp;E
+http://aziptv.mine.nu:8000/live/David/David/139.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Caça &amp; Pesca
+http://aziptv.mine.nu:8000/live/David/David/6.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Caçavision
+http://aziptv.mine.nu:8000/live/David/David/137.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Toros TV
+http://aziptv.mine.nu:8000/live/David/David/2.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Canal Panda
+http://aziptv.mine.nu:8000/live/David/David/62.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Disney Junior
+http://aziptv.mine.nu:8000/live/David/David/5.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",JIM JAM
+http://aziptv.mine.nu:8000/live/David/David/61.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",DISNEY CHANNEL
+http://aziptv.mine.nu:8000/live/David/David/63.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",https://iptv.zone Sic K
+http://aziptv.mine.nu:8000/live/David/David/112.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Nickelodeon
+http://aziptv.mine.nu:8000/live/David/David/8.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Panda Biggs
+http://aziptv.mine.nu:8000/live/David/David/45.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Cartoon
+http://aziptv.mine.nu:8000/live/David/David/64.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Baby Tv
+http://aziptv.mine.nu:8000/live/David/David/72.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Baby First
+http://aziptv.mine.nu:8000/live/David/David/342.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",VH1
+http://aziptv.mine.nu:8000/live/David/David/36.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",MTV Portugal
+http://aziptv.mine.nu:8000/live/David/David/155.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",MCM POP
+http://aziptv.mine.nu:8000/live/David/David/35.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Afro Music
+http://aziptv.mine.nu:8000/live/David/David/115.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Trace TV
+http://aziptv.mine.nu:8000/live/David/David/154.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",C- MUSIC
+http://aziptv.mine.nu:8000/live/David/David/244.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",VEVO 1 HD
+http://aziptv.mine.nu:8000/live/David/David/33.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",VEVO 2 HD
+http://aziptv.mine.nu:8000/live/David/David/34.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",EURONEWS
+http://aziptv.mine.nu:8000/live/David/David/243.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",TV GLOBO PREMIUN
+http://aziptv.mine.nu:8000/live/David/David/56.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",BRASIL GLOBO SAO PAULO
+http://aziptv.mine.nu:8000/live/David/David/246.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",BRASIL REDE TV
+http://aziptv.mine.nu:8000/live/David/David/248.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",Record News
+http://aziptv.mine.nu:8000/live/David/David/166.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",BRASIL SBT
+http://aziptv.mine.nu:8000/live/David/David/247.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",BRASIL SPORTV 1
+http://aziptv.mine.nu:8000/live/David/David/250.m3u8
+#EXTINF:-1 tvg-id="" group-title="PORTUGAL",BRASIL SPORTV 2
+http://aziptv.mine.nu:8000/live/David/David/249.m3u8
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_SPORTS_1_HD
+http://www.t12v.com:8000/live/Vince/Vince1/186.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_SPORTS_2_HD
+http://www.t12v.com:8000/live/Vince/Vince1/187.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_SPORTS_3_HD
+http://www.t12v.com:8000/live/Vince/Vince1/188.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_SPORTS_4_HD
+http://www.t12v.com:8000/live/Vince/Vince1/189.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_SPORTS_5_HD
+http://www.t12v.com:8000/live/Vince/Vince1/190.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_SPORTS_6_HD
+http://www.t12v.com:8000/live/Vince/Vince1/191.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_SPORTS_7_HD
+http://www.t12v.com:8000/live/Vince/Vince1/192.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_SPORTS_8_HD
+http://www.t12v.com:8000/live/Vince/Vince1/193.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_SPORTS_9_HD
+http://www.t12v.com:8000/live/Vince/Vince1/194.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_SPORTS_10_HD
+http://www.t12v.com:8000/live/Vince/Vince1/195.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_SPORTS_11_HD
+http://www.t12v.com:8000/live/Vince/Vince1/196.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_SPORTS_12_HD
+http://www.t12v.com:8000/live/Vince/Vince1/197.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_SPORTS_13_HD
+http://www.t12v.com:8000/live/Vince/Vince1/451.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_SPORTS_14_HD
+http://www.t12v.com:8000/live/Vince/Vince1/452.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_SPORTS_15_HD
+http://www.t12v.com:8000/live/Vince/Vince1/453.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_SPORTS_16_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1230.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_NILESAT_BEIN_SPORT_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/18.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_SPORTS_1HD
+http://www.t12v.com:8000/live/Vince/Vince1/1355.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_SPORTS_2HD
+http://www.t12v.com:8000/live/Vince/Vince1/900.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_SPORTS_3HD
+http://www.t12v.com:8000/live/Vince/Vince1/126.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_SPORTS_4HD
+http://www.t12v.com:8000/live/Vince/Vince1/139.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_SPORTS_5HD
+http://www.t12v.com:8000/live/Vince/Vince1/179.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_SPORTS_6HD
+http://www.t12v.com:8000/live/Vince/Vince1/899.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_SPORTS_7HD
+http://www.t12v.com:8000/live/Vince/Vince1/961.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_SPORTS_8HD
+http://www.t12v.com:8000/live/Vince/Vince1/1211.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_SPORTS_9HD
+http://www.t12v.com:8000/live/Vince/Vince1/1210.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_SPORTS_10HD
+http://www.t12v.com:8000/live/Vince/Vince1/1176.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_SPORTS_11HD
+http://www.t12v.com:8000/live/Vince/Vince1/163.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_SPORTS_12HD
+http://www.t12v.com:8000/live/Vince/Vince1/173.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_SPORTS_13HD
+http://www.t12v.com:8000/live/Vince/Vince1/1173.ts
+#EXTINF:-1 tvg-id="" group-title="outros",https://iptv.zone/en AR_BEIN_SPORTS_14HD
+http://www.t12v.com:8000/live/Vince/Vince1/68.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_SPORTS_15HD
+http://www.t12v.com:8000/live/Vince/Vince1/1239.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_SPORTS_16HD
+http://www.t12v.com:8000/live/Vince/Vince1/1242.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BeIN_Movies_1HD
+http://www.t12v.com:8000/live/Vince/Vince1/1279.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BeIN_Movies_2HD
+http://www.t12v.com:8000/live/Vince/Vince1/28.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_SPORTS_NEWS_AR
+http://www.t12v.com:8000/live/Vince/Vince1/454.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ABU_DHABI_SPORTS_1
+http://www.t12v.com:8000/live/Vince/Vince1/17.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ABU_DHABI_SPORTS_2
+http://www.t12v.com:8000/live/Vince/Vince1/945.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_NILESAT_TUNISIA_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1073.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_TUNISIA_NATIONAL_1
+http://www.t12v.com:8000/live/Vince/Vince1/1.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_TUNISIA_NATIONAL_2
+http://www.t12v.com:8000/live/Vince/Vince1/2.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_EL_HIWAR_ETTOUNSI
+http://www.t12v.com:8000/live/Vince/Vince1/3.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_NESSMA
+http://www.t12v.com:8000/live/Vince/Vince1/4.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_HANIBAL
+http://www.t12v.com:8000/live/Vince/Vince1/12.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ETTOUNSIA_TV
+http://www.t12v.com:8000/live/Vince/Vince1/1274.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_TOUNESNA
+http://www.t12v.com:8000/live/Vince/Vince1/5.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ZAYTOONA
+http://www.t12v.com:8000/live/Vince/Vince1/9.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ZITOUNA_HEDAYA
+http://www.t12v.com:8000/live/Vince/Vince1/69.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ATTASSIA_TV
+http://www.t12v.com:8000/live/Vince/Vince1/99.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_TNN_TUNISIA
+http://www.t12v.com:8000/live/Vince/Vince1/1231.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_TELVZA_TV
+http://www.t12v.com:8000/live/Vince/Vince1/8.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_AL_INSEN
+http://www.t12v.com:8000/live/Vince/Vince1/1278.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_M_TUNISIA
+http://www.t12v.com:8000/live/Vince/Vince1/1284.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_FIRST_TV
+http://www.t12v.com:8000/live/Vince/Vince1/176.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_AL_MOUTAWASIT
+http://www.t12v.com:8000/live/Vince/Vince1/13.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_AL_MOUSTAKILLA
+http://www.t12v.com:8000/live/Vince/Vince1/237.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_AL_JANOUBIA
+http://www.t12v.com:8000/live/Vince/Vince1/7.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_NILESAT_MAROC_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1186.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_AL_AOULA_MAROC
+http://www.t12v.com:8000/live/Vince/Vince1/77.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_AL_MAGHRIBIA
+http://www.t12v.com:8000/live/Vince/Vince1/78.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_AL_OULA_MISR
+http://www.t12v.com:8000/live/Vince/Vince1/154.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_2M_MAROC
+http://www.t12v.com:8000/live/Vince/Vince1/14.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ASSADISSA
+http://www.t12v.com:8000/live/Vince/Vince1/43.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_MEDI_1_SAT
+http://www.t12v.com:8000/live/Vince/Vince1/174.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_SAMIRA_TV
+http://www.t12v.com:8000/live/Vince/Vince1/152.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ARRABIA
+http://www.t12v.com:8000/live/Vince/Vince1/11.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_NILESAT_ALGERIA_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1116.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ALHEDDAF_TV
+http://www.t12v.com:8000/live/Vince/Vince1/1813.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_DZAIR_TV
+http://www.t12v.com:8000/live/Vince/Vince1/33.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ALGERIE_TV
+http://www.t12v.com:8000/live/Vince/Vince1/24.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_KBC_ALGERIA
+http://www.t12v.com:8000/live/Vince/Vince1/23.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ALGERIA_3
+http://www.t12v.com:8000/live/Vince/Vince1/62.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_EL_DJAZAIRIA
+http://www.t12v.com:8000/live/Vince/Vince1/26.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_AL_WATAN_DZAIER
+http://www.t12v.com:8000/live/Vince/Vince1/936.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ENNAHAR_TV
+http://www.t12v.com:8000/live/Vince/Vince1/105.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_NILESAT_ART_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1066.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ART_AFLAM_1
+http://www.t12v.com:8000/live/Vince/Vince1/37.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ART_AFLAM_2
+http://www.t12v.com:8000/live/Vince/Vince1/38.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ART_CINEMA
+http://www.t12v.com:8000/live/Vince/Vince1/116.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ART_HEKAYAT_1
+http://www.t12v.com:8000/live/Vince/Vince1/117.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ART_HEKAYAT_2
+http://www.t12v.com:8000/live/Vince/Vince1/118.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_NAT_GEO_AD
+http://www.t12v.com:8000/live/Vince/Vince1/146.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_NILESAT_ROTANA_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1051.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ROTANA_AFLAM
+http://www.t12v.com:8000/live/Vince/Vince1/88.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ROTANA_CINEMA
+http://www.t12v.com:8000/live/Vince/Vince1/15.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ROTANA_CLASSIC
+http://www.t12v.com:8000/live/Vince/Vince1/89.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ROTANA_CLIP
+http://www.t12v.com:8000/live/Vince/Vince1/90.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ROTANA_KHALIGI
+http://www.t12v.com:8000/live/Vince/Vince1/91.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ROTANA_MASRIYA
+http://www.t12v.com:8000/live/Vince/Vince1/92.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ROTANA_MUSIC
+http://www.t12v.com:8000/live/Vince/Vince1/93.ts
+#EXTINF:-1 tvg-id="" group-title="outros",https://iptv.zone/en oooo_NILESAT_MOVIES_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1052.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_MOVIES_1
+http://www.t12v.com:8000/live/Vince/Vince1/1815.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BEIN_MOVIES_2
+http://www.t12v.com:8000/live/Vince/Vince1/1816.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_CIMA
+http://www.t12v.com:8000/live/Vince/Vince1/42.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_DREAM_2
+http://www.t12v.com:8000/live/Vince/Vince1/165.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_FOX_MOVIES
+http://www.t12v.com:8000/live/Vince/Vince1/48.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_AL_NAHAR_DRAMA
+http://www.t12v.com:8000/live/Vince/Vince1/61.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_CAIRO_CINEMA
+http://www.t12v.com:8000/live/Vince/Vince1/36.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_CAIRO_DRAMA
+http://www.t12v.com:8000/live/Vince/Vince1/143.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_CBC_TV
+http://www.t12v.com:8000/live/Vince/Vince1/40.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_CBC_2
+http://www.t12v.com:8000/live/Vince/Vince1/123.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_CBC_SOFRA
+http://www.t12v.com:8000/live/Vince/Vince1/122.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_NILE_CINEMA
+http://www.t12v.com:8000/live/Vince/Vince1/177.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_NILE_COMEDY
+http://www.t12v.com:8000/live/Vince/Vince1/58.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_NILE_DRAMA
+http://www.t12v.com:8000/live/Vince/Vince1/79.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ZEE_ALWAN
+http://www.t12v.com:8000/live/Vince/Vince1/1229.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_SYRIA_TV
+http://www.t12v.com:8000/live/Vince/Vince1/147.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_CBC_DRAMA
+http://www.t12v.com:8000/live/Vince/Vince1/183.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_STAR_CINEMA_2
+http://www.t12v.com:8000/live/Vince/Vince1/182.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ZEE_AFLAM
+http://www.t12v.com:8000/live/Vince/Vince1/130.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_NILE_FAMILY
+http://www.t12v.com:8000/live/Vince/Vince1/16.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_TIME_COMEDY
+http://www.t12v.com:8000/live/Vince/Vince1/114.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_TOP_MOVIES
+http://www.t12v.com:8000/live/Vince/Vince1/1025.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_NILESAT_MBC_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1053.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_MBC_1
+http://www.t12v.com:8000/live/Vince/Vince1/155.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_MBC_2
+http://www.t12v.com:8000/live/Vince/Vince1/136.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_MBC_3
+http://www.t12v.com:8000/live/Vince/Vince1/131.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_MBC_4
+http://www.t12v.com:8000/live/Vince/Vince1/55.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_MBC_MAX
+http://www.t12v.com:8000/live/Vince/Vince1/135.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_MBC_MASR
+http://www.t12v.com:8000/live/Vince/Vince1/133.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_MBC_ACTION
+http://www.t12v.com:8000/live/Vince/Vince1/53.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_MBC_DRAMA
+http://www.t12v.com:8000/live/Vince/Vince1/54.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_MBC_MASR_2
+http://www.t12v.com:8000/live/Vince/Vince1/134.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_MBC_BOLLYWOOD
+http://www.t12v.com:8000/live/Vince/Vince1/132.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_NILESAT_KIDS_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1067.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_AJYAL
+http://www.t12v.com:8000/live/Vince/Vince1/185.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_BARAEM
+http://www.t12v.com:8000/live/Vince/Vince1/142.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_SPACETOON
+http://www.t12v.com:8000/live/Vince/Vince1/98.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_TOYOR_AL_JANAH
+http://www.t12v.com:8000/live/Vince/Vince1/137.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_CARTOON_NETWORK
+http://www.t12v.com:8000/live/Vince/Vince1/66.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ECHOUROUK_TV
+http://www.t12v.com:8000/live/Vince/Vince1/110.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_NILESAT_INFOS_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1072.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_FRANCE_24_ARABIA
+http://www.t12v.com:8000/live/Vince/Vince1/127.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_AL_JAZEERA
+http://www.t12v.com:8000/live/Vince/Vince1/27.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_AL_ARABIA
+http://www.t12v.com:8000/live/Vince/Vince1/140.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_AL_ARABIA_HADATH
+http://www.t12v.com:8000/live/Vince/Vince1/19.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_AL_EKHBARIA_KSA
+http://www.t12v.com:8000/live/Vince/Vince1/141.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_SKY_NEWS
+http://www.t12v.com:8000/live/Vince/Vince1/6.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_NILESAT_DUBAI_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1048.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ABU_DHABI
+http://www.t12v.com:8000/live/Vince/Vince1/50.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ABU_DHABI_DRAMA
+http://www.t12v.com:8000/live/Vince/Vince1/107.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_DUBAI_TV
+http://www.t12v.com:8000/live/Vince/Vince1/125.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_DUBAI_ONE
+http://www.t12v.com:8000/live/Vince/Vince1/45.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_NILESAT_ENTERTAINMENT_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1049.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OTV_LEBANON
+http://www.t12v.com:8000/live/Vince/Vince1/1358.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_FUTURE_TV
+http://www.t12v.com:8000/live/Vince/Vince1/1426.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ALJADEED
+http://www.t12v.com:8000/live/Vince/Vince1/1354.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_LBC_SAT
+http://www.t12v.com:8000/live/Vince/Vince1/104.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_SYRIA_DRAMA
+http://www.t12v.com:8000/live/Vince/Vince1/1827.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_SAMA_DUBAI
+http://www.t12v.com:8000/live/Vince/Vince1/1828.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_NBN
+http://www.t12v.com:8000/live/Vince/Vince1/1833.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_LDC
+http://www.t12v.com:8000/live/Vince/Vince1/1834.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_LBC
+http://www.t12v.com:8000/live/Vince/Vince1/1831.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_AL_MANAR
+http://www.t12v.com:8000/live/Vince/Vince1/1835.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ALMAYADEEN
+http://www.t12v.com:8000/live/Vince/Vince1/1830.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ALJADID
+http://www.t12v.com:8000/live/Vince/Vince1/1832.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ALALAM
+http://www.t12v.com:8000/live/Vince/Vince1/1829.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_FATAFEAT
+http://www.t12v.com:8000/live/Vince/Vince1/144.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_NILE_CULTURE
+http://www.t12v.com:8000/live/Vince/Vince1/178.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ALHAYAT_2
+http://www.t12v.com:8000/live/Vince/Vince1/153.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ALHAYAT
+http://www.t12v.com:8000/live/Vince/Vince1/60.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ELNAHAR_MASR
+http://www.t12v.com:8000/live/Vince/Vince1/51.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_DREAM_1
+http://www.t12v.com:8000/live/Vince/Vince1/44.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_NILE_LIFE
+http://www.t12v.com:8000/live/Vince/Vince1/29.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_NILESAT_RELIGION_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1068.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_SAUDI_QUARAN
+http://www.t12v.com:8000/live/Vince/Vince1/70.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_AL_RESALAH
+http://www.t12v.com:8000/live/Vince/Vince1/72.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_KSA_1
+http://www.t12v.com:8000/live/Vince/Vince1/74.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_SUNNAH
+http://www.t12v.com:8000/live/Vince/Vince1/75.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_QURAN_TV
+http://www.t12v.com:8000/live/Vince/Vince1/100.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_IQRAA
+http://www.t12v.com:8000/live/Vince/Vince1/97.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_NILESAT_MUSIC_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1181.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_B4U_MUSIC
+http://www.t12v.com:8000/live/Vince/Vince1/157.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_MTV_LEBANON
+http://www.t12v.com:8000/live/Vince/Vince1/946.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ZEE_ALWEN
+http://www.t12v.com:8000/live/Vince/Vince1/101.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_AGHANINA
+http://www.t12v.com:8000/live/Vince/Vince1/106.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_NILESAT_SPORTS_MBC_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1289.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_MBC_PRO_SPORT_1
+http://www.t12v.com:8000/live/Vince/Vince1/115.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_MBC_PRO_SPORT_2
+http://www.t12v.com:8000/live/Vince/Vince1/63.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_MBC_PRO_SPORT_3
+http://www.t12v.com:8000/live/Vince/Vince1/942.ts
+#EXTINF:-1 tvg-id="" group-title="outros",https://iptv.zone/en AR_MBC_PRO_SPORT_4
+http://www.t12v.com:8000/live/Vince/Vince1/1357.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_DUBAI_SPORT_HD
+http://www.t12v.com:8000/live/Vince/Vince1/46.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_NILESAT_OTHERS_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1179.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_ALJAZEERA_DOC
+http://www.t12v.com:8000/live/Vince/Vince1/150.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_NILESAT_OSN_ART_SPORTS_HD_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1134.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_ALKASS_SPORT_1_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1285.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_ALKASS_SPORT_2_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1244.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_ALKASS_SPORT_3_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1241.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_ALKASS_SPORT_4_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1240.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_SPORT_CRICKET_HD
+http://www.t12v.com:8000/live/Vince/Vince1/180.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_NILESAT_OSN_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1057.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_FIRST_COMEDY_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1222.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_FIRST_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1238.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_MBC+_DRAMA
+http://www.t12v.com:8000/live/Vince/Vince1/1226.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_MOVIES_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1233.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_MOVIES_ACTION_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1281.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_MOVIES_ACTION+_2
+http://www.t12v.com:8000/live/Vince/Vince1/1283.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_MOVIES_COMEDY_HD
+http://www.t12v.com:8000/live/Vince/Vince1/258.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_MOVIES_FESTIVAL
+http://www.t12v.com:8000/live/Vince/Vince1/1214.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_STAR_MOVIES_2_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1235.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_MOVIES_PREMIERE_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1177.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_ORBIT_CINEMA_2_HD
+http://www.t12v.com:8000/live/Vince/Vince1/948.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_YAHALA_SHABAB
+http://www.t12v.com:8000/live/Vince/Vince1/1209.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_MOVIE_KIDS_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1287.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_YAHALA_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1207.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_MOVIES_FIRST_MORE_HD
+http://www.t12v.com:8000/live/Vince/Vince1/810.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_YAHALA_DRAMA_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1208.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_ALYOUM
+http://www.t12v.com:8000/live/Vince/Vince1/1286.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_ORBIT_CINEMA_1_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1212.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_MOVIES_DRAMA
+http://www.t12v.com:8000/live/Vince/Vince1/947.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_ON_DRAMA_1_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1234.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_ON_DEMAND_1_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1288.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_NAT_GEO_AD
+http://www.t12v.com:8000/live/Vince/Vince1/1275.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_CBS_Reality
+http://www.t12v.com:8000/live/Vince/Vince1/1215.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_DISCOVERY_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1225.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_DISCOVERY_SCIENCE_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1224.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_Travel_Channel_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1276.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_ANIMAL_PLANET
+http://www.t12v.com:8000/live/Vince/Vince1/1245.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_Extreme_Sports_Channel
+http://www.t12v.com:8000/live/Vince/Vince1/1237.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AR_OSN_MOVIES_FESTIVAL_2
+http://www.t12v.com:8000/live/Vince/Vince1/1216.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_BELGIQUE_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1180.ts
+#EXTINF:-1 tvg-id="" group-title="outros",BE_RTL_TVI_HD
+http://www.t12v.com:8000/live/Vince/Vince1/10.ts
+#EXTINF:-1 tvg-id="" group-title="outros",BE_LA_UNE_HD
+http://www.t12v.com:8000/live/Vince/Vince1/184.ts
+#EXTINF:-1 tvg-id="" group-title="outros",BE_LA_DEUX
+http://www.t12v.com:8000/live/Vince/Vince1/57.ts
+#EXTINF:-1 tvg-id="" group-title="outros",BE_LA_TROIS
+http://www.t12v.com:8000/live/Vince/Vince1/73.ts
+#EXTINF:-1 tvg-id="" group-title="outros",BE_PLUG_RTL
+http://www.t12v.com:8000/live/Vince/Vince1/119.ts
+#EXTINF:-1 tvg-id="" group-title="outros",BE_CLUB_RTL
+http://www.t12v.com:8000/live/Vince/Vince1/56.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_TNT_SAT_FRANCE_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1185.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_TF1_HD
+http://www.t12v.com:8000/live/Vince/Vince1/207.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_FRANCE_2_HD
+http://www.t12v.com:8000/live/Vince/Vince1/208.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_FRANCE_3_HD
+http://www.t12v.com:8000/live/Vince/Vince1/209.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_FRANCE_4_HD
+http://www.t12v.com:8000/live/Vince/Vince1/820.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_FRANCE_5_HD
+http://www.t12v.com:8000/live/Vince/Vince1/210.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_M6_HD
+http://www.t12v.com:8000/live/Vince/Vince1/216.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_ARTE_HD
+http://www.t12v.com:8000/live/Vince/Vince1/866.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CINE_CLUB_HD
+http://www.t12v.com:8000/live/Vince/Vince1/882.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_TMC_HD
+http://www.t12v.com:8000/live/Vince/Vince1/226.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_RTL_9_HD
+http://www.t12v.com:8000/live/Vince/Vince1/845.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_NT1
+http://www.t12v.com:8000/live/Vince/Vince1/949.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_TEVA_HD
+http://www.t12v.com:8000/live/Vince/Vince1/870.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_D8_HD
+http://www.t12v.com:8000/live/Vince/Vince1/234.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_D_17
+http://www.t12v.com:8000/live/Vince/Vince1/819.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_W9_HD
+http://www.t12v.com:8000/live/Vince/Vince1/224.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_NRJ_12
+http://www.t12v.com:8000/live/Vince/Vince1/1282.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_6ter hd
+http://www.t12v.com:8000/live/Vince/Vince1/1814.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_CSAT_CINEMA_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1191.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CANAL+_HD
+http://www.t12v.com:8000/live/Vince/Vince1/201.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CANAL+_CINEMA_HD
+http://www.t12v.com:8000/live/Vince/Vince1/202.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CANAL+_FAMILY_HD
+http://www.t12v.com:8000/live/Vince/Vince1/204.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CANAL+_DECALE_HD
+http://www.t12v.com:8000/live/Vince/Vince1/203.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CANAL+_SERIES_HD
+http://www.t12v.com:8000/live/Vince/Vince1/868.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CINE+_FRISSON_HD
+http://www.t12v.com:8000/live/Vince/Vince1/877.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CINE+_PREMIER_HD
+http://www.t12v.com:8000/live/Vince/Vince1/878.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CINE+_EMOTION_HD
+http://www.t12v.com:8000/live/Vince/Vince1/875.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CINE+_FAMIZ_HD
+http://www.t12v.com:8000/live/Vince/Vince1/876.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CINE_CLASSIC_HD
+http://www.t12v.com:8000/live/Vince/Vince1/869.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CINE_POLAR
+http://www.t12v.com:8000/live/Vince/Vince1/950.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CINE_FIL
+http://www.t12v.com:8000/live/Vince/Vince1/874.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_TCM
+http://www.t12v.com:8000/live/Vince/Vince1/1219.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_OCS_CITY
+http://www.t12v.com:8000/live/Vince/Vince1/698.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_OCS_CHOC_HD
+http://www.t12v.com:8000/live/Vince/Vince1/959.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_OCS_GEANTS
+http://www.t12v.com:8000/live/Vince/Vince1/903.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_OCS_MAX
+http://www.t12v.com:8000/live/Vince/Vince1/902.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_ACTION
+http://www.t12v.com:8000/live/Vince/Vince1/863.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CINE_FX
+http://www.t12v.com:8000/live/Vince/Vince1/826.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CINE_ETOILE
+http://www.t12v.com:8000/live/Vince/Vince1/873.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_CSAT_ENTERTAINMENT_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1190.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_13EME_RUE_HD
+http://www.t12v.com:8000/live/Vince/Vince1/214.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_COMEDIE+
+http://www.t12v.com:8000/live/Vince/Vince1/872.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_PARIS_PREMIERE_HD
+http://www.t12v.com:8000/live/Vince/Vince1/181.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_SYFY_HD
+http://www.t12v.com:8000/live/Vince/Vince1/95.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_AB1
+http://www.t12v.com:8000/live/Vince/Vince1/862.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_E_ENTERTAINMENT
+http://www.t12v.com:8000/live/Vince/Vince1/871.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_SERIE_CLUB_HD
+http://www.t12v.com:8000/live/Vince/Vince1/225.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_JUNE_TV
+http://www.t12v.com:8000/live/Vince/Vince1/231.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_AB_1
+http://www.t12v.com:8000/live/Vince/Vince1/227.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_CSAT_INFOS_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1189.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_LCI
+http://www.t12v.com:8000/live/Vince/Vince1/1227.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_WEO
+http://www.t12v.com:8000/live/Vince/Vince1/1217.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_I_TELE
+http://www.t12v.com:8000/live/Vince/Vince1/213.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_BFM_TV
+http://www.t12v.com:8000/live/Vince/Vince1/211.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_ESCALES
+http://www.t12v.com:8000/live/Vince/Vince1/861.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_TV5_FR
+http://www.t12v.com:8000/live/Vince/Vince1/168.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_CSAT_JEUNESSE_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1188.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_TIJI
+http://www.t12v.com:8000/live/Vince/Vince1/235.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_PIWI
+http://www.t12v.com:8000/live/Vince/Vince1/1221.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_GULLI
+http://www.t12v.com:8000/live/Vince/Vince1/212.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_BOING
+http://www.t12v.com:8000/live/Vince/Vince1/897.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_TELETOON
+http://www.t12v.com:8000/live/Vince/Vince1/1178.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_TELETOON+
+http://www.t12v.com:8000/live/Vince/Vince1/827.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CANAL_J_HD
+http://www.t12v.com:8000/live/Vince/Vince1/198.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_BOOMERANG_HD
+http://www.t12v.com:8000/live/Vince/Vince1/867.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_DISNEY_XD
+http://www.t12v.com:8000/live/Vince/Vince1/52.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_DISNEY_CHANNEL
+http://www.t12v.com:8000/live/Vince/Vince1/236.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_DISNEY_JUNIOR
+http://www.t12v.com:8000/live/Vince/Vince1/853.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_DISNEY_CINEMAGIC
+http://www.t12v.com:8000/live/Vince/Vince1/901.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_MANGA
+http://www.t12v.com:8000/live/Vince/Vince1/1223.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_ZOUZOUS
+http://www.t12v.com:8000/live/Vince/Vince1/881.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_MINIMAX
+http://www.t12v.com:8000/live/Vince/Vince1/884.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CARTOON_NETWORK_HD
+http://www.t12v.com:8000/live/Vince/Vince1/218.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_BEIN_SPORT_HD_FRANCE_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1129.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_BEIN_SPORTS_1_HD
+http://www.t12v.com:8000/live/Vince/Vince1/199.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_BEIN_SPORTS_2_HD
+http://www.t12v.com:8000/live/Vince/Vince1/200.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_BEIN_SPORTS_3_HD
+http://www.t12v.com:8000/live/Vince/Vince1/594.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_BEIN_SPORT_MAX_4
+http://www.t12v.com:8000/live/Vince/Vince1/1269.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_BEIN_SPORT_MAX_5
+http://www.t12v.com:8000/live/Vince/Vince1/1268.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_BEIN_SPORT_MAX_6
+http://www.t12v.com:8000/live/Vince/Vince1/233.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_BEIN_SPORT_MAX_7
+http://www.t12v.com:8000/live/Vince/Vince1/232.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_BEIN_SPORT_MAX_8
+http://www.t12v.com:8000/live/Vince/Vince1/1232.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_CSAT_SPORT_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1124.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CANAL+_SPORT_HD
+http://www.t12v.com:8000/live/Vince/Vince1/205.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_MA_CHAINE_SPORT
+http://www.t12v.com:8000/live/Vince/Vince1/846.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_KOMBAT_SPORT_HD
+http://www.t12v.com:8000/live/Vince/Vince1/171.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_INFOSPORT+
+http://www.t12v.com:8000/live/Vince/Vince1/879.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_EUROSPORT
+http://www.t12v.com:8000/live/Vince/Vince1/206.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_FOOT+
+http://www.t12v.com:8000/live/Vince/Vince1/883.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_SPORT+
+http://www.t12v.com:8000/live/Vince/Vince1/167.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_SPORTS+
+http://www.t12v.com:8000/live/Vince/Vince1/723.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_GOLF+
+http://www.t12v.com:8000/live/Vince/Vince1/112.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_OL_TV
+http://www.t12v.com:8000/live/Vince/Vince1/844.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_EQUIDIA
+http://www.t12v.com:8000/live/Vince/Vince1/170.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_L_EQUIPE_21
+http://www.t12v.com:8000/live/Vince/Vince1/102.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_CSAT_DECOUVERTES_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/497.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_PLANETE+_HD
+http://www.t12v.com:8000/live/Vince/Vince1/221.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_PLANETE+_CI
+http://www.t12v.com:8000/live/Vince/Vince1/222.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_PLANETE_AE_HD
+http://www.t12v.com:8000/live/Vince/Vince1/230.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_PLANETE+_THALASSA_HD
+http://www.t12v.com:8000/live/Vince/Vince1/67.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_NATIONAL_GEO_HD
+http://www.t12v.com:8000/live/Vince/Vince1/239.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_NATIONAL_GEO_WILD_HD
+http://www.t12v.com:8000/live/Vince/Vince1/217.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_USHUAIA_TV_HD
+http://www.t12v.com:8000/live/Vince/Vince1/223.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_DISCOVERY_SHOWCASE_HD
+http://www.t12v.com:8000/live/Vince/Vince1/80.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_DISCOVERY_SCIENCES
+http://www.t12v.com:8000/live/Vince/Vince1/76.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_VOYAGE_HD
+http://www.t12v.com:8000/live/Vince/Vince1/84.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_ANIMAUX_HD
+http://www.t12v.com:8000/live/Vince/Vince1/865.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CHASSE_ET_PECHE
+http://www.t12v.com:8000/live/Vince/Vince1/860.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_SCIENCES_VIE_TV
+http://www.t12v.com:8000/live/Vince/Vince1/1220.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_RMC_DECOUVERTE
+http://www.t12v.com:8000/live/Vince/Vince1/83.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_CSAT_ORANGE_SWISS_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1127.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_RTS_LA_UNE_HD
+http://www.t12v.com:8000/live/Vince/Vince1/124.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_RTS_1_HD
+http://www.t12v.com:8000/live/Vince/Vince1/145.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_RTS_LA_DEUX_HD
+http://www.t12v.com:8000/live/Vince/Vince1/121.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_RTS_2_HD
+http://www.t12v.com:8000/live/Vince/Vince1/138.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_FRANCE_O
+http://www.t12v.com:8000/live/Vince/Vince1/228.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_TV5_MONDE
+http://www.t12v.com:8000/live/Vince/Vince1/1218.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_TOUTE_L_HISTOIRE
+http://www.t12v.com:8000/live/Vince/Vince1/880.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_ENCYCLO
+http://www.t12v.com:8000/live/Vince/Vince1/864.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_BFM_BUSNESS
+http://www.t12v.com:8000/live/Vince/Vince1/219.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CHERIE_25
+http://www.t12v.com:8000/live/Vince/Vince1/169.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_CSAT_MUSIQUE_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1128.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_NRJ
+http://www.t12v.com:8000/live/Vince/Vince1/220.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_VH1
+http://www.t12v.com:8000/live/Vince/Vince1/109.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_MTV_HITS
+http://www.t12v.com:8000/live/Vince/Vince1/103.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_M6_MUSIC
+http://www.t12v.com:8000/live/Vince/Vince1/160.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_MCM_POP
+http://www.t12v.com:8000/live/Vince/Vince1/161.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_MTV_DANCE_FR
+http://www.t12v.com:8000/live/Vince/Vince1/85.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_CSAT_PPV_VOD_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1132.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CANAL_PLAY_3D
+http://www.t12v.com:8000/live/Vince/Vince1/1267.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CANAL_PLAY_1
+http://www.t12v.com:8000/live/Vince/Vince1/1266.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CANAL_PLAY_2
+http://www.t12v.com:8000/live/Vince/Vince1/1265.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CANAL_PLAY_3
+http://www.t12v.com:8000/live/Vince/Vince1/1264.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CANAL_PLAY_4
+http://www.t12v.com:8000/live/Vince/Vince1/1263.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CANAL_PLAY_5
+http://www.t12v.com:8000/live/Vince/Vince1/1262.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CANAL_PLAY_6
+http://www.t12v.com:8000/live/Vince/Vince1/1261.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CANAL_PLAY_7
+http://www.t12v.com:8000/live/Vince/Vince1/1260.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CANAL_PLAY_8
+http://www.t12v.com:8000/live/Vince/Vince1/1259.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CANAL_PLAY_9
+http://www.t12v.com:8000/live/Vince/Vince1/1258.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CANAL_PLAY_10
+http://www.t12v.com:8000/live/Vince/Vince1/1257.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CANAL_PLAY_11
+http://www.t12v.com:8000/live/Vince/Vince1/1817.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CANAL_PLAY_12
+http://www.t12v.com:8000/live/Vince/Vince1/1818.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CANAL_PLAY_13
+http://www.t12v.com:8000/live/Vince/Vince1/1819.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CANAL_PLAY_14
+http://www.t12v.com:8000/live/Vince/Vince1/1820.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CANAL_PLAY_15
+http://www.t12v.com:8000/live/Vince/Vince1/1821.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CANAL_PLAY_16
+http://www.t12v.com:8000/live/Vince/Vince1/1822.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CANAL_PLAY_17
+http://www.t12v.com:8000/live/Vince/Vince1/1823.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CANAL_PLAY_18
+http://www.t12v.com:8000/live/Vince/Vince1/1824.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CANAL_PLAY_19
+http://www.t12v.com:8000/live/Vince/Vince1/1825.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_CANAL_PLAY_20
+http://www.t12v.com:8000/live/Vince/Vince1/1826.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_CSAT_ADULTES_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1133.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_A_LA_CARTE_X_ADULTES_1
+http://www.t12v.com:8000/live/Vince/Vince1/1271.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_XXL
+http://www.t12v.com:8000/live/Vince/Vince1/1270.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_DORCEL
+http://www.t12v.com:8000/live/Vince/Vince1/1256.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_HUSTLER_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1196.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_BLUE_HUSTLER
+http://www.t12v.com:8000/live/Vince/Vince1/1195.ts
+#EXTINF:-1 tvg-id="" group-title="outros",FR_PENTHOUSE_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1194.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_SKY_ITALIA_TIVUSAT_M7_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1047.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_RAI_1_HD
+http://www.t12v.com:8000/live/Vince/Vince1/274.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_RAI_2_HD
+http://www.t12v.com:8000/live/Vince/Vince1/275.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_RAI_3_HD
+http://www.t12v.com:8000/live/Vince/Vince1/276.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_RAI_5
+http://www.t12v.com:8000/live/Vince/Vince1/1292.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PREMIUM_CINEMA_2
+http://www.t12v.com:8000/live/Vince/Vince1/1293.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_RSI_LA_1_HD
+http://www.t12v.com:8000/live/Vince/Vince1/920.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_RSI_LA_2_HD
+http://www.t12v.com:8000/live/Vince/Vince1/921.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_ITALIA_1_HD
+http://www.t12v.com:8000/live/Vince/Vince1/241.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_CANALE_5
+http://www.t12v.com:8000/live/Vince/Vince1/242.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_SKY_ITALIA_SPORT_HD_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1338.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_SKY_SPORT_24_HD
+http://www.t12v.com:8000/live/Vince/Vince1/278.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_SKY_SPORT_1_HD
+http://www.t12v.com:8000/live/Vince/Vince1/298.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_SKY_SPORT_2_HD
+http://www.t12v.com:8000/live/Vince/Vince1/299.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_SKY_SPORT_3_HD
+http://www.t12v.com:8000/live/Vince/Vince1/264.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_SKY_SPORTS_F1_HD
+http://www.t12v.com:8000/live/Vince/Vince1/294.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_FOX_SPORTS_1_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1312.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_SKY_FOX_SPORTS_2_HD
+http://www.t12v.com:8000/live/Vince/Vince1/295.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_SUPER_TENNIS_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1313.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_SKY_SPORT_MOTO_GP_HD
+http://www.t12v.com:8000/live/Vince/Vince1/284.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_RAI_SPORT_1
+http://www.t12v.com:8000/live/Vince/Vince1/277.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_EUROSPORT_HD
+http://www.t12v.com:8000/live/Vince/Vince1/300.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_EUROSPORT_2
+http://www.t12v.com:8000/live/Vince/Vince1/1311.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_Sky_sports_news_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1807.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_SKY_ITALIA_M7_PREMIUM_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1034.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PREMIUM_CINEMA_HD
+http://www.t12v.com:8000/live/Vince/Vince1/247.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PREMIUM_COMEDY_HD
+http://www.t12v.com:8000/live/Vince/Vince1/248.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PREMIUM_ACTION_HD
+http://www.t12v.com:8000/live/Vince/Vince1/243.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PREMIUM_CRIME_HD
+http://www.t12v.com:8000/live/Vince/Vince1/249.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PREMIUM_CINEMA_EMOTION_HD
+http://www.t12v.com:8000/live/Vince/Vince1/253.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PREMIUM_CINEMA_ENERGY_HD
+http://www.t12v.com:8000/live/Vince/Vince1/254.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PREMIUM_JOY
+http://www.t12v.com:8000/live/Vince/Vince1/256.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PREMIUM_MYA
+http://www.t12v.com:8000/live/Vince/Vince1/257.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_Premium_Fox_Sports
+http://www.t12v.com:8000/live/Vince/Vince1/1804.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_Premium_Disney_Junior
+http://www.t12v.com:8000/live/Vince/Vince1/1805.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_Premium_Crime_ 24
+http://www.t12v.com:8000/live/Vince/Vince1/1806.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_Premium_Calcio_6
+http://www.t12v.com:8000/live/Vince/Vince1/1809.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_SKY_ITALIA_CINEMA_HD_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1036.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_SKY_CINEMA_1_HD
+http://www.t12v.com:8000/live/Vince/Vince1/286.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_SKY_CINEMA+_24_HD
+http://www.t12v.com:8000/live/Vince/Vince1/285.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_SKY_CINEMA_HITS_HD
+http://www.t12v.com:8000/live/Vince/Vince1/291.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_SKY_CINEMA_PASSION_HD
+http://www.t12v.com:8000/live/Vince/Vince1/293.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_SKY_CINEMA_FAMILY_HD
+http://www.t12v.com:8000/live/Vince/Vince1/290.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_SKY_CINEMA_COMEDY_HD
+http://www.t12v.com:8000/live/Vince/Vince1/289.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_SKY_CINEMA_MAX_HD
+http://www.t12v.com:8000/live/Vince/Vince1/292.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_SKY_CINEMA_CULT_HD
+http://www.t12v.com:8000/live/Vince/Vince1/288.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_SKY_CINEMA_CLASSICS_HD
+http://www.t12v.com:8000/live/Vince/Vince1/287.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_SKY_ITALIA_CALCIO_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1334.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_SKY_CALCIO_1_HD
+http://www.t12v.com:8000/live/Vince/Vince1/956.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_Sky_Calcio_2_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1811.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_SKY_CALCIO_24_HD
+http://www.t12v.com:8000/live/Vince/Vince1/955.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_SKY_CALCIO_3_HD
+http://www.t12v.com:8000/live/Vince/Vince1/954.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_Premium_Calcio_3
+http://www.t12v.com:8000/live/Vince/Vince1/932.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_SUPER_CALCIO_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1314.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PREMIUM_SPORT_HD
+http://www.t12v.com:8000/live/Vince/Vince1/933.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PREMIUM_CALCIO_1_HD
+http://www.t12v.com:8000/live/Vince/Vince1/301.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PREMIUM_CALCIO_2_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1328.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_INTER_CHANNEL
+http://www.t12v.com:8000/live/Vince/Vince1/1329.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PREMIUM_CALCIO_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1332.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_SKY_ITALIA_ADULTS_CHANNELS_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1333.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PRIMAFILA_1_HD
+http://www.t12v.com:8000/live/Vince/Vince1/259.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PRIMAFILA_2_HD
+http://www.t12v.com:8000/live/Vince/Vince1/266.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PRIMAFILA_3_HD
+http://www.t12v.com:8000/live/Vince/Vince1/267.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PRIMAFILA_4_HD
+http://www.t12v.com:8000/live/Vince/Vince1/268.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PRIMAFILA_5_HD
+http://www.t12v.com:8000/live/Vince/Vince1/269.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PRIMAFILA_6_HD
+http://www.t12v.com:8000/live/Vince/Vince1/270.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PRIMAFILA_7_HD
+http://www.t12v.com:8000/live/Vince/Vince1/271.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PRIMAFILA_8_HD
+http://www.t12v.com:8000/live/Vince/Vince1/272.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PRIMAFILA_9_HD
+http://www.t12v.com:8000/live/Vince/Vince1/273.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PRIMAFILA_10_HD
+http://www.t12v.com:8000/live/Vince/Vince1/260.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PRIMAFILA_11
+http://www.t12v.com:8000/live/Vince/Vince1/1010.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PRIMAFILA_12
+http://www.t12v.com:8000/live/Vince/Vince1/1011.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PRIMAFILA_13_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1012.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PRIMAFILA_14
+http://www.t12v.com:8000/live/Vince/Vince1/1013.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PRIMAFILA_15
+http://www.t12v.com:8000/live/Vince/Vince1/1014.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PRIMAFILA_16
+http://www.t12v.com:8000/live/Vince/Vince1/1015.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PRIMAFILA_17
+http://www.t12v.com:8000/live/Vince/Vince1/1016.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PRIMAFILA_18
+http://www.t12v.com:8000/live/Vince/Vince1/1017.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PRIMAFILA_19
+http://www.t12v.com:8000/live/Vince/Vince1/1018.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_SKY_ITALIA_BAMBINI_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1340.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_NICKELODEON
+http://www.t12v.com:8000/live/Vince/Vince1/1810.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_Disney_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1808.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_Premium_CARTOON_NETWORK
+http://www.t12v.com:8000/live/Vince/Vince1/1336.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_DISNEY_XD
+http://www.t12v.com:8000/live/Vince/Vince1/960.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_SKY_DISCOVERY_WORLD
+http://www.t12v.com:8000/live/Vince/Vince1/958.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PREMIUM_DISNEY_CHANNEL
+http://www.t12v.com:8000/live/Vince/Vince1/1337.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_SKY_ITALIA_ENTERTAINMENT_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1339.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PESCA_E_CACCIA
+http://www.t12v.com:8000/live/Vince/Vince1/1326.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_NATIONALGEO_WILD_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1317.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_NATIONALGEO_PEOPLE_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1316.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_SKY_HISTORY_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1322.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_JUVENTUS
+http://www.t12v.com:8000/live/Vince/Vince1/1308.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_NAT_GEOGRAPHIC_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1321.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_SKY_NATIONALGEO_HD
+http://www.t12v.com:8000/live/Vince/Vince1/297.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_DISCOVERY_HD
+http://www.t12v.com:8000/live/Vince/Vince1/957.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_STUDIO_UNIVERSAL
+http://www.t12v.com:8000/live/Vince/Vince1/1327.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_SKY_ARTE_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1323.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PREMIUM_CINEMA_24
+http://www.t12v.com:8000/live/Vince/Vince1/1343.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_PREMIUM_DISCOVERY_WORLD_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1344.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_Premium_DISNEY_CHANNEL+_1
+http://www.t12v.com:8000/live/Vince/Vince1/1342.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_FOX_ANIMATION_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1301.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_IT_Premium_Stories
+http://www.t12v.com:8000/live/Vince/Vince1/1319.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_MILAN_CHANNEL
+http://www.t12v.com:8000/live/Vince/Vince1/1298.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_CRIME_INVESTIGATION_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1297.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_DMAX_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1318.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_FOX_SPORTS_2_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1302.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_SKY_TG_24_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1002.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_SKY_UNO_HD
+http://www.t12v.com:8000/live/Vince/Vince1/303.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_SKY_ATLANTIC_HD
+http://www.t12v.com:8000/live/Vince/Vince1/280.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_SKY_CIELO
+http://www.t12v.com:8000/live/Vince/Vince1/929.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_FOX_HD
+http://www.t12v.com:8000/live/Vince/Vince1/263.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_FOX_LIFE_HD
+http://www.t12v.com:8000/live/Vince/Vince1/935.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_SKY_FOX_CRIME_HD
+http://www.t12v.com:8000/live/Vince/Vince1/296.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_TG_COM_24
+http://www.t12v.com:8000/live/Vince/Vince1/240.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_SKY_AXN_HD
+http://www.t12v.com:8000/live/Vince/Vince1/261.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_FOX_CRIME_HD
+http://www.t12v.com:8000/live/Vince/Vince1/940.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_FOX_CRIME
+http://www.t12v.com:8000/live/Vince/Vince1/941.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IT_SKY_FOX_COMEDY_HD
+http://www.t12v.com:8000/live/Vince/Vince1/283.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_ALMANIA_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1348.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_13TH_STREET
+http://www.t12v.com:8000/live/Vince/Vince1/991.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_A_E
+http://www.t12v.com:8000/live/Vince/Vince1/1005.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_3SAT
+http://www.t12v.com:8000/live/Vince/Vince1/1006.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_ARD
+http://www.t12v.com:8000/live/Vince/Vince1/1004.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_ORF2
+http://www.t12v.com:8000/live/Vince/Vince1/748.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_ORF_EINS
+http://www.t12v.com:8000/live/Vince/Vince1/747.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_ARTE
+http://www.t12v.com:8000/live/Vince/Vince1/1026.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_WDR
+http://www.t12v.com:8000/live/Vince/Vince1/934.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SWR
+http://www.t12v.com:8000/live/Vince/Vince1/1243.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_VOX
+http://www.t12v.com:8000/live/Vince/Vince1/1033.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_PRO_7
+http://www.t12v.com:8000/live/Vince/Vince1/750.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_PRO_7_MAX
+http://www.t12v.com:8000/live/Vince/Vince1/751.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SRF_1
+http://www.t12v.com:8000/live/Vince/Vince1/1273.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SRF_2
+http://www.t12v.com:8000/live/Vince/Vince1/1272.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SAT_1
+http://www.t12v.com:8000/live/Vince/Vince1/753.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SAT_1_GOLD
+http://www.t12v.com:8000/live/Vince/Vince1/754.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SRF_INFO
+http://www.t12v.com:8000/live/Vince/Vince1/762.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_ZDF_INFO
+http://www.t12v.com:8000/live/Vince/Vince1/47.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_ZDF_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1001.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_ZDF_KULTUR
+http://www.t12v.com:8000/live/Vince/Vince1/59.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_ROMANCE_TV
+http://www.t12v.com:8000/live/Vince/Vince1/1009.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SKY_SPORT_NEWS_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1020.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_EINS_FESTIVAL
+http://www.t12v.com:8000/live/Vince/Vince1/990.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_DELUXE_MUSIC
+http://www.t12v.com:8000/live/Vince/Vince1/1019.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SPIEGEL_GESCHICHTE
+http://www.t12v.com:8000/live/Vince/Vince1/1027.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SERVUS_TV
+http://www.t12v.com:8000/live/Vince/Vince1/755.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_RBB_BERLIN
+http://www.t12v.com:8000/live/Vince/Vince1/752.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_PHOENIX
+http://www.t12v.com:8000/live/Vince/Vince1/749.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_NDR
+http://www.t12v.com:8000/live/Vince/Vince1/743.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_N24
+http://www.t12v.com:8000/live/Vince/Vince1/740.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_MDR
+http://www.t12v.com:8000/live/Vince/Vince1/737.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_KIKA
+http://www.t12v.com:8000/live/Vince/Vince1/736.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_HALLE_TV
+http://www.t12v.com:8000/live/Vince/Vince1/731.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_HAINMATKANAL
+http://www.t12v.com:8000/live/Vince/Vince1/730.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_KABEL_EINS
+http://www.t12v.com:8000/live/Vince/Vince1/734.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_HR_FERNSEHEN
+http://www.t12v.com:8000/live/Vince/Vince1/733.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_TAGESSCHAU_24
+http://www.t12v.com:8000/live/Vince/Vince1/1228.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_TELE_ZURI
+http://www.t12v.com:8000/live/Vince/Vince1/302.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_EURONEWS
+http://www.t12v.com:8000/live/Vince/Vince1/1003.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_EINS_PLUS
+http://www.t12v.com:8000/live/Vince/Vince1/996.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_VIVA_COMEDY_CENTRAL
+http://www.t12v.com:8000/live/Vince/Vince1/938.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SIXX
+http://www.t12v.com:8000/live/Vince/Vince1/756.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_MGM_HD
+http://www.t12v.com:8000/live/Vince/Vince1/739.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_DMAX
+http://www.t12v.com:8000/live/Vince/Vince1/974.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_AXN
+http://www.t12v.com:8000/live/Vince/Vince1/993.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SYFY
+http://www.t12v.com:8000/live/Vince/Vince1/1029.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_FOX
+http://www.t12v.com:8000/live/Vince/Vince1/1000.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_FOX_LIFE
+http://www.t12v.com:8000/live/Vince/Vince1/729.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_TNT_FILM
+http://www.t12v.com:8000/live/Vince/Vince1/1030.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_TNT_SERIE
+http://www.t12v.com:8000/live/Vince/Vince1/1031.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_RTL_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1032.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_RTL_2
+http://www.t12v.com:8000/live/Vince/Vince1/989.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_RTL_NITRO
+http://www.t12v.com:8000/live/Vince/Vince1/1021.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_RTL_PASSION
+http://www.t12v.com:8000/live/Vince/Vince1/1008.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SUPER_RTL
+http://www.t12v.com:8000/live/Vince/Vince1/1028.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_SKY_CINEMA_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1349.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SKY_3D
+http://www.t12v.com:8000/live/Vince/Vince1/757.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SKY_CINEMA_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1280.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SKY_CINEMA
+http://www.t12v.com:8000/live/Vince/Vince1/975.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SKY_CINEMA_HD_1
+http://www.t12v.com:8000/live/Vince/Vince1/976.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SKY_EMOTION_HD
+http://www.t12v.com:8000/live/Vince/Vince1/979.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SKY_COMEDY_HD
+http://www.t12v.com:8000/live/Vince/Vince1/978.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SKY_ACTION_HD
+http://www.t12v.com:8000/live/Vince/Vince1/973.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SKY_CINEMA_24_HD
+http://www.t12v.com:8000/live/Vince/Vince1/977.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SKY_ATLANTIC_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1022.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SKY_HITS
+http://www.t12v.com:8000/live/Vince/Vince1/760.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SKY_FAMALY_DRAMA
+http://www.t12v.com:8000/live/Vince/Vince1/759.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SKY_KRIMI
+http://www.t12v.com:8000/live/Vince/Vince1/1024.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_SKY_SPORT_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1350.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SKY_BUNDESLIGA_1
+http://www.t12v.com:8000/live/Vince/Vince1/1023.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SKY_CHAMPIONS
+http://www.t12v.com:8000/live/Vince/Vince1/758.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_EUROSPORT
+http://www.t12v.com:8000/live/Vince/Vince1/728.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SPORT1
+http://www.t12v.com:8000/live/Vince/Vince1/761.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SPORTTIME_TV_1_HD
+http://www.t12v.com:8000/live/Vince/Vince1/982.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SPORTTIME_TV_2_HD
+http://www.t12v.com:8000/live/Vince/Vince1/983.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SPORTTIME_TV_3_HD
+http://www.t12v.com:8000/live/Vince/Vince1/984.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SPORTTIME_TV_4_HD
+http://www.t12v.com:8000/live/Vince/Vince1/985.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SPORTTIME_TV_5_HD
+http://www.t12v.com:8000/live/Vince/Vince1/986.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SPORTTIME_TV_6_HD
+http://www.t12v.com:8000/live/Vince/Vince1/987.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SPORTTIME_TV_7_HD
+http://www.t12v.com:8000/live/Vince/Vince1/988.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SKY_SPORT_1_HD
+http://www.t12v.com:8000/live/Vince/Vince1/981.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SKY_SPORT_2_HD
+http://www.t12v.com:8000/live/Vince/Vince1/980.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_CULTURE_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1351.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_NAT_GEO_WILD
+http://www.t12v.com:8000/live/Vince/Vince1/992.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_DISCOVERY_CHANNEL
+http://www.t12v.com:8000/live/Vince/Vince1/997.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_NATIONAL_GEOGRAPHIC_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1007.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_HISTORY_CHANNEL
+http://www.t12v.com:8000/live/Vince/Vince1/732.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_CARTOON_NETWORK
+http://www.t12v.com:8000/live/Vince/Vince1/995.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_DISNEY_JUNIOR
+http://www.t12v.com:8000/live/Vince/Vince1/998.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_DISNEY_CHANNEL
+http://www.t12v.com:8000/live/Vince/Vince1/999.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_ORF_1
+http://www.t12v.com:8000/live/Vince/Vince1/746.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_BOOMERANG
+http://www.t12v.com:8000/live/Vince/Vince1/994.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_SKY_SELECT_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1352.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SKY_SELECT_HD
+http://www.t12v.com:8000/live/Vince/Vince1/972.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SKY_SELECT_1_HD
+http://www.t12v.com:8000/live/Vince/Vince1/962.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SKY_SELECT_2_HD
+http://www.t12v.com:8000/live/Vince/Vince1/963.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SKY_SELECT_3_HD
+http://www.t12v.com:8000/live/Vince/Vince1/964.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SKY_SELECT_4_HD
+http://www.t12v.com:8000/live/Vince/Vince1/965.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SKY_SELECT_5_HD
+http://www.t12v.com:8000/live/Vince/Vince1/966.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SKY_SELECT_6_HD
+http://www.t12v.com:8000/live/Vince/Vince1/967.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SKY_SELECT_7_HD
+http://www.t12v.com:8000/live/Vince/Vince1/968.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SKY_SELECT_8_HD
+http://www.t12v.com:8000/live/Vince/Vince1/969.ts
+#EXTINF:-1 tvg-id="" group-title="outros",DE_SKY_SELECT_9_HD
+http://www.t12v.com:8000/live/Vince/Vince1/970.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_RTE_2_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1709.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_RTE_1_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1710.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_MOTORS_TV
+http://www.t12v.com:8000/live/Vince/Vince1/1711.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_ITV_4
+http://www.t12v.com:8000/live/Vince/Vince1/1718.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_ITV_3
+http://www.t12v.com:8000/live/Vince/Vince1/1719.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_GOLD
+http://www.t12v.com:8000/live/Vince/Vince1/1712.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_GOOD_FOOD
+http://www.t12v.com:8000/live/Vince/Vince1/1713.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_FILM_4
+http://www.t12v.com:8000/live/Vince/Vince1/1714.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_CBS_REALITY
+http://www.t12v.com:8000/live/Vince/Vince1/1715.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_CBS_ACTION
+http://www.t12v.com:8000/live/Vince/Vince1/1716.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_BOXNATION_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1717.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_SKY_SPORT_F1
+http://www.t12v.com:8000/live/Vince/Vince1/1039.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_MTV_MUSIC
+http://www.t12v.com:8000/live/Vince/Vince1/1084.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_CTH_STADIUM_5
+http://www.t12v.com:8000/live/Vince/Vince1/1085.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_CTH_STADIUM_6
+http://www.t12v.com:8000/live/Vince/Vince1/1100.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_CTH_STADIUM_2_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1086.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_NICK_JUNIOR
+http://www.t12v.com:8000/live/Vince/Vince1/1101.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_CTH_STADIUM_1
+http://www.t12v.com:8000/live/Vince/Vince1/1087.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_DISNEY_JUNIOR
+http://www.t12v.com:8000/live/Vince/Vince1/1088.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_NATIONAL_GEOGRAPHY_WILD
+http://www.t12v.com:8000/live/Vince/Vince1/1102.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_DISCOVERY_SCIENCE
+http://www.t12v.com:8000/live/Vince/Vince1/1103.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_DISCOVERY_ID
+http://www.t12v.com:8000/live/Vince/Vince1/1089.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_SKY_SPORT_1_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1104.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_SKY_MOVIES_SCI_FI
+http://www.t12v.com:8000/live/Vince/Vince1/1105.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_FIVE
+http://www.t12v.com:8000/live/Vince/Vince1/1106.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_MOVIES_4_MEN
+http://www.t12v.com:8000/live/Vince/Vince1/1107.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_DISNEY_XD
+http://www.t12v.com:8000/live/Vince/Vince1/1090.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_CBS_DRAMA
+http://www.t12v.com:8000/live/Vince/Vince1/1108.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_DISNEY_CHANNEL
+http://www.t12v.com:8000/live/Vince/Vince1/1111.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_COLORS
+http://www.t12v.com:8000/live/Vince/Vince1/1091.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_EUROSPORT_1_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1050.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_CARTOON_NETWORK
+http://www.t12v.com:8000/live/Vince/Vince1/1092.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_SKY_SPORTS_NEWS_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1112.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_EUROSPORT_2_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1113.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_SKY_SPORTS_5_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1040.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_SKY_SPORTS_4_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1041.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_SKY_SPORTS_3_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1042.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_SKY_SPORTS_2_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1043.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_SKY_SPORTS_1_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1044.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_SKY_MOVIES_SELECT_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1114.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_SKY_ONE
+http://www.t12v.com:8000/live/Vince/Vince1/1095.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_SKY_MOVIES_PREMIERE_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1054.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_SKY_MOVIES_MODERN_GREAT
+http://www.t12v.com:8000/live/Vince/Vince1/1045.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_SKY_MOVIES_COMEDY_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1038.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_SKY_MOVIES_ACTION_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1035.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_CHELSEA_TV
+http://www.t12v.com:8000/live/Vince/Vince1/1074.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_SKY_MOVIES_ATLANTIC_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1115.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_SKY_DRAMA_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1055.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_SKY_MOVIES_DISNEY
+http://www.t12v.com:8000/live/Vince/Vince1/1056.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_SKY_ART_1
+http://www.t12v.com:8000/live/Vince/Vince1/1075.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_SKY_SPORT_5_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1093.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_SKY_SPORT_4_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1094.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_MOVIES_FAMILY
+http://www.t12v.com:8000/live/Vince/Vince1/1064.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_SKY_SPORT_3_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1096.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_SKY_SPORT_2_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1097.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_ITV_2_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1098.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_ITV_1_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1099.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_HISTORY
+http://www.t12v.com:8000/live/Vince/Vince1/1071.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_DISCOVERY_TURBO
+http://www.t12v.com:8000/live/Vince/Vince1/1058.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_MTV_HITS
+http://www.t12v.com:8000/live/Vince/Vince1/1083.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_DISCOVERY_INVESTIGATION
+http://www.t12v.com:8000/live/Vince/Vince1/1037.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_DISCOVERY_HOME_HEALTH
+http://www.t12v.com:8000/live/Vince/Vince1/1063.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_DISCOVERY_HISTORY
+http://www.t12v.com:8000/live/Vince/Vince1/1076.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_DISCOVERY
+http://www.t12v.com:8000/live/Vince/Vince1/1046.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_MTV_ROCKS
+http://www.t12v.com:8000/live/Vince/Vince1/1077.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_CTH_STADIUM_4_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1070.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_CTH_STADIUM_3_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1069.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_COMEDY_CENTRAL
+http://www.t12v.com:8000/live/Vince/Vince1/1065.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_SKY_MOVIES_SHOWCASE
+http://www.t12v.com:8000/live/Vince/Vince1/1062.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_SKY_MOVIES_THRILLER
+http://www.t12v.com:8000/live/Vince/Vince1/1061.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_BT_SPORT_2
+http://www.t12v.com:8000/live/Vince/Vince1/1117.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_BT_SPORT_1
+http://www.t12v.com:8000/live/Vince/Vince1/1118.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_ESPN_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1059.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_BBC_4
+http://www.t12v.com:8000/live/Vince/Vince1/1078.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_BBC_3
+http://www.t12v.com:8000/live/Vince/Vince1/1079.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_BBC_2
+http://www.t12v.com:8000/live/Vince/Vince1/1080.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_BBC_1
+http://www.t12v.com:8000/live/Vince/Vince1/1081.ts
+#EXTINF:-1 tvg-id="" group-title="outros",UK_ANIMAL_PLANET
+http://www.t12v.com:8000/live/Vince/Vince1/1082.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_ESPANA_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1425.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_TVE_1
+http://www.t12v.com:8000/live/Vince/Vince1/842.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_TPA
+http://www.t12v.com:8000/live/Vince/Vince1/885.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_ANTENA_3_HD
+http://www.t12v.com:8000/live/Vince/Vince1/502.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_EURONEWS
+http://www.t12v.com:8000/live/Vince/Vince1/855.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_TELECINCO
+http://www.t12v.com:8000/live/Vince/Vince1/508.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_LA_SEXTATA
+http://www.t12v.com:8000/live/Vince/Vince1/790.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_CLAN_TVE
+http://www.t12v.com:8000/live/Vince/Vince1/849.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_NOVA_SPAIN
+http://www.t12v.com:8000/live/Vince/Vince1/788.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_NOTICIAS_INTERNACIONAIS
+http://www.t12v.com:8000/live/Vince/Vince1/797.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_24_HORAS
+http://www.t12v.com:8000/live/Vince/Vince1/839.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_TVE_24H_HD
+http://www.t12v.com:8000/live/Vince/Vince1/840.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_ALFA_TV
+http://www.t12v.com:8000/live/Vince/Vince1/784.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_SPORT_TV_AMERICAS
+http://www.t12v.com:8000/live/Vince/Vince1/843.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_CANAL_GOLF
+http://www.t12v.com:8000/live/Vince/Vince1/738.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_DISCOVERY
+http://www.t12v.com:8000/live/Vince/Vince1/742.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_FDF_SPAIN
+http://www.t12v.com:8000/live/Vince/Vince1/801.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_BALEARS_TV
+http://www.t12v.com:8000/live/Vince/Vince1/741.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_MIJAS_TV_MALAGA
+http://www.t12v.com:8000/live/Vince/Vince1/764.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_40_TV
+http://www.t12v.com:8000/live/Vince/Vince1/763.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_MOVIESTAR_MOTOGP
+http://www.t12v.com:8000/live/Vince/Vince1/765.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_CINE_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1391.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_CANAL+_HD
+http://www.t12v.com:8000/live/Vince/Vince1/766.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_CANAL+_1
+http://www.t12v.com:8000/live/Vince/Vince1/787.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_CANAL_2
+http://www.t12v.com:8000/live/Vince/Vince1/745.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_CANAL+_Estrenos HD
+http://www.t12v.com:8000/live/Vince/Vince1/776.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_CANAL+_DCINE
+http://www.t12v.com:8000/live/Vince/Vince1/785.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_CANAL+_COMEDIA
+http://www.t12v.com:8000/live/Vince/Vince1/792.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_CANAL_ACTION
+http://www.t12v.com:8000/live/Vince/Vince1/791.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_CANAL_COCINA
+http://www.t12v.com:8000/live/Vince/Vince1/799.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_CANAL_DECASA
+http://www.t12v.com:8000/live/Vince/Vince1/794.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_TNT_ES
+http://www.t12v.com:8000/live/Vince/Vince1/847.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_HOLLYWOOD
+http://www.t12v.com:8000/live/Vince/Vince1/802.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_ENTRETENIMIENTO_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1396.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_LA_RED_EN_VIVO
+http://www.t12v.com:8000/live/Vince/Vince1/1397.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_FOX_LIFE
+http://www.t12v.com:8000/live/Vince/Vince1/789.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_CALLE_13
+http://www.t12v.com:8000/live/Vince/Vince1/1400.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_AXN
+http://www.t12v.com:8000/live/Vince/Vince1/778.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_AXN_WHITE
+http://www.t12v.com:8000/live/Vince/Vince1/777.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_FOX
+http://www.t12v.com:8000/live/Vince/Vince1/856.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_DEPORTES_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1403.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_CANAL+_LIGA_HD
+http://www.t12v.com:8000/live/Vince/Vince1/795.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_CANAL+_FUTBOL
+http://www.t12v.com:8000/live/Vince/Vince1/793.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_C+_DEPORTES
+http://www.t12v.com:8000/live/Vince/Vince1/504.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_REAL_MADRID_TV
+http://www.t12v.com:8000/live/Vince/Vince1/851.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_BARCA_TV
+http://www.t12v.com:8000/live/Vince/Vince1/775.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_TELEDEPORTE
+http://www.t12v.com:8000/live/Vince/Vince1/848.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_CANAL+_TOROS
+http://www.t12v.com:8000/live/Vince/Vince1/796.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_CULTURA_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1409.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_A_E_SPAIN
+http://www.t12v.com:8000/live/Vince/Vince1/779.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_NATIONAL_GEO
+http://www.t12v.com:8000/live/Vince/Vince1/804.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_NATIONAL_GEO_WILD
+http://www.t12v.com:8000/live/Vince/Vince1/836.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_DISCOVERY_MAX
+http://www.t12v.com:8000/live/Vince/Vince1/837.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_HISTORIA
+http://www.t12v.com:8000/live/Vince/Vince1/841.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_NINOS_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1414.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_BOING
+http://www.t12v.com:8000/live/Vince/Vince1/774.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_MEGA
+http://www.t12v.com:8000/live/Vince/Vince1/816.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_DISNEY_CHANNEL
+http://www.t12v.com:8000/live/Vince/Vince1/817.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_MUSIC_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1417.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_FIRST_MUSIC_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1419.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_MOVIESTAR_F1
+http://www.t12v.com:8000/live/Vince/Vince1/803.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_ENERGY_SPAIN
+http://www.t12v.com:8000/live/Vince/Vince1/800.ts
+#EXTINF:-1 tvg-id="" group-title="outros",oooo_ESPAGNE_oooo
+http://www.t12v.com:8000/live/Vince/Vince1/1356.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_TAQUILLA_1
+http://www.t12v.com:8000/live/Vince/Vince1/890.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_TAQUILLA_2
+http://www.t12v.com:8000/live/Vince/Vince1/423.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_TAQUILLA_3
+http://www.t12v.com:8000/live/Vince/Vince1/282.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_TAQUILLA_4
+http://www.t12v.com:8000/live/Vince/Vince1/265.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_TAQUILLA_5
+http://www.t12v.com:8000/live/Vince/Vince1/904.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_TAQUILLA_6
+http://www.t12v.com:8000/live/Vince/Vince1/858.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_TAQUILLA_7
+http://www.t12v.com:8000/live/Vince/Vince1/854.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_TAQUILLA_8
+http://www.t12v.com:8000/live/Vince/Vince1/852.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_EXTREMADURA
+http://www.t12v.com:8000/live/Vince/Vince1/850.ts
+#EXTINF:-1 tvg-id="" group-title="outros",ES_CAZA_Y_PESCA
+http://www.t12v.com:8000/live/Vince/Vince1/857.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IN_STAR_SPORTS_1
+http://www.t12v.com:8000/live/Vince/Vince1/1740.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IN_WILLOW_CRICKET
+http://www.t12v.com:8000/live/Vince/Vince1/1741.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IN_UTV_MOVIES
+http://www.t12v.com:8000/live/Vince/Vince1/1742.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IN_TV9_GUJARATI
+http://www.t12v.com:8000/live/Vince/Vince1/1761.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IN_TEZ_TV
+http://www.t12v.com:8000/live/Vince/Vince1/1743.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IN_TEN_CRICKET
+http://www.t12v.com:8000/live/Vince/Vince1/1762.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IN_SUDARSHAN_NEWS
+http://www.t12v.com:8000/live/Vince/Vince1/1744.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IN_SANSKAR_TV
+http://www.t12v.com:8000/live/Vince/Vince1/1745.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IN_SAMAY_UP
+http://www.t12v.com:8000/live/Vince/Vince1/1746.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IN_SAMAY_MP
+http://www.t12v.com:8000/live/Vince/Vince1/1747.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IN_SAMAY_BIHAR
+http://www.t12v.com:8000/live/Vince/Vince1/1748.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IN_RISHTEY
+http://www.t12v.com:8000/live/Vince/Vince1/1749.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IN_MUSIC_INDIA
+http://www.t12v.com:8000/live/Vince/Vince1/1763.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IN_MTUNES
+http://www.t12v.com:8000/live/Vince/Vince1/1750.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IN_JUS_24X7
+http://www.t12v.com:8000/live/Vince/Vince1/1751.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IN_DIVYA_TV
+http://www.t12v.com:8000/live/Vince/Vince1/1752.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IN_COLORS_GUJARATI
+http://www.t12v.com:8000/live/Vince/Vince1/1764.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IN_COLORS
+http://www.t12v.com:8000/live/Vince/Vince1/1753.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IN_CARE_WORLD_TV
+http://www.t12v.com:8000/live/Vince/Vince1/1754.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IN_BOLLYWOOD_MUSIC
+http://www.t12v.com:8000/live/Vince/Vince1/1755.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IN_BINDASS_PLAY
+http://www.t12v.com:8000/live/Vince/Vince1/1765.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IN_ARIHANT
+http://www.t12v.com:8000/live/Vince/Vince1/1756.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IN_ABP_NEWS
+http://www.t12v.com:8000/live/Vince/Vince1/1766.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IN_AASTHA_TV
+http://www.t12v.com:8000/live/Vince/Vince1/1757.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IN_AASTHA
+http://www.t12v.com:8000/live/Vince/Vince1/1758.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IN_AAJTAK
+http://www.t12v.com:8000/live/Vince/Vince1/1767.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IN_9X_JALWA
+http://www.t12v.com:8000/live/Vince/Vince1/1759.ts
+#EXTINF:-1 tvg-id="" group-title="outros",IN_ZOOM
+http://www.t12v.com:8000/live/Vince/Vince1/1760.ts
+#EXTINF:-1 tvg-id="" group-title="outros",RRD_NRT_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1843.ts
+#EXTINF:-1 tvg-id="" group-title="outros",RRD_NRT_2
+http://www.t12v.com:8000/live/Vince/Vince1/1844.ts
+#EXTINF:-1 tvg-id="" group-title="outros",RRD_KURD_max
+http://www.t12v.com:8000/live/Vince/Vince1/1841.ts
+#EXTINF:-1 tvg-id="" group-title="outros",RRD_KURDISTAN_TV
+http://www.t12v.com:8000/live/Vince/Vince1/1842.ts
+#EXTINF:-1 tvg-id="" group-title="outros",RRD_KNN
+http://www.t12v.com:8000/live/Vince/Vince1/1845.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AF_TeleCongo
+http://www.t12v.com:8000/live/Vince/Vince1/1797.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AF_Sulavision
+http://www.t12v.com:8000/live/Vince/Vince1/1776.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AF_Sikka_TV
+http://www.t12v.com:8000/live/Vince/Vince1/1777.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AF_RTNC_Congo
+http://www.t12v.com:8000/live/Vince/Vince1/1778.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AF_RTI_2
+http://www.t12v.com:8000/live/Vince/Vince1/1779.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AF_RTI_1_Cote_Divoir
+http://www.t12v.com:8000/live/Vince/Vince1/1780.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AF_RTP_Africa
+http://www.t12v.com:8000/live/Vince/Vince1/1781.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AF_NTV_LC_2_Musique
+http://www.t12v.com:8000/live/Vince/Vince1/1782.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AF_NollyWood_TV
+http://www.t12v.com:8000/live/Vince/Vince1/1798.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AF_NollyWood_Movies
+http://www.t12v.com:8000/live/Vince/Vince1/1783.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AF_NollyWood_FR
+http://www.t12v.com:8000/live/Vince/Vince1/1784.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AF_Maïsha
+http://www.t12v.com:8000/live/Vince/Vince1/1785.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AF_KTN
+http://www.t12v.com:8000/live/Vince/Vince1/1786.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AF_Ghana_Diaspora
+http://www.t12v.com:8000/live/Vince/Vince1/1799.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AF_Gabon_TV
+http://www.t12v.com:8000/live/Vince/Vince1/1787.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AF_Fusion_Plus_TV
+http://www.t12v.com:8000/live/Vince/Vince1/1800.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AF_Fusion_Plus
+http://www.t12v.com:8000/live/Vince/Vince1/1788.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AF_Equinoxe
+http://www.t12v.com:8000/live/Vince/Vince1/1789.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AF_DigiTal_Congo
+http://www.t12v.com:8000/live/Vince/Vince1/1790.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AF_D24_Senegal
+http://www.t12v.com:8000/live/Vince/Vince1/1791.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AF_CRTV_Cameroun
+http://www.t12v.com:8000/live/Vince/Vince1/1792.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AF_Channels_24
+http://www.t12v.com:8000/live/Vince/Vince1/1801.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AF_Ben_TV
+http://www.t12v.com:8000/live/Vince/Vince1/1802.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AF_Ann_7
+http://www.t12v.com:8000/live/Vince/Vince1/1793.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AF_Afrique_Media
+http://www.t12v.com:8000/live/Vince/Vince1/1794.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AF_Africa_Nigeria
+http://www.t12v.com:8000/live/Vince/Vince1/1795.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AF_Africa_24
+http://www.t12v.com:8000/live/Vince/Vince1/1796.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AF_2_STV
+http://www.t12v.com:8000/live/Vince/Vince1/1803.ts
+#EXTINF:-1 tvg-id="" group-title="outros",NL_RTL_4
+http://www.t12v.com:8000/live/Vince/Vince1/505.ts
+#EXTINF:-1 tvg-id="" group-title="outros",NL_RTL_5
+http://www.t12v.com:8000/live/Vince/Vince1/506.ts
+#EXTINF:-1 tvg-id="" group-title="outros",NL_RTL_7
+http://www.t12v.com:8000/live/Vince/Vince1/509.ts
+#EXTINF:-1 tvg-id="" group-title="outros",NL_RTL_8
+http://www.t12v.com:8000/live/Vince/Vince1/593.ts
+#EXTINF:-1 tvg-id="" group-title="outros",NL_HBO_1
+http://www.t12v.com:8000/live/Vince/Vince1/838.ts
+#EXTINF:-1 tvg-id="" group-title="outros",NL_HBO_2
+http://www.t12v.com:8000/live/Vince/Vince1/835.ts
+#EXTINF:-1 tvg-id="" group-title="outros",NL_HBO_3
+http://www.t12v.com:8000/live/Vince/Vince1/834.ts
+#EXTINF:-1 tvg-id="" group-title="outros",NL_NPO_1
+http://www.t12v.com:8000/live/Vince/Vince1/833.ts
+#EXTINF:-1 tvg-id="" group-title="outros",NL_NPO_2
+http://www.t12v.com:8000/live/Vince/Vince1/735.ts
+#EXTINF:-1 tvg-id="" group-title="outros",NL_NPO_3
+http://www.t12v.com:8000/live/Vince/Vince1/744.ts
+#EXTINF:-1 tvg-id="" group-title="outros",NL_NET_5
+http://www.t12v.com:8000/live/Vince/Vince1/767.ts
+#EXTINF:-1 tvg-id="" group-title="outros",NL_SBS_6
+http://www.t12v.com:8000/live/Vince/Vince1/815.ts
+#EXTINF:-1 tvg-id="" group-title="outros",NL_SBS_9
+http://www.t12v.com:8000/live/Vince/Vince1/781.ts
+#EXTINF:-1 tvg-id="" group-title="outros",NL_FILM_1_PREMIER_HD
+http://www.t12v.com:8000/live/Vince/Vince1/821.ts
+#EXTINF:-1 tvg-id="" group-title="outros",NL_FILM_1_SUNDANCE
+http://www.t12v.com:8000/live/Vince/Vince1/818.ts
+#EXTINF:-1 tvg-id="" group-title="outros",NL_FILM_1_ACTION
+http://www.t12v.com:8000/live/Vince/Vince1/825.ts
+#EXTINF:-1 tvg-id="" group-title="outros",NL_FILM_1_COMEDY_KIDS
+http://www.t12v.com:8000/live/Vince/Vince1/822.ts
+#EXTINF:-1 tvg-id="" group-title="outros",NL_FOX_SPORTS_1_HD
+http://www.t12v.com:8000/live/Vince/Vince1/829.ts
+#EXTINF:-1 tvg-id="" group-title="outros",NL_FOX_SPORTS_2
+http://www.t12v.com:8000/live/Vince/Vince1/823.ts
+#EXTINF:-1 tvg-id="" group-title="outros",NL_FOX_SPORTS_3
+http://www.t12v.com:8000/live/Vince/Vince1/832.ts
+#EXTINF:-1 tvg-id="" group-title="outros",NL_SPORT_1_SELECT
+http://www.t12v.com:8000/live/Vince/Vince1/831.ts
+#EXTINF:-1 tvg-id="" group-title="outros",NL_SPORT_1_VOETBAL
+http://www.t12v.com:8000/live/Vince/Vince1/828.ts
+#EXTINF:-1 tvg-id="" group-title="outros",NL_SPORT_1_GOLF
+http://www.t12v.com:8000/live/Vince/Vince1/830.ts
+#EXTINF:-1 tvg-id="" group-title="outros",NL_DISCOVERY
+http://www.t12v.com:8000/live/Vince/Vince1/1310.ts
+#EXTINF:-1 tvg-id="" group-title="outros",NL_BOOMERANG
+http://www.t12v.com:8000/live/Vince/Vince1/1309.ts
+#EXTINF:-1 tvg-id="" group-title="outros",NL_VERONICA_DISNEY_XD
+http://www.t12v.com:8000/live/Vince/Vince1/1291.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_A_SPORT
+http://www.t12v.com:8000/live/Vince/Vince1/824.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_SINEMA_AILE_HD
+http://www.t12v.com:8000/live/Vince/Vince1/20.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_LOCA_2
+http://www.t12v.com:8000/live/Vince/Vince1/71.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_NICKOLEDION
+http://www.t12v.com:8000/live/Vince/Vince1/108.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_KANAL_7
+http://www.t12v.com:8000/live/Vince/Vince1/175.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_CNBC_E
+http://www.t12v.com:8000/live/Vince/Vince1/939.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_FOX_TV
+http://www.t12v.com:8000/live/Vince/Vince1/81.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_HABER_TURK
+http://www.t12v.com:8000/live/Vince/Vince1/937.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_POWER_TURK
+http://www.t12v.com:8000/live/Vince/Vince1/22.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_MOVIEMAX_FESTIVAL
+http://www.t12v.com:8000/live/Vince/Vince1/39.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_MAX_PREMIER
+http://www.t12v.com:8000/live/Vince/Vince1/158.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_BLOOMBERG_HT
+http://www.t12v.com:8000/live/Vince/Vince1/898.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_ATV_HD
+http://www.t12v.com:8000/live/Vince/Vince1/151.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_KANAL_TURK
+http://www.t12v.com:8000/live/Vince/Vince1/129.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_CNN
+http://www.t12v.com:8000/live/Vince/Vince1/30.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_BEYAZ_TV
+http://www.t12v.com:8000/live/Vince/Vince1/111.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_KANAL_D_HD
+http://www.t12v.com:8000/live/Vince/Vince1/128.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_LOCA_3
+http://www.t12v.com:8000/live/Vince/Vince1/944.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_DREAM_TV
+http://www.t12v.com:8000/live/Vince/Vince1/1167.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_E2
+http://www.t12v.com:8000/live/Vince/Vince1/86.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_DREAM_TURK
+http://www.t12v.com:8000/live/Vince/Vince1/1168.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_LIG_TV_1
+http://www.t12v.com:8000/live/Vince/Vince1/896.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_LIG_TV_2
+http://www.t12v.com:8000/live/Vince/Vince1/895.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_LIG_TV_3
+http://www.t12v.com:8000/live/Vince/Vince1/905.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_SALON_1
+http://www.t12v.com:8000/live/Vince/Vince1/894.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_SALON_2
+http://www.t12v.com:8000/live/Vince/Vince1/893.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_SALON_3
+http://www.t12v.com:8000/live/Vince/Vince1/892.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_SKY
+http://www.t12v.com:8000/live/Vince/Vince1/891.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_MOVIE_SMART_2
+http://www.t12v.com:8000/live/Vince/Vince1/889.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_SINEMA_YESILCAM_1
+http://www.t12v.com:8000/live/Vince/Vince1/888.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_NR_1
+http://www.t12v.com:8000/live/Vince/Vince1/722.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_MOVIE_PREMIER_HD
+http://www.t12v.com:8000/live/Vince/Vince1/726.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_MINIKA
+http://www.t12v.com:8000/live/Vince/Vince1/708.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_TV2
+http://www.t12v.com:8000/live/Vince/Vince1/704.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_TRT_1_HABER_HD
+http://www.t12v.com:8000/live/Vince/Vince1/721.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_MOVIESMART_GOLD_HD
+http://www.t12v.com:8000/live/Vince/Vince1/725.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_SINEMA_TV_2_HD
+http://www.t12v.com:8000/live/Vince/Vince1/887.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_MOVIEMAX_SPEED_STARS_HD
+http://www.t12v.com:8000/live/Vince/Vince1/724.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_TRT_COCUK
+http://www.t12v.com:8000/live/Vince/Vince1/705.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_NAT_WILD_HD
+http://www.t12v.com:8000/live/Vince/Vince1/702.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_MOVIESMART_PLATIN_HD
+http://www.t12v.com:8000/live/Vince/Vince1/703.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_YABAN_TV
+http://www.t12v.com:8000/live/Vince/Vince1/798.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_MOVIE_SMART
+http://www.t12v.com:8000/live/Vince/Vince1/769.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_NTV
+http://www.t12v.com:8000/live/Vince/Vince1/215.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_NTV_SPOR
+http://www.t12v.com:8000/live/Vince/Vince1/244.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_STAR_TV
+http://www.t12v.com:8000/live/Vince/Vince1/246.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_SHOW_TV
+http://www.t12v.com:8000/live/Vince/Vince1/250.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_TV_8
+http://www.t12v.com:8000/live/Vince/Vince1/251.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_TRT_BELGESEL
+http://www.t12v.com:8000/live/Vince/Vince1/252.ts
+#EXTINF:-1 tvg-id="" group-title="outros",TR_TRT_HD
+http://www.t12v.com:8000/live/Vince/Vince1/255.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AFR_ZZZ_EQUINOXE
+http://www.t12v.com:8000/live/Vince/Vince1/1768.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AFR_ZZZ_CAMPUS_TV
+http://www.t12v.com:8000/live/Vince/Vince1/1769.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AFR_ZOUZOU_TV
+http://www.t12v.com:8000/live/Vince/Vince1/1770.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AFR_TELECEIBA
+http://www.t12v.com:8000/live/Vince/Vince1/1771.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AFR_SENAGAL_TV
+http://www.t12v.com:8000/live/Vince/Vince1/1772.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AFR_RTG_ROKU
+http://www.t12v.com:8000/live/Vince/Vince1/1773.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AFR_NOLLYWOOD
+http://www.t12v.com:8000/live/Vince/Vince1/1774.ts
+#EXTINF:-1 tvg-id="" group-title="outros",AFR_CONGO_PLANETE_TV_2
+http://www.t12v.com:8000/live/Vince/Vince1/1775.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_RTP1
+http://www.t12v.com:8000/live/Vince/Vince1/1119.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_RTP2
+http://www.t12v.com:8000/live/Vince/Vince1/1120.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_SIC
+http://www.t12v.com:8000/live/Vince/Vince1/1121.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_TVI
+http://www.t12v.com:8000/live/Vince/Vince1/1125.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_SIC_NOTICIAS
+http://www.t12v.com:8000/live/Vince/Vince1/1123.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_TVI_24
+http://www.t12v.com:8000/live/Vince/Vince1/808.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_RTP_INFORMACAO
+http://www.t12v.com:8000/live/Vince/Vince1/1131.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_CM_TV
+http://www.t12v.com:8000/live/Vince/Vince1/498.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_TVI_FICCAO
+http://www.t12v.com:8000/live/Vince/Vince1/1126.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_+_TVI
+http://www.t12v.com:8000/live/Vince/Vince1/1122.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_PORTO_CANAL
+http://www.t12v.com:8000/live/Vince/Vince1/1130.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_RTP_3
+http://www.t12v.com:8000/live/Vince/Vince1/425.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_VH1
+http://www.t12v.com:8000/live/Vince/Vince1/499.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_SPORT_TV_2
+http://www.t12v.com:8000/live/Vince/Vince1/500.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_SPORT_TV_1
+http://www.t12v.com:8000/live/Vince/Vince1/501.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_SPORT_TV_2_HD
+http://www.t12v.com:8000/live/Vince/Vince1/503.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_SPORT_TV_3
+http://www.t12v.com:8000/live/Vince/Vince1/1135.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_SPORT_TV_4
+http://www.t12v.com:8000/live/Vince/Vince1/1136.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_SPORT_TV_5
+http://www.t12v.com:8000/live/Vince/Vince1/1137.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_BTV_1_HD
+http://www.t12v.com:8000/live/Vince/Vince1/807.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_BTV_2_HD
+http://www.t12v.com:8000/live/Vince/Vince1/806.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_SPORTING_TV_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1141.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_CINEMUNDO
+http://www.t12v.com:8000/live/Vince/Vince1/507.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_HOLLYWOOD
+http://www.t12v.com:8000/live/Vince/Vince1/1144.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_TVCINE_1_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1145.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_TVCINE_2_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1146.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_TVCINE_3_HD
+http://www.t12v.com:8000/live/Vince/Vince1/886.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_TVCINE_4_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1147.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_TV_SERIES
+http://www.t12v.com:8000/live/Vince/Vince1/1152.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_FOX_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1149.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_FOX_LIFE_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1150.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_FOX_CRIME_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1151.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_FOX_MOVIES
+http://www.t12v.com:8000/live/Vince/Vince1/1148.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_AXN_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1812.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_AXN_BLACK_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1156.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_AXN_WHITE_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1155.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_VEVO_1_HD
+http://www.t12v.com:8000/live/Vince/Vince1/424.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_VEVO_3_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1175.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_VEVO_2_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1174.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_MTV_DANCE
+http://www.t12v.com:8000/live/Vince/Vince1/805.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_KISS_TV
+http://www.t12v.com:8000/live/Vince/Vince1/809.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_MOTORS_TV
+http://www.t12v.com:8000/live/Vince/Vince1/1193.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_DISNEY_CHANNEL
+http://www.t12v.com:8000/live/Vince/Vince1/1162.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_DISNEY_JUNIOR
+http://www.t12v.com:8000/live/Vince/Vince1/1213.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_CANAL_PANDA
+http://www.t12v.com:8000/live/Vince/Vince1/1165.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_BIGGS
+http://www.t12v.com:8000/live/Vince/Vince1/1166.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_SIC_K
+http://www.t12v.com:8000/live/Vince/Vince1/1164.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_CARTOON_NETWORK
+http://www.t12v.com:8000/live/Vince/Vince1/1161.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_SIC_RADICAL
+http://www.t12v.com:8000/live/Vince/Vince1/1159.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_CANAL_HISTORIA
+http://www.t12v.com:8000/live/Vince/Vince1/1183.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_NATIONAL_GEOGRAPHIC_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1184.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_NAT_GEO_WILD
+http://www.t12v.com:8000/live/Vince/Vince1/1182.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_24_KITCHEN_HD
+http://www.t12v.com:8000/live/Vince/Vince1/1187.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_BBC_WORLD_NEWS
+http://www.t12v.com:8000/live/Vince/Vince1/1376.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_MTV_HITS
+http://www.t12v.com:8000/live/Vince/Vince1/1380.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_TPA
+http://www.t12v.com:8000/live/Vince/Vince1/1383.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_TV_GLOBO_PREMIUN
+http://www.t12v.com:8000/live/Vince/Vince1/1388.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_BENFICATV_2
+http://www.t12v.com:8000/live/Vince/Vince1/1418.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_SIC_CARAS
+http://www.t12v.com:8000/live/Vince/Vince1/1422.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_ECONOMICO_TV
+http://www.t12v.com:8000/live/Vince/Vince1/1424.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_JIM_JAM
+http://www.t12v.com:8000/live/Vince/Vince1/1423.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_ODISSEIA
+http://www.t12v.com:8000/live/Vince/Vince1/1401.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_TRAVEL_CHANNEL
+http://www.t12v.com:8000/live/Vince/Vince1/1402.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_SYFY
+http://www.t12v.com:8000/live/Vince/Vince1/1412.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_A_BOLA_TV
+http://www.t12v.com:8000/live/Vince/Vince1/1404.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_EUROSPORT
+http://www.t12v.com:8000/live/Vince/Vince1/1413.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_CHEALSEA_TV
+http://www.t12v.com:8000/live/Vince/Vince1/1415.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_AMC
+http://www.t12v.com:8000/live/Vince/Vince1/1410.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_cacavizion
+http://www.t12v.com:8000/live/Vince/Vince1/1411.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_FX
+http://www.t12v.com:8000/live/Vince/Vince1/1408.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_BENFICATV_1HD
+http://www.t12v.com:8000/live/Vince/Vince1/1421.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_REAL_MADRID_TV
+http://www.t12v.com:8000/live/Vince/Vince1/1416.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_CNN
+http://www.t12v.com:8000/live/Vince/Vince1/1392.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_TV_RECORD
+http://www.t12v.com:8000/live/Vince/Vince1/1393.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_TV_GLOBO
+http://www.t12v.com:8000/live/Vince/Vince1/1390.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_NICKELODEON
+http://www.t12v.com:8000/live/Vince/Vince1/1394.ts
+#EXTINF:-1 tvg-id="" group-title="outros",PT_BABY_TV
+http://www.t12v.com:8000/live/Vince/Vince1/1395.ts
+#EXTINF:-1 tvg-id="" group-title="outros",USA_ESPN
+http://www.t12v.com:8000/live/Vince/Vince1/1477.ts
+#EXTINF:-1 tvg-id="" group-title="outros",USA_FOX_SPORT_2
+http://www.t12v.com:8000/live/Vince/Vince1/1484.ts
+#EXTINF:-1 tvg-id="" group-title="outros",USA_NBC
+http://www.t12v.com:8000/live/Vince/Vince1/1485.ts
+#EXTINF:-1 tvg-id="" group-title="outros",USA_FOX_SPORT_1
+http://www.t12v.com:8000/live/Vince/Vince1/1483.ts
+#EXTINF:-1 tvg-id="" group-title="outros",USA_NBA_TV
+http://www.t12v.com:8000/live/Vince/Vince1/1486.ts
+#EXTINF:-1 tvg-id="" group-title="outros",USA_GO_1
+http://www.t12v.com:8000/live/Vince/Vince1/1492.ts
+#EXTINF:-1 tvg-id="" group-title="outros",USA_GO_2
+http://www.t12v.com:8000/live/Vince/Vince1/1491.ts
+#EXTINF:-1 tvg-id="" group-title="outros",USA_GO_3
+http://www.t12v.com:8000/live/Vince/Vince1/1490.ts
+#EXTINF:-1 tvg-id="" group-title="outros",USA_GO_4
+http://www.t12v.com:8000/live/Vince/Vince1/1489.ts
+#EXTINF:-1 tvg-id="" group-title="outros",USA_GO_5
+http://www.t12v.com:8000/live/Vince/Vince1/1488.ts
+#EXTINF:-1 tvg-id="" group-title="outros",USA_GO_6
+http://www.t12v.com:8000/live/Vince/Vince1/1487.ts
+#EXTINF:-1 tvg-id="" group-title="outros",USA_TSN_1
+http://www.t12v.com:8000/live/Vince/Vince1/1482.ts
+#EXTINF:-1 tvg-id="" group-title="outros",USA_TSN_2
+http://www.t12v.com:8000/live/Vince/Vince1/1481.ts
+#EXTINF:-1 tvg-id="" group-title="outros",USA_TSN_3
+http://www.t12v.com:8000/live/Vince/Vince1/1480.ts
+#EXTINF:-1 tvg-id="" group-title="outros",USA_TSN_4
+http://www.t12v.com:8000/live/Vince/Vince1/1479.ts
+#EXTINF:-1 tvg-id="" group-title="outros",USA_TSN_5
+http://www.t12v.com:8000/live/Vince/Vince1/1478.ts
