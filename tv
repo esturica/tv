@@ -1743,3 +1743,37 @@ http://www.x-media.tv:58080/live/luanda75/satlover.com/409.ts
 http://www.x-media.tv:58080/live/luanda75/satlover.com/410.ts
 #EXTINF:-1 group-title="PORTUGAL", A&E
 http://www.x-media.tv:58080/live/luanda75/satlover.com/411.ts
+#EXTINF:-1 group-title="FRANÇA", M6
+http://62.210.190.12:80/live/FR172/25409052016/2044.ts
+#EXTINF:-1 group-title="FRANÇA", W9
+http://62.210.190.12:80/live/FR172/25409052016/2046.ts
+#EXTINF:-1 group-title="FRANÇA", FRANCE O*
+http://62.210.190.12:80/live/FR172/25409052016/1800.ts
+#EXTINF:-1 group-title="FRANÇA", FRANCE 2*
+http://62.210.190.12:80/live/FR172/25409052016/1797.ts
+#EXTINF:-1 group-title="FRANÇA", FRANCE 3*
+http://62.210.190.12:80/live/FR172/25409052016/1794.ts
+#EXTINF:-1 group-title="FRANÇA", FRANCE 4*
+http://62.210.190.12:80/live/FR172/25409052016/1798.ts
+#EXTINF:-1 group-title="FRANÇA", FRANCE 5*
+http://62.210.190.12:80/live/FR172/25409052016/1799.ts
+#EXTINF:-1 group-title="FRANÇA", D8*
+http://62.210.190.12:80/live/FR172/25409052016/1795.ts
+#EXTINF:-1 group-title="FRANÇA", D17*
+http://62.210.190.12:80/live/FR172/25409052016/1796.ts
+#EXTINF:-1 group-title="FRANÇA",NRJ12*
+http://62.210.190.12:80/live/FR172/25409052016/1320.ts
+#EXTINF:-1 group-title="FRANÇA",6TER*
+http://62.210.190.12:80/live/FR172/25409052016/1322.ts
+#EXTINF:-1 group-title="FRANÇA",RMC DECOUVERTE*
+http://62.210.190.12:80/live/FR172/25409052016/1327.ts
+#EXTINF:-1 group-title="FRANÇA",ARTE*
+http://62.210.190.12:80/live/FR172/25409052016/1325.ts
+#EXTINF:-1 group-title="FRANÇA",I TELE*
+http://62.210.190.12:80/live/FR172/25409052016/1326.ts
+#EXTINF:-1 group-title="FRANÇA",BFM TV*
+http://62.210.190.12:80/live/FR172/25409052016/1330.ts
+#EXTINF:-1 group-title="FRANÇA",BFM BUSINESS*
+http://62.210.190.12:80/live/FR172/25409052016/1331.ts
+#EXTINF:-1 group-title="FRANÇA", L'EQUIPE 21*
+http://62.210.190.12:80/live/FR172/25409052016/2023.ts
