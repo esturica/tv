@@ -1,1556 +1,891 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" group-title="SPORT",FR BEIN SPORTS 1HD
-http://www.t12v.com:8000/live/Vince/Vince1/1355.ts
-#EXTINF:-1 tvg-id="" group-title="SPORT",FR BEIN SPORTS 2HD
-http://www.t12v.com:8000/live/Vince/Vince1/900.ts
-
-
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_BELGIQUE_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/1180.ts
-#EXTINF:-1 tvg-id="" group-title="BELGICA",BE_RTL_TVI_HD
-http://www.t12v.com:8000/live/Vince/Vince1/10.ts
-#EXTINF:-1 tvg-id="" group-title="BELGICA",BE_LA_UNE_HD
-http://www.t12v.com:8000/live/Vince/Vince1/184.ts
-#EXTINF:-1 tvg-id="" group-title="BELGICA",BE_LA_DEUX
-http://www.t12v.com:8000/live/Vince/Vince1/57.ts
-#EXTINF:-1 tvg-id="" group-title="BELGICA",BE_LA_TROIS
-http://www.t12v.com:8000/live/Vince/Vince1/73.ts
-#EXTINF:-1 tvg-id="" group-title="BELGICA",BE_PLUG_RTL
-http://www.t12v.com:8000/live/Vince/Vince1/119.ts
-#EXTINF:-1 tvg-id="" group-title="BELGICA",BE_CLUB_RTL
-http://www.t12v.com:8000/live/Vince/Vince1/56.ts
-
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_TF1_HD
-http://www.t12v.com:8000/live/Vince/Vince1/207.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_FRANCE_2_HD
-http://www.t12v.com:8000/live/Vince/Vince1/208.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_FRANCE_3_HD
-http://www.t12v.com:8000/live/Vince/Vince1/209.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_FRANCE_4_HD
-http://www.t12v.com:8000/live/Vince/Vince1/820.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_FRANCE_5_HD
-http://www.t12v.com:8000/live/Vince/Vince1/210.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_M6_HD
-http://www.t12v.com:8000/live/Vince/Vince1/216.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_ARTE_HD
-http://www.t12v.com:8000/live/Vince/Vince1/866.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CINE_CLUB_HD
-http://www.t12v.com:8000/live/Vince/Vince1/882.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_TMC_HD
-http://www.t12v.com:8000/live/Vince/Vince1/226.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_RTL_9_HD
-http://www.t12v.com:8000/live/Vince/Vince1/845.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_NT1
-http://www.t12v.com:8000/live/Vince/Vince1/949.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_TEVA_HD
-http://www.t12v.com:8000/live/Vince/Vince1/870.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_D8_HD
-http://www.t12v.com:8000/live/Vince/Vince1/234.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_D_17
-http://www.t12v.com:8000/live/Vince/Vince1/819.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_W9_HD
-http://www.t12v.com:8000/live/Vince/Vince1/224.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_NRJ_12
-http://www.t12v.com:8000/live/Vince/Vince1/1282.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_6ter hd
-http://www.t12v.com:8000/live/Vince/Vince1/1814.ts
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_CSAT_CINEMA_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/1191.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CANAL+_HD
-http://www.t12v.com:8000/live/Vince/Vince1/201.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CANAL+_CINEMA_HD
-http://www.t12v.com:8000/live/Vince/Vince1/202.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CANAL+_FAMILY_HD
-http://www.t12v.com:8000/live/Vince/Vince1/204.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CANAL+_DECALE_HD
-http://www.t12v.com:8000/live/Vince/Vince1/203.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CANAL+_SERIES_HD
-http://www.t12v.com:8000/live/Vince/Vince1/868.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CINE+_FRISSON_HD
-http://www.t12v.com:8000/live/Vince/Vince1/877.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CINE+_PREMIER_HD
-http://www.t12v.com:8000/live/Vince/Vince1/878.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CINE+_EMOTION_HD
-http://www.t12v.com:8000/live/Vince/Vince1/875.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CINE+_FAMIZ_HD
-http://www.t12v.com:8000/live/Vince/Vince1/876.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CINE_CLASSIC_HD
-http://www.t12v.com:8000/live/Vince/Vince1/869.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CINE_POLAR
-http://www.t12v.com:8000/live/Vince/Vince1/950.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CINE_FIL
-http://www.t12v.com:8000/live/Vince/Vince1/874.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_TCM
-http://www.t12v.com:8000/live/Vince/Vince1/1219.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_OCS_CITY
-http://www.t12v.com:8000/live/Vince/Vince1/698.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_OCS_CHOC_HD
-http://www.t12v.com:8000/live/Vince/Vince1/959.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_OCS_GEANTS
-http://www.t12v.com:8000/live/Vince/Vince1/903.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_OCS_MAX
-http://www.t12v.com:8000/live/Vince/Vince1/902.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_ACTION
-http://www.t12v.com:8000/live/Vince/Vince1/863.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CINE_FX
-http://www.t12v.com:8000/live/Vince/Vince1/826.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CINE_ETOILE
-http://www.t12v.com:8000/live/Vince/Vince1/873.ts
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_CSAT_ENTERTAINMENT_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/1190.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_13EME_RUE_HD
-http://www.t12v.com:8000/live/Vince/Vince1/214.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_COMEDIE+
-http://www.t12v.com:8000/live/Vince/Vince1/872.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_PARIS_PREMIERE_HD
-http://www.t12v.com:8000/live/Vince/Vince1/181.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_SYFY_HD
-http://www.t12v.com:8000/live/Vince/Vince1/95.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_AB1
-http://www.t12v.com:8000/live/Vince/Vince1/862.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_E_ENTERTAINMENT
-http://www.t12v.com:8000/live/Vince/Vince1/871.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_SERIE_CLUB_HD
-http://www.t12v.com:8000/live/Vince/Vince1/225.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_JUNE_TV
-http://www.t12v.com:8000/live/Vince/Vince1/231.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_AB_1
-http://www.t12v.com:8000/live/Vince/Vince1/227.ts
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_CSAT_INFOS_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/1189.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_LCI
-http://www.t12v.com:8000/live/Vince/Vince1/1227.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_WEO
-http://www.t12v.com:8000/live/Vince/Vince1/1217.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_I_TELE
-http://www.t12v.com:8000/live/Vince/Vince1/213.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_BFM_TV
-http://www.t12v.com:8000/live/Vince/Vince1/211.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_ESCALES
-http://www.t12v.com:8000/live/Vince/Vince1/861.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_TV5_FR
-http://www.t12v.com:8000/live/Vince/Vince1/168.ts
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_CSAT_JEUNESSE_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/1188.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_TIJI
-http://www.t12v.com:8000/live/Vince/Vince1/235.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_PIWI
-http://www.t12v.com:8000/live/Vince/Vince1/1221.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_GULLI
-http://www.t12v.com:8000/live/Vince/Vince1/212.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_BOING
-http://www.t12v.com:8000/live/Vince/Vince1/897.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_TELETOON
-http://www.t12v.com:8000/live/Vince/Vince1/1178.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_TELETOON+
-http://www.t12v.com:8000/live/Vince/Vince1/827.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CANAL_J_HD
-http://www.t12v.com:8000/live/Vince/Vince1/198.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_BOOMERANG_HD
-http://www.t12v.com:8000/live/Vince/Vince1/867.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_DISNEY_XD
-http://www.t12v.com:8000/live/Vince/Vince1/52.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_DISNEY_CHANNEL
-http://www.t12v.com:8000/live/Vince/Vince1/236.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_DISNEY_JUNIOR
-http://www.t12v.com:8000/live/Vince/Vince1/853.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_DISNEY_CINEMAGIC
-http://www.t12v.com:8000/live/Vince/Vince1/901.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_MANGA
-http://www.t12v.com:8000/live/Vince/Vince1/1223.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_ZOUZOUS
-http://www.t12v.com:8000/live/Vince/Vince1/881.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_MINIMAX
-http://www.t12v.com:8000/live/Vince/Vince1/884.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CARTOON_NETWORK_HD
-http://www.t12v.com:8000/live/Vince/Vince1/218.ts
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_BEIN_SPORT_HD_FRANCE_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/1129.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_BEIN_SPORTS_1_HD
-http://www.t12v.com:8000/live/Vince/Vince1/199.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_BEIN_SPORTS_2_HD
-http://www.t12v.com:8000/live/Vince/Vince1/200.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_BEIN_SPORTS_3_HD
-http://www.t12v.com:8000/live/Vince/Vince1/594.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_BEIN_SPORT_MAX_4
-http://www.t12v.com:8000/live/Vince/Vince1/1269.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_BEIN_SPORT_MAX_5
-http://www.t12v.com:8000/live/Vince/Vince1/1268.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_BEIN_SPORT_MAX_6
-http://www.t12v.com:8000/live/Vince/Vince1/233.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_BEIN_SPORT_MAX_7
-http://www.t12v.com:8000/live/Vince/Vince1/232.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_BEIN_SPORT_MAX_8
-http://www.t12v.com:8000/live/Vince/Vince1/1232.ts
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_CSAT_SPORT_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/1124.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CANAL+_SPORT_HD
-http://www.t12v.com:8000/live/Vince/Vince1/205.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_MA_CHAINE_SPORT
-http://www.t12v.com:8000/live/Vince/Vince1/846.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_KOMBAT_SPORT_HD
-http://www.t12v.com:8000/live/Vince/Vince1/171.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_INFOSPORT+
-http://www.t12v.com:8000/live/Vince/Vince1/879.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_EUROSPORT
-http://www.t12v.com:8000/live/Vince/Vince1/206.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_FOOT+
-http://www.t12v.com:8000/live/Vince/Vince1/883.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_SPORT+
-http://www.t12v.com:8000/live/Vince/Vince1/167.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_SPORTS+
-http://www.t12v.com:8000/live/Vince/Vince1/723.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_GOLF+
-http://www.t12v.com:8000/live/Vince/Vince1/112.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_OL_TV
-http://www.t12v.com:8000/live/Vince/Vince1/844.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_EQUIDIA
-http://www.t12v.com:8000/live/Vince/Vince1/170.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_L_EQUIPE_21
-http://www.t12v.com:8000/live/Vince/Vince1/102.ts
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_CSAT_DECOUVERTES_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/497.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_PLANETE+_HD
-http://www.t12v.com:8000/live/Vince/Vince1/221.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_PLANETE+_CI
-http://www.t12v.com:8000/live/Vince/Vince1/222.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_PLANETE_AE_HD
-http://www.t12v.com:8000/live/Vince/Vince1/230.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_PLANETE+_THALASSA_HD
-http://www.t12v.com:8000/live/Vince/Vince1/67.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_NATIONAL_GEO_HD
-http://www.t12v.com:8000/live/Vince/Vince1/239.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_NATIONAL_GEO_WILD_HD
-http://www.t12v.com:8000/live/Vince/Vince1/217.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_USHUAIA_TV_HD
-http://www.t12v.com:8000/live/Vince/Vince1/223.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_DISCOVERY_SHOWCASE_HD
-http://www.t12v.com:8000/live/Vince/Vince1/80.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_DISCOVERY_SCIENCES
-http://www.t12v.com:8000/live/Vince/Vince1/76.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_VOYAGE_HD
-http://www.t12v.com:8000/live/Vince/Vince1/84.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_ANIMAUX_HD
-http://www.t12v.com:8000/live/Vince/Vince1/865.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CHASSE_ET_PECHE
-http://www.t12v.com:8000/live/Vince/Vince1/860.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_SCIENCES_VIE_TV
-http://www.t12v.com:8000/live/Vince/Vince1/1220.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_RMC_DECOUVERTE
-http://www.t12v.com:8000/live/Vince/Vince1/83.ts
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_CSAT_ORANGE_SWISS_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/1127.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_RTS_LA_UNE_HD
-http://www.t12v.com:8000/live/Vince/Vince1/124.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_RTS_1_HD
-http://www.t12v.com:8000/live/Vince/Vince1/145.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_RTS_LA_DEUX_HD
-http://www.t12v.com:8000/live/Vince/Vince1/121.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_RTS_2_HD
-http://www.t12v.com:8000/live/Vince/Vince1/138.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_FRANCE_O
-http://www.t12v.com:8000/live/Vince/Vince1/228.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_TV5_MONDE
-http://www.t12v.com:8000/live/Vince/Vince1/1218.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_TOUTE_L_HISTOIRE
-http://www.t12v.com:8000/live/Vince/Vince1/880.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_ENCYCLO
-http://www.t12v.com:8000/live/Vince/Vince1/864.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_BFM_BUSNESS
-http://www.t12v.com:8000/live/Vince/Vince1/219.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CHERIE_25
-http://www.t12v.com:8000/live/Vince/Vince1/169.ts
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_CSAT_MUSIQUE_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/1128.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_NRJ
-http://www.t12v.com:8000/live/Vince/Vince1/220.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_VH1
-http://www.t12v.com:8000/live/Vince/Vince1/109.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_MTV_HITS
-http://www.t12v.com:8000/live/Vince/Vince1/103.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_M6_MUSIC
-http://www.t12v.com:8000/live/Vince/Vince1/160.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_MCM_POP
-http://www.t12v.com:8000/live/Vince/Vince1/161.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_MTV_DANCE_FR
-http://www.t12v.com:8000/live/Vince/Vince1/85.ts
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_CSAT_PPV_VOD_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/1132.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CANAL_PLAY_3D
-http://www.t12v.com:8000/live/Vince/Vince1/1267.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CANAL_PLAY_1
-http://www.t12v.com:8000/live/Vince/Vince1/1266.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CANAL_PLAY_2
-http://www.t12v.com:8000/live/Vince/Vince1/1265.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CANAL_PLAY_3
-http://www.t12v.com:8000/live/Vince/Vince1/1264.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CANAL_PLAY_4
-http://www.t12v.com:8000/live/Vince/Vince1/1263.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CANAL_PLAY_5
-http://www.t12v.com:8000/live/Vince/Vince1/1262.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CANAL_PLAY_6
-http://www.t12v.com:8000/live/Vince/Vince1/1261.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CANAL_PLAY_7
-http://www.t12v.com:8000/live/Vince/Vince1/1260.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CANAL_PLAY_8
-http://www.t12v.com:8000/live/Vince/Vince1/1259.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CANAL_PLAY_9
-http://www.t12v.com:8000/live/Vince/Vince1/1258.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CANAL_PLAY_10
-http://www.t12v.com:8000/live/Vince/Vince1/1257.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CANAL_PLAY_11
-http://www.t12v.com:8000/live/Vince/Vince1/1817.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CANAL_PLAY_12
-http://www.t12v.com:8000/live/Vince/Vince1/1818.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CANAL_PLAY_13
-http://www.t12v.com:8000/live/Vince/Vince1/1819.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CANAL_PLAY_14
-http://www.t12v.com:8000/live/Vince/Vince1/1820.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CANAL_PLAY_15
-http://www.t12v.com:8000/live/Vince/Vince1/1821.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CANAL_PLAY_16
-http://www.t12v.com:8000/live/Vince/Vince1/1822.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CANAL_PLAY_17
-http://www.t12v.com:8000/live/Vince/Vince1/1823.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CANAL_PLAY_18
-http://www.t12v.com:8000/live/Vince/Vince1/1824.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CANAL_PLAY_19
-http://www.t12v.com:8000/live/Vince/Vince1/1825.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_CANAL_PLAY_20
-http://www.t12v.com:8000/live/Vince/Vince1/1826.ts
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_CSAT_ADULTES_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/1133.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_A_LA_CARTE_X_ADULTES_1
-http://www.t12v.com:8000/live/Vince/Vince1/1271.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_XXL
-http://www.t12v.com:8000/live/Vince/Vince1/1270.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_DORCEL
-http://www.t12v.com:8000/live/Vince/Vince1/1256.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_HUSTLER_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1196.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_BLUE_HUSTLER
-http://www.t12v.com:8000/live/Vince/Vince1/1195.ts
-#EXTINF:-1 tvg-id="" group-title="FRANÇA",FR_PENTHOUSE_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1194.ts
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_SKY_ITALIA_TIVUSAT_M7_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/1047.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_RAI_1_HD
-http://www.t12v.com:8000/live/Vince/Vince1/274.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_RAI_2_HD
-http://www.t12v.com:8000/live/Vince/Vince1/275.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_RAI_3_HD
-http://www.t12v.com:8000/live/Vince/Vince1/276.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_RAI_5
-http://www.t12v.com:8000/live/Vince/Vince1/1292.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PREMIUM_CINEMA_2
-http://www.t12v.com:8000/live/Vince/Vince1/1293.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_RSI_LA_1_HD
-http://www.t12v.com:8000/live/Vince/Vince1/920.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_RSI_LA_2_HD
-http://www.t12v.com:8000/live/Vince/Vince1/921.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_ITALIA_1_HD
-http://www.t12v.com:8000/live/Vince/Vince1/241.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_CANALE_5
-http://www.t12v.com:8000/live/Vince/Vince1/242.ts
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_SKY_ITALIA_SPORT_HD_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/1338.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_SKY_SPORT_24_HD
-http://www.t12v.com:8000/live/Vince/Vince1/278.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_SKY_SPORT_1_HD
-http://www.t12v.com:8000/live/Vince/Vince1/298.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_SKY_SPORT_2_HD
-http://www.t12v.com:8000/live/Vince/Vince1/299.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_SKY_SPORT_3_HD
-http://www.t12v.com:8000/live/Vince/Vince1/264.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_SKY_SPORTS_F1_HD
-http://www.t12v.com:8000/live/Vince/Vince1/294.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_FOX_SPORTS_1_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1312.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_SKY_FOX_SPORTS_2_HD
-http://www.t12v.com:8000/live/Vince/Vince1/295.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_SUPER_TENNIS_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1313.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_SKY_SPORT_MOTO_GP_HD
-http://www.t12v.com:8000/live/Vince/Vince1/284.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_RAI_SPORT_1
-http://www.t12v.com:8000/live/Vince/Vince1/277.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_EUROSPORT_HD
-http://www.t12v.com:8000/live/Vince/Vince1/300.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_EUROSPORT_2
-http://www.t12v.com:8000/live/Vince/Vince1/1311.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_Sky_sports_news_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1807.ts
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_SKY_ITALIA_M7_PREMIUM_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/1034.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PREMIUM_CINEMA_HD
-http://www.t12v.com:8000/live/Vince/Vince1/247.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PREMIUM_COMEDY_HD
-http://www.t12v.com:8000/live/Vince/Vince1/248.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PREMIUM_ACTION_HD
-http://www.t12v.com:8000/live/Vince/Vince1/243.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PREMIUM_CRIME_HD
-http://www.t12v.com:8000/live/Vince/Vince1/249.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PREMIUM_CINEMA_EMOTION_HD
-http://www.t12v.com:8000/live/Vince/Vince1/253.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PREMIUM_CINEMA_ENERGY_HD
-http://www.t12v.com:8000/live/Vince/Vince1/254.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PREMIUM_JOY
-http://www.t12v.com:8000/live/Vince/Vince1/256.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PREMIUM_MYA
-http://www.t12v.com:8000/live/Vince/Vince1/257.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_Premium_Fox_Sports
-http://www.t12v.com:8000/live/Vince/Vince1/1804.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_Premium_Disney_Junior
-http://www.t12v.com:8000/live/Vince/Vince1/1805.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_Premium_Crime_ 24
-http://www.t12v.com:8000/live/Vince/Vince1/1806.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_Premium_Calcio_6
-http://www.t12v.com:8000/live/Vince/Vince1/1809.ts
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_SKY_ITALIA_CINEMA_HD_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/1036.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_SKY_CINEMA_1_HD
-http://www.t12v.com:8000/live/Vince/Vince1/286.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_SKY_CINEMA+_24_HD
-http://www.t12v.com:8000/live/Vince/Vince1/285.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_SKY_CINEMA_HITS_HD
-http://www.t12v.com:8000/live/Vince/Vince1/291.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_SKY_CINEMA_PASSION_HD
-http://www.t12v.com:8000/live/Vince/Vince1/293.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_SKY_CINEMA_FAMILY_HD
-http://www.t12v.com:8000/live/Vince/Vince1/290.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_SKY_CINEMA_COMEDY_HD
-http://www.t12v.com:8000/live/Vince/Vince1/289.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_SKY_CINEMA_MAX_HD
-http://www.t12v.com:8000/live/Vince/Vince1/292.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_SKY_CINEMA_CULT_HD
-http://www.t12v.com:8000/live/Vince/Vince1/288.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_SKY_CINEMA_CLASSICS_HD
-http://www.t12v.com:8000/live/Vince/Vince1/287.ts
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_SKY_ITALIA_CALCIO_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/1334.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_SKY_CALCIO_1_HD
-http://www.t12v.com:8000/live/Vince/Vince1/956.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_Sky_Calcio_2_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1811.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_SKY_CALCIO_24_HD
-http://www.t12v.com:8000/live/Vince/Vince1/955.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_SKY_CALCIO_3_HD
-http://www.t12v.com:8000/live/Vince/Vince1/954.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_Premium_Calcio_3
-http://www.t12v.com:8000/live/Vince/Vince1/932.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_SUPER_CALCIO_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1314.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PREMIUM_SPORT_HD
-http://www.t12v.com:8000/live/Vince/Vince1/933.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PREMIUM_CALCIO_1_HD
-http://www.t12v.com:8000/live/Vince/Vince1/301.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PREMIUM_CALCIO_2_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1328.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_INTER_CHANNEL
-http://www.t12v.com:8000/live/Vince/Vince1/1329.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PREMIUM_CALCIO_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1332.ts
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_SKY_ITALIA_ADULTS_CHANNELS_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/1333.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PRIMAFILA_1_HD
-http://www.t12v.com:8000/live/Vince/Vince1/259.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PRIMAFILA_2_HD
-http://www.t12v.com:8000/live/Vince/Vince1/266.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PRIMAFILA_3_HD
-http://www.t12v.com:8000/live/Vince/Vince1/267.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PRIMAFILA_4_HD
-http://www.t12v.com:8000/live/Vince/Vince1/268.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PRIMAFILA_5_HD
-http://www.t12v.com:8000/live/Vince/Vince1/269.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PRIMAFILA_6_HD
-http://www.t12v.com:8000/live/Vince/Vince1/270.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PRIMAFILA_7_HD
-http://www.t12v.com:8000/live/Vince/Vince1/271.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PRIMAFILA_8_HD
-http://www.t12v.com:8000/live/Vince/Vince1/272.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PRIMAFILA_9_HD
-http://www.t12v.com:8000/live/Vince/Vince1/273.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PRIMAFILA_10_HD
-http://www.t12v.com:8000/live/Vince/Vince1/260.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PRIMAFILA_11
-http://www.t12v.com:8000/live/Vince/Vince1/1010.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PRIMAFILA_12
-http://www.t12v.com:8000/live/Vince/Vince1/1011.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PRIMAFILA_13_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1012.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PRIMAFILA_14
-http://www.t12v.com:8000/live/Vince/Vince1/1013.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PRIMAFILA_15
-http://www.t12v.com:8000/live/Vince/Vince1/1014.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PRIMAFILA_16
-http://www.t12v.com:8000/live/Vince/Vince1/1015.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PRIMAFILA_17
-http://www.t12v.com:8000/live/Vince/Vince1/1016.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PRIMAFILA_18
-http://www.t12v.com:8000/live/Vince/Vince1/1017.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PRIMAFILA_19
-http://www.t12v.com:8000/live/Vince/Vince1/1018.ts
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_SKY_ITALIA_BAMBINI_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/1340.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_NICKELODEON
-http://www.t12v.com:8000/live/Vince/Vince1/1810.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_Disney_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1808.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_Premium_CARTOON_NETWORK
-http://www.t12v.com:8000/live/Vince/Vince1/1336.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_DISNEY_XD
-http://www.t12v.com:8000/live/Vince/Vince1/960.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_SKY_DISCOVERY_WORLD
-http://www.t12v.com:8000/live/Vince/Vince1/958.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PREMIUM_DISNEY_CHANNEL
-http://www.t12v.com:8000/live/Vince/Vince1/1337.ts
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_SKY_ITALIA_ENTERTAINMENT_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/1339.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PESCA_E_CACCIA
-http://www.t12v.com:8000/live/Vince/Vince1/1326.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_NATIONALGEO_WILD_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1317.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_NATIONALGEO_PEOPLE_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1316.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_SKY_HISTORY_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1322.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_JUVENTUS
-http://www.t12v.com:8000/live/Vince/Vince1/1308.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_NAT_GEOGRAPHIC_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1321.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_SKY_NATIONALGEO_HD
-http://www.t12v.com:8000/live/Vince/Vince1/297.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_DISCOVERY_HD
-http://www.t12v.com:8000/live/Vince/Vince1/957.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_STUDIO_UNIVERSAL
-http://www.t12v.com:8000/live/Vince/Vince1/1327.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_SKY_ARTE_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1323.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PREMIUM_CINEMA_24
-http://www.t12v.com:8000/live/Vince/Vince1/1343.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_PREMIUM_DISCOVERY_WORLD_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1344.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_Premium_DISNEY_CHANNEL+_1
-http://www.t12v.com:8000/live/Vince/Vince1/1342.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_FOX_ANIMATION_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1301.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_IT_Premium_Stories
-http://www.t12v.com:8000/live/Vince/Vince1/1319.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_MILAN_CHANNEL
-http://www.t12v.com:8000/live/Vince/Vince1/1298.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_CRIME_INVESTIGATION_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1297.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_DMAX_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1318.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_FOX_SPORTS_2_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1302.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_SKY_TG_24_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1002.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_SKY_UNO_HD
-http://www.t12v.com:8000/live/Vince/Vince1/303.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_SKY_ATLANTIC_HD
-http://www.t12v.com:8000/live/Vince/Vince1/280.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_SKY_CIELO
-http://www.t12v.com:8000/live/Vince/Vince1/929.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_FOX_HD
-http://www.t12v.com:8000/live/Vince/Vince1/263.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_FOX_LIFE_HD
-http://www.t12v.com:8000/live/Vince/Vince1/935.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_SKY_FOX_CRIME_HD
-http://www.t12v.com:8000/live/Vince/Vince1/296.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_TG_COM_24
-http://www.t12v.com:8000/live/Vince/Vince1/240.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_SKY_AXN_HD
-http://www.t12v.com:8000/live/Vince/Vince1/261.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_FOX_CRIME_HD
-http://www.t12v.com:8000/live/Vince/Vince1/940.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_FOX_CRIME
-http://www.t12v.com:8000/live/Vince/Vince1/941.ts
-#EXTINF:-1 tvg-id="" group-title="ITALIA",IT_SKY_FOX_COMEDY_HD
-http://www.t12v.com:8000/live/Vince/Vince1/283.ts
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_ALMANIA_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/1348.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_13TH_STREET
-http://www.t12v.com:8000/live/Vince/Vince1/991.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_A_E
-http://www.t12v.com:8000/live/Vince/Vince1/1005.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_3SAT
-http://www.t12v.com:8000/live/Vince/Vince1/1006.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_ARD
-http://www.t12v.com:8000/live/Vince/Vince1/1004.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_ORF2
-http://www.t12v.com:8000/live/Vince/Vince1/748.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_ORF_EINS
-http://www.t12v.com:8000/live/Vince/Vince1/747.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_ARTE
-http://www.t12v.com:8000/live/Vince/Vince1/1026.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_WDR
-http://www.t12v.com:8000/live/Vince/Vince1/934.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SWR
-http://www.t12v.com:8000/live/Vince/Vince1/1243.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_VOX
-http://www.t12v.com:8000/live/Vince/Vince1/1033.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_PRO_7
-http://www.t12v.com:8000/live/Vince/Vince1/750.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_PRO_7_MAX
-http://www.t12v.com:8000/live/Vince/Vince1/751.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SRF_1
-http://www.t12v.com:8000/live/Vince/Vince1/1273.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SRF_2
-http://www.t12v.com:8000/live/Vince/Vince1/1272.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SAT_1
-http://www.t12v.com:8000/live/Vince/Vince1/753.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SAT_1_GOLD
-http://www.t12v.com:8000/live/Vince/Vince1/754.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SRF_INFO
-http://www.t12v.com:8000/live/Vince/Vince1/762.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_ZDF_INFO
-http://www.t12v.com:8000/live/Vince/Vince1/47.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_ZDF_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1001.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_ZDF_KULTUR
-http://www.t12v.com:8000/live/Vince/Vince1/59.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_ROMANCE_TV
-http://www.t12v.com:8000/live/Vince/Vince1/1009.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SKY_SPORT_NEWS_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1020.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_EINS_FESTIVAL
-http://www.t12v.com:8000/live/Vince/Vince1/990.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_DELUXE_MUSIC
-http://www.t12v.com:8000/live/Vince/Vince1/1019.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SPIEGEL_GESCHICHTE
-http://www.t12v.com:8000/live/Vince/Vince1/1027.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SERVUS_TV
-http://www.t12v.com:8000/live/Vince/Vince1/755.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_RBB_BERLIN
-http://www.t12v.com:8000/live/Vince/Vince1/752.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_PHOENIX
-http://www.t12v.com:8000/live/Vince/Vince1/749.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_NDR
-http://www.t12v.com:8000/live/Vince/Vince1/743.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_N24
-http://www.t12v.com:8000/live/Vince/Vince1/740.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_MDR
-http://www.t12v.com:8000/live/Vince/Vince1/737.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_KIKA
-http://www.t12v.com:8000/live/Vince/Vince1/736.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_HALLE_TV
-http://www.t12v.com:8000/live/Vince/Vince1/731.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_HAINMATKANAL
-http://www.t12v.com:8000/live/Vince/Vince1/730.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_KABEL_EINS
-http://www.t12v.com:8000/live/Vince/Vince1/734.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_HR_FERNSEHEN
-http://www.t12v.com:8000/live/Vince/Vince1/733.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_TAGESSCHAU_24
-http://www.t12v.com:8000/live/Vince/Vince1/1228.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_TELE_ZURI
-http://www.t12v.com:8000/live/Vince/Vince1/302.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_EURONEWS
-http://www.t12v.com:8000/live/Vince/Vince1/1003.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_EINS_PLUS
-http://www.t12v.com:8000/live/Vince/Vince1/996.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_VIVA_COMEDY_CENTRAL
-http://www.t12v.com:8000/live/Vince/Vince1/938.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SIXX
-http://www.t12v.com:8000/live/Vince/Vince1/756.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_MGM_HD
-http://www.t12v.com:8000/live/Vince/Vince1/739.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_DMAX
-http://www.t12v.com:8000/live/Vince/Vince1/974.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_AXN
-http://www.t12v.com:8000/live/Vince/Vince1/993.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SYFY
-http://www.t12v.com:8000/live/Vince/Vince1/1029.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_FOX
-http://www.t12v.com:8000/live/Vince/Vince1/1000.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_FOX_LIFE
-http://www.t12v.com:8000/live/Vince/Vince1/729.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_TNT_FILM
-http://www.t12v.com:8000/live/Vince/Vince1/1030.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_TNT_SERIE
-http://www.t12v.com:8000/live/Vince/Vince1/1031.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_RTL_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1032.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_RTL_2
-http://www.t12v.com:8000/live/Vince/Vince1/989.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_RTL_NITRO
-http://www.t12v.com:8000/live/Vince/Vince1/1021.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_RTL_PASSION
-http://www.t12v.com:8000/live/Vince/Vince1/1008.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SUPER_RTL
-http://www.t12v.com:8000/live/Vince/Vince1/1028.ts
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_SKY_CINEMA_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/1349.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SKY_3D
-http://www.t12v.com:8000/live/Vince/Vince1/757.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SKY_CINEMA_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1280.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SKY_CINEMA
-http://www.t12v.com:8000/live/Vince/Vince1/975.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SKY_CINEMA_HD_1
-http://www.t12v.com:8000/live/Vince/Vince1/976.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SKY_EMOTION_HD
-http://www.t12v.com:8000/live/Vince/Vince1/979.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SKY_COMEDY_HD
-http://www.t12v.com:8000/live/Vince/Vince1/978.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SKY_ACTION_HD
-http://www.t12v.com:8000/live/Vince/Vince1/973.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SKY_CINEMA_24_HD
-http://www.t12v.com:8000/live/Vince/Vince1/977.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SKY_ATLANTIC_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1022.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SKY_HITS
-http://www.t12v.com:8000/live/Vince/Vince1/760.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SKY_FAMALY_DRAMA
-http://www.t12v.com:8000/live/Vince/Vince1/759.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SKY_KRIMI
-http://www.t12v.com:8000/live/Vince/Vince1/1024.ts
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_SKY_SPORT_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/1350.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SKY_BUNDESLIGA_1
-http://www.t12v.com:8000/live/Vince/Vince1/1023.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SKY_CHAMPIONS
-http://www.t12v.com:8000/live/Vince/Vince1/758.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_EUROSPORT
-http://www.t12v.com:8000/live/Vince/Vince1/728.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SPORT1
-http://www.t12v.com:8000/live/Vince/Vince1/761.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SPORTTIME_TV_1_HD
-http://www.t12v.com:8000/live/Vince/Vince1/982.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SPORTTIME_TV_2_HD
-http://www.t12v.com:8000/live/Vince/Vince1/983.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SPORTTIME_TV_3_HD
-http://www.t12v.com:8000/live/Vince/Vince1/984.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SPORTTIME_TV_4_HD
-http://www.t12v.com:8000/live/Vince/Vince1/985.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SPORTTIME_TV_5_HD
-http://www.t12v.com:8000/live/Vince/Vince1/986.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SPORTTIME_TV_6_HD
-http://www.t12v.com:8000/live/Vince/Vince1/987.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SPORTTIME_TV_7_HD
-http://www.t12v.com:8000/live/Vince/Vince1/988.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SKY_SPORT_1_HD
-http://www.t12v.com:8000/live/Vince/Vince1/981.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SKY_SPORT_2_HD
-http://www.t12v.com:8000/live/Vince/Vince1/980.ts
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_CULTURE_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/1351.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_NAT_GEO_WILD
-http://www.t12v.com:8000/live/Vince/Vince1/992.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_DISCOVERY_CHANNEL
-http://www.t12v.com:8000/live/Vince/Vince1/997.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_NATIONAL_GEOGRAPHIC_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1007.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_HISTORY_CHANNEL
-http://www.t12v.com:8000/live/Vince/Vince1/732.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_CARTOON_NETWORK
-http://www.t12v.com:8000/live/Vince/Vince1/995.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_DISNEY_JUNIOR
-http://www.t12v.com:8000/live/Vince/Vince1/998.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_DISNEY_CHANNEL
-http://www.t12v.com:8000/live/Vince/Vince1/999.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_ORF_1
-http://www.t12v.com:8000/live/Vince/Vince1/746.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_BOOMERANG
-http://www.t12v.com:8000/live/Vince/Vince1/994.ts
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_SKY_SELECT_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/1352.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SKY_SELECT_HD
-http://www.t12v.com:8000/live/Vince/Vince1/972.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SKY_SELECT_1_HD
-http://www.t12v.com:8000/live/Vince/Vince1/962.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SKY_SELECT_2_HD
-http://www.t12v.com:8000/live/Vince/Vince1/963.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SKY_SELECT_3_HD
-http://www.t12v.com:8000/live/Vince/Vince1/964.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SKY_SELECT_4_HD
-http://www.t12v.com:8000/live/Vince/Vince1/965.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SKY_SELECT_5_HD
-http://www.t12v.com:8000/live/Vince/Vince1/966.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SKY_SELECT_6_HD
-http://www.t12v.com:8000/live/Vince/Vince1/967.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SKY_SELECT_7_HD
-http://www.t12v.com:8000/live/Vince/Vince1/968.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SKY_SELECT_8_HD
-http://www.t12v.com:8000/live/Vince/Vince1/969.ts
-#EXTINF:-1 tvg-id="" group-title="AELMANHA",DE_SKY_SELECT_9_HD
-http://www.t12v.com:8000/live/Vince/Vince1/970.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_RTE_2_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1709.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_RTE_1_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1710.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_MOTORS_TV
-http://www.t12v.com:8000/live/Vince/Vince1/1711.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_ITV_4
-http://www.t12v.com:8000/live/Vince/Vince1/1718.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_ITV_3
-http://www.t12v.com:8000/live/Vince/Vince1/1719.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_GOLD
-http://www.t12v.com:8000/live/Vince/Vince1/1712.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_GOOD_FOOD
-http://www.t12v.com:8000/live/Vince/Vince1/1713.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_FILM_4
-http://www.t12v.com:8000/live/Vince/Vince1/1714.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_CBS_REALITY
-http://www.t12v.com:8000/live/Vince/Vince1/1715.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_CBS_ACTION
-http://www.t12v.com:8000/live/Vince/Vince1/1716.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_BOXNATION_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1717.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_SKY_SPORT_F1
-http://www.t12v.com:8000/live/Vince/Vince1/1039.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_MTV_MUSIC
-http://www.t12v.com:8000/live/Vince/Vince1/1084.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_CTH_STADIUM_5
-http://www.t12v.com:8000/live/Vince/Vince1/1085.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_CTH_STADIUM_6
-http://www.t12v.com:8000/live/Vince/Vince1/1100.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_CTH_STADIUM_2_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1086.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_NICK_JUNIOR
-http://www.t12v.com:8000/live/Vince/Vince1/1101.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_CTH_STADIUM_1
-http://www.t12v.com:8000/live/Vince/Vince1/1087.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_DISNEY_JUNIOR
-http://www.t12v.com:8000/live/Vince/Vince1/1088.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_NATIONAL_GEOGRAPHY_WILD
-http://www.t12v.com:8000/live/Vince/Vince1/1102.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_DISCOVERY_SCIENCE
-http://www.t12v.com:8000/live/Vince/Vince1/1103.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_DISCOVERY_ID
-http://www.t12v.com:8000/live/Vince/Vince1/1089.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_SKY_SPORT_1_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1104.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_SKY_MOVIES_SCI_FI
-http://www.t12v.com:8000/live/Vince/Vince1/1105.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_FIVE
-http://www.t12v.com:8000/live/Vince/Vince1/1106.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_MOVIES_4_MEN
-http://www.t12v.com:8000/live/Vince/Vince1/1107.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_DISNEY_XD
-http://www.t12v.com:8000/live/Vince/Vince1/1090.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_CBS_DRAMA
-http://www.t12v.com:8000/live/Vince/Vince1/1108.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_DISNEY_CHANNEL
-http://www.t12v.com:8000/live/Vince/Vince1/1111.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_COLORS
-http://www.t12v.com:8000/live/Vince/Vince1/1091.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_EUROSPORT_1_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1050.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_CARTOON_NETWORK
-http://www.t12v.com:8000/live/Vince/Vince1/1092.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_SKY_SPORTS_NEWS_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1112.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_EUROSPORT_2_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1113.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_SKY_SPORTS_5_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1040.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_SKY_SPORTS_4_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1041.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_SKY_SPORTS_3_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1042.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_SKY_SPORTS_2_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1043.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_SKY_SPORTS_1_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1044.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_SKY_MOVIES_SELECT_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1114.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_SKY_ONE
-http://www.t12v.com:8000/live/Vince/Vince1/1095.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_SKY_MOVIES_PREMIERE_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1054.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_SKY_MOVIES_MODERN_GREAT
-http://www.t12v.com:8000/live/Vince/Vince1/1045.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_SKY_MOVIES_COMEDY_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1038.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_SKY_MOVIES_ACTION_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1035.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_CHELSEA_TV
-http://www.t12v.com:8000/live/Vince/Vince1/1074.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_SKY_MOVIES_ATLANTIC_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1115.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_SKY_DRAMA_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1055.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_SKY_MOVIES_DISNEY
-http://www.t12v.com:8000/live/Vince/Vince1/1056.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_SKY_ART_1
-http://www.t12v.com:8000/live/Vince/Vince1/1075.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_SKY_SPORT_5_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1093.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_SKY_SPORT_4_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1094.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_MOVIES_FAMILY
-http://www.t12v.com:8000/live/Vince/Vince1/1064.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_SKY_SPORT_3_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1096.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_SKY_SPORT_2_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1097.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_ITV_2_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1098.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_ITV_1_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1099.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_HISTORY
-http://www.t12v.com:8000/live/Vince/Vince1/1071.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_DISCOVERY_TURBO
-http://www.t12v.com:8000/live/Vince/Vince1/1058.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_MTV_HITS
-http://www.t12v.com:8000/live/Vince/Vince1/1083.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_DISCOVERY_INVESTIGATION
-http://www.t12v.com:8000/live/Vince/Vince1/1037.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_DISCOVERY_HOME_HEALTH
-http://www.t12v.com:8000/live/Vince/Vince1/1063.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_DISCOVERY_HISTORY
-http://www.t12v.com:8000/live/Vince/Vince1/1076.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_DISCOVERY
-http://www.t12v.com:8000/live/Vince/Vince1/1046.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_MTV_ROCKS
-http://www.t12v.com:8000/live/Vince/Vince1/1077.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_CTH_STADIUM_4_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1070.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_CTH_STADIUM_3_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1069.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_COMEDY_CENTRAL
-http://www.t12v.com:8000/live/Vince/Vince1/1065.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_SKY_MOVIES_SHOWCASE
-http://www.t12v.com:8000/live/Vince/Vince1/1062.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_SKY_MOVIES_THRILLER
-http://www.t12v.com:8000/live/Vince/Vince1/1061.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_BT_SPORT_2
-http://www.t12v.com:8000/live/Vince/Vince1/1117.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_BT_SPORT_1
-http://www.t12v.com:8000/live/Vince/Vince1/1118.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_ESPN_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1059.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_BBC_4
-http://www.t12v.com:8000/live/Vince/Vince1/1078.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_BBC_3
-http://www.t12v.com:8000/live/Vince/Vince1/1079.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_BBC_2
-http://www.t12v.com:8000/live/Vince/Vince1/1080.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_BBC_1
-http://www.t12v.com:8000/live/Vince/Vince1/1081.ts
-#EXTINF:-1 tvg-id="" group-title="UK",UK_ANIMAL_PLANET
-http://www.t12v.com:8000/live/Vince/Vince1/1082.ts
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_ESPANA_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/1425.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_TVE_1
-http://www.t12v.com:8000/live/Vince/Vince1/842.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_TPA
-http://www.t12v.com:8000/live/Vince/Vince1/885.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_ANTENA_3_HD
-http://www.t12v.com:8000/live/Vince/Vince1/502.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_EURONEWS
-http://www.t12v.com:8000/live/Vince/Vince1/855.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_TELECINCO
-http://www.t12v.com:8000/live/Vince/Vince1/508.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_LA_SEXTATA
-http://www.t12v.com:8000/live/Vince/Vince1/790.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_CLAN_TVE
-http://www.t12v.com:8000/live/Vince/Vince1/849.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_NOVA_SPAIN
-http://www.t12v.com:8000/live/Vince/Vince1/788.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_NOTICIAS_INTERNACIONAIS
-http://www.t12v.com:8000/live/Vince/Vince1/797.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_24_HORAS
-http://www.t12v.com:8000/live/Vince/Vince1/839.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_TVE_24H_HD
-http://www.t12v.com:8000/live/Vince/Vince1/840.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_ALFA_TV
-http://www.t12v.com:8000/live/Vince/Vince1/784.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_SPORT_TV_AMERICAS
-http://www.t12v.com:8000/live/Vince/Vince1/843.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_CANAL_GOLF
-http://www.t12v.com:8000/live/Vince/Vince1/738.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_DISCOVERY
-http://www.t12v.com:8000/live/Vince/Vince1/742.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_FDF_SPAIN
-http://www.t12v.com:8000/live/Vince/Vince1/801.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_BALEARS_TV
-http://www.t12v.com:8000/live/Vince/Vince1/741.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_MIJAS_TV_MALAGA
-http://www.t12v.com:8000/live/Vince/Vince1/764.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_40_TV
-http://www.t12v.com:8000/live/Vince/Vince1/763.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_MOVIESTAR_MOTOGP
-http://www.t12v.com:8000/live/Vince/Vince1/765.ts
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_CINE_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/1391.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_CANAL+_HD
-http://www.t12v.com:8000/live/Vince/Vince1/766.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_CANAL+_1
-http://www.t12v.com:8000/live/Vince/Vince1/787.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_CANAL_2
-http://www.t12v.com:8000/live/Vince/Vince1/745.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_CANAL+_Estrenos HD
-http://www.t12v.com:8000/live/Vince/Vince1/776.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_CANAL+_DCINE
-http://www.t12v.com:8000/live/Vince/Vince1/785.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_CANAL+_COMEDIA
-http://www.t12v.com:8000/live/Vince/Vince1/792.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_CANAL_ACTION
-http://www.t12v.com:8000/live/Vince/Vince1/791.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_CANAL_COCINA
-http://www.t12v.com:8000/live/Vince/Vince1/799.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_CANAL_DECASA
-http://www.t12v.com:8000/live/Vince/Vince1/794.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_TNT_ES
-http://www.t12v.com:8000/live/Vince/Vince1/847.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_HOLLYWOOD
-http://www.t12v.com:8000/live/Vince/Vince1/802.ts
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_ENTRETENIMIENTO_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/1396.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_LA_RED_EN_VIVO
-http://www.t12v.com:8000/live/Vince/Vince1/1397.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_FOX_LIFE
-http://www.t12v.com:8000/live/Vince/Vince1/789.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_CALLE_13
-http://www.t12v.com:8000/live/Vince/Vince1/1400.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_AXN
-http://www.t12v.com:8000/live/Vince/Vince1/778.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_AXN_WHITE
-http://www.t12v.com:8000/live/Vince/Vince1/777.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_FOX
-http://www.t12v.com:8000/live/Vince/Vince1/856.ts
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_DEPORTES_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/1403.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_CANAL+_LIGA_HD
-http://www.t12v.com:8000/live/Vince/Vince1/795.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_CANAL+_FUTBOL
-http://www.t12v.com:8000/live/Vince/Vince1/793.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_C+_DEPORTES
-http://www.t12v.com:8000/live/Vince/Vince1/504.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_REAL_MADRID_TV
-http://www.t12v.com:8000/live/Vince/Vince1/851.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_BARCA_TV
-http://www.t12v.com:8000/live/Vince/Vince1/775.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_TELEDEPORTE
-http://www.t12v.com:8000/live/Vince/Vince1/848.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_CANAL+_TOROS
-http://www.t12v.com:8000/live/Vince/Vince1/796.ts
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_CULTURA_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/1409.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_A_E_SPAIN
-http://www.t12v.com:8000/live/Vince/Vince1/779.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_NATIONAL_GEO
-http://www.t12v.com:8000/live/Vince/Vince1/804.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_NATIONAL_GEO_WILD
-http://www.t12v.com:8000/live/Vince/Vince1/836.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_DISCOVERY_MAX
-http://www.t12v.com:8000/live/Vince/Vince1/837.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_HISTORIA
-http://www.t12v.com:8000/live/Vince/Vince1/841.ts
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_NINOS_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/1414.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_BOING
-http://www.t12v.com:8000/live/Vince/Vince1/774.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_MEGA
-http://www.t12v.com:8000/live/Vince/Vince1/816.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_DISNEY_CHANNEL
-http://www.t12v.com:8000/live/Vince/Vince1/817.ts
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_MUSIC_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/1417.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_FIRST_MUSIC_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1419.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_MOVIESTAR_F1
-http://www.t12v.com:8000/live/Vince/Vince1/803.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_ENERGY_SPAIN
-http://www.t12v.com:8000/live/Vince/Vince1/800.ts
-#EXTINF:-1 tvg-id="" group-title="outros",oooo_ESPAGNE_oooo
-http://www.t12v.com:8000/live/Vince/Vince1/1356.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_TAQUILLA_1
-http://www.t12v.com:8000/live/Vince/Vince1/890.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_TAQUILLA_2
-http://www.t12v.com:8000/live/Vince/Vince1/423.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_TAQUILLA_3
-http://www.t12v.com:8000/live/Vince/Vince1/282.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_TAQUILLA_4
-http://www.t12v.com:8000/live/Vince/Vince1/265.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_TAQUILLA_5
-http://www.t12v.com:8000/live/Vince/Vince1/904.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_TAQUILLA_6
-http://www.t12v.com:8000/live/Vince/Vince1/858.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_TAQUILLA_7
-http://www.t12v.com:8000/live/Vince/Vince1/854.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_TAQUILLA_8
-http://www.t12v.com:8000/live/Vince/Vince1/852.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_EXTREMADURA
-http://www.t12v.com:8000/live/Vince/Vince1/850.ts
-#EXTINF:-1 tvg-id="" group-title="ESPANHA",ES_CAZA_Y_PESCA
-http://www.t12v.com:8000/live/Vince/Vince1/857.ts
-#EXTINF:-1 tvg-id="" group-title="outros",IN_STAR_SPORTS_1
-http://www.t12v.com:8000/live/Vince/Vince1/1740.ts
-#EXTINF:-1 tvg-id="" group-title="outros",IN_WILLOW_CRICKET
-http://www.t12v.com:8000/live/Vince/Vince1/1741.ts
-#EXTINF:-1 tvg-id="" group-title="outros",IN_UTV_MOVIES
-http://www.t12v.com:8000/live/Vince/Vince1/1742.ts
-#EXTINF:-1 tvg-id="" group-title="outros",IN_TV9_GUJARATI
-http://www.t12v.com:8000/live/Vince/Vince1/1761.ts
-#EXTINF:-1 tvg-id="" group-title="outros",IN_TEZ_TV
-http://www.t12v.com:8000/live/Vince/Vince1/1743.ts
-#EXTINF:-1 tvg-id="" group-title="outros",IN_TEN_CRICKET
-http://www.t12v.com:8000/live/Vince/Vince1/1762.ts
-#EXTINF:-1 tvg-id="" group-title="outros",IN_SUDARSHAN_NEWS
-http://www.t12v.com:8000/live/Vince/Vince1/1744.ts
-#EXTINF:-1 tvg-id="" group-title="outros",IN_SANSKAR_TV
-http://www.t12v.com:8000/live/Vince/Vince1/1745.ts
-#EXTINF:-1 tvg-id="" group-title="outros",IN_SAMAY_UP
-http://www.t12v.com:8000/live/Vince/Vince1/1746.ts
-#EXTINF:-1 tvg-id="" group-title="outros",IN_SAMAY_MP
-http://www.t12v.com:8000/live/Vince/Vince1/1747.ts
-#EXTINF:-1 tvg-id="" group-title="outros",IN_SAMAY_BIHAR
-http://www.t12v.com:8000/live/Vince/Vince1/1748.ts
-#EXTINF:-1 tvg-id="" group-title="outros",IN_RISHTEY
-http://www.t12v.com:8000/live/Vince/Vince1/1749.ts
-#EXTINF:-1 tvg-id="" group-title="outros",IN_MUSIC_INDIA
-http://www.t12v.com:8000/live/Vince/Vince1/1763.ts
-#EXTINF:-1 tvg-id="" group-title="outros",IN_MTUNES
-http://www.t12v.com:8000/live/Vince/Vince1/1750.ts
-#EXTINF:-1 tvg-id="" group-title="outros",IN_JUS_24X7
-http://www.t12v.com:8000/live/Vince/Vince1/1751.ts
-#EXTINF:-1 tvg-id="" group-title="outros",IN_DIVYA_TV
-http://www.t12v.com:8000/live/Vince/Vince1/1752.ts
-#EXTINF:-1 tvg-id="" group-title="outros",IN_COLORS_GUJARATI
-http://www.t12v.com:8000/live/Vince/Vince1/1764.ts
-#EXTINF:-1 tvg-id="" group-title="outros",IN_COLORS
-http://www.t12v.com:8000/live/Vince/Vince1/1753.ts
-#EXTINF:-1 tvg-id="" group-title="outros",IN_CARE_WORLD_TV
-http://www.t12v.com:8000/live/Vince/Vince1/1754.ts
-#EXTINF:-1 tvg-id="" group-title="outros",IN_BOLLYWOOD_MUSIC
-http://www.t12v.com:8000/live/Vince/Vince1/1755.ts
-#EXTINF:-1 tvg-id="" group-title="outros",IN_BINDASS_PLAY
-http://www.t12v.com:8000/live/Vince/Vince1/1765.ts
-#EXTINF:-1 tvg-id="" group-title="outros",IN_ARIHANT
-http://www.t12v.com:8000/live/Vince/Vince1/1756.ts
-#EXTINF:-1 tvg-id="" group-title="outros",IN_ABP_NEWS
-http://www.t12v.com:8000/live/Vince/Vince1/1766.ts
-#EXTINF:-1 tvg-id="" group-title="outros",IN_AASTHA_TV
-http://www.t12v.com:8000/live/Vince/Vince1/1757.ts
-#EXTINF:-1 tvg-id="" group-title="outros",IN_AASTHA
-http://www.t12v.com:8000/live/Vince/Vince1/1758.ts
-#EXTINF:-1 tvg-id="" group-title="outros",IN_AAJTAK
-http://www.t12v.com:8000/live/Vince/Vince1/1767.ts
-#EXTINF:-1 tvg-id="" group-title="outros",IN_9X_JALWA
-http://www.t12v.com:8000/live/Vince/Vince1/1759.ts
-#EXTINF:-1 tvg-id="" group-title="outros",IN_ZOOM
-http://www.t12v.com:8000/live/Vince/Vince1/1760.ts
-#EXTINF:-1 tvg-id="" group-title="outros",RRD_NRT_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1843.ts
-#EXTINF:-1 tvg-id="" group-title="outros",RRD_NRT_2
-http://www.t12v.com:8000/live/Vince/Vince1/1844.ts
-#EXTINF:-1 tvg-id="" group-title="outros",RRD_KURD_max
-http://www.t12v.com:8000/live/Vince/Vince1/1841.ts
-#EXTINF:-1 tvg-id="" group-title="outros",RRD_KURDISTAN_TV
-http://www.t12v.com:8000/live/Vince/Vince1/1842.ts
-#EXTINF:-1 tvg-id="" group-title="outros",RRD_KNN
-http://www.t12v.com:8000/live/Vince/Vince1/1845.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AF_TeleCongo
-http://www.t12v.com:8000/live/Vince/Vince1/1797.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AF_Sulavision
-http://www.t12v.com:8000/live/Vince/Vince1/1776.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AF_Sikka_TV
-http://www.t12v.com:8000/live/Vince/Vince1/1777.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AF_RTNC_Congo
-http://www.t12v.com:8000/live/Vince/Vince1/1778.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AF_RTI_2
-http://www.t12v.com:8000/live/Vince/Vince1/1779.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AF_RTI_1_Cote_Divoir
-http://www.t12v.com:8000/live/Vince/Vince1/1780.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AF_RTP_Africa
-http://www.t12v.com:8000/live/Vince/Vince1/1781.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AF_NTV_LC_2_Musique
-http://www.t12v.com:8000/live/Vince/Vince1/1782.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AF_NollyWood_TV
-http://www.t12v.com:8000/live/Vince/Vince1/1798.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AF_NollyWood_Movies
-http://www.t12v.com:8000/live/Vince/Vince1/1783.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AF_NollyWood_FR
-http://www.t12v.com:8000/live/Vince/Vince1/1784.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AF_Maïsha
-http://www.t12v.com:8000/live/Vince/Vince1/1785.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AF_KTN
-http://www.t12v.com:8000/live/Vince/Vince1/1786.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AF_Ghana_Diaspora
-http://www.t12v.com:8000/live/Vince/Vince1/1799.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AF_Gabon_TV
-http://www.t12v.com:8000/live/Vince/Vince1/1787.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AF_Fusion_Plus_TV
-http://www.t12v.com:8000/live/Vince/Vince1/1800.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AF_Fusion_Plus
-http://www.t12v.com:8000/live/Vince/Vince1/1788.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AF_Equinoxe
-http://www.t12v.com:8000/live/Vince/Vince1/1789.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AF_DigiTal_Congo
-http://www.t12v.com:8000/live/Vince/Vince1/1790.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AF_D24_Senegal
-http://www.t12v.com:8000/live/Vince/Vince1/1791.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AF_CRTV_Cameroun
-http://www.t12v.com:8000/live/Vince/Vince1/1792.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AF_Channels_24
-http://www.t12v.com:8000/live/Vince/Vince1/1801.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AF_Ben_TV
-http://www.t12v.com:8000/live/Vince/Vince1/1802.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AF_Ann_7
-http://www.t12v.com:8000/live/Vince/Vince1/1793.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AF_Afrique_Media
-http://www.t12v.com:8000/live/Vince/Vince1/1794.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AF_Africa_Nigeria
-http://www.t12v.com:8000/live/Vince/Vince1/1795.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AF_Africa_24
-http://www.t12v.com:8000/live/Vince/Vince1/1796.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AF_2_STV
-http://www.t12v.com:8000/live/Vince/Vince1/1803.ts
-#EXTINF:-1 tvg-id="" group-title="outros",NL_RTL_4
-http://www.t12v.com:8000/live/Vince/Vince1/505.ts
-#EXTINF:-1 tvg-id="" group-title="outros",NL_RTL_5
-http://www.t12v.com:8000/live/Vince/Vince1/506.ts
-#EXTINF:-1 tvg-id="" group-title="outros",NL_RTL_7
-http://www.t12v.com:8000/live/Vince/Vince1/509.ts
-#EXTINF:-1 tvg-id="" group-title="outros",NL_RTL_8
-http://www.t12v.com:8000/live/Vince/Vince1/593.ts
-#EXTINF:-1 tvg-id="" group-title="outros",NL_HBO_1
-http://www.t12v.com:8000/live/Vince/Vince1/838.ts
-#EXTINF:-1 tvg-id="" group-title="outros",NL_HBO_2
-http://www.t12v.com:8000/live/Vince/Vince1/835.ts
-#EXTINF:-1 tvg-id="" group-title="outros",NL_HBO_3
-http://www.t12v.com:8000/live/Vince/Vince1/834.ts
-#EXTINF:-1 tvg-id="" group-title="outros",NL_NPO_1
-http://www.t12v.com:8000/live/Vince/Vince1/833.ts
-#EXTINF:-1 tvg-id="" group-title="outros",NL_NPO_2
-http://www.t12v.com:8000/live/Vince/Vince1/735.ts
-#EXTINF:-1 tvg-id="" group-title="outros",NL_NPO_3
-http://www.t12v.com:8000/live/Vince/Vince1/744.ts
-#EXTINF:-1 tvg-id="" group-title="outros",NL_NET_5
-http://www.t12v.com:8000/live/Vince/Vince1/767.ts
-#EXTINF:-1 tvg-id="" group-title="outros",NL_SBS_6
-http://www.t12v.com:8000/live/Vince/Vince1/815.ts
-#EXTINF:-1 tvg-id="" group-title="outros",NL_SBS_9
-http://www.t12v.com:8000/live/Vince/Vince1/781.ts
-#EXTINF:-1 tvg-id="" group-title="outros",NL_FILM_1_PREMIER_HD
-http://www.t12v.com:8000/live/Vince/Vince1/821.ts
-#EXTINF:-1 tvg-id="" group-title="outros",NL_FILM_1_SUNDANCE
-http://www.t12v.com:8000/live/Vince/Vince1/818.ts
-#EXTINF:-1 tvg-id="" group-title="outros",NL_FILM_1_ACTION
-http://www.t12v.com:8000/live/Vince/Vince1/825.ts
-#EXTINF:-1 tvg-id="" group-title="outros",NL_FILM_1_COMEDY_KIDS
-http://www.t12v.com:8000/live/Vince/Vince1/822.ts
-#EXTINF:-1 tvg-id="" group-title="outros",NL_FOX_SPORTS_1_HD
-http://www.t12v.com:8000/live/Vince/Vince1/829.ts
-#EXTINF:-1 tvg-id="" group-title="outros",NL_FOX_SPORTS_2
-http://www.t12v.com:8000/live/Vince/Vince1/823.ts
-#EXTINF:-1 tvg-id="" group-title="outros",NL_FOX_SPORTS_3
-http://www.t12v.com:8000/live/Vince/Vince1/832.ts
-#EXTINF:-1 tvg-id="" group-title="outros",NL_SPORT_1_SELECT
-http://www.t12v.com:8000/live/Vince/Vince1/831.ts
-#EXTINF:-1 tvg-id="" group-title="outros",NL_SPORT_1_VOETBAL
-http://www.t12v.com:8000/live/Vince/Vince1/828.ts
-#EXTINF:-1 tvg-id="" group-title="outros",NL_SPORT_1_GOLF
-http://www.t12v.com:8000/live/Vince/Vince1/830.ts
-#EXTINF:-1 tvg-id="" group-title="outros",NL_DISCOVERY
-http://www.t12v.com:8000/live/Vince/Vince1/1310.ts
-#EXTINF:-1 tvg-id="" group-title="outros",NL_BOOMERANG
-http://www.t12v.com:8000/live/Vince/Vince1/1309.ts
-#EXTINF:-1 tvg-id="" group-title="outros",NL_VERONICA_DISNEY_XD
-http://www.t12v.com:8000/live/Vince/Vince1/1291.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_A_SPORT
-http://www.t12v.com:8000/live/Vince/Vince1/824.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_SINEMA_AILE_HD
-http://www.t12v.com:8000/live/Vince/Vince1/20.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_LOCA_2
-http://www.t12v.com:8000/live/Vince/Vince1/71.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_NICKOLEDION
-http://www.t12v.com:8000/live/Vince/Vince1/108.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_KANAL_7
-http://www.t12v.com:8000/live/Vince/Vince1/175.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_CNBC_E
-http://www.t12v.com:8000/live/Vince/Vince1/939.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_FOX_TV
-http://www.t12v.com:8000/live/Vince/Vince1/81.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_HABER_TURK
-http://www.t12v.com:8000/live/Vince/Vince1/937.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_POWER_TURK
-http://www.t12v.com:8000/live/Vince/Vince1/22.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_MOVIEMAX_FESTIVAL
-http://www.t12v.com:8000/live/Vince/Vince1/39.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_MAX_PREMIER
-http://www.t12v.com:8000/live/Vince/Vince1/158.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_BLOOMBERG_HT
-http://www.t12v.com:8000/live/Vince/Vince1/898.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_ATV_HD
-http://www.t12v.com:8000/live/Vince/Vince1/151.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_KANAL_TURK
-http://www.t12v.com:8000/live/Vince/Vince1/129.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_CNN
-http://www.t12v.com:8000/live/Vince/Vince1/30.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_BEYAZ_TV
-http://www.t12v.com:8000/live/Vince/Vince1/111.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_KANAL_D_HD
-http://www.t12v.com:8000/live/Vince/Vince1/128.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_LOCA_3
-http://www.t12v.com:8000/live/Vince/Vince1/944.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_DREAM_TV
-http://www.t12v.com:8000/live/Vince/Vince1/1167.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_E2
-http://www.t12v.com:8000/live/Vince/Vince1/86.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_DREAM_TURK
-http://www.t12v.com:8000/live/Vince/Vince1/1168.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_LIG_TV_1
-http://www.t12v.com:8000/live/Vince/Vince1/896.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_LIG_TV_2
-http://www.t12v.com:8000/live/Vince/Vince1/895.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_LIG_TV_3
-http://www.t12v.com:8000/live/Vince/Vince1/905.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_SALON_1
-http://www.t12v.com:8000/live/Vince/Vince1/894.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_SALON_2
-http://www.t12v.com:8000/live/Vince/Vince1/893.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_SALON_3
-http://www.t12v.com:8000/live/Vince/Vince1/892.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_SKY
-http://www.t12v.com:8000/live/Vince/Vince1/891.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_MOVIE_SMART_2
-http://www.t12v.com:8000/live/Vince/Vince1/889.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_SINEMA_YESILCAM_1
-http://www.t12v.com:8000/live/Vince/Vince1/888.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_NR_1
-http://www.t12v.com:8000/live/Vince/Vince1/722.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_MOVIE_PREMIER_HD
-http://www.t12v.com:8000/live/Vince/Vince1/726.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_MINIKA
-http://www.t12v.com:8000/live/Vince/Vince1/708.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_TV2
-http://www.t12v.com:8000/live/Vince/Vince1/704.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_TRT_1_HABER_HD
-http://www.t12v.com:8000/live/Vince/Vince1/721.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_MOVIESMART_GOLD_HD
-http://www.t12v.com:8000/live/Vince/Vince1/725.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_SINEMA_TV_2_HD
-http://www.t12v.com:8000/live/Vince/Vince1/887.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_MOVIEMAX_SPEED_STARS_HD
-http://www.t12v.com:8000/live/Vince/Vince1/724.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_TRT_COCUK
-http://www.t12v.com:8000/live/Vince/Vince1/705.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_NAT_WILD_HD
-http://www.t12v.com:8000/live/Vince/Vince1/702.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_MOVIESMART_PLATIN_HD
-http://www.t12v.com:8000/live/Vince/Vince1/703.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_YABAN_TV
-http://www.t12v.com:8000/live/Vince/Vince1/798.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_MOVIE_SMART
-http://www.t12v.com:8000/live/Vince/Vince1/769.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_NTV
-http://www.t12v.com:8000/live/Vince/Vince1/215.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_NTV_SPOR
-http://www.t12v.com:8000/live/Vince/Vince1/244.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_STAR_TV
-http://www.t12v.com:8000/live/Vince/Vince1/246.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_SHOW_TV
-http://www.t12v.com:8000/live/Vince/Vince1/250.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_TV_8
-http://www.t12v.com:8000/live/Vince/Vince1/251.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_TRT_BELGESEL
-http://www.t12v.com:8000/live/Vince/Vince1/252.ts
-#EXTINF:-1 tvg-id="" group-title="outros",TR_TRT_HD
-http://www.t12v.com:8000/live/Vince/Vince1/255.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AFR_ZZZ_EQUINOXE
-http://www.t12v.com:8000/live/Vince/Vince1/1768.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AFR_ZZZ_CAMPUS_TV
-http://www.t12v.com:8000/live/Vince/Vince1/1769.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AFR_ZOUZOU_TV
-http://www.t12v.com:8000/live/Vince/Vince1/1770.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AFR_TELECEIBA
-http://www.t12v.com:8000/live/Vince/Vince1/1771.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AFR_SENAGAL_TV
-http://www.t12v.com:8000/live/Vince/Vince1/1772.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AFR_RTG_ROKU
-http://www.t12v.com:8000/live/Vince/Vince1/1773.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AFR_NOLLYWOOD
-http://www.t12v.com:8000/live/Vince/Vince1/1774.ts
-#EXTINF:-1 tvg-id="" group-title="outros",AFR_CONGO_PLANETE_TV_2
-http://www.t12v.com:8000/live/Vince/Vince1/1775.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_RTP1
-http://www.t12v.com:8000/live/Vince/Vince1/1119.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_RTP2
-http://www.t12v.com:8000/live/Vince/Vince1/1120.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_SIC
-http://www.t12v.com:8000/live/Vince/Vince1/1121.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_TVI
-http://www.t12v.com:8000/live/Vince/Vince1/1125.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_SIC_NOTICIAS
-http://www.t12v.com:8000/live/Vince/Vince1/1123.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_TVI_24
-http://www.t12v.com:8000/live/Vince/Vince1/808.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_RTP_INFORMACAO
-http://www.t12v.com:8000/live/Vince/Vince1/1131.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_CM_TV
-http://www.t12v.com:8000/live/Vince/Vince1/498.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_TVI_FICCAO
-http://www.t12v.com:8000/live/Vince/Vince1/1126.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_+_TVI
-http://www.t12v.com:8000/live/Vince/Vince1/1122.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_PORTO_CANAL
-http://www.t12v.com:8000/live/Vince/Vince1/1130.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_RTP_3
-http://www.t12v.com:8000/live/Vince/Vince1/425.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_VH1
-http://www.t12v.com:8000/live/Vince/Vince1/499.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_SPORT_TV_2
-http://www.t12v.com:8000/live/Vince/Vince1/500.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_SPORT_TV_1
-http://www.t12v.com:8000/live/Vince/Vince1/501.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_SPORT_TV_2_HD
-http://www.t12v.com:8000/live/Vince/Vince1/503.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_SPORT_TV_3
-http://www.t12v.com:8000/live/Vince/Vince1/1135.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_SPORT_TV_4
-http://www.t12v.com:8000/live/Vince/Vince1/1136.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_SPORT_TV_5
-http://www.t12v.com:8000/live/Vince/Vince1/1137.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_BTV_1_HD
-http://www.t12v.com:8000/live/Vince/Vince1/807.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_BTV_2_HD
-http://www.t12v.com:8000/live/Vince/Vince1/806.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_SPORTING_TV_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1141.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_CINEMUNDO
-http://www.t12v.com:8000/live/Vince/Vince1/507.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_HOLLYWOOD
-http://www.t12v.com:8000/live/Vince/Vince1/1144.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_TVCINE_1_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1145.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_TVCINE_2_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1146.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_TVCINE_3_HD
-http://www.t12v.com:8000/live/Vince/Vince1/886.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_TVCINE_4_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1147.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_TV_SERIES
-http://www.t12v.com:8000/live/Vince/Vince1/1152.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_FOX_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1149.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_FOX_LIFE_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1150.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_FOX_CRIME_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1151.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_FOX_MOVIES
-http://www.t12v.com:8000/live/Vince/Vince1/1148.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_AXN_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1812.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_AXN_BLACK_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1156.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_AXN_WHITE_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1155.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_VEVO_1_HD
-http://www.t12v.com:8000/live/Vince/Vince1/424.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_VEVO_3_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1175.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_VEVO_2_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1174.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_MTV_DANCE
-http://www.t12v.com:8000/live/Vince/Vince1/805.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_KISS_TV
-http://www.t12v.com:8000/live/Vince/Vince1/809.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_MOTORS_TV
-http://www.t12v.com:8000/live/Vince/Vince1/1193.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_DISNEY_CHANNEL
-http://www.t12v.com:8000/live/Vince/Vince1/1162.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_DISNEY_JUNIOR
-http://www.t12v.com:8000/live/Vince/Vince1/1213.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_CANAL_PANDA
-http://www.t12v.com:8000/live/Vince/Vince1/1165.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_BIGGS
-http://www.t12v.com:8000/live/Vince/Vince1/1166.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_SIC_K
-http://www.t12v.com:8000/live/Vince/Vince1/1164.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_CARTOON_NETWORK
-http://www.t12v.com:8000/live/Vince/Vince1/1161.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_SIC_RADICAL
-http://www.t12v.com:8000/live/Vince/Vince1/1159.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_CANAL_HISTORIA
-http://www.t12v.com:8000/live/Vince/Vince1/1183.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_NATIONAL_GEOGRAPHIC_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1184.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_NAT_GEO_WILD
-http://www.t12v.com:8000/live/Vince/Vince1/1182.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_24_KITCHEN_HD
-http://www.t12v.com:8000/live/Vince/Vince1/1187.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_BBC_WORLD_NEWS
-http://www.t12v.com:8000/live/Vince/Vince1/1376.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_MTV_HITS
-http://www.t12v.com:8000/live/Vince/Vince1/1380.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_TPA
-http://www.t12v.com:8000/live/Vince/Vince1/1383.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_TV_GLOBO_PREMIUN
-http://www.t12v.com:8000/live/Vince/Vince1/1388.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_BENFICATV_2
-http://www.t12v.com:8000/live/Vince/Vince1/1418.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_SIC_CARAS
-http://www.t12v.com:8000/live/Vince/Vince1/1422.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_ECONOMICO_TV
-http://www.t12v.com:8000/live/Vince/Vince1/1424.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_JIM_JAM
-http://www.t12v.com:8000/live/Vince/Vince1/1423.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_ODISSEIA
-http://www.t12v.com:8000/live/Vince/Vince1/1401.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_TRAVEL_CHANNEL
-http://www.t12v.com:8000/live/Vince/Vince1/1402.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_SYFY
-http://www.t12v.com:8000/live/Vince/Vince1/1412.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_A_BOLA_TV
-http://www.t12v.com:8000/live/Vince/Vince1/1404.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_EUROSPORT
-http://www.t12v.com:8000/live/Vince/Vince1/1413.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_CHEALSEA_TV
-http://www.t12v.com:8000/live/Vince/Vince1/1415.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_AMC
-http://www.t12v.com:8000/live/Vince/Vince1/1410.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_cacavizion
-http://www.t12v.com:8000/live/Vince/Vince1/1411.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_FX
-http://www.t12v.com:8000/live/Vince/Vince1/1408.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_BENFICATV_1HD
-http://www.t12v.com:8000/live/Vince/Vince1/1421.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_REAL_MADRID_TV
-http://www.t12v.com:8000/live/Vince/Vince1/1416.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_CNN
-http://www.t12v.com:8000/live/Vince/Vince1/1392.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_TV_RECORD
-http://www.t12v.com:8000/live/Vince/Vince1/1393.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_TV_GLOBO
-http://www.t12v.com:8000/live/Vince/Vince1/1390.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_NICKELODEON
-http://www.t12v.com:8000/live/Vince/Vince1/1394.ts
-#EXTINF:-1 tvg-id="" group-title="PORTUGAL",PT_BABY_TV
-http://www.t12v.com:8000/live/Vince/Vince1/1395.ts
-#EXTINF:-1 tvg-id="" group-title="outros",USA_ESPN
-http://www.t12v.com:8000/live/Vince/Vince1/1477.ts
-#EXTINF:-1 tvg-id="" group-title="outros",USA_FOX_SPORT_2
-http://www.t12v.com:8000/live/Vince/Vince1/1484.ts
-#EXTINF:-1 tvg-id="" group-title="outros",USA_NBC
-http://www.t12v.com:8000/live/Vince/Vince1/1485.ts
-#EXTINF:-1 tvg-id="" group-title="outros",USA_FOX_SPORT_1
-http://www.t12v.com:8000/live/Vince/Vince1/1483.ts
-#EXTINF:-1 tvg-id="" group-title="outros",USA_NBA_TV
-http://www.t12v.com:8000/live/Vince/Vince1/1486.ts
-#EXTINF:-1 tvg-id="" group-title="outros",USA_GO_1
-http://www.t12v.com:8000/live/Vince/Vince1/1492.ts
-#EXTINF:-1 tvg-id="" group-title="outros",USA_GO_2
-http://www.t12v.com:8000/live/Vince/Vince1/1491.ts
-#EXTINF:-1 tvg-id="" group-title="outros",USA_GO_3
-http://www.t12v.com:8000/live/Vince/Vince1/1490.ts
-#EXTINF:-1 tvg-id="" group-title="outros",USA_GO_4
-http://www.t12v.com:8000/live/Vince/Vince1/1489.ts
-#EXTINF:-1 tvg-id="" group-title="outros",USA_GO_5
-http://www.t12v.com:8000/live/Vince/Vince1/1488.ts
-#EXTINF:-1 tvg-id="" group-title="outros",USA_GO_6
-http://www.t12v.com:8000/live/Vince/Vince1/1487.ts
-#EXTINF:-1 tvg-id="" group-title="outros",USA_TSN_1
-http://www.t12v.com:8000/live/Vince/Vince1/1482.ts
-#EXTINF:-1 tvg-id="" group-title="outros",USA_TSN_2
-http://www.t12v.com:8000/live/Vince/Vince1/1481.ts
-#EXTINF:-1 tvg-id="" group-title="outros",USA_TSN_3
-http://www.t12v.com:8000/live/Vince/Vince1/1480.ts
-#EXTINF:-1 tvg-id="" group-title="outros",USA_TSN_4
-http://www.t12v.com:8000/live/Vince/Vince1/1479.ts
-#EXTINF:-1 tvg-id="" group-title="outros",USA_TSN_5
-http://www.t12v.com:8000/live/Vince/Vince1/1478.ts
+#EXTINF:-1,RTP 1 HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/108.ts
+#EXTINF:-1,RTP 1
+http://iptvportugal.selfip.com:8000/live/88888/88888/107.ts
+#EXTINF:-1,RTP 1 (L1)
+http://iptvportugal.selfip.com:8000/live/88888/88888/485.ts
+#EXTINF:-1,RTP 1 (LBR)
+http://iptvportugal.selfip.com:8000/live/88888/88888/106.ts
+#EXTINF:-1,RTP 2
+http://iptvportugal.selfip.com:8000/live/88888/88888/110.ts
+#EXTINF:-1,RTP 2 (LBR)
+http://iptvportugal.selfip.com:8000/live/88888/88888/109.ts
+#EXTINF:-1,SIC
+http://iptvportugal.selfip.com:8000/live/88888/88888/119.ts
+#EXTINF:-1,SIC (L1)
+http://iptvportugal.selfip.com:8000/live/88888/88888/76.ts
+#EXTINF:-1,SIC FHD
+http://iptvportugal.selfip.com:8000/live/88888/88888/121.ts
+#EXTINF:-1,SIC (LBR)
+http://iptvportugal.selfip.com:8000/live/88888/88888/118.ts
+#EXTINF:-1,TVI
+http://iptvportugal.selfip.com:8000/live/88888/88888/171.ts
+#EXTINF:-1,TVI (L1)
+http://iptvportugal.selfip.com:8000/live/88888/88888/482.ts
+#EXTINF:-1,TVI (LBR)
+http://iptvportugal.selfip.com:8000/live/88888/88888/170.ts
+#EXTINF:-1,RTP INTERNACIONAL
+http://iptvportugal.selfip.com:8000/live/88888/88888/466.ts
+#EXTINF:-1,TVI INTERNACIONAL
+http://iptvportugal.selfip.com:8000/live/88888/88888/447.ts
+#EXTINF:-1,SIC NOTICIAS
+http://iptvportugal.selfip.com:8000/live/88888/88888/124.ts
+#EXTINF:-1,TVI 24
+http://iptvportugal.selfip.com:8000/live/88888/88888/172.ts
+#EXTINF:-1,CMTV
+http://iptvportugal.selfip.com:8000/live/88888/88888/52.ts
+#EXTINF:-1,TVI REALITY
+http://iptvportugal.selfip.com:8000/live/88888/88888/176.ts
+#EXTINF:-1,TVI REALITY MOSAICO
+http://iptvportugal.selfip.com:8000/live/88888/88888/175.ts
+#EXTINF:-1,TVI REALITY CAMARA EXCLUSIVA
+http://iptvportugal.selfip.com:8000/live/88888/88888/173.ts
+#EXTINF:-1,PORTO CANAL
+http://iptvportugal.selfip.com:8000/live/88888/88888/102.ts
+#EXTINF:-1,TVI FICCAO
+http://iptvportugal.selfip.com:8000/live/88888/88888/174.ts
+#EXTINF:-1,SIC MULHER
+http://iptvportugal.selfip.com:8000/live/88888/88888/123.ts
+#EXTINF:-1,SIC RADICAL
+http://iptvportugal.selfip.com:8000/live/88888/88888/125.ts
+#EXTINF:-1,SIC K
+http://iptvportugal.selfip.com:8000/live/88888/88888/122.ts
+#EXTINF:-1,SIC CARAS
+http://iptvportugal.selfip.com:8000/live/88888/88888/120.ts
+#EXTINF:-1,RTP 3
+http://iptvportugal.selfip.com:8000/live/88888/88888/111.ts
+#EXTINF:-1,RTP MEMORIA
+http://iptvportugal.selfip.com:8000/live/88888/88888/115.ts
+#EXTINF:-1,RTP MADEIRA
+http://iptvportugal.selfip.com:8000/live/88888/88888/114.ts
+#EXTINF:-1,RTP AFRICA
+http://iptvportugal.selfip.com:8000/live/88888/88888/113.ts
+#EXTINF:-1,RTP ACORES
+http://iptvportugal.selfip.com:8000/live/88888/88888/112.ts
+#EXTINF:-1,TV RECORD
+http://iptvportugal.selfip.com:8000/live/88888/88888/166.ts
+#EXTINF:-1,TV RECORD HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/167.ts
+#EXTINF:-1,TV GLOBO PREMIUM
+http://iptvportugal.selfip.com:8000/live/88888/88888/165.ts
+#EXTINF:-1,TV GLOBO PORTUGAL
+http://iptvportugal.selfip.com:8000/live/88888/88888/164.ts
+#EXTINF:-1,SBT
+http://iptvportugal.selfip.com:8000/live/88888/88888/116.ts
+#EXTINF:-1,PFC
+http://iptvportugal.selfip.com:8000/live/88888/88888/99.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://iptvportugal.selfip.com:8000/live/88888/88888/57.ts
+#EXTINF:-1,DISNEY JUNIOR (L1)
+http://iptvportugal.selfip.com:8000/live/88888/88888/725.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://iptvportugal.selfip.com:8000/live/88888/88888/56.ts
+#EXTINF:-1,CARTOON NETWORK
+http://iptvportugal.selfip.com:8000/live/88888/88888/48.ts
+#EXTINF:-1,BABY TV
+http://iptvportugal.selfip.com:8000/live/88888/88888/31.ts
+#EXTINF:-1,BABY FIRST TV
+http://iptvportugal.selfip.com:8000/live/88888/88888/30.ts
+#EXTINF:-1,CANAL Q
+http://iptvportugal.selfip.com:8000/live/88888/88888/47.ts
+#EXTINF:-1,BIGGS
+http://iptvportugal.selfip.com:8000/live/88888/88888/97.ts
+#EXTINF:-1,CANAL PANDA
+http://iptvportugal.selfip.com:8000/live/88888/88888/96.ts
+#EXTINF:-1,NICKELODEON
+http://iptvportugal.selfip.com:8000/live/88888/88888/93.ts
+#EXTINF:-1,JIMJAM
+http://iptvportugal.selfip.com:8000/live/88888/88888/82.ts
+#EXTINF:-1,DOG TV HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/480.ts
+#EXTINF:-1,SPORT TV 1
+http://iptvportugal.selfip.com:8000/live/88888/88888/128.ts
+#EXTINF:-1,SPORT TV 1 HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/129.ts
+#EXTINF:-1,SPORT TV 1 HD (L1)
+http://iptvportugal.selfip.com:8000/live/88888/88888/481.ts
+#EXTINF:-1,SPORT TV 1 FHD
+http://iptvportugal.selfip.com:8000/live/88888/88888/140.ts
+#EXTINF:-1,SPORT TV 1 HD (LBR)
+http://iptvportugal.selfip.com:8000/live/88888/88888/139.ts
+#EXTINF:-1,SPORT TV 2
+http://iptvportugal.selfip.com:8000/live/88888/88888/130.ts
+#EXTINF:-1,SPORT TV 2 HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/131.ts
+#EXTINF:-1,SPORT TV 2 FHD
+http://iptvportugal.selfip.com:8000/live/88888/88888/142.ts
+#EXTINF:-1,SPORT TV 2 HD (LBR)
+http://iptvportugal.selfip.com:8000/live/88888/88888/141.ts
+#EXTINF:-1,SPORT TV 3
+http://iptvportugal.selfip.com:8000/live/88888/88888/132.ts
+#EXTINF:-1,SPORT TV 3 HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/144.ts
+#EXTINF:-1,SPORT TV 3 FHD
+http://iptvportugal.selfip.com:8000/live/88888/88888/145.ts
+#EXTINF:-1,SPORT TV 3 HD (LBR)
+http://iptvportugal.selfip.com:8000/live/88888/88888/143.ts
+#EXTINF:-1,SPORT TV 4
+http://iptvportugal.selfip.com:8000/live/88888/88888/133.ts
+#EXTINF:-1,SPORT TV 4 HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/134.ts
+#EXTINF:-1,SPORT TV 4 FHD
+http://iptvportugal.selfip.com:8000/live/88888/88888/147.ts
+#EXTINF:-1,SPORT TV 4 HD (LBR)
+http://iptvportugal.selfip.com:8000/live/88888/88888/146.ts
+#EXTINF:-1,SPORT TV 5
+http://iptvportugal.selfip.com:8000/live/88888/88888/135.ts
+#EXTINF:-1,SPORT TV 5 HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/149.ts
+#EXTINF:-1,SPORT TV 5 FHD
+http://iptvportugal.selfip.com:8000/live/88888/88888/150.ts
+#EXTINF:-1,SPORT TV 5 HD (LBR)
+http://iptvportugal.selfip.com:8000/live/88888/88888/148.ts
+#EXTINF:-1,BTV 1
+http://iptvportugal.selfip.com:8000/live/88888/88888/33.ts
+#EXTINF:-1,BTV 1 HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/42.ts
+#EXTINF:-1,BTV 1 FHD
+http://iptvportugal.selfip.com:8000/live/88888/88888/38.ts
+#EXTINF:-1,BTV 1 HD (LBR)
+http://iptvportugal.selfip.com:8000/live/88888/88888/34.ts
+#EXTINF:-1,BTV 2
+http://iptvportugal.selfip.com:8000/live/88888/88888/39.ts
+#EXTINF:-1,BTV 2 HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/40.ts
+#EXTINF:-1,BTV 2 FHD
+http://iptvportugal.selfip.com:8000/live/88888/88888/41.ts
+#EXTINF:-1,BTV 2 HD (LBR)
+http://iptvportugal.selfip.com:8000/live/88888/88888/35.ts
+#EXTINF:-1,SPORTING TV
+http://iptvportugal.selfip.com:8000/live/88888/88888/137.ts
+#EXTINF:-1,SPORTING TV HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/136.ts
+#EXTINF:-1,SPORTING TV HD (LBR)
+http://iptvportugal.selfip.com:8000/live/88888/88888/138.ts
+#EXTINF:-1,EUROSPORT 1
+http://iptvportugal.selfip.com:8000/live/88888/88888/60.ts
+#EXTINF:-1,EUROSPORT 1 HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/62.ts
+#EXTINF:-1,EUROSPORT 2
+http://iptvportugal.selfip.com:8000/live/88888/88888/61.ts
+#EXTINF:-1,EUROSPORT 2 HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/14.ts
+#EXTINF:-1,EUROSPORT 2 XTRA HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/726.ts
+#EXTINF:-1,EUROSPORT NEWS
+http://iptvportugal.selfip.com:8000/live/88888/88888/63.ts
+#EXTINF:-1,CHELSEA TV
+http://iptvportugal.selfip.com:8000/live/88888/88888/50.ts
+#EXTINF:-1,MOTORVISION HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/87.ts
+#EXTINF:-1,MOTORS TV
+http://iptvportugal.selfip.com:8000/live/88888/88888/86.ts
+#EXTINF:-1,FIGHT NETWORK HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/64.ts
+#EXTINF:-1,A BOLA TV
+http://iptvportugal.selfip.com:8000/live/88888/88888/37.ts
+#EXTINF:-1,REAL MADRID TV
+http://iptvportugal.selfip.com:8000/live/88888/88888/103.ts
+#EXTINF:-1,TVCINE 1 HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/157.ts
+#EXTINF:-1,TVCINE 1 HD (L1)
+http://iptvportugal.selfip.com:8000/live/88888/88888/13.ts
+#EXTINF:-1,TVCINE 1 FHD
+http://iptvportugal.selfip.com:8000/live/88888/88888/16.ts
+#EXTINF:-1,TVCINE 1 HD (LBR)
+http://iptvportugal.selfip.com:8000/live/88888/88888/156.ts
+#EXTINF:-1,TVCINE 2 HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/159.ts
+#EXTINF:-1,TVCINE 2 FHD
+http://iptvportugal.selfip.com:8000/live/88888/88888/12.ts
+#EXTINF:-1,TVCINE 2 HD (LBR)
+http://iptvportugal.selfip.com:8000/live/88888/88888/158.ts
+#EXTINF:-1,TVCINE 3 HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/161.ts
+#EXTINF:-1,TVCINE 3 HD (L1)
+http://iptvportugal.selfip.com:8000/live/88888/88888/11.ts
+#EXTINF:-1,TVCINE 3 FHD
+http://iptvportugal.selfip.com:8000/live/88888/88888/17.ts
+#EXTINF:-1,TVCINE 3 HD (LBR)
+http://iptvportugal.selfip.com:8000/live/88888/88888/160.ts
+#EXTINF:-1,TVCINE 4 HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/163.ts
+#EXTINF:-1,TVCINE 4 FHD
+http://iptvportugal.selfip.com:8000/live/88888/88888/15.ts
+#EXTINF:-1,TVCINE 4 HD (LBR)
+http://iptvportugal.selfip.com:8000/live/88888/88888/162.ts
+#EXTINF:-1,TVSERIES HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/169.ts
+#EXTINF:-1,TVSERIES FHD
+http://iptvportugal.selfip.com:8000/live/88888/88888/9.ts
+#EXTINF:-1,TVSERIES HD (LBR)
+http://iptvportugal.selfip.com:8000/live/88888/88888/168.ts
+#EXTINF:-1,HOLLYWOOD HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/78.ts
+#EXTINF:-1,HOLLYWOOD
+http://iptvportugal.selfip.com:8000/live/88888/88888/77.ts
+#EXTINF:-1,SYFY
+http://iptvportugal.selfip.com:8000/live/88888/88888/151.ts
+#EXTINF:-1,SYFY HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/127.ts
+#EXTINF:-1,MOV HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/88.ts
+#EXTINF:-1,AXN HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/27.ts
+#EXTINF:-1,AXN HD (LBR)
+http://iptvportugal.selfip.com:8000/live/88888/88888/26.ts
+#EXTINF:-1,AXN WHITE HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/29.ts
+#EXTINF:-1,AXN WHITE HD (LBR)
+http://iptvportugal.selfip.com:8000/live/88888/88888/28.ts
+#EXTINF:-1,AXN BLACK HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/25.ts
+#EXTINF:-1,AXN BLACK HD (LBR)
+http://iptvportugal.selfip.com:8000/live/88888/88888/24.ts
+#EXTINF:-1,FOX NEWS
+http://iptvportugal.selfip.com:8000/live/88888/88888/73.ts
+#EXTINF:-1,FOX MOVIES HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/72.ts
+#EXTINF:-1,FOX MOVIES
+http://iptvportugal.selfip.com:8000/live/88888/88888/71.ts
+#EXTINF:-1,FOX LIFE HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/70.ts
+#EXTINF:-1,FOX HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/69.ts
+#EXTINF:-1,FOX CRIME HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/68.ts
+#EXTINF:-1,FOX COMEDY HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/67.ts
+#EXTINF:-1,FOX COMEDY
+http://iptvportugal.selfip.com:8000/live/88888/88888/66.ts
+#EXTINF:-1,FOOD NETWORK HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/65.ts
+#EXTINF:-1,EURONEWS
+http://iptvportugal.selfip.com:8000/live/88888/88888/59.ts
+#EXTINF:-1,CINEMUNDO
+http://iptvportugal.selfip.com:8000/live/88888/88888/51.ts
+#EXTINF:-1,CBS REALITY
+http://iptvportugal.selfip.com:8000/live/88888/88888/49.ts
+#EXTINF:-1,HISTORIA
+http://iptvportugal.selfip.com:8000/live/88888/88888/46.ts
+#EXTINF:-1,TVEI
+http://iptvportugal.selfip.com:8000/live/88888/88888/6.ts
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/155.ts
+#EXTINF:-1,TOROS TV
+http://iptvportugal.selfip.com:8000/live/88888/88888/153.ts
+#EXTINF:-1,TLC
+http://iptvportugal.selfip.com:8000/live/88888/88888/152.ts
+#EXTINF:-1,SKY NEWS
+http://iptvportugal.selfip.com:8000/live/88888/88888/126.ts
+#EXTINF:-1,REDETV!
+http://iptvportugal.selfip.com:8000/live/88888/88888/105.ts
+#EXTINF:-1,RECORD NEWS
+http://iptvportugal.selfip.com:8000/live/88888/88888/104.ts
+#EXTINF:-1,OUTDOOR CHANNEL HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/95.ts
+#EXTINF:-1,ODISSEIA
+http://iptvportugal.selfip.com:8000/live/88888/88888/94.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC CHANNEL HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/92.ts
+#EXTINF:-1,NAT GEO WILD HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/91.ts
+#EXTINF:-1,NAT GEO WILD
+http://iptvportugal.selfip.com:8000/live/88888/88888/90.ts
+#EXTINF:-1,MEZZO
+http://iptvportugal.selfip.com:8000/live/88888/88888/85.ts
+#EXTINF:-1,MCS LIFESTYLE
+http://iptvportugal.selfip.com:8000/live/88888/88888/84.ts
+#EXTINF:-1,ICONCERTS HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/81.ts
+#EXTINF:-1,FUEL TV
+http://iptvportugal.selfip.com:8000/live/88888/88888/75.ts
+#EXTINF:-1,FRANCE 24 (EN)
+http://iptvportugal.selfip.com:8000/live/88888/88888/74.ts
+#EXTINF:-1,FASHION TV
+http://iptvportugal.selfip.com:8000/live/88888/88888/10.ts
+#EXTINF:-1,ETV HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/7.ts
+#EXTINF:-1,E! ENTERTAINMENT
+http://iptvportugal.selfip.com:8000/live/88888/88888/58.ts
+#EXTINF:-1,DISCOVERY SHOWCASE HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/55.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://iptvportugal.selfip.com:8000/live/88888/88888/54.ts
+#EXTINF:-1,CNN
+http://iptvportugal.selfip.com:8000/live/88888/88888/53.ts
+#EXTINF:-1,CNBC EUROPE
+http://iptvportugal.selfip.com:8000/live/88888/88888/8.ts
+#EXTINF:-1,CANCAO NOVA
+http://iptvportugal.selfip.com:8000/live/88888/88888/2.ts
+#EXTINF:-1,CACAVISION
+http://iptvportugal.selfip.com:8000/live/88888/88888/45.ts
+#EXTINF:-1,CACA E PESCA
+http://iptvportugal.selfip.com:8000/live/88888/88888/44.ts
+#EXTINF:-1,BLOOMBERG
+http://iptvportugal.selfip.com:8000/live/88888/88888/36.ts
+#EXTINF:-1,BBC ENTERTAINMENT
+http://iptvportugal.selfip.com:8000/live/88888/88888/32.ts
+#EXTINF:-1,AMC
+http://iptvportugal.selfip.com:8000/live/88888/88888/23.ts
+#EXTINF:-1,A&E
+http://iptvportugal.selfip.com:8000/live/88888/88888/21.ts
+#EXTINF:-1,24 KITCHEN HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/20.ts
+#EXTINF:-1,TVE 24H
+http://iptvportugal.selfip.com:8000/live/88888/88888/18.ts
+#EXTINF:-1,AFRO MUSIC
+http://iptvportugal.selfip.com:8000/live/88888/88888/22.ts
+#EXTINF:-1,C-MUSIC
+http://iptvportugal.selfip.com:8000/live/88888/88888/43.ts
+#EXTINF:-1,MCM TOP
+http://iptvportugal.selfip.com:8000/live/88888/88888/4.ts
+#EXTINF:-1,MCM POP
+http://iptvportugal.selfip.com:8000/live/88888/88888/83.ts
+#EXTINF:-1,TRACE URBAN
+http://iptvportugal.selfip.com:8000/live/88888/88888/154.ts
+#EXTINF:-1,TRACE URBAN HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/3.ts
+#EXTINF:-1,MTV PORTUGAL HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/1.ts
+#EXTINF:-1,MTV PORTUGAL
+http://iptvportugal.selfip.com:8000/live/88888/88888/89.ts
+#EXTINF:-1,VH1
+http://iptvportugal.selfip.com:8000/live/88888/88888/178.ts
+#EXTINF:-1,VH1 CLASSIC
+http://iptvportugal.selfip.com:8000/live/88888/88888/5.ts
+#EXTINF:-1,VENUS
+http://iptvportugal.selfip.com:8000/live/88888/88888/177.ts
+#EXTINF:-1,PLAYBOY TV HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/101.ts
+#EXTINF:-1,PLAYBOY TV
+http://iptvportugal.selfip.com:8000/live/88888/88888/100.ts
+#EXTINF:-1,PENTHOUSE HD1
+http://iptvportugal.selfip.com:8000/live/88888/88888/98.ts
+#EXTINF:-1,HOT HD
+http://iptvportugal.selfip.com:8000/live/88888/88888/80.ts
+#EXTINF:-1,HOT
+http://iptvportugal.selfip.com:8000/live/88888/88888/79.ts
+#EXTINF:-1,★●•RÁDIOS•●★
+http://iptvportugal.selfip.com:8000/live/88888/88888/465.ts
+#EXTINF:-1,ANTENA 1 (RADIO)
+http://iptvportugal.selfip.com:8000/live/88888/88888/448.ts
+#EXTINF:-1,ANTENA 3 (RADIO)
+http://iptvportugal.selfip.com:8000/live/88888/88888/452.ts
+#EXTINF:-1,TSF (RADIO)
+http://iptvportugal.selfip.com:8000/live/88888/88888/450.ts
+#EXTINF:-1,RFM (RADIO)
+http://iptvportugal.selfip.com:8000/live/88888/88888/454.ts
+#EXTINF:-1,RADIO COMERCIAL (RADIO)
+http://iptvportugal.selfip.com:8000/live/88888/88888/455.ts
+#EXTINF:-1,RADIO RENASCENCA (RADIO)
+http://iptvportugal.selfip.com:8000/live/88888/88888/451.ts
+#EXTINF:-1,RDP INT (RADIO)
+http://iptvportugal.selfip.com:8000/live/88888/88888/449.ts
+#EXTINF:-1,MEGA HITS (RADIO)
+http://iptvportugal.selfip.com:8000/live/88888/88888/453.ts
+#EXTINF:-1,80S RFM (RADIO)
+http://iptvportugal.selfip.com:8000/live/88888/88888/457.ts
+#EXTINF:-1,RADIO M80 (RADIO)
+http://iptvportugal.selfip.com:8000/live/88888/88888/458.ts
+#EXTINF:-1,HIPER FM (RADIO)
+http://iptvportugal.selfip.com:8000/live/88888/88888/456.ts
+#EXTINF:-1,★●• VOD •●★
+http://iptvportugal.selfip.com:8000/live/88888/88888/364.ts
+#EXTINF:-1,12 Rounds 3: Lockdown (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/486.mkv
+#EXTINF:-1,300 O Início de Um Império (2014)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/503.mkv
+#EXTINF:-1,45 Anos (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/585.mkv
+#EXTINF:-1,47 Ronin - A Grande Batalha Samurai (2013)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/643.mkv
+#EXTINF:-1,99 Casas (2014)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/586.mkv
+#EXTINF:-1,A 5ª Vaga (2016)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/614.mkv
+#EXTINF:-1,A Caminho do Oeste (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/487.mkv
+#EXTINF:-1,A Febre do Mississípi (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/504.mkv
+#EXTINF:-1,A Floresta (2016)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/587.mkv
+#EXTINF:-1,A Força da Verdade (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/629.mkv
+#EXTINF:-1,A Juventude (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/505.mkv
+#EXTINF:-1,A Merry Friggin' Christmas (2014)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/488.mkv
+#EXTINF:-1,A Modista (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/630.mkv
+#EXTINF:-1,A Perfect Day (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/712.mkv
+#EXTINF:-1,A Queda de Wall Street (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/631.mkv
+#EXTINF:-1,A Rapariga Dinamarquesa (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/516.mkv
+#EXTINF:-1,A Senhora da Furgoneta (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/632.mkv
+#EXTINF:-1,A Visita (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/517.mkv
+#EXTINF:-1,Alex of Venice (2014)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/615.mkv
+#EXTINF:-1,Alta Golpada (2011)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/537.mkv
+#EXTINF:-1,Alvin e os Esquilos A Grande Aventura (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/538.mkv
+#EXTINF:-1,American Sniper (2014)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/708.mkv
+#EXTINF:-1,Amor Acidental (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/489.mkv
+#EXTINF:-1,Amour sur place ou a emporter (2014)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/506.mkv
+#EXTINF:-1,Anesthesia (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/501.mkv
+#EXTINF:-1,Anguish (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/490.mkv
+#EXTINF:-1,Anjos e Sombras (2016)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/588.mkv
+#EXTINF:-1,Anomalisa (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/539.mkv
+#EXTINF:-1,Another World (2014)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/589.mkv
+#EXTINF:-1,Ant-Man (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/650.mkv
+#EXTINF:-1,Antigang (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/518.mkv
+#EXTINF:-1,Ao Som da Vida (2014)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/590.mkv
+#EXTINF:-1,As Armas de Jane (2016)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/507.mkv
+#EXTINF:-1,As Cinquenta Sombras de Grey (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/651.mkv
+#EXTINF:-1,As Sufragistas (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/616.mkv
+#EXTINF:-1,Ascensão de Júpiter (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/652.mkv
+#EXTINF:-1,Avengers Age of Ultron (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/653.mkv
+#EXTINF:-1,Avouterie (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/540.mkv
+#EXTINF:-1,Awaken (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/654.mkv
+#EXTINF:-1,Backtrack (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/591.mkv
+#EXTINF:-1,Band of Robbers (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/541.mkv
+#EXTINF:-1,Beyond the Mask (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/542.mkv
+#EXTINF:-1,Blackbird (2014)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/470.mkv
+#EXTINF:-1,Bridge of Spies (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/655.mkv
+#EXTINF:-1,Brooklyn (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/491.mkv
+#EXTINF:-1,Burnt (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/713.mkv
+#EXTINF:-1,Bus 657 (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/508.mkv
+#EXTINF:-1,By the Gun (2014)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/543.mkv
+#EXTINF:-1,Cabin Fever (2016)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/634.mkv
+#EXTINF:-1,Captive (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/519.mkv
+#EXTINF:-1,Carol (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/714.mkv
+#EXTINF:-1,Cavaleiro de Copas (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/544.mkv
+#EXTINF:-1,Christina Noble (2014)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/545.mkv
+#EXTINF:-1,Close Range (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/656.mkv
+#EXTINF:-1,Condemned (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/492.mkv
+#EXTINF:-1,Contracted Phase II (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/493.mkv
+#EXTINF:-1,Cop Car (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/657.mkv
+#EXTINF:-1,Creed O Legado de Rocky (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/592.mkv
+#EXTINF:-1,Criminal Activities (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/546.mkv
+#EXTINF:-1,Crimson Peak (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/658.mkv
+#EXTINF:-1,Curse of the Witching Tree (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/547.mkv
+#EXTINF:-1,Dark Places (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/498.mkv
+#EXTINF:-1,Deathgasm (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/659.mkv
+#EXTINF:-1,Debug (2014)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/593.mkv
+#EXTINF:-1,Dementia (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/594.mkv
+#EXTINF:-1,Descarrilada (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/494.mkv
+#EXTINF:-1,Descendants (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/660.mkv
+#EXTINF:-1,Diablo (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/520.mkv
+#EXTINF:-1,Digging for Fire (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/617.mkv
+#EXTINF:-1,Em Terra Estranha (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/509.mkv
+#EXTINF:-1,Eu  o Earl e a Tal Miúda (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/521.mkv
+#EXTINF:-1,Evereste (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/495.mkv
+#EXTINF:-1,Ex Machina (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/661.mkv
+#EXTINF:-1,Experimenter (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/646.mkv
+#EXTINF:-1,Exterminador Genisys (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/662.mkv
+#EXTINF:-1,Extinction (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/663.mkv
+#EXTINF:-1,Extraction (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/664.mkv
+#EXTINF:-1,Extraction - Ameaça Global (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/595.mkv
+#EXTINF:-1,Fantastic Four (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/665.mkv
+#EXTINF:-1,Fathers and Daughters (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/548.mkv
+#EXTINF:-1,Focus (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/666.mkv
+#EXTINF:-1,Forsaken (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/596.mkv
+#EXTINF:-1,Fourth Man Out (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/618.mkv
+#EXTINF:-1,Frank and Cindy (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/468.mkv
+#EXTINF:-1,Freaks of Nature (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/549.mkv
+#EXTINF:-1,Get a Job (2016)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/550.mkv
+#EXTINF:-1,Get Hard (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/667.mkv
+#EXTINF:-1,Good Kill (2014)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/709.mkv
+#EXTINF:-1,Goosebumps Arrepios (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/551.mkv
+#EXTINF:-1,Grandma (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/552.mkv
+#EXTINF:-1,Guia do Escuteiro Para o Apocalipse Zombie (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/522.mkv
+#EXTINF:-1,Harbinger Down (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/553.mkv
+#EXTINF:-1,Hitman Agent 47 (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/668.mkv
+#EXTINF:-1,Hollow Creek (2016)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/635.mkv
+#EXTINF:-1,Homem de Aço (2013)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/554.mkv
+#EXTINF:-1,Homem Irracional (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/510.mkv
+#EXTINF:-1,Hot Pursuit (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/669.mkv
+#EXTINF:-1,Hush (2016)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/469.mkv
+#EXTINF:-1,Hyena (2014)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/511.mkv
+#EXTINF:-1,Hyena Road (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/715.mkv
+#EXTINF:-1,In The Heart of the Sea (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/670.mkv
+#EXTINF:-1,Infini (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/671.mkv
+#EXTINF:-1,Insurgente (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/496.mkv
+#EXTINF:-1,Jack Ryan Agente Sombra (2014)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/555.mkv
+#EXTINF:-1,James White (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/471.mkv
+#EXTINF:-1,Jarhead 3 The Siege (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/716.mkv
+#EXTINF:-1,Jem e as Hologramas (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/619.mkv
+#EXTINF:-1,Jenny's Wedding (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/556.mkv
+#EXTINF:-1,Jeruzalem (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/557.mkv
+#EXTINF:-1,Joy (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/558.mkv
+#EXTINF:-1,Junto ao Mar (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/636.mkv
+#EXTINF:-1,Juntos ao Luar (2010)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/559.mkv
+#EXTINF:-1,Kingsman The Secret Service (2014)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/710.mkv
+#EXTINF:-1,Knock Knock - Tentações Perigosas (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/672.mkv
+#EXTINF:-1,Krampus O Lado Negro do Natal (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/637.mkv
+#EXTINF:-1,Kurt Cobain Montage of Heck (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/673.mkv
+#EXTINF:-1,Lake Eerie (2016)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/597.mkv
+#EXTINF:-1,Landmine Goes Click (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/523.mkv
+#EXTINF:-1,Lavalantula (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/638.mkv
+#EXTINF:-1,Learning to Drive (2014)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/560.mkv
+#EXTINF:-1,Lendas do Crime (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/647.mkv
+#EXTINF:-1,Listen to Me Marlon (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/497.mkv
+#EXTINF:-1,Macbeth (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/561.mkv
+#EXTINF:-1,Mad Max Estrada da Fúria (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/674.mkv
+#EXTINF:-1,Manson Family Vacation (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/524.mkv
+#EXTINF:-1,Max (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/675.mkv
+#EXTINF:-1,Maze Runner: Provas de Fogo (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/676.mkv
+#EXTINF:-1,Minions (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/677.mkv
+#EXTINF:-1,Misconduct (2016)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/598.mkv
+#EXTINF:-1,Miss You Already (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/639.mkv
+#EXTINF:-1,Mission Impossible - Rogue Nation (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/678.mkv
+#EXTINF:-1,Mistress America (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/562.mkv
+#EXTINF:-1,Monster Hunt (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/512.mkv
+#EXTINF:-1,Moonwalkers (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/599.mkv
+#EXTINF:-1,Mortdecai (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/679.mkv
+#EXTINF:-1,Mundo Jurássico (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/680.mkv
+#EXTINF:-1,Mustang (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/563.mkv
+#EXTINF:-1,No Escape (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/681.mkv
+#EXTINF:-1,No Limite do Amanhã (2014)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/564.mkv
+#EXTINF:-1,Noite em Fuga (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/682.mkv
+#EXTINF:-1,O Cadáver de Anna Fritz (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/600.mkv
+#EXTINF:-1,O Caso Spotlight (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/717.mkv
+#EXTINF:-1,O Diário de Uma Rapariga Adolescente (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/525.mkv
+#EXTINF:-1,O Estagiário (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/499.mkv
+#EXTINF:-1,O Homem Duplicado (2013)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/565.mkv
+#EXTINF:-1,O marido perfeito (2014)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/500.mkv
+#EXTINF:-1,O Panda do Kung Fu 3 (2016)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/601.mkv
+#EXTINF:-1,O Prodígio (2014)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/566.mkv
+#EXTINF:-1,O Segredo dos Seus Olhos (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/602.mkv
+#EXTINF:-1,O Segurança do Shopping Las Vegas (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/683.mkv
+#EXTINF:-1,Oddball (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/567.mkv
+#EXTINF:-1,Old 37 (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/526.mkv
+#EXTINF:-1,Operações Especiais (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/467.mkv
+#EXTINF:-1,Orgulho e Preconceito e Guerra (2016)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/620.mkv
+#EXTINF:-1,Os Coopers São o Máximo (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/718.mkv
+#EXTINF:-1,Os Oito Odiados (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/640.mkv
+#EXTINF:-1,Os Profissionais da Crise (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/719.mkv
+#EXTINF:-1,Pai Há Só Um! (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/641.mkv
+#EXTINF:-1,Pan (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/684.mkv
+#EXTINF:-1,Paranormal Activity The Ghost Dimension (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/685.mkv
+#EXTINF:-1,Pássaro Branco (2014)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/527.mkv
+#EXTINF:-1,Pee-wee's Big Holiday (2016)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/621.mkv
+#EXTINF:-1,Pixels (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/686.mkv
+#EXTINF:-1,Point Break - Caçadores de Emoções (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/622.mkv
+#EXTINF:-1,Poltergeist (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/513.mkv
+#EXTINF:-1,Por Aqui e Por Ali (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/528.mkv
+#EXTINF:-1,Prometheus (2012)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/529.mkv
+#EXTINF:-1,Quarto (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/603.mkv
+#EXTINF:-1,Queen of the Desert (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/720.mkv
+#EXTINF:-1,Rage (2014)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/530.mkv
+#EXTINF:-1,Regressão (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/569.mkv
+#EXTINF:-1,Remember (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/623.mkv
+#EXTINF:-1,Ride - Na Onda (2014)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/570.mkv
+#EXTINF:-1,Rock the kasbah - Bem-vindo ao Afeganistão (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/571.mkv
+#EXTINF:-1,Ronaldo (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/648.mkv
+#EXTINF:-1,Samurai Cop 2 Deadly Vengeance (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/604.mkv
+#EXTINF:-1,San Andreas (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/687.mkv
+#EXTINF:-1,Sand Castles (2014)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/572.mkv
+#EXTINF:-1,Só Podiam Ser Irmãs (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/642.mkv
+#EXTINF:-1,Sem Compromissos (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/605.mkv
+#EXTINF:-1,Shaandaar (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/573.mkv
+#EXTINF:-1,Shark Lake (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/688.mkv
+#EXTINF:-1,Sicário - Infiltrado (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/645.mkv
+#EXTINF:-1,Sininho e a Lenda do Monstro do Nunca (2014)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/711.mkv
+#EXTINF:-1,Sinister 2 (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/531.mkv
+#EXTINF:-1,Southbound (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/606.mkv
+#EXTINF:-1,Southpaw (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/689.mkv
+#EXTINF:-1,Species The Awakening (2007)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/624.mkv
+#EXTINF:-1,Spectre (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/690.mkv
+#EXTINF:-1,Spy (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/691.mkv
+#EXTINF:-1,Standoff (2016)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/721.mkv
+#EXTINF:-1,Star Wars O Despertar da Força (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/625.mkv
+#EXTINF:-1,Steve Jobs The Man in the Machine (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/649.mkv
+#EXTINF:-1,Stonewall (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/574.mkv
+#EXTINF:-1,Straight Outta Compton (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/514.mkv
+#EXTINF:-1,Strings (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/532.mkv
+#EXTINF:-1,Submerged (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/692.mkv
+#EXTINF:-1,Ted 2 (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/693.mkv
+#EXTINF:-1,Terminus (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/722.mkv
+#EXTINF:-1,The 33 (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/568.mkv
+#EXTINF:-1,The Abominable Bride (2016)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/533.mkv
+#EXTINF:-1,The Benefactor (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/575.mkv
+#EXTINF:-1,The Boy - Segue as Regras (2016)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/723.mkv
+#EXTINF:-1,The Confines (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/576.mkv
+#EXTINF:-1,The Devil's Pact (2014)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/607.mkv
+#EXTINF:-1,The Division Agent Origins (2016)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/472.mkv
+#EXTINF:-1,The End of the Tour (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/577.mkv
+#EXTINF:-1,The Girl in the Book (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/578.mkv
+#EXTINF:-1,The Girl in the Photographs (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/363.mkv
+#EXTINF:-1,The Hoarder (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/473.mkv
+#EXTINF:-1,The Hunger Games A Revolta - Parte 1 (2014)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/579.mkv
+#EXTINF:-1,The Hunger Games A Revolta - Parte 2 (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/580.mkv
+#EXTINF:-1,The Keeping Room (2014)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/608.mkv
+#EXTINF:-1,The Last Rescue (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/534.mkv
+#EXTINF:-1,The Last Witch Hunter (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/644.mkv
+#EXTINF:-1,The Little Prince (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/694.mkv
+#EXTINF:-1,The Lobster (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/609.mkv
+#EXTINF:-1,The Martian (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/695.mkv
+#EXTINF:-1,The Night Before (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/633.mkv
+#EXTINF:-1,The Overnight (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/610.mkv
+#EXTINF:-1,The Peanuts Movie (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/696.mkv
+#EXTINF:-1,The Preppie Connection (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/474.mkv
+#EXTINF:-1,The Revenant (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/697.mkv
+#EXTINF:-1,The Ridiculous 6 (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/698.mkv
+#EXTINF:-1,The Survivalist (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/626.mkv
+#EXTINF:-1,The Transporter Refueled (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/699.mkv
+#EXTINF:-1,The Veil (2016)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/581.mkv
+#EXTINF:-1,The Walk (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/700.mkv
+#EXTINF:-1,Tomorrowland - Terra do Amanhã (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/701.mkv
+#EXTINF:-1,Tracers (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/702.mkv
+#EXTINF:-1,Trumbo (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/582.mkv
+#EXTINF:-1,Uma Noite Fora do Palácio (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/611.mkv
+#EXTINF:-1,Un Français (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/583.mkv
+#EXTINF:-1,Un homme parfait (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/515.mkv
+#EXTINF:-1,Upsss! Lá Se Foi a Arca... (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/703.mkv
+#EXTINF:-1,Velocidade Furiosa 7 (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/704.mkv
+#EXTINF:-1,Vendetta (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/705.mkv
+#EXTINF:-1,Verdade (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/612.mkv
+#EXTINF:-1,Very Bad Team (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/535.mkv
+#EXTINF:-1,Vice (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/706.mkv
+#EXTINF:-1,Victor Frankenstein (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/724.mkv
+#EXTINF:-1,War Room (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/502.mkv
+#EXTINF:-1,Where Hope Grows (2014)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/536.mkv
+#EXTINF:-1,Wild Card (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/707.mkv
+#EXTINF:-1,Wrong Cops (2013)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/584.mkv
+#EXTINF:-1,Yip Man 3 (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/627.mkv
+#EXTINF:-1,Yosemite (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/628.mkv
+#EXTINF:-1,Zero Tolerance (2015)
+http://iptvportugal.selfip.com:8000/movie/88888/88888/613.mkv
