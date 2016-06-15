@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,ABC Miami
+http://192.168.1.8:1764/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F6114
 #EXTINF:-1 group-title=“MOVIES”,AMC
 http://83.77.46.37:8000/play/a016
 #EXTINF:-1 group-title=“MOVIES”,CineMundo
