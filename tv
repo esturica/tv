@@ -1,111 +1,854 @@
 #EXTM3U
-#EXTINF:-1,ABC Miami
-http://192.168.1.8:1764/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F6114
-#EXTINF:-1 group-title=“MOVIES”,AMC
-http://83.77.46.37:8000/play/a016
-#EXTINF:-1 group-title=“MOVIES”,CineMundo
-http://83.77.46.37:8000/play/a010
-#EXTINF:-1 group-title=“MOVIES”,Hollywood
-http://83.77.46.37:8000/play/a014
-#EXTINF:-1 group-title=“MOVIES”,TVCine1
-http://83.77.46.37:8000/play/a02j
-#EXTINF:-1 group-title=“MOVIES”,TVCine2
-http://83.77.46.37:8000/play/a015
-#EXTINF:-1 group-title=“MOVIES”,TVCine3
-http://83.77.46.37:8000/play/a035
-#EXTINF:-1 group-title=“MOVIES”,TVCine4
-http://83.77.46.37:8000/play/a01e
-#EXTINF:-1 group-title=“DESPORTO”,BTV 1
-http://83.77.46.37:8000/play/a04q
-#EXTINF:-1 group-title=“DESPORTO”,BTV 2
-http://83.77.46.37:8000/play/a04r
-#EXTINF:-1 group-title=“DESPORTO”,SPORT TV 1
-http://83.77.46.37:8000/play/a05b
-#EXTINF:-1 group-title=“DESPORTO”,SPORT TV 2
-http://83.77.46.37:8000/play/a05g
-#EXTINF:-1 group-title=“DESPORTO”,SPORT TV 3
-http://83.77.46.37:8000/play/a05m
-#EXTINF:-1 group-title=“DESPORTO”,SPORT TV 4
-http://83.77.46.37:8000/play/a054
-#EXTINF:-1 tvg-logo="Sky Sports 1.png" group-title=“DESPORTO”,[COLOR blue][I][B]SKY SPORTS 1 (UK)[/B][/I][/COLOR]
-rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv21_6vhudlq8
-#EXTINF:-1 tvg-logo="Sky Sports 1.png" group-title=“DESPORTO”,[COLOR blue][I][B]SKY SPORTS 1 (UK)[/B][/I][/COLOR]
-http://51.255.81.190:8080/UK-Sky-Sports-1/mono.m3u8
-#EXTINF:-1 tvg-logo="Sky Sports 1.png" group-title=“DESPORTO”,[COLOR blue][I][B]SKY SPORTS 1 (UK)[/B][/I][/COLOR]
-http://149.202.207.8:8080/sk1-14May/sallu/index.m3u8
-#EXTINF:-1 tvg-logo="Sky Sports 2.png" group-title=“DESPORTO”,[COLOR blue][I][B]SKY SPORTS 2 (UK)[/B][/I][/COLOR]
-http://51.255.81.190:8080/UK-Sky-Sports-2/mono.m3u8
-#EXTINF:-1 tvg-logo="Sky Sports 2.png" group-title=“DESPORTO”,[COLOR blue][I][B]SKY SPORTS 2 (UK)[/B][/I][/COLOR]
-http://149.202.207.8:8080/sk2-14May/sallu/index.m3u8
-#EXTINF:-1 tvg-logo="Sky Sports 2.png" group-title=“DESPORTO”,[COLOR blue][I][B]SKY SPORTS 2 (UK)[/B][/I][/COLOR]
-rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv22_j5p1mted
-#EXTINF:-1 tvg-logo="Sky Sports 3.png" group-title=“DESPORTO”,[COLOR blue][I][B]SKY SPORTS 3 (UK)[/B][/I][/COLOR]
-rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv23_5px3ntfs
-#EXTINF:-1 tvg-logo="Sky Sports 3.png" group-title=“DESPORTO”,[COLOR blue][I][B]SKY SPORTS 3 (UK)[/B][/I][/COLOR]
-http://149.202.207.8:8080/sk3-14May/sallu/index.m3
-#EXTINF:-1 tvg-logo="Sky Sports 4.png" group-title=“DESPORTO”,[COLOR blue][I][B]SKY SPORTS 4 (UK)[/B][/I][/COLOR]
-rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv24_f84rdmkk
-#EXTINF:-1 tvg-logo="Sky Sports 4.png" group-title=“DESPORTO”,[COLOR blue][I][B]SKY SPORTS 4 (UK)[/B][/I][/COLOR]
-http://149.202.207.8:8080/sk4-14May/sallu/index.m3u8
-#EXTINF:-1 tvg-logo="Sky Sports 5.png" group-title=“DESPORTO”,[COLOR blue][I][B]SKY SPORTS 5 (UK)[/B][/I][/COLOR]
-rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv25_wt250ssk
-#EXTINF:-1,AXN HD
-http://178.166.3.49:9981/stream/channelid/1790691174?ticket=CDF19859C4379FE504AB74B970C530FFEAD66FFB&profile=pass
-#EXTINF:-1,BTV 1
-http://178.166.3.49:9981/stream/channelid/1807008874?ticket=4C7CCAC0B227F0BE2971902EE2969A7E30D6AA36&profile=pass
-#EXTINF:-1,BTV 1 HD
-http://178.166.3.49:9981/stream/channelid/71557614?ticket=AB64DADDB0E8C38AC70D570B74A49BA8DEEB8C14&profile=pass
-#EXTINF:-1,BTV 2
-http://178.166.3.49:9981/stream/channelid/1755207181?ticket=ADEF937E0798E8E9005DC21C0F3C3AB6D4752FCD&profile=pass
-#EXTINF:-1,Canal Panda
-http://178.166.3.49:9981/stream/channelid/2001252879?ticket=754552E52235772A27534F97FE104DF1AC970957&profile=pass
-#EXTINF:-1,FOX HD
-http://178.166.3.49:9981/stream/channelid/802032050?ticket=2635609087157F05E1A184DA37ABF39A2F2E7159&profile=pass
-#EXTINF:-1,National Geographic HD
-http://178.166.3.49:9981/stream/channelid/175039090?ticket=4CEEEF5A914CA2ED5B83B5BD75F0708BA01DBA8C&profile=pass
-#EXTINF:-1,RTP 1
-http://178.166.3.49:9981/stream/channelid/1395487929?ticket=98D4C57371EDAB2EE7CB379C5C989EF7AE38B28D&profile=pass
-#EXTINF:-1,RTP 2
-http://178.166.3.49:9981/stream/channelid/576026622?ticket=9B18665F599CD31544D319A96A648DBCF0A67CDB&profile=pass
-#EXTINF:-1,RTP 3
-http://178.166.3.49:9981/stream/channelid/1385938136?ticket=7A582DFD457FA96B236433151A6F321C43A80EE4&profile=pass
-#EXTINF:-1,RTP AĿores
-http://178.166.3.49:9981/stream/channelid/552979759?ticket=E55FDB6545BAFD24F1BEA0CBD20D386D0CD37321&profile=pass
-#EXTINF:-1,RTP Madeira
-http://178.166.3.49:9981/stream/channelid/263997572?ticket=4E5EA4F8696CE72D956B089D974CC84243598D3D&profile=pass
-#EXTINF:-1,SIC
-http://178.166.3.49:9981/stream/channelid/126482377?ticket=2A075F96E60871FD030038B5F8D77728680E0915&profile=pass
-#EXTINF:-1,SIC NotŦcias
-http://178.166.3.49:9981/stream/channelid/967688573?ticket=1F5010BE12EE06887405419F796E0FE172D6B7BE&profile=pass
-#EXTINF:-1,Sport TV 1 HD
-http://178.166.3.49:9981/stream/channelid/1576932379?ticket=B29EF76FD85974D6551327685560B24A84E73003&profile=pass
-#EXTINF:-1,Sport TV 2 HD
-http://178.166.3.49:9981/stream/channelid/794780051?ticket=1B6BE6B76BFE87182D09E20E655D55D50ACFDBE6&profile=pass
-#EXTINF:-1,Sport TV 4 HD
-http://178.166.3.49:9981/stream/channelid/772092304?ticket=6F7C1F717F597FC0C94DF135071D849358918DAC&profile=pass
-#EXTINF:-1,TSF
-http://178.166.3.49:9981/stream/channelid/1944190022?ticket=FF8811D2650DF114A1F05C722DCB8B3492719DAC&profile=pass
-#EXTINF:-1,TVI
-http://178.166.3.49:9981/stream/channelid/97879726?ticket=AB9ECB0690A7BA57255B8D85EE33077816929F5B&profile=pass
-#EXTINF:-1,SPORT TV 1 HD
-http://178.166.3.49:9981/stream/channelid/1931777072?ticket=A9721C85A52A9B3D3759C62956DDBC6C4383941B&profile=pass
-#EXTINF:-1,SPORT TV 2 HD
-http://178.166.3.49:9981/stream/channelid/1696837253?ticket=6F36C4094E68CA2607E8DC0098440027D0663201&profile=pass
-#EXTINF:-1,SPORT TV 4 HD
-http://178.166.3.49:9981/stream/channelid/1241335684?ticket=11ACA11EC3F8DB559D63F4CF3A8A2D881FC235A2&profile=pass
-#EXTINF:-1,BTV 1 HD
-http://178.166.3.49:9981/stream/channelid/701288442?ticket=CDE92387B39015620C377802A5D1328206259029&profile=pass
-#EXTINF:-1,Hollywood HD
-http://178.166.3.49:9981/stream/channelid/1977479047?ticket=4412A44CF01446AAF1219195DB494E1C11980F1C&profile=pass
-#EXTINF:-1,AXN HD
-http://178.166.3.49:9981/stream/channelid/1904764011?ticket=04C5E78EC13FD3F16935B76C64F4074AB49412E3&profile=pass
-#EXTINF:-1,FOX HD
-http://178.166.3.49:9981/stream/channelid/1614588558?ticket=2F99533065CF83B6AAE1A6418C30FBF1539A57F4&profile=pass
-#EXTINF:-1,MCS Lifestyle
-http://178.166.3.49:9981/stream/channelid/423229841?ticket=A0DF397A349436465837A5548A494B44FCF82BA4&profile=pass
-#EXTINF:-1,National Geographic HD
-http://178.166.3.49:9981/stream/channelid/1106318818?ticket=955470C96484A5F26E0FA204D16642D900BC5940&profile=pass
-#EXTINF:-1,Kombat Sport
-http://178.166.3.49:9981/stream/channelid/2021672944?ticket=B216C7429FA14D0924993A71D32BD5E7868C764C&profile=pass
-#EXTINF:-1,CaĿavision
-http://178.166.3.49:9981/stream/channelid/2142784803?ticket=51EF5D93CFEE19D148A212D50DD3A3AB44E666F2&profile=pass
+#EXTINF:-1 group-title=“Sports”,US: ESPN 1
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2618.ts
+#EXTINF:-1 group-title=“Sports” group-title=“UK”, Liverpool FC
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2614.ts
+#EXTINF:-1 group-title=“Sports” group-title=“PT”, Sport TV1 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1655.ts
+#EXTINF:-1 group-title=“Sports” group-title=“PT”, Sport TV2 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1656.ts
+#EXTINF:-1 group-title=“Sports” group-title=“PT”, Sport TV3
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1657.ts
+#EXTINF:-1 group-title=“Sports” group-title=“PT”, Sport TV 1
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2184.ts
+#EXTINF:-1 group-title=“Sports” group-title=“PT”, Sport TV 2
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2185.ts
+#EXTINF:-1 group-title=“Sports” group-title=“PT”, Sport TV 3
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2186.ts
+#EXTINF:-1 group-title=“Sports” group-title=“PT”, Sport TV 4
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1695.ts
+#EXTINF:-1 group-title=“Sports” group-title=“PT”, Sport TV 5
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1696.ts
+#EXTINF:-1 group-title=“Sports” group-title=“PT”, Sporting TV
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2189.ts
+#EXTINF:-1 group-title=“IT”,Rai 1 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1034.ts
+#EXTINF:-1 group-title=“IT”,RAI 2 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1035.ts
+#EXTINF:-1 group-title=“IT”,RAI 3 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1036.ts
+#EXTINF:-1 group-title=“IT”,Rai 4 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2012.ts
+#EXTINF:-1 group-title=“IT”,Rai 5
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2013.ts
+#EXTINF:-1 group-title=“IT”,Rai Sport 1
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1038.ts
+#EXTINF:-1 group-title=“IT”,Rai Sport 2 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1039.ts
+#EXTINF:-1 group-title=“IT”,RSI LA 1 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1756.ts
+#EXTINF:-1 group-title=“IT”,Sky Sport F1 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1693.ts
+#EXTINF:-1 group-title=“IT”,Premium Calcio 4 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2137.ts
+#EXTINF:-1 group-title=“IT”,Sky Sport 24 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1692.ts
+#EXTINF:-1 group-title=“IT”,Rai Sport 2
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2014.ts
+#EXTINF:-1 group-title=“IT”,Sky Sport 1 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1107.ts
+#EXTINF:-1 group-title=“IT”,Sky Sport 2 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1111.ts
+#EXTINF:-1 group-title=“IT”,Sky Sport 3 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1384.ts
+#EXTINF:-1 group-title=“IT”,Premium Calcio 2 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2135.ts
+#EXTINF:-1 group-title=“IT”,Premium Calcio 3 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2136.ts
+#EXTINF:-1 group-title=“IT”,Premium Calcio 5 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2138.ts
+#EXTINF:-1 group-title=“IT”,Premium Calcio 6 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2139.ts
+#EXTINF:-1 group-title=“IT”,Premium Calcio 7 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2140.ts
+#EXTINF:-1 group-title=“USA”,Tsn-Sport 1 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2432.ts
+#EXTINF:-1 group-title=“USA”,Tsn-Sport 2 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2431.ts
+#EXTINF:-1 group-title=“USA”,Tsn-Sport 3 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2430.ts
+#EXTINF:-1 group-title=“USA”,Tsn-Sport 4 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2429.ts
+#EXTINF:-1 group-title=“USA”,Tsn-Sport 5 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2428.ts
+#EXTINF:-1 group-title=“USA”,AFN Sports HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2412.ts
+#EXTINF:-1 group-title=“USA”,AFN Sports
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2414.ts
+#EXTINF:-1 group-title=“USA”,AFN Sports 2
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2413.ts
+#EXTINF:-1 group-title=“USA”,FOX Sport 1
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2402.ts
+#EXTINF:-1 group-title=“FR”, Canal+ Sport
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1280.ts
+#EXTINF:-1 group-title=“FR”, beiN Sport 1 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1476.ts
+#EXTINF:-1 group-title=“FR”, beiN Sport 2 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1477.ts
+#EXTINF:-1 group-title=“FR”, beiN Sport 3 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1208.ts
+#EXTINF:-1 group-title=“UK”,BT Sports 1
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1837.ts
+#EXTINF:-1 group-title=“UK”,BT Sports 2
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1836.ts
+#EXTINF:-1 group-title=“UK”, BT SPORT 1
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/892.ts
+#EXTINF:-1 group-title=“UK”, BT Sport 2
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1386.ts
+#EXTINF:-1 group-title=“UK”,Manchester United TV
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1830.ts
+#EXTINF:-1 group-title=“UK”, Sky Sport 1
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1109.ts
+#EXTINF:-1 group-title=“UK”, Sky Sport 2 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1112.ts
+#EXTINF:-1 group-title=“UK”, SKY Sport 2
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1113.ts
+#EXTINF:-1 group-title=“UK”, Sky Sport 3 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1115.ts
+#EXTINF:-1 group-title=“UK”, Sky Sport 3
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1116.ts
+#EXTINF:-1 group-title=“UK”, Sky Sport 4
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1388.ts
+#EXTINF:-1 group-title=“UK”, Sky Sport 5 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1119.ts
+#EXTINF:-1 group-title=“UK”,Sky Sports F1
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1796.ts
+#EXTINF:-1 group-title=“UK”,Sky Sports 1
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1799.ts
+#EXTINF:-1 group-title=“UK”,Sky Sports 2
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1798.ts
+#EXTINF:-1 group-title=“UK”,Sky Sports 3
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1797.ts
+#EXTINF:-1 group-title=“UK”,Sky Sports 4
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1828.ts
+#EXTINF:-1 group-title=“UK”,Sky Sports 5
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1827.ts
+#EXTINF:-1 group-title=“DE”,ZDF HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1846.ts
+#EXTINF:-1 group-title=“DE”,SPORT1
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1848.ts
+#EXTINF:-1 group-title=“DE”,Sky de Cinema Hits HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1779.ts
+#EXTINF:-1 group-title=“DE”,Sat.1
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1849.ts
+#EXTINF:-1 group-title=“DE”,RTL NITRO
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1850.ts
+#EXTINF:-1 group-title=“DE”,ProSieben Maxx
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1851.ts
+#EXTINF:-1 group-title=“DE”,ORF ein HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1852.ts
+#EXTINF:-1 group-title=“DE”,Nationalgeo Wild De HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1844.ts
+#EXTINF:-1 group-title=“DE”,Arte HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1857.ts
+#EXTINF:-1 group-title=“DE”, Universal HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1528.ts
+#EXTINF:-1 group-title=“DE”, Sky Germany Emotion HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2588.ts
+#EXTINF:-1 group-title=“DE”, Sky Germany Comedy HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2589.ts
+#EXTINF:-1 group-title=“DE”, Sky Germany Cinema + 1HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2586.ts
+#EXTINF:-1 group-title=“DE”, Sky Germany Cinema +  24 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2587.ts
+#EXTINF:-1 group-title=“DE”, Sky  Germany Hits HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2585.ts
+#EXTINF:-1 group-title=“DE”, Sky  Germany Atlantic HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2590.ts
+#EXTINF:-1 group-title=“DE”, Prosieben 8
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2142.ts
+#EXTINF:-1 group-title=“DE”, ORF 2 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1531.ts
+#EXTINF:-1 group-title=“DE”,  Sky Germany Action HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2584.ts
+#EXTINF:-1 group-title=“DE”, SRF 2 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1538.ts
+#EXTINF:-1 group-title=“DE”, Sky Romance HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1763.ts
+#EXTINF:-1 group-title=“DE”, SKY CINEMA 1
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1722.ts
+#EXTINF:-1 group-title=“DE”, Sky Cinema +24 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1917.ts
+#EXTINF:-1 group-title=“DE”, NDR HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1532.ts
+#EXTINF:-1 group-title=“DE”, Nationalgeo De HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1765.ts
+#EXTINF:-1 group-title=“DE”, KABEL 1 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1731.ts
+#EXTINF:-1 group-title=“DE”, Cinema  24 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1758.ts
+#EXTINF:-1 group-title=“DE”, ZDF
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1504.ts
+#EXTINF:-1 group-title=“DE”, ZDF Info HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1506.ts
+#EXTINF:-1 group-title=“DE”, VOX
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1193.ts
+#EXTINF:-1 group-title=“DE”, Super RTL HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1514.ts
+#EXTINF:-1 group-title=“DE”, SRF 1 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1583.ts
+#EXTINF:-1 group-title=“DE”, Sixx
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1581.ts
+#EXTINF:-1 group-title=“DE”, Prosieben HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1540.ts
+#EXTINF:-1 group-title=“DE”, Sky DMAX
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1579.ts
+#EXTINF:-1 group-title=“DE”, FOX HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2539.ts
+#EXTINF:-1 group-title=“DE”, Austria 24
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1468.ts
+#EXTINF:-1 group-title=“DE”, AXN HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1535.ts
+#EXTINF:-1 group-title=“DE”, 13th Street
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1550.ts
+#EXTINF:-1 group-title=“DE”, Kabel 1
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/959.ts
+#EXTINF:-1 group-title=“DE”, Das Erste
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/917.ts
+#EXTINF:-1 group-title=“DE”, Sat 1
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1056.ts
+#EXTINF:-1 group-title=“DE”, ORF 1 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1002.ts
+#EXTINF:-1 group-title=“DE”, RTL HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1048.ts
+#EXTINF:-1 group-title=“DE”, RTL 2
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1047.ts
+#EXTINF:-1 group-title=“DE”, TNT Serie HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1515.ts
+#EXTINF:-1 group-title=“DE”, TNT Film
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1584.ts
+#EXTINF:-1 group-title=“DE”, Sky Action HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1522.ts
+#EXTINF:-1 group-title=“DE”, Sky Atlantic
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1062.ts
+#EXTINF:-1 group-title=“DE”, Sky Hits
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1094.ts
+#EXTINF:-1 group-title=“DE”, Sky MGM HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1087.ts
+#EXTINF:-1 group-title=“DE”, Sky Emotion
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1554.ts
+#EXTINF:-1 group-title=“DE”, Sky Krimi
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1086.ts
+#EXTINF:-1 group-title=“DE”, Sky History Channel HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1084.ts
+#EXTINF:-1 group-title=“DE”, Sky Disney Cinemagic HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1082.ts
+#EXTINF:-1 group-title=“DE”,Disney Junior
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2621.ts
+#EXTINF:-1 group-title=“DE”, Sky Comedy
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1081.ts
+#EXTINF:-1 group-title=“DE”, Sky National Geographic HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1089.ts
+#EXTINF:-1 group-title=“DE”, Sky NatGeo Wild HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1088.ts
+#EXTINF:-1 group-title=“UK”, Sky Syfy
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1123.ts
+#EXTINF:-1 group-title=“DE”, Sky Select 1 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1101.ts
+#EXTINF:-1 group-title=“DE”, Sky Select 2 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1558.ts
+#EXTINF:-1 group-title=“DE”, Sky Select 3 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1103.ts
+#EXTINF:-1 group-title=“DE”, Sky Select 4 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1104.ts
+#EXTINF:-1 group-title=“DE”, Sky Select 5 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1105.ts
+#EXTINF:-1 group-title=“DE”, Sky Select 6 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1562.ts
+#EXTINF:-1 group-title=“DE”,Sky Select 9
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1776.ts
+#EXTINF:-1group-title=“IT”,Rete 4 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2526.ts
+#EXTINF:-1 group-title=“IT”,Rai YoYo
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1653.ts
+#EXTINF:-1 group-title=“IT”,Rai Movie
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1652.ts
+#EXTINF:-1 group-title=“IT”,RSI LA 2 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1755.ts
+#EXTINF:-1 group-title=“IT”,Cinema Collection HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1751.ts
+#EXTINF:-1 group-title=“IT”,RAI News 24
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1037.ts
+#EXTINF:-1 group-title=“IT”,ITALIA 1 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/955.ts
+#EXTINF:-1 group-title=“IT”,Sky Sport MotoGP HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1121.ts
+#EXTINF:-1 group-title=“IT”,Sky Cinema Max HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1654.ts
+#EXTINF:-1 group-title=“IT”,Sky Cinema Classic HD IT
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1068.ts
+#EXTINF:-1 group-title=“IT”,Sky Cinema Comedy HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1069.ts
+#EXTINF:-1 group-title=“IT”,Sky Cinema Family HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1070.ts
+#EXTINF:-1 group-title=“IT”,Sky Cinema Hits HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1071.ts
+#EXTINF:-1 group-title=“IT”,Sky Cinema Passion HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1072.ts
+#EXTINF:-1 group-title=“IT”,Primafila 1 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1030.ts
+#EXTINF:-1 group-title=“IT”,Primafila 2 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1031.ts
+#EXTINF:-1 group-title=“IT”,Primafila 3 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1032.ts
+#EXTINF:-1 group-title=“IT”,PRIMAFILA 4 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1724.ts
+#EXTINF:-1 group-title=“IT”,PRIMAFILA 5 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1725.ts
+#EXTINF:-1 group-title=“IT”,PRIMAFILA 6 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1726.ts
+#EXTINF:-1 group-title=“IT”,PRIMAFILA 8 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1727.ts
+#EXTINF:-1 group-title=“IT”,Premium Cinema
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1019.ts
+#EXTINF:-1 group-title=“IT”,SKY CALCIO 7
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1018.ts
+#EXTINF:-1 group-title=“IT”,Premium Action HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1017.ts
+#EXTINF:-1 group-title=“IT”,Premium Cinema 24
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1020.ts
+#EXTINF:-1 group-title=“IT”,Premium Cinema 2 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1021.ts
+#EXTINF:-1 group-title=“IT”,Premium Cinema HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1022.ts
+#EXTINF:-1 group-title=“IT”,Premium Comedy
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1023.ts
+#EXTINF:-1 group-title=“IT”,Premium Studio Universal
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1029.ts
+#EXTINF:-1 group-title=“IT”,Premium Crime +24
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1024.ts
+#EXTINF:-1 group-title=“IT”,Premium Mya
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1028.ts
+#EXTINF:-1 group-title=“IT”,Premium Joy
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1027.ts
+#EXTINF:-1 group-title=“IT”,Premium Energy
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1026.ts
+#EXTINF:-1 group-title=“IT”,Premium Emotion
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1025.ts
+#EXTINF:-1 group-title=“IT”,Super!
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2026.ts
+#EXTINF:-1 group-title=“IT”,Super Tennis HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2032.ts
+#EXTINF:-1 group-title=“IT”,Sport Italia
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2020.ts
+#EXTINF:-1 group-title=“IT”,Sky Uno HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2048.ts
+#EXTINF:-1 group-title=“IT”,Sky Cinema Oscar HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2043.ts
+#EXTINF:-1 group-title=“IT”,Sky Cinema Max  1 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2045.ts
+#EXTINF:-1 group-title=“IT”,Sky Cinema Cult HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2044.ts
+#EXTINF:-1 group-title=“IT”,Sky Cinema Classic HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2042.ts
+#EXTINF:-1 group-title=“IT”,Sky Cinema 24 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2041.ts
+#EXTINF:-1 group-title=“IT”,Sky Atlantic HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2046.ts
+#EXTINF:-1 group-title=“IT”,Sky 3D
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2049.ts
+#EXTINF:-1 group-title=“IT”,Real Time
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2018.ts
+#EXTINF:-1 group-title=“IT”,Rai Premium
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2015.ts
+#EXTINF:-1 group-title=“IT”,Rai Gulp
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2016.ts
+#EXTINF:-1 group-title=“IT”,PRIMAFILA 9 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1728.ts
+#EXTINF:-1 group-title=“IT”,Primafila 7 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2073.ts
+#EXTINF:-1 group-title=“IT”,Primafila 15 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2077.ts
+#EXTINF:-1 group-title=“IT”,Primafila 14 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2076.ts
+#EXTINF:-1 group-title=“IT”,Premium Stories
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1650.ts
+#EXTINF:-1 group-title=“IT”,PREMIUM SPORT HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1757.ts
+#EXTINF:-1 group-title=“IT”,Premium Joi
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2067.ts
+#EXTINF:-1 group-title=“IT”,Premium Crime HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2069.ts
+#EXTINF:-1 group-title=“IT”,Premium Crime 24
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2070.ts
+#EXTINF:-1 group-title=“IT”,Premium Cartoon Network
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2068.ts
+#EXTINF:-1 group-title=“IT”,Premium Sport 2 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2122.ts
+#EXTINF:-1 group-title=“IT”,Premium Action 24
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2066.ts
+#EXTINF:-1 group-title=“IT”,Net Geo People HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2061.ts
+#EXTINF:-1 group-title=“IT”,Nat Geo Wild HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2060.ts
+#EXTINF:-1 group-title=“IT”,MILAN CHANNEL
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1938.ts
+#EXTINF:-1 group-title=“IT”,Marco polo
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2017.ts
+#EXTINF:-1 group-title=“IT”,LA 7
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2021.ts
+#EXTINF:-1 group-title=“IT”,K2
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2027.ts
+#EXTINF:-1 group-title=“IT”,Juventus Channel
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2035.ts
+#EXTINF:-1 group-title=“IT”,IRIS
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2025.ts
+#EXTINF:-1 group-title=“IT”,History Channel
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2063.ts
+#EXTINF:-1 group-title=“IT”,Gambero Rosso
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2055.ts
+#EXTINF:-1 group-title=“IT”,Fox Sports HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2033.ts
+#EXTINF:-1 group-title=“IT”,Fox Life
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2050.ts
+#EXTINF:-1 group-title=“IT”,Fox HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2051.ts
+#EXTINF:-1 group-title=“IT”,Fox Comedy HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2053.ts
+#EXTINF:-1 group-title=“IT”,Focus
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2023.ts
+#EXTINF:-1 group-title=“IT”,Dmax HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2019.ts
+#EXTINF:-1 group-title=“IT”,Discovery Travel & Living HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2058.ts
+#EXTINF:-1 group-title=“IT”,Cielo
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2024.ts
+#EXTINF:-1 group-title=“IT”,Cartoonito
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2029.ts
+#EXTINF:-1 group-title=“IT”,Cartoon Network
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2028.ts
+#EXTINF:-1 group-title=“IT”,CANALE 5 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2011.ts
+#EXTINF:-1 group-title=“IT”,Caccia e Pesca
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2054.ts
+#EXTINF:-1 group-title=“IT”,Bike Channel HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2036.ts
+#EXTINF:-1 group-title=“IT”,AXN Sci Fi
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2064.ts
+#EXTINF:-1 group-title=“IT”,AXN HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2065.ts
+#EXTINF:-1 group-title=“IT”,Alice
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2022.ts
+#EXTINF:-1 group-title=“IT”,Sky Arte HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1061.ts
+#EXTINF:-1 group-title=“IT”,SKY Supercalcio HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2078.ts
+#EXTINF:-1 group-title=“IT”,Premium Joy HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2123.ts
+#EXTINF:-1 group-title=“IT”,Premium Energy HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2124.ts
+#EXTINF:-1 group-title=“IT”,Premium Emotion HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2125.ts
+#EXTINF:-1 group-title=“IT”,Premium Discovery HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2126.ts
+#EXTINF:-1 group-title=“IT”,Premium Crime 24 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2127.ts
+#EXTINF:-1 group-title=“IT”,Premium Comedy HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2128.ts
+#EXTINF:-1 group-title=“IT”,Premium Cinema 24 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2129.ts
+#EXTINF:-1 group-title=“IT”,Premium Cinema 2 24 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2130.ts
+#EXTINF:-1 group-title=“IT”,Premium Cartoon HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2131.ts
+#EXTINF:-1 group-title=“IT”,Premium Calcio HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2134.ts
+#EXTINF:-1 group-title=“IT”,Premium Action 24 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2132.ts
+#EXTINF:-1 group-title=“FR”, PARIS PREMIERE HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2163.ts
+#EXTINF:-1 group-title=“FR”, L'Equipe 21
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1863.ts
+#EXTINF:-1 group-title=“FR”, Foot + 24 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1478.ts
+#EXTINF:-1 group-title=“FR”, EuroSport
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1862.ts
+#EXTINF:-1 group-title=“FR”, Canal+ HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1639.ts
+#EXTINF:-1 group-title=“FR”, CANAL+ FAMILY HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1924.ts
+#EXTINF:-1 group-title=“FR”, CANAL+ ACTION HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1923.ts
+#EXTINF:-1 group-title=“ES”, TVE1
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2144.ts
+#EXTINF:-1 group-title=“ES”, TV3 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2145.ts
+#EXTINF:-1 group-title=“ES”, Telecinco
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1774.ts
+#EXTINF:-1 group-title=“ES”, SYFY
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2153.ts
+#EXTINF:-1 group-title=“ES”, RT Español
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2151.ts
+#EXTINF:-1 group-title=“ES”, RealMadrid TV
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1589.ts
+#EXTINF:-1 group-title=“ES”, Proyecto 40
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2150.ts
+#EXTINF:-1 group-title=“ES”, la sexta HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2154.ts
+#EXTINF:-1 group-title=“ES”, LA 2
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1771.ts
+#EXTINF:-1 group-title=“ES”, LA 1
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1770.ts
+#EXTINF:-1 group-title=“ES”, KISS TV
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2155.ts
+#EXTINF:-1 group-title=“ES”, Taquilla 8
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2633.ts
+#EXTINF:-1 group-title=“ES”, Taquilla 6
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2632.ts
+#EXTINF:-1 group-title=“ES”, Taquilla 4
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2631.ts
+#EXTINF:-1 group-title=“ES”, Taquilla 3
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2630.ts
+#EXTINF:-1 group-title=“ES”, Taquilla 2
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2629.ts
+#EXTINF:-1 group-title=“ES”, Taquilla 1
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2628.ts
+#EXTINF:-1 group-title=“ES”, Hollywood HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2156.ts
+#EXTINF:-1 group-title=“ES”, History
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2146.ts
+#EXTINF:-1 group-title=“ES”, Galicia TV
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2157.ts
+#EXTINF:-1 group-title=“ES”, FOX LIFE
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2158.ts
+#EXTINF:-1 group-title=“ES”, Fox Crime
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2159.ts
+#EXTINF:-1 group-title=“ES”, Fox
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2147.ts
+#EXTINF:-1 group-title=“ES”, Extremadura Tv
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2160.ts
+#EXTINF:-1 group-title=“ES”, EUROSPORT
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2161.ts
+#EXTINF:-1 group-title=“ES”, Disney Channel
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2162.ts
+#EXTINF:-1 group-title=“ES”, Cuatro
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1773.ts
+#EXTINF:-1 group-title=“ES”, Canal  Deportes
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2149.ts
+#EXTINF:-1 group-title=“ES”, Bein Sport Espagne
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2143.ts
+#EXTINF:-1 group-title=“ES”, Barca TV
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1585.ts
+#EXTINF:-1 group-title=“ES”, Antena3
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2152.ts
+#EXTINF:-1 group-title=“ES”, Antena 3
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1772.ts
+#EXTINF:-1,>>>>>>>FRANC<<<<<<<
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/834.ts
+#EXTINF:-1 group-title=“FR”, M6 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/985.ts
+#EXTINF:-1 group-title=“FR”, TF1 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1159.ts
+#EXTINF:-1 group-title=“FR”, Gulli
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1288.ts
+#EXTINF:-1 group-title=“FR”, Arte
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1298.ts
+#EXTINF:-1 group-title=“FR”, Animaux
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1300.ts
+#EXTINF:-1 group-title=“FR”, Action
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1299.ts
+#EXTINF:-1 group-title=“FR”, TMC
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1294.ts
+#EXTINF:-1 group-title=“FR”, RTL 9
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1295.ts
+#EXTINF:-1 group-title=“FR”, NT1
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1296.ts
+#EXTINF:-1 group-title=“FR”, Nrj12
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1297.ts
+#EXTINF:-1 group-title=“FR”,Cine Comedie HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2721.ts
+#EXTINF:-1 group-title=“FR”,Cine Aventure HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2722.ts
+#EXTINF:-1 group-title=“FR”, Planete-HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2716.ts
+#EXTINF:-1 group-title=“FR”, Planete-A-and-E-HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2717.ts
+#EXTINF:-1 group-title=“FR”, PARIS PREMIERE  HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2718.ts
+#EXTINF:-1 group-title=“FR”, PARAMOUNT CHANNEL HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2719.ts
+#EXTINF:-1 group-title=“FR”, LUX TV
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/984.ts
+#EXTINF:-1 group-title=“FR”, Cine Action HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2723.ts
+#EXTINF:-1 group-title=“FR”,  Cine horreur HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2720.ts
+#EXTINF:-1 group-title=“FR”, Piwi +
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1289.ts
+#EXTINF:-1 group-title=“FR”, OCS Max
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1291.ts
+#EXTINF:-1 group-title=“FR”, OCS Geant
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1292.ts
+#EXTINF:-1 group-title=“UK”, History Channel
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1268.ts
+#EXTINF:-1 group-title=“FR”, Disney Channel
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1286.ts
+#EXTINF:-1 group-title=“FR”, Disney Cinema
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1285.ts
+#EXTINF:-1 group-title=“FR”, France 2
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/949.ts
+#EXTINF:-1 group-title=“FR”, France 3
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/950.ts
+#EXTINF:-1 group-title=“FR”, France 4
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/951.ts
+#EXTINF:-1 group-title=“FR”, France 5
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/952.ts
+#EXTINF:-1 group-title=“FR”, 13eme Rue
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1211.ts
+#EXTINF:-1 group-title=“FR”, SyFy
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1210.ts
+#EXTINF:-1 group-title=“FR”, Canal Series
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1279.ts
+#EXTINF:-1 group-title=“FR”, Canal
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1284.ts
+#EXTINF:-1 group-title=“FR”, Canal J
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1287.ts
+#EXTINF:-1 group-title=“FR”, Canal Family
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1281.ts
+#EXTINF:-1 group-title=“FR”, Canal DÃ©calÃ©
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1282.ts
+#EXTINF:-1 group-title=“FR”, Canal Cinema
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1283.ts
+#EXTINF:-1 group-title=“FR”, Cine Frisson
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1278.ts
+#EXTINF:-1 group-title=“FR”, Cine Classic
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/910.ts
+#EXTINF:-1 group-title=“FR”, CinÃ© Plus Emotion HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/908.ts
+#EXTINF:-1 group-title=“FR”, Canal+ Cinema
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1209.ts
+#EXTINF:-1,????? PORTUGAL ?????
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2165.ts
+#EXTINF:-1 group-title=“PT”, Tvi 24
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2176.ts
+#EXTINF:-1 group-title=“PT”, TV Cine 4
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2181.ts
+#EXTINF:-1 group-title=“PT”, TV Cine 3
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2180.ts
+#EXTINF:-1 group-title=“PT”, TV Cine 2
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2179.ts
+#EXTINF:-1 group-title=“PT”, TV Cine 1
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2178.ts
+#EXTINF:-1 group-title=“PT”, Sic Noticias
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2174.ts
+#EXTINF:-1 group-title=“PT”, Sic Mulher
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2175.ts
+#EXTINF:-1 group-title=“PT”, Sic
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2173.ts
+#EXTINF:-1 group-title=“PT”, RTP Memoria
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2169.ts
+#EXTINF:-1 group-title=“PT”, RTP Madeira
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2170.ts
+#EXTINF:-1 group-title=“PT”, RTP Africa
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2171.ts
+#EXTINF:-1 group-title=“PT”, RTP Acores
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2172.ts
+#EXTINF:-1 group-title=“PT”, RTP 3
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2168.ts
+#EXTINF:-1 group-title=“PT”, RTP 2
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2167.ts
+#EXTINF:-1 group-title=“PT”, RTP 1
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2166.ts
+#EXTINF:-1 group-title=“PT”, Nickelodeon
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2198.ts
+#EXTINF:-1 group-title=“PT”, Nat Geo Wild
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2196.ts
+#EXTINF:-1 group-title=“PT”, Historia
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2190.ts
+#EXTINF:-1 group-title=“PT”, Fox Crime
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2195.ts
+#EXTINF:-1 group-title=“PT”, Euronews
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2177.ts
+#EXTINF:-1 group-title=“PT”, Disney Junior
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2201.ts
+#EXTINF:-1 group-title=“PT”, Disney Channel
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2200.ts
+#EXTINF:-1 group-title=“PT”, Cine Mundo
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2183.ts
+#EXTINF:-1 group-title=“PT”, Cartoon Network
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2199.ts
+#EXTINF:-1 group-title=“PT”, Canal Panda
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2202.ts
+#EXTINF:-1 group-title=“PT”, Biggs
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2203.ts
+#EXTINF:-1 group-title=“PT”, Benfica TV 2
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2188.ts
+#EXTINF:-1 group-title=“PT”, Benfica TV 1
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2187.ts
+#EXTINF:-1 group-title=“PT”, AXN White HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2192.ts
+#EXTINF:-1 group-title=“PT”, AXN HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/2191.ts
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/836.ts
+#EXTINF:-1 group-title=“UK”, Watch
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1738.ts
+#EXTINF:-1group-title=“USA”,ABC
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1928.ts
+#EXTINF:-1 group-title=“UK”, TV Nasa
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1568.ts
+#EXTINF:-1 group-title=“UK”, TLC-IRELAND
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1746.ts
+#EXTINF:-1 group-title=“UK”, CHANNEL 5
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1742.ts
+#EXTINF:-1 group-title=“UK”, BBC 1 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/878.ts
+#EXTINF:-1 group-title=“UK”, BBC 4 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1745.ts
+#EXTINF:-1 group-title=“FR”, EuroNews
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/920.ts
+#EXTINF:-1 group-title=“UK”, CBS Action
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1277.ts
+#EXTINF:-1 group-title=“UK”, CBS Drama
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1276.ts
+#EXTINF:-1 group-title=“UK”, CBS Reality
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1275.ts
+#EXTINF:-1 group-title=“UK”, ITV 1
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1267.ts
+#EXTINF:-1 group-title=“UK”, ITV 2 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1266.ts
+#EXTINF:-1 group-title=“UK”, ITV 3
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1265.ts
+#EXTINF:-1 group-title=“UK”, ITV 4
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1264.ts
+#EXTINF:-1 group-title=“UK”, SKY Two HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1259.ts
+#EXTINF:-1 group-title=“UK”, SKY Atlantic HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1258.ts
+#EXTINF:-1 group-title=“UK”, SKY Living HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1257.ts
+#EXTINF:-1 group-title=“UK”, Sky Action HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1060.ts
+#EXTINF:-1 group-title=“UK”, Sky Movies Action
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1747.ts
+#EXTINF:-1 group-title=“UK”, Sky Movies Drama
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1694.ts
+#EXTINF:-1 group-title=“UK”, SKY Movies Premier HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1253.ts
+#EXTINF:-1 group-title=“UK”, Sky Movies  Premiere
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1748.ts
+#EXTINF:-1 group-title=“UK”, Sky Movies Thriller HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1251.ts
+#EXTINF:-1 group-title=“UK”, Sky Movies Sci-fi & Horror HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1252.ts
+#EXTINF:-1 group-title=“UK”, SKY Movies Disney HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1255.ts
+#EXTINF:-1 group-title=“UK”, Sky Movies Modern
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1098.ts
+#EXTINF:-1 group-title=“UK”, Sky Movies Family
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1097.ts
+#EXTINF:-1 group-title=“UK”, Sky Movies Comedy
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1096.ts
+#EXTINF:-1 group-title=“UK”, Sky Movies Select
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1099.ts
+#EXTINF:-1 group-title=“UK”,Yesterday
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1789.ts
+#EXTINF:-1 group-title=“UK”,Sky Living
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1784.ts
+#EXTINF:-1 group-title=“UK”,Sky Arts
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1782.ts
+#EXTINF:-1 group-title=“UK”,Sky 1
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1785.ts
+#EXTINF:-1 group-title=“UK”,Home
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1786.ts
+#EXTINF:-1 group-title=“UK”,Gold
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1788.ts
+#EXTINF:-1 group-title=“UK”,Watch
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1792.ts
+#EXTINF:-1 group-title=“UK”,Vintage_TV
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1800.ts
+#EXTINF:-1 group-title=“UK”,Travel
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1802.ts
+#EXTINF:-1 group-title=“UK”,TLC
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1803.ts
+#EXTINF:-1 group-title=“UK”,Sky Thriller
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1805.ts
+#EXTINF:-1 group-title=“UK”,Sky News
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1829.ts
+#EXTINF:-1 group-title=“UK”,Sky Movies Comedy Central
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1795.ts
+#EXTINF:-1 group-title=“UK”,Quest
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1807.ts
+#EXTINF:-1 group-title=“UK”,PICK
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1808.ts
+#EXTINF:-1 group-title=“UK”,More 4
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1809.ts
+#EXTINF:-1 group-title=“UK”,Life Time
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1831.ts
+#EXTINF:-1 group-title=“UK”,Horror Channel
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1810.ts
+#EXTINF:-1 group-title=“UK”,H2
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1811.ts
+#EXTINF:-1 group-title=“UK”,FOX
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1783.ts
+#EXTINF:-1 group-title=“UK”,Film 4
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1813.ts
+#EXTINF:-1 group-title=“UK”,Drama
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1794.ts
+#EXTINF:-1 group-title=“UK”,Disney XD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1832.ts
+#EXTINF:-1 group-title=“UK”,Disney Jr
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1833.ts
+#EXTINF:-1 group-title=“UK”,Disney Channel
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1814.ts
+#EXTINF:-1 group-title=“UK”,Discovery Turbo
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1815.ts
+#EXTINF:-1 group-title=“UK”,Discovery Science
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1816.ts
+#EXTINF:-1 group-title=“UK”,Discovery Home Health
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1817.ts
+#EXTINF:-1 group-title=“UK”,Discovery
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1818.ts
+#EXTINF:-1 group-title=“UK”,Dave
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1790.ts
+#EXTINF:-1 group-title=“UK”,Chelsea TV
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1835.ts
+#EXTINF:-1 group-title=“UK”,Channel 4
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1820.ts
+#EXTINF:-1 group-title=“UK”,BBC_one
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1838.ts
+#EXTINF:-1 group-title=“UK”,BBC TOW
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1839.ts
+#EXTINF:-1 group-title=“UK”,BBC Three
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1840.ts
+#EXTINF:-1 group-title=“UK”,BBC News
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1841.ts
+#EXTINF:-1 group-title=“UK”,At The Races
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1821.ts
+#EXTINF:-1 group-title=“UK”,Animal Planet
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1822.ts
+#EXTINF:-1 group-title=“UK”,Alibi
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1793.ts
+#EXTINF:-1 group-title=“UK”,5 USA
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1824.ts
+#EXTINF:-1 group-title=“UK”,3E
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1825.ts
+#EXTINF:-1 group-title=“UK”, Sky Sport News HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1675.ts
+#EXTINF:-1 group-title=“UK”, Sky Sport F1 HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1120.ts
+#EXTINF:-1 group-title=“UK”, REALLY
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1935.ts
+#EXTINF:-1 group-title=“UK”, ITVBE
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1936.ts
+#EXTINF:-1 group-title=“UK”, EuroSport 1
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1861.ts
+#EXTINF:-1 group-title=“UK”, Carton Network
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1672.ts
+#EXTINF:-1 group-title=“UK”, Disney Junior
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1271.ts
+#EXTINF:-1 group-title=“UK”, Nickelodeon
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1261.ts
+#EXTINF:-1 group-title=“UK”, Nat Geo Wild
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1262.ts
+#EXTINF:-1 group-title=“UK”, National Geographic Channel
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1322.ts
+#EXTINF:-1 group-title=“UK”, Nat Geo
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1263.ts
+#EXTINF:-1 group-title=“FR”, Nat Geo HD
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1290.ts
+#EXTINF:-1 group-title=“UK”, Discovery Channel
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1673.ts
+#EXTINF:-1 group-title=“UK”, Discovery History
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1274.ts
+#EXTINF:-1 group-title=“UK”, BT Sport ESPN
+http://ksportiptv.com:1557/live/GEZUAR/KURBAN-BAJRAMIN/1671.ts
