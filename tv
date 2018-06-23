@@ -1,69 +1,186 @@
 #EXTM3U
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="",PORTUGAL
-http://0.0.0.0:1234
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="PORTUGAL",PORTUGAL
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="PORTUGAL",SPORT TV 1
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="PORTUGAL",SPORT TV 2
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="PORTUGAL",SPORT TV 3
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="PORTUGAL",SPORT TV 4
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="PORTUGAL",SPORT TV 5
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="PORTUGAL",TV CINE 1
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="PORTUGAL",TV CINE 2
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="PORTUGAL",TV CINE 3
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="PORTUGAL",TV CINE 4
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="PORTUGAL",TV Series
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="USA",USA
-http://0.0.0.0:1234
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",ESPANHA
-http://0.0.0.0:1234
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",La 1
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",La 2
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",Antena 3
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",Cuatro
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",Telecinco
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",La Sexta
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",Paramount
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",Divinity
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",DKiss
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",TEN
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",Be Mad
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",MEGA
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",Discovery MAX
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",Energy
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",FDF
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",Atresseries
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",Neox
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",Nova
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",13tv
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",Boing
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",Clan
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",Disney
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",Teledeporte
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",GOL
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",Real Madrid TV
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",Telemadrid
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",La Otra
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",8 Madrid
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",TV3
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",8TV
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",Super3 33
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",Barcelona TV
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",Canal Sur
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",TVG
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",TVG 2
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",ETB 1
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",ETB 2
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",TV Canaria
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",CMT
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",IB3
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",Aragón TV
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",7RM
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ESPANHA",Extremadura TV
-
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="ITALIA",ITALIA
-http://0.0.0.0:1234
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="FRANÇA",FRANÇA
-http://0.0.0.0:1234
-#EXTINF:-1 tvg-id=""tv-logo="" group-title="UK",UK
-http://0.0.0.0:1234
+EXTINF:-1,US : AMC HD
+http://193.200.164.171:6969/live/jad/jad/179.ts
+EXTINF:-1,US: BYU TV
+http://193.200.164.171:6969/live/jad/jad/164.ts
+EXTINF:-1,US: CBSN HD
+http://193.200.164.171:6969/live/jad/jad/2222.ts
+EXTINF:-1,US: CNBC
+http://193.200.164.171:6969/live/jad/jad/3246.ts
+EXTINF:-1,US: CNBC HD (backup)
+http://193.200.164.171:6969/live/jad/jad/11545.ts
+EXTINF:-1,US: DISCCOVERY HD
+http://193.200.164.171:6969/live/jad/jad/139.ts
+EXTINF:-1,US: Discovery Velocity
+http://193.200.164.171:6969/live/jad/jad/3481.ts
+EXTINF:-1,US: Tennis Channel HD
+http://193.200.164.171:6969/live/jad/jad/2453.ts
+EXTINF:-1,US: TV LAND HD  (NL)
+http://193.200.164.171:6969/live/jad/jad/8955.ts
+EXTINF:-1,US: ABC HD
+http://193.200.164.171:6969/live/jad/jad/136.ts
+EXTINF:-1,US: ABC NEWS HD
+http://193.200.164.171:6969/live/jad/jad/135.ts
+EXTINF:-1,US: BRAVO HD(1)
+http://193.200.164.171:6969/live/jad/jad/128.ts
+EXTINF:-1,US: CBS
+http://193.200.164.171:6969/live/jad/jad/131.ts
+EXTINF:-1,US: COMEDY CENTRAL HD
+http://193.200.164.171:6969/live/jad/jad/141.ts
+EXTINF:-1,US: CW HD
+http://193.200.164.171:6969/live/jad/jad/140.ts
+EXTINF:-1,US: ESPN HD
+http://193.200.164.171:6969/live/jad/jad/129.ts
+EXTINF:-1,US: FOX NEWS HD
+http://193.200.164.171:6969/live/jad/jad/127.ts
+EXTINF:-1,US: HISTORY HD
+http://193.200.164.171:6969/live/jad/jad/895.ts
+EXTINF:-1,US: Investigation Discovery
+http://193.200.164.171:6969/live/jad/jad/3486.ts
+EXTINF:-1,US: NBC Golf
+http://193.200.164.171:6969/live/jad/jad/3485.ts
+EXTINF:-1,US: SYFY HD
+http://193.200.164.171:6969/live/jad/jad/124.ts
+EXTINF:-1,US: TNT HD
+http://193.200.164.171:6969/live/jad/jad/122.ts
+EXTINF:-1,US: A&E HD
+http://193.200.164.171:6969/live/jad/jad/50.ts
+EXTINF:-1,US: Bloomberg TV
+http://193.200.164.171:6969/live/jad/jad/6978.ts
+EXTINF:-1,US: BNN
+http://193.200.164.171:6969/live/jad/jad/5801.ts
+EXTINF:-1,US: Boomerang
+http://193.200.164.171:6969/live/jad/jad/5762.ts
+EXTINF:-1,US: CMT HD 1080P
+http://193.200.164.171:6969/live/jad/jad/8596.ts
+EXTINF:-1,US: CNN HD
+http://193.200.164.171:6969/live/jad/jad/142.ts
+EXTINF:-1,US: CNN HD *
+http://193.200.164.171:6969/live/jad/jad/7982.ts
+EXTINF:-1,US: CNN HD 1080P
+http://193.200.164.171:6969/live/jad/jad/8595.ts
+EXTINF:-1,US: CNN US HD
+http://193.200.164.171:6969/live/jad/jad/7254.ts
+EXTINF:-1,US: Comedy Central HD 1080P
+http://193.200.164.171:6969/live/jad/jad/8594.ts
+EXTINF:-1,US: Cooking Channel HD 1080P
+http://193.200.164.171:6969/live/jad/jad/8593.ts
+EXTINF:-1,US: CW HD 1080P
+http://193.200.164.171:6969/live/jad/jad/8591.ts
+EXTINF:-1,US: CW11
+http://193.200.164.171:6969/live/jad/jad/5768.ts
+EXTINF:-1,US: DESTINATION AMERICA
+http://193.200.164.171:6969/live/jad/jad/10184.ts
+EXTINF:-1,US: Discovery Channel
+http://193.200.164.171:6969/live/jad/jad/7917.ts
+EXTINF:-1,US: Discovery Family HD 1080P
+http://193.200.164.171:6969/live/jad/jad/8590.ts
+EXTINF:-1,US: Discovery HD Showcase
+http://193.200.164.171:6969/live/jad/jad/5761.ts
+EXTINF:-1,US: Discovery Science HD 1080P
+http://193.200.164.171:6969/live/jad/jad/8589.ts
+EXTINF:-1,US: Disney HD 1080P
+http://193.200.164.171:6969/live/jad/jad/8588.ts
+EXTINF:-1,US: DISNEY JR HD
+http://193.200.164.171:6969/live/jad/jad/7918.ts
+EXTINF:-1,US: Disney Jr. HD 1080P
+http://193.200.164.171:6969/live/jad/jad/8587.ts
+EXTINF:-1,US: Disney XD HD
+http://193.200.164.171:6969/live/jad/jad/7919.ts
+EXTINF:-1,US: Disney XD HD 1080P
+http://193.200.164.171:6969/live/jad/jad/8586.ts
+EXTINF:-1,US: DIY HD 1080P
+http://193.200.164.171:6969/live/jad/jad/8585.ts
+EXTINF:-1,US: E!
+http://193.200.164.171:6969/live/jad/jad/7775.ts
+EXTINF:-1,US: El Rey Network HD 1080P
+http://193.200.164.171:6969/live/jad/jad/8584.ts
+EXTINF:-1,US: EPIX HD 1080P
+http://193.200.164.171:6969/live/jad/jad/8583.ts
+EXTINF:-1,US: MLB Network
+http://193.200.164.171:6969/live/jad/jad/3477.ts
+EXTINF:-1,US: MSG HD
+http://193.200.164.171:6969/live/jad/jad/7253.ts
+EXTINF:-1,US: MSNBC HD
+http://193.200.164.171:6969/live/jad/jad/3245.ts
+EXTINF:-1,US: MSNBC HD 1080P
+http://193.200.164.171:6969/live/jad/jad/8557.ts
+EXTINF:-1,US: MTV HD 1080P
+http://193.200.164.171:6969/live/jad/jad/8556.ts
+EXTINF:-1,US: MTV Rocks
+http://193.200.164.171:6969/live/jad/jad/5757.ts
+EXTINF:-1,US: MTVLive HD 1080P
+http://193.200.164.171:6969/live/jad/jad/8555.ts
+EXTINF:-1,US: MY13
+http://193.200.164.171:6969/live/jad/jad/7992.ts
+EXTINF:-1,US: MY9 TV
+http://193.200.164.171:6969/live/jad/jad/7156.ts
+EXTINF:-1,US: NASA TV HD
+http://193.200.164.171:6969/live/jad/jad/8390.ts
+EXTINF:-1,US: Nat Geo Wild HD 1080P
+http://193.200.164.171:6969/live/jad/jad/8554.ts
+EXTINF:-1,US: NBC
+http://193.200.164.171:6969/live/jad/jad/6621.ts
+EXTINF:-1,US: NBC HD 1080P
+http://193.200.164.171:6969/live/jad/jad/8549.ts
+EXTINF:-1,US: NBCSN HD 1080P
+http://193.200.164.171:6969/live/jad/jad/8548.ts
+EXTINF:-1,US: NEWSMAX YT LIVE HD
+http://193.200.164.171:6969/live/jad/jad/7789.ts
+EXTINF:-1,US: NFL Network 1
+http://193.200.164.171:6969/live/jad/jad/5724.ts
+EXTINF:-1,US: NHL Network(1)
+http://193.200.164.171:6969/live/jad/jad/3474.ts
+EXTINF:-1,US: NHL Network HD 1080P
+http://193.200.164.171:6969/live/jad/jad/8550.ts
+EXTINF:-1,US: Nick HD 1080P
+http://193.200.164.171:6969/live/jad/jad/8553.ts
+EXTINF:-1,US: Nick Jr. HD 1080P
+http://193.200.164.171:6969/live/jad/jad/8552.ts
+EXTINF:-1,US: Nicktoons HD 1080P
+http://193.200.164.171:6969/live/jad/jad/8551.ts
+EXTINF:-1,US: Nursery Rhymes (Baby Songs)
+http://193.200.164.171:6969/live/jad/jad/7158.ts
+EXTINF:-1,US: OUTDOOR CHANNEL HD
+http://193.200.164.171:6969/live/jad/jad/5756.ts
+EXTINF:-1,US: WE HD 1080P
+http://193.200.164.171:6969/live/jad/jad/8529.ts
+EXTINF:-1,US: WEATHERNATION
+http://193.200.164.171:6969/live/jad/jad/7150.ts
+EXTINF:-1,US: WGN America HD
+http://193.200.164.171:6969/live/jad/jad/7260.ts
+EXTINF:-1,US: WGN News Chicago
+http://193.200.164.171:6969/live/jad/jad/7151.ts
+EXTINF:-1,US: WWE HD 1080
+http://193.200.164.171:6969/live/jad/jad/8693.ts
+EXTINF:-1,US: WWE HD backup
+http://193.200.164.171:6969/live/jad/jad/8409.ts
+EXTINF:-1,US: Yes Network
+http://193.200.164.171:6969/live/jad/jad/7149.ts
+EXTINF:-1,US: YTV
+http://193.200.164.171:6969/live/jad/jad/7148.ts
+EXTINF:-1,US: Sportsnet 360 HD
+http://193.200.164.171:6969/live/jad/jad/97.ts
+EXTINF:-1,US: TSN 1
+http://193.200.164.171:6969/live/jad/jad/92.ts
+EXTINF:-1,US: TSN 3*
+http://193.200.164.171:6969/live/jad/jad/94.ts
+EXTINF:-1,US: TSN 4 HD
+http://193.200.164.171:6969/live/jad/jad/95.ts
+EXTINF:-1,US: CNBC HD 1080
+http://193.200.164.171:6969/live/jad/jad/14883.ts
+EXTINF:-1,US: MSNBC
+http://193.200.164.171:6969/live/jad/jad/7685.ts
+EXTINF:-1,US: TENNIS HD
+http://193.200.164.171:6969/live/jad/jad/16743.ts
+EXTINF:-1,US: BET HD
+http://193.200.164.171:6969/live/jad/jad/16853.ts
+EXTINF:-1,US: BOUNCE (SD)
+http://193.200.164.171:6969/live/jad/jad/16852.ts
+EXTINF:-1,US: NESN HD
+http://193.200.164.171:6969/live/jad/jad/16851.ts
+EXTINF:-1,US: TV ONE
+http://193.200.164.171:6969/live/jad/jad/16854.ts
+EXTINF:-1,US: Oxygen HD
+http://193.200.164.171:6969/live/jad/jad/16895.ts
 
