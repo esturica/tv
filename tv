@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="##### TV FRANCE #####" tvg-logo="" group-title="",##### TV FRANCE #####
-https://raw.githubusercontent.com/esturica/tv/master/fr-tv.m3u
+https://raw.githubusercontent.com/esturica/tv/master/fr-tv
 #EXTINF:-1 tvg-id="" tvg-name="##### VOD FRANCE #####" tvg-logo="" group-title="",##### VOD FRANCE #####
-https://raw.githubusercontent.com/esturica/tv/master/vodfr.m3u
+https://raw.githubusercontent.com/esturica/tv/master/vodfr
 
