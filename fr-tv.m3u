@@ -1,0 +1,413 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="21354" tvg-name="##### FRANCE #####" tvg-logo="" group-title="FRANCE",##### FRANCE #####
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/21354.ts
+#EXTINF:-1 tvg-id="1385" tvg-name="FR - TF1 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/TF1HD.png" group-title="EUROPE | France HD/SD - OTT",FR - TF1 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1385.ts
+#EXTINF:-1 tvg-id="1384" tvg-name="FR - FRANCE 2 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/FRANCE2HD.png" group-title="EUROPE | France HD/SD - OTT",FR - FRANCE 2 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1384.ts
+#EXTINF:-1 tvg-id="1383" tvg-name="FR - FRANCE 3 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/FRANCE3HD.png" group-title="EUROPE | France HD/SD - OTT",FR - FRANCE 3 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1383.ts
+#EXTINF:-1 tvg-id="1320" tvg-name="FR - CANAL  HD" tvg-logo="http://212.8.253.112/logo/FRANCE/CANAL+HD.png" group-title="EUROPE | France HD/SD - OTT",FR - CANAL  HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1320.ts
+#EXTINF:-1 tvg-id="1321" tvg-name="FR - CANAL PLUS HD" tvg-logo="http://212.8.253.112/logo/FRANCE/CANALPLAY%201HD.png" group-title="EUROPE | France HD/SD - OTT",FR - CANAL PLUS HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1321.ts
+#EXTINF:-1 tvg-id="1381" tvg-name="FR - FRANCE 5 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/FRANCE5HD.png" group-title="EUROPE | France HD/SD - OTT",FR - FRANCE 5 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1381.ts
+#EXTINF:-1 tvg-id="1378" tvg-name="FR - M6 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/M6HD.png" group-title="EUROPE | France HD/SD - OTT",FR - M6 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1378.ts
+#EXTINF:-1 tvg-id="1371" tvg-name="FR - ARTE HD" tvg-logo="http://212.8.253.112/logo/FRANCE/ARTEHD.png" group-title="EUROPE | France HD/SD - OTT",FR - ARTE HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1371.ts
+#EXTINF:-1 tvg-id="1379" tvg-name="FR - C8 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/C8HD.png" group-title="EUROPE | France HD/SD - OTT",FR - C8 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1379.ts
+#EXTINF:-1 tvg-id="1377" tvg-name="FR - W9 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/W9.png" group-title="EUROPE | France HD/SD - OTT",FR - W9 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1377.ts
+#EXTINF:-1 tvg-id="1339" tvg-name="FR- TMC HD" tvg-logo="http://212.8.253.112/logo/FRANCE2/TMC.png" group-title="EUROPE | France HD/SD - OTT",FR- TMC HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1339.ts
+#EXTINF:-1 tvg-id="18714" tvg-name="FR - TFX HD" tvg-logo="http://212.8.253.112/logo/FRANCE/TFXHD.png" group-title="EUROPE | France HD/SD - OTT",FR - TFX HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18714.ts
+#EXTINF:-1 tvg-id="18672" tvg-name="FR - LCP HD" tvg-logo="http://212.8.253.112/logo/FRANCE/LCP.png" group-title="EUROPE | France HD/SD - OTT",FR - LCP HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18672.ts
+#EXTINF:-1 tvg-id="1382" tvg-name="FR - FRANCE 4 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/FRANCE4HD.png" group-title="EUROPE | France HD/SD - OTT",FR - FRANCE 4 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1382.ts
+#EXTINF:-1 tvg-id="1373" tvg-name="FR - BFM HD" tvg-logo="http://212.8.253.112/logo/FRANCE/BFMHD.png" group-title="EUROPE | France HD/SD - OTT",FR - BFM HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1373.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR - CNews" tvg-logo="" group-title="EUROPE | France HD/SD - OTT",FR - CNews
+#EXTINF:-1 tvg-id="1295" tvg-name="FR - CSTAR HD" tvg-logo="http://212.8.253.112/logo/FRANCE/CSTARHD.png" group-title="EUROPE | France HD/SD - OTT",FR - CSTAR HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1295.ts
+#EXTINF:-1 tvg-id="1366" tvg-name="FR - GULLI HD" tvg-logo="http://212.8.253.112/logo/FRANCE/GULLIHD.png" group-title="EUROPE | France HD/SD - OTT",FR - GULLI HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1366.ts
+#EXTINF:-1 tvg-id="1380" tvg-name="FR - FRANCE O HD" tvg-logo="http://212.8.253.112/logo/FRANCE/FRANCEOHD.png" group-title="EUROPE | France HD/SD - OTT",FR - FRANCE O HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1380.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR - TF1 SERIES FILMS" tvg-logo="" group-title="EUROPE | France HD/SD - OTT",FR - TF1 SERIES FILMS
+#EXTINF:-1 tvg-id="" tvg-name="FR - LA CHAINE L´ÉQUIPE" tvg-logo="" group-title="EUROPE | France HD/SD - OTT",FR - LA CHAINE L´ÉQUIPE
+#EXTINF:-1 tvg-id="1370" tvg-name="FR - 6TER HD" tvg-logo="http://212.8.253.112/logo/FRANCE/6TERHD.png" group-title="EUROPE | France HD/SD - OTT",FR - 6TER HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1370.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR - RMC STORY" tvg-logo="" group-title="EUROPE | France HD/SD - OTT",FR - RMC STORY
+#EXTINF:-1 tvg-id="1333" tvg-name="FR - RMC DECOVERTE 24 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/RMCDECOVERTE24HD.png" group-title="EUROPE | France HD/SD - OTT",FR - RMC DECOVERTE 24 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1333.ts
+#EXTINF:-1 tvg-id="1300" tvg-name="FR - CHERIE25 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/CHERIE25HD.png" group-title="EUROPE | France HD/SD - OTT",FR - CHERIE25 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1300.ts
+#EXTINF:-1 tvg-id="1357" tvg-name="FR - LCI HD" tvg-logo="http://212.8.253.112/logo/FRANCE/LCIHD.png" group-title="EUROPE | France HD/SD - OTT",FR - LCI HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1357.ts
+#EXTINF:-1 tvg-id="1291" tvg-name="FR - FRANCE INFO HD" tvg-logo="http://212.8.253.112/logo/FRANCE/FRANCEINFOHD.png" group-title="EUROPE | France HD/SD - OTT",FR - FRANCE INFO HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1291.ts
+#EXTINF:-1 tvg-id="1374" tvg-name="FR - TV 5 MONDE HD" tvg-logo="http://212.8.253.112/logo/FRANCE/TV5MONDE.png" group-title="EUROPE | France HD/SD - OTT",FR - TV 5 MONDE HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1374.ts
+#EXTINF:-1 tvg-id="1353" tvg-name="FR - TEVA HD" tvg-logo="http://212.8.253.112/logo/FRANCE/TEVAHD.png" group-title="EUROPE | France HD/SD - OTT",FR - TEVA HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1353.ts
+#EXTINF:-1 tvg-id="1341" tvg-name="FR - PARIS PREMIERE HD" tvg-logo="http://212.8.253.112/logo/FRANCE/PARISPREMIEREHD.png" group-title="EUROPE | France HD/SD - OTT",FR - PARIS PREMIERE HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1341.ts
+#EXTINF:-1 tvg-id="1335" tvg-name="FR - RTL 9 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/RTL9HD.png" group-title="EUROPE | France HD/SD - OTT",FR - RTL 9 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1335.ts
+#EXTINF:-1 tvg-id="1278" tvg-name="FR - TV BREIZH HD" tvg-logo="http://212.8.253.112/logo/FRANCE/TVBREIZHHD.png" group-title="EUROPE | France HD/SD - OTT",FR - TV BREIZH HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1278.ts
+#EXTINF:-1 tvg-id="1316" tvg-name="FR - CANAL  CINEMA HD" tvg-logo="http://212.8.253.112/logo/FRANCE/CANAL+CINEMAHD.png" group-title="EUROPE | France HD/SD - OTT",FR - CANAL  CINEMA HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1316.ts
+#EXTINF:-1 tvg-id="1315" tvg-name="FR - CANAL  SPORT HD" tvg-logo="http://212.8.253.112/logo/FRANCE/CANAL+SPORTHD.png" group-title="EUROPE | France HD/SD - OTT",FR - CANAL  SPORT HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1315.ts
+#EXTINF:-1 tvg-id="1319" tvg-name="FR - CANAL  SERIE HD" tvg-logo="http://212.8.253.112/logo/FRANCE/CANAL+SERIEHD.png" group-title="EUROPE | France HD/SD - OTT",FR - CANAL  SERIE HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1319.ts
+#EXTINF:-1 tvg-id="1318" tvg-name="FR - CANAL  FAMILY HD" tvg-logo="http://212.8.253.112/logo/FRANCE/CANAL+FAMILYHD.png" group-title="EUROPE | France HD/SD - OTT",FR - CANAL  FAMILY HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1318.ts
+#EXTINF:-1 tvg-id="1317" tvg-name="FR - CANAL  DECALE HD" tvg-logo="http://212.8.253.112/logo/FRANCE/CANAL+DECALEHD.png" group-title="EUROPE | France HD/SD - OTT",FR - CANAL  DECALE HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1317.ts
+#EXTINF:-1 tvg-id="1330" tvg-name="FR - BEIN SPORT 1 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/BEISPORT1HD.png" group-title="EUROPE | France HD/SD - OTT",FR - BEIN SPORT 1 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1330.ts
+#EXTINF:-1 tvg-id="1329" tvg-name="FR - BEIN SPORT 2 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/BEINSPORT2HD.png" group-title="EUROPE | France HD/SD - OTT",FR - BEIN SPORT 2 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1329.ts
+#EXTINF:-1 tvg-id="1328" tvg-name="FR - BEIN SPORT 3 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/BEINSPORT3HD.png" group-title="EUROPE | France HD/SD - OTT",FR - BEIN SPORT 3 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1328.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR - MOSAIQUE BEIN SPORTS" tvg-logo="" group-title="EUROPE | France HD/SD - OTT",FR - MOSAIQUE BEIN SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="FR - ACTU OCS" tvg-logo="" group-title="EUROPE | France HD/SD - OTT",FR - ACTU OCS
+#EXTINF:-1 tvg-id="1309" tvg-name="FR - OCS MAX HD" tvg-logo="http://212.8.253.112/logo/FRANCE/OCSMAXHD.png" group-title="EUROPE | France HD/SD - OTT",FR - OCS MAX HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1309.ts
+#EXTINF:-1 tvg-id="1308" tvg-name="FR - OCS CITY HD" tvg-logo="http://212.8.253.112/logo/FRANCE/OCSCITYHD.png" group-title="EUROPE | France HD/SD - OTT",FR - OCS CITY HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1308.ts
+#EXTINF:-1 tvg-id="1307" tvg-name="FR - OCS CHOC HD" tvg-logo="http://212.8.253.112/logo/FRANCE/OCSCHOCHD.png" group-title="EUROPE | France HD/SD - OTT",FR - OCS CHOC HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1307.ts
+#EXTINF:-1 tvg-id="1306" tvg-name="FR - OCS GEANTS HD" tvg-logo="http://212.8.253.112/logo/FRANCE/OCSGO.png" group-title="EUROPE | France HD/SD - OTT",FR - OCS GEANTS HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1306.ts
+#EXTINF:-1 tvg-id="18668" tvg-name="FR - OCS GO CINEMA 1 HD" tvg-logo="http://185.79.114.21:88/logos/OCS.png" group-title="EUROPE | France HD/SD - OTT",FR - OCS GO CINEMA 1 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18668.ts
+#EXTINF:-1 tvg-id="18667" tvg-name="FR - OCS GO CINEMA 2 HD" tvg-logo="http://185.79.114.21:88/logos/OCS.png" group-title="EUROPE | France HD/SD - OTT",FR - OCS GO CINEMA 2 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18667.ts
+#EXTINF:-1 tvg-id="18666" tvg-name="FR - OCS GO CINEMA 3 HD" tvg-logo="http://185.79.114.21:88/logos/OCS.png" group-title="EUROPE | France HD/SD - OTT",FR - OCS GO CINEMA 3 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18666.ts
+#EXTINF:-1 tvg-id="18665" tvg-name="FR - OCS GO CINEMA 4 HD" tvg-logo="http://185.79.114.21:88/logos/OCS.png" group-title="EUROPE | France HD/SD - OTT",FR - OCS GO CINEMA 4 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18665.ts
+#EXTINF:-1 tvg-id="18664" tvg-name="FR - OCS GO CINEMA 5 HD" tvg-logo="http://185.79.114.21:88/logos/OCS.png" group-title="EUROPE | France HD/SD - OTT",FR - OCS GO CINEMA 5 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18664.ts
+#EXTINF:-1 tvg-id="1274" tvg-name="FR - TCM CINEMA HD" tvg-logo="http://185.79.114.21:80/premiumlogo/extremesports.png" group-title="EUROPE | France HD/SD - OTT",FR - TCM CINEMA HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1274.ts
+#EXTINF:-1 tvg-id="1337" tvg-name="FR - PARAMOUNT CHANNEL HD" tvg-logo="http://212.8.253.112/logo/FRANCE/PARAMOUNTCHANNELHD.png" group-title="EUROPE | France HD/SD - OTT",FR - PARAMOUNT CHANNEL HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1337.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR - PARAMOUNT DECALE" tvg-logo="" group-title="EUROPE | France HD/SD - OTT",FR - PARAMOUNT DECALE
+#EXTINF:-1 tvg-id="1336" tvg-name="FR - ACTION HD" tvg-logo="http://212.8.253.112/logo/FRANCE/ACTIONHD.png" group-title="EUROPE | France HD/SD - OTT",FR - ACTION HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1336.ts
+#EXTINF:-1 tvg-id="1302" tvg-name="FR - CINE  PREMIERE HD" tvg-logo="http://212.8.253.112/logo/FRANCE/CINE+PREMIEREHD.png" group-title="EUROPE | France HD/SD - OTT",FR - CINE  PREMIERE HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1302.ts
+#EXTINF:-1 tvg-id="1314" tvg-name="FR - CINE  FRISSON HD" tvg-logo="http://212.8.253.112/logo/FRANCE/CINE+FRISSONHD.png" group-title="EUROPE | France HD/SD - OTT",FR - CINE  FRISSON HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1314.ts
+#EXTINF:-1 tvg-id="1310" tvg-name="FR - CINE  EMOTION HD" tvg-logo="http://212.8.253.112/logo/FRANCE/CINE+EMOTIONHD.png" group-title="EUROPE | France HD/SD - OTT",FR - CINE  EMOTION HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1310.ts
+#EXTINF:-1 tvg-id="1312" tvg-name="FR - CINE  FAMIZ HD" tvg-logo="http://212.8.253.112/logo/FRANCE/CINE+FAMIZHD.png" group-title="EUROPE | France HD/SD - OTT",FR - CINE  FAMIZ HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1312.ts
+#EXTINF:-1 tvg-id="1301" tvg-name="FR - CINE  CLUB HD" tvg-logo="http://212.8.253.112/logo/FRANCE/CINE+CLUBHD.png" group-title="EUROPE | France HD/SD - OTT",FR - CINE  CLUB HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1301.ts
+#EXTINF:-1 tvg-id="1313" tvg-name="FR - CINE  CLASSIC HD" tvg-logo="http://212.8.253.112/logo/FRANCE/CINE+CLASSICHD.png" group-title="EUROPE | France HD/SD - OTT",FR - CINE  CLASSIC HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1313.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR - SUNDANCE" tvg-logo="" group-title="EUROPE | France HD/SD - OTT",FR - SUNDANCE
+#EXTINF:-1 tvg-id="" tvg-name="FR - EUROCHANNEL" tvg-logo="" group-title="EUROPE | France HD/SD - OTT",FR - EUROCHANNEL
+#EXTINF:-1 tvg-id="17413" tvg-name="FR - CANAL PLAY 1" tvg-logo="http://212.8.253.112/logo/FRANCE/CANALPLAY2HD.png" group-title="EUROPE | France HD/SD - OTT",FR - CANAL PLAY 1
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/17413.ts
+#EXTINF:-1 tvg-id="17412" tvg-name="FR - CANAL PLAY 2" tvg-logo="http://212.8.253.112/logo/FRANCE/CANALPLAY2HD.png" group-title="EUROPE | France HD/SD - OTT",FR - CANAL PLAY 2
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/17412.ts
+#EXTINF:-1 tvg-id="17411" tvg-name="FR - CANAL PLAY 3" tvg-logo="http://212.8.253.112/logo/FRANCE/CANALPLAY2HD.png" group-title="EUROPE | France HD/SD - OTT",FR - CANAL PLAY 3
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/17411.ts
+#EXTINF:-1 tvg-id="17410" tvg-name="FR - CANAL PLAY 4" tvg-logo="http://212.8.253.112/logo/FRANCE/CANALPLAY2HD.png" group-title="EUROPE | France HD/SD - OTT",FR - CANAL PLAY 4
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/17410.ts
+#EXTINF:-1 tvg-id="17409" tvg-name="FR - CANAL PLAY 5" tvg-logo="http://212.8.253.112/logo/FRANCE/CANALPLAY2HD.png" group-title="EUROPE | France HD/SD - OTT",FR - CANAL PLAY 5
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/17409.ts
+#EXTINF:-1 tvg-id="17408" tvg-name="FR - CANAL PLAY 6" tvg-logo="http://212.8.253.112/logo/FRANCE/CANALPLAY2HD.png" group-title="EUROPE | France HD/SD - OTT",FR - CANAL PLAY 6
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/17408.ts
+#EXTINF:-1 tvg-id="17407" tvg-name="FR - CANAL PLAY 7" tvg-logo="http://212.8.253.112/logo/FRANCE/CANALPLAY2HD.png" group-title="EUROPE | France HD/SD - OTT",FR - CANAL PLAY 7
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/17407.ts
+#EXTINF:-1 tvg-id="17406" tvg-name="FR - CANAL PLAY 8" tvg-logo="http://212.8.253.112/logo/FRANCE/CANALPLAY2HD.png" group-title="EUROPE | France HD/SD - OTT",FR - CANAL PLAY 8
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/17406.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR - FILMO TV" tvg-logo="" group-title="EUROPE | France HD/SD - OTT",FR - FILMO TV
+#EXTINF:-1 tvg-id="" tvg-name="FR - NETFLIX" tvg-logo="" group-title="EUROPE | France HD/SD - OTT",FR - NETFLIX
+#EXTINF:-1 tvg-id="18711" tvg-name="FR - BET HD" tvg-logo="http://212.8.253.112/logo/FRANCE/BETHD.png" group-title="EUROPE | France HD/SD - OTT",FR - BET HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18711.ts
+#EXTINF:-1 tvg-id="1344" tvg-name="FR - AB 1 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/AB1HD.png" group-title="EUROPE | France HD/SD - OTT",FR - AB 1 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1344.ts
+#EXTINF:-1 tvg-id="1288" tvg-name="FR - MCM HD" tvg-logo="http://212.8.253.112/logo/FRANCE/MCMHD.png" group-title="EUROPE | France HD/SD - OTT",FR - MCM HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1288.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR - TF1 +1" tvg-logo="" group-title="EUROPE | France HD/SD - OTT",FR - TF1 +1
+#EXTINF:-1 tvg-id="" tvg-name="FR - COMEDY CENTRAL" tvg-logo="" group-title="EUROPE | France HD/SD - OTT",FR - COMEDY CENTRAL
+#EXTINF:-1 tvg-id="1322" tvg-name="FR - 13 EME RUE HD" tvg-logo="http://212.8.253.112/logo/FRANCE/13EMERUEHD.png" group-title="EUROPE | France HD/SD - OTT",FR - 13 EME RUE HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1322.ts
+#EXTINF:-1 tvg-id="1354" tvg-name="FR - SYFY HD" tvg-logo="http://212.8.253.112/logo/FRANCE/SYFYHD.png" group-title="EUROPE | France HD/SD - OTT",FR - SYFY HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1354.ts
+#EXTINF:-1 tvg-id="1294" tvg-name="FR - E! ENTERTAINMENT HD" tvg-logo="http://212.8.253.112/logo/FRANCE/E!ENTERTAINMENTHD.png" group-title="EUROPE | France HD/SD - OTT",FR - E! ENTERTAINMENT HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1294.ts
+#EXTINF:-1 tvg-id="1352" tvg-name="FR - MANGAS HD" tvg-logo="http://212.8.253.112/logo/FRANCE2/MANGA.png" group-title="EUROPE | France HD/SD - OTT",FR - MANGAS HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1352.ts
+#EXTINF:-1 tvg-id="1305" tvg-name="FR - HD1 HD" tvg-logo="http://185.79.114.21:88/logos/HD1.jpg" group-title="EUROPE | France HD/SD - OTT",FR - HD1 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1305.ts
+#EXTINF:-1 tvg-id="1343" tvg-name="FR - NUMERO 23 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/NUMERO23HD.png" group-title="EUROPE | France HD/SD - OTT",FR - NUMERO 23 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1343.ts
+#EXTINF:-1 tvg-id="1367" tvg-name="FR - GAME ONE HD" tvg-logo="http://212.8.253.112/logo/FRANCE/GAMEONEHD.png" group-title="EUROPE | France HD/SD - OTT",FR - GAME ONE HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1367.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR - GAME ONE +1" tvg-logo="http://212.8.253.112/logo/FRANCE/GAMEONEHD.png" group-title="EUROPE | France HD/SD - OTT",FR - GAME ONE +1
+#EXTINF:-1 tvg-id="1342" tvg-name="FR - COMEDIE HD" tvg-logo="http://212.8.253.112/logo/FRANCE/COMEDIEHD.png" group-title="EUROPE | France HD/SD - OTT",FR - COMEDIE HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1342.ts
+#EXTINF:-1 tvg-id="1311" tvg-name="FR - CINE  POLAR HD" tvg-logo="http://212.8.253.112/logo/FRANCE2/CINEPOLAR.png" group-title="EUROPE | France HD/SD - OTT",FR - CINE  POLAR HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1311.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR - WARNER TV" tvg-logo="" group-title="EUROPE | France HD/SD - OTT",FR - WARNER TV
+#EXTINF:-1 tvg-id="18712" tvg-name="FR - SERIE CLUB HD" tvg-logo="http://212.8.253.112/logo/FRANCE/SERIECLUBHD.png" group-title="EUROPE | France HD/SD - OTT",FR - SERIE CLUB HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18712.ts
+#EXTINF:-1 tvg-id="1296" tvg-name="FR - CINE FX HD" tvg-logo="http://212.8.253.112/logo/FRANCE/CINEFXHD.png" group-title="EUROPE | France HD/SD - OTT",FR - CINE FX HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1296.ts
+#EXTINF:-1 tvg-id="1284" tvg-name="FR - MTV HD" tvg-logo="http://212.8.253.112/logo/FRANCE/MTVHD.png" group-title="EUROPE | France HD/SD - OTT",FR - MTV HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1284.ts
+#EXTINF:-1 tvg-id="1293" tvg-name="FR - ELLE GIRL HD" tvg-logo="http://212.8.253.112/logo/FRANCE/ELLEGIRLHD.png" group-title="EUROPE | France HD/SD - OTT",FR - ELLE GIRL HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1293.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR - NON STOP PEOPLE" tvg-logo="" group-title="EUROPE | France HD/SD - OTT",FR - NON STOP PEOPLE
+#EXTINF:-1 tvg-id="" tvg-name="FR - NOVELAS TV" tvg-logo="" group-title="EUROPE | France HD/SD - OTT",FR - NOVELAS TV
+#EXTINF:-1 tvg-id="26599" tvg-name="FR - DISNEY CHANNEL 1 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/DISNEYCHANNEL1HD.png" group-title="EUROPE | France HD/SD - OTT",FR - DISNEY CHANNEL 1 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/26599.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR - DISNEY CHANNEL +1 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/DISNEYCHANNEL1HD.png" group-title="EUROPE | France HD/SD - OTT",FR - DISNEY CHANNEL +1 HD
+#EXTINF:-1 tvg-id="" tvg-name="FR - PITCHOU" tvg-logo="" group-title="EUROPE | France HD/SD - OTT",FR - PITCHOU
+#EXTINF:-1 tvg-id="" tvg-name="FR - BABY TV" tvg-logo="" group-title="EUROPE | France HD/SD - OTT",FR - BABY TV
+#EXTINF:-1 tvg-id="" tvg-name="FR - TFOU MAX" tvg-logo="" group-title="EUROPE | France HD/SD - OTT",FR - TFOU MAX
+#EXTINF:-1 tvg-id="1299" tvg-name="FR - BOOMERANG HD" tvg-logo="http://212.8.253.112/logo/FRANCE/BOOMERANGHD.png" group-title="EUROPE | France HD/SD - OTT",FR - BOOMERANG HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1299.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR - BOOMERANG +1" tvg-logo="http://212.8.253.112/logo/FRANCE/BOOMERANGHD.png" group-title="EUROPE | France HD/SD - OTT",FR - BOOMERANG +1
+#EXTINF:-1 tvg-id="18701" tvg-name="FR - BOING HD" tvg-logo="http://212.8.253.112/logo/FRANCE/BOINGHD.png" group-title="EUROPE | France HD/SD - OTT",FR - BOING HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18701.ts
+#EXTINF:-1 tvg-id="1361" tvg-name="FR - TIJI HD" tvg-logo="http://212.8.253.112/logo/FRANCE/TIJIHD.png" group-title="EUROPE | France HD/SD - OTT",FR - TIJI HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1361.ts
+#EXTINF:-1 tvg-id="1365" tvg-name="FR - CANAL J HD" tvg-logo="http://212.8.253.112/logo/FRANCE/CANALJHD.png" group-title="EUROPE | France HD/SD - OTT",FR - CANAL J HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1365.ts
+#EXTINF:-1 tvg-id="18702" tvg-name="FR - TOONAMI HD" tvg-logo="http://212.8.253.112/logo/FRANCE/TOONAMIHD.png" group-title="EUROPE | France HD/SD - OTT",FR - TOONAMI HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18702.ts
+#EXTINF:-1 tvg-id="1369" tvg-name="FR - PIWI HD" tvg-logo="http://212.8.253.112/logo/FRANCE/PIWIHD.png" group-title="EUROPE | France HD/SD - OTT",FR - PIWI HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1369.ts
+#EXTINF:-1 tvg-id="1362" tvg-name="FR - TELETOON HD" tvg-logo="http://212.8.253.112/logo/FRANCE/TELETOON+HD.png" group-title="EUROPE | France HD/SD - OTT",FR - TELETOON HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1362.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR - TELETOON +1" tvg-logo="http://212.8.253.112/logo/FRANCE/TELETOON+HD.png" group-title="EUROPE | France HD/SD - OTT",FR - TELETOON +1
+#EXTINF:-1 tvg-id="1363" tvg-name="FR - DISNEY JUNIOR HD" tvg-logo="http://212.8.253.112/logo/FRANCE/DISNEYJUNIORHD.png" group-title="EUROPE | France HD/SD - OTT",FR - DISNEY JUNIOR HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1363.ts
+#EXTINF:-1 tvg-id="1364" tvg-name="FR - DISNEY CINEMAGIC HD" tvg-logo="http://212.8.253.112/logo/FRANCE/DISNEYCINEMAGICHD.png" group-title="EUROPE | France HD/SD - OTT",FR - DISNEY CINEMAGIC HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1364.ts
+#EXTINF:-1 tvg-id="1368" tvg-name="FR - DISNEY XD HD" tvg-logo="http://212.8.253.112/logo/FRANCE/DISNEYXDHD.png" group-title="EUROPE | France HD/SD - OTT",FR - DISNEY XD HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1368.ts
+#EXTINF:-1 tvg-id="1297" tvg-name="FR - CARTOON NETWORK HD" tvg-logo="http://212.8.253.112/logo/FRANCE/CARTOONNETWORKHD.png" group-title="EUROPE | France HD/SD - OTT",FR - CARTOON NETWORK HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1297.ts
+#EXTINF:-1 tvg-id="1283" tvg-name="FR - NICKELODEON JUNIOR HD" tvg-logo="http://212.8.253.112/logo/FRANCE/NICKELODEONJUNIORHD.png" group-title="EUROPE | France HD/SD - OTT",FR - NICKELODEON JUNIOR HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1283.ts
+#EXTINF:-1 tvg-id="1276" tvg-name="FR - NICKELODEON HD" tvg-logo="http://212.8.253.112/logo/FRANCE/NICKELODEONHD.png" group-title="EUROPE | France HD/SD - OTT",FR - NICKELODEON HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1276.ts
+#EXTINF:-1 tvg-id="1351" tvg-name="FR - ANIMAUX HD" tvg-logo="http://212.8.253.112/logo/FRANCE/ANIMAUXHD.png" group-title="EUROPE | France HD/SD - OTT",FR - ANIMAUX HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1351.ts
+#EXTINF:-1 tvg-id="18698" tvg-name="FR - CRIME DISTRICT HD" tvg-logo="http://212.8.253.112/logo/FRANCE/CRIMEDISTRICTHD.png" group-title="EUROPE | France HD/SD - OTT",FR - CRIME DISTRICT HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18698.ts
+#EXTINF:-1 tvg-id="18699" tvg-name="FR - CHASSE ET PECHE HD" tvg-logo="http://212.8.253.112/logo/FRANCE/CHASSEETPECHEHD.png" group-title="EUROPE | France HD/SD - OTT",FR - CHASSE ET PECHE HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18699.ts
+#EXTINF:-1 tvg-id="1279" tvg-name="FR - TREK HD" tvg-logo="http://212.8.253.112/logo/FRANCE/TREKHD.png" group-title="EUROPE | France HD/SD - OTT",FR - TREK HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1279.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR - TOUTE L´HISTOIRE" tvg-logo="" group-title="EUROPE | France HD/SD - OTT",FR - TOUTE L´HISTOIRE
+#EXTINF:-1 tvg-id="1355" tvg-name="FR - VOYAGE HD" tvg-logo="http://212.8.253.112/logo/FRANCE/VOYAGEHD.png" group-title="EUROPE | France HD/SD - OTT",FR - VOYAGE HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1355.ts
+#EXTINF:-1 tvg-id="1350" tvg-name="FR - NGC HD" tvg-logo="http://212.8.253.112/logo/FRANCE/NGCHD.png" group-title="EUROPE | France HD/SD - OTT",FR - NGC HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1350.ts
+#EXTINF:-1 tvg-id="1349" tvg-name="FR - NGC WILD HD" tvg-logo="http://212.8.253.112/logo/FRANCE/NGCWILDHD.png" group-title="EUROPE | France HD/SD - OTT",FR - NGC WILD HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1349.ts
+#EXTINF:-1 tvg-id="1338" tvg-name="FR - HISTOIRE HD" tvg-logo="http://212.8.253.112/logo/FRANCE/HISTOIREHD.png" group-title="EUROPE | France HD/SD - OTT",FR - HISTOIRE HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1338.ts
+#EXTINF:-1 tvg-id="1334" tvg-name="FR - USHUAIA HD" tvg-logo="http://212.8.253.112/logo/FRANCE/USHUAIAHD.png" group-title="EUROPE | France HD/SD - OTT",FR - USHUAIA HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1334.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR - MY ZEN" tvg-logo="" group-title="EUROPE | France HD/SD - OTT",FR - MY ZEN
+#EXTINF:-1 tvg-id="1356" tvg-name="FR - SCIENCE ET VIE HD" tvg-logo="http://212.8.253.112/logo/FRANCE/SCIENCEETVIEHD.png" group-title="EUROPE | France HD/SD - OTT",FR - SCIENCE ET VIE HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1356.ts
+#EXTINF:-1 tvg-id="1358" tvg-name="FR - PLANET  HD" tvg-logo="http://212.8.253.112/logo/FRANCE/PLANET+HD.png" group-title="EUROPE | France HD/SD - OTT",FR - PLANET  HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1358.ts
+#EXTINF:-1 tvg-id="1359" tvg-name="FR - PLANET  CI HD" tvg-logo="http://212.8.253.112/logo/FRANCE/PLANET+CIHD.png" group-title="EUROPE | France HD/SD - OTT",FR - PLANET  CI HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1359.ts
+#EXTINF:-1 tvg-id="1360" tvg-name="FR - PLANET A&E HD" tvg-logo="http://212.8.253.112/logo/FRANCE/PLANETA&EHD.png" group-title="EUROPE | France HD/SD - OTT",FR - PLANET A&E HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1360.ts
+#EXTINF:-1 tvg-id="1348" tvg-name="FR - DISCOVERY HD" tvg-logo="http://212.8.253.112/logo/FRANCE/DISCOVERYHD.png" group-title="EUROPE | France HD/SD - OTT",FR - DISCOVERY HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1348.ts
+#EXTINF:-1 tvg-id="1347" tvg-name="FR - DISCOVERY SCIENCE HD" tvg-logo="http://212.8.253.112/logo/FRANCE/DISCOVERYSCIENCEHD.png" group-title="EUROPE | France HD/SD - OTT",FR - DISCOVERY SCIENCE HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1347.ts
+#EXTINF:-1 tvg-id="18700" tvg-name="FR - DISCOVERY INVESTIGATION HD" tvg-logo="http://212.8.253.112/logo/FRANCE/DISCOVERYINVESTIGATIONHD.png" group-title="EUROPE | France HD/SD - OTT",FR - DISCOVERY INVESTIGATION HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18700.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR - MUSEUM CHANNEL" tvg-logo="" group-title="EUROPE | France HD/SD - OTT",FR - MUSEUM CHANNEL
+#EXTINF:-1 tvg-id="1280" tvg-name="FR - TRACE URBAN HD" tvg-logo="http://212.8.253.112/logo/FRANCE/TRACEURBANHD.png" group-title="EUROPE | France HD/SD - OTT",FR - TRACE URBAN HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1280.ts
+#EXTINF:-1 tvg-id="1376" tvg-name="FR - NRJ 12 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/NRJ12HD.png" group-title="EUROPE | France HD/SD - OTT",FR - NRJ 12 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1376.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR - VIRGIN RADIO" tvg-logo="" group-title="EUROPE | France HD/SD - OTT",FR - VIRGIN RADIO
+#EXTINF:-1 tvg-id="" tvg-name="FR - MUSEUM CHANNEL" tvg-logo="" group-title="EUROPE | France HD/SD - OTT",FR - INDIES LIVE
+#EXTINF:-1 tvg-id="" tvg-name="FR - MUSEUM CHANNEL" tvg-logo="" group-title="EUROPE | France HD/SD - OTT",FR - O´FIVE
+#EXTINF:-1 tvg-id="18684" tvg-name="FR - BBLACK CLASSIC HD" tvg-logo="http://212.8.253.112/logo/FRANCE/BBLACKCLASSICHD.png" group-title="EUROPE | France HD/SD - OTT",FR - BBLACK CLASSIC HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18684.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR - BBLACK CARIBBEAN" tvg-logo="" group-title="EUROPE | France HD/SD - OTT",FR - BBLACK CARIBBEAN
+#EXTINF:-1 tvg-id="" tvg-name="FR - BBLACK CARIBBEAN" tvg-logo="" group-title="EUROPE | France HD/SD - OTT",FR - CLUBBING TV
+#EXTINF:-1 tvg-id="" tvg-name="FR - BBLACK CARIBBEAN" tvg-logo="" group-title="EUROPE | France HD/SD - OTT",FR - OKLM TV
+#EXTINF:-1 tvg-id="18680" tvg-name="FR - M6 MUSIC" tvg-logo="http://185.79.114.21:88/logos/m6music.png" group-title="EUROPE | France HD/SD - OTT",FR - M6 MUSIC
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18680.ts
+#EXTINF:-1 tvg-id="1287" tvg-name="FR - MCM TOP HD" tvg-logo="http://212.8.253.112/logo/FRANCE/MCMTOPHD.png" group-title="EUROPE | France HD/SD - OTT",FR - MCM TOP HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1287.ts
+#EXTINF:-1 tvg-id="1275" tvg-name="FR - RFM TV HD" tvg-logo="http://212.8.253.112/logo/FRANCE/RFMTVHD.png" group-title="EUROPE | France HD/SD - OTT",FR - RFM TV HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1275.ts
+#EXTINF:-1 tvg-id="18673" tvg-name="FR - TRACE TROPICAL HD" tvg-logo="http://212.8.253.112/logo/FRANCE/TRACETROPICALHD.png" group-title="EUROPE | France HD/SD - OTT",FR - TRACE TROPICAL HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18673.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR - BBLACK CARIBBEAN" tvg-logo="" group-title="EUROPE | France HD/SD - OTT",FR - MELODY
+#EXTINF:-1 tvg-id="18678" tvg-name="FR - MTV DANCE HD" tvg-logo="http://212.8.253.112/logo/FRANCE/MTVDANCEHD.png" group-title="EUROPE | France HD/SD - OTT",FR - MTV DANCE HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18678.ts
+#EXTINF:-1 tvg-id="18679" tvg-name="FR - MTV HITS HD" tvg-logo="http://212.8.253.112/logo/FRANCE/MTVHITSHD.png" group-title="EUROPE | France HD/SD - OTT",FR - MTV HITS HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18679.ts
+#EXTINF:-1 tvg-id="1286" tvg-name="FR - MEZZO HD" tvg-logo="http://212.8.253.112/logo/FRANCE/MEZZOHD.png" group-title="EUROPE | France HD/SD - OTT",FR - MEZZO HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1286.ts
+#EXTINF:-1 tvg-id="1285" tvg-name="FR - MEZZO LIVE HD" tvg-logo="http://212.8.253.112/logo/FRANCE/MEZZOLIVEHD.png" group-title="EUROPE | France HD/SD - OTT",FR - MEZZO LIVE HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1285.ts
+#EXTINF:-1 tvg-id="18677" tvg-name="FR - BRAVA HD" tvg-logo="http://212.8.253.112/logo/FRANCE/BRAVAHD.png" group-title="EUROPE | France HD/SD - OTT",FR - BRAVA HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18677.ts
+#EXTINF:-1 tvg-id="26600" tvg-name="FR - VH1 CLASSIC" tvg-logo="http://212.8.253.112/logo/FRANCE/VH1CLASSIC.png" group-title="EUROPE | France HD/SD - OTT",FR - VH1 CLASSIC
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/26600.ts
+#EXTINF:-1 tvg-id="18674" tvg-name="FR - TRACE GOSPEL HD" tvg-logo="http://185.79.114.21:88/logos/tracetv.png" group-title="EUROPE | France HD/SD - OTT",FR - TRACE GOSPEL HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18674.ts
+#EXTINF:-1 tvg-id="1345" tvg-name="FR - EQUIDIA LIVE HD" tvg-logo="http://212.8.253.112/logo/FRANCE/EQUIDIALIVEHD.png" group-title="EUROPE | France HD/SD - OTT",FR - EQUIDIA LIVE HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1345.ts
+#EXTINF:-1 tvg-id="1330" tvg-name="FR - BEIN SPORT 1 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/BEISPORT1HD.png" group-title="EUROPE | France HD/SD - OTT",FR - BEIN SPORT 1 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1330.ts
+#EXTINF:-1 tvg-id="1329" tvg-name="FR - BEIN SPORT 2 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/BEINSPORT2HD.png" group-title="EUROPE | France HD/SD - OTT",FR - BEIN SPORT 2 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1329.ts
+#EXTINF:-1 tvg-id="1328" tvg-name="FR - BEIN SPORT 3 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/BEINSPORT3HD.png" group-title="EUROPE | France HD/SD - OTT",FR - BEIN SPORT 3 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1328.ts
+#EXTINF:-1 tvg-id="18690" tvg-name="FR - BEIN SPORT MAX 4 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/BEINSPORTMAX4HD.png" group-title="EUROPE | France HD/SD - OTT",FR - BEIN SPORT MAX 4 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18690.ts
+#EXTINF:-1 tvg-id="18689" tvg-name="FR - BEIN SPORT MAX 5 HD ." tvg-logo="http://212.8.253.112/logo/FRANCE/BEINSPORTMAX5HD.png" group-title="EUROPE | France HD/SD - OTT",FR - BEIN SPORT MAX 5 HD .
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18689.ts
+#EXTINF:-1 tvg-id="18688" tvg-name="FR - BEIN SPORT MAX 6 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/BEINSPORTMAX6HD.png" group-title="EUROPE | France HD/SD - OTT",FR - BEIN SPORT MAX 6 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18688.ts
+#EXTINF:-1 tvg-id="18687" tvg-name="FR - BEIN SPORT MAX 7 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/BEINSPORTMAX7HD.png" group-title="EUROPE | France HD/SD - OTT",FR - BEIN SPORT MAX 7 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18687.ts
+#EXTINF:-1 tvg-id="18686" tvg-name="FR - BEIN SPORT MAX 8 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/BEINSPORTMAX8HD.png" group-title="EUROPE | France HD/SD - OTT",FR - BEIN SPORT MAX 8 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18686.ts
+#EXTINF:-1 tvg-id="18685" tvg-name="FR - BEIN SPORT MAX 9 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/BEINSPORTMAX9HD.png" group-title="EUROPE | France HD/SD - OTT",FR - BEIN SPORT MAX 9 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18685.ts
+#EXTINF:-1 tvg-id="18682" tvg-name="FR - AB MOTEUR HD" tvg-logo="http://212.8.253.112/logo/FRANCE/ABMOTEURHD.png" group-title="EUROPE | France HD/SD - OTT",FR - AB MOTEUR HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18682.ts
+#EXTINF:-1 tvg-id="1290" tvg-name="FR - GOLF CHANNEL HD" tvg-logo="http://212.8.253.112/logo/FRANCE/GOLFCHANNELHD.png" group-title="EUROPE | France HD/SD - OTT",FR - GOLF CHANNEL HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1290.ts
+#EXTINF:-1 tvg-id="26598" tvg-name="FR - RMC SPORT NEWS" tvg-logo="http://212.8.253.112/logo/FRANCE/RMCSPORTNEWS.png" group-title="EUROPE | France HD/SD - OTT",FR - RMC SPORT NEWS
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/26598.ts
+#EXTINF:-1 tvg-id="26597" tvg-name="FR - RMC SPORT 1 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/RMCSPORT1HD.png" group-title="EUROPE | France HD/SD - OTT",FR - RMC SPORT 1 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/26597.ts
+#EXTINF:-1 tvg-id="26596" tvg-name="FR - RMC SPORT 2 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/RMCSPORT2HD.png" group-title="EUROPE | France HD/SD - OTT",FR - RMC SPORT 2 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/26596.ts
+#EXTINF:-1 tvg-id="26595" tvg-name="FR - RMC SPORT 3 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/RMCSPORT3HD.png" group-title="EUROPE | France HD/SD - OTT",FR - RMC SPORT 3 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/26595.ts
+#EXTINF:-1 tvg-id="26594" tvg-name="FR - RMC SPORT 4 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/RMCSPORT4HD.png" group-title="EUROPE | France HD/SD - OTT",FR - RMC SPORT 4 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/26594.ts
+#EXTINF:-1 tvg-id="1327" tvg-name="FR - RMC ACCESS SPORT 1 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/RMCACCESSSPORT1HD.png" group-title="EUROPE | France HD/SD - OTT",FR - RMC ACCESS SPORT 1 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1327.ts
+#EXTINF:-1 tvg-id="1326" tvg-name="FR - RMC ACCESS SPORT 2 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/RMCACCESSSPORT2HD.png" group-title="EUROPE | France HD/SD - OTT",FR - RMC ACCESS SPORT 2 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1326.ts
+#EXTINF:-1 tvg-id="1325" tvg-name="FR - RMC ACCESS SPORT 3 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/RMCACCESSSPORT3HD.png" group-title="EUROPE | France HD/SD - OTT",FR - RMC ACCESS SPORT 3 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1325.ts
+#EXTINF:-1 tvg-id="1324" tvg-name="FR - RMC ACCESS SPORT 4 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/RMCACCESSSPORT4HD.png" group-title="EUROPE | France HD/SD - OTT",FR - RMC ACCESS SPORT 4 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1324.ts
+#EXTINF:-1 tvg-id="1332" tvg-name="FR - EUROSPORT 1HD" tvg-logo="http://212.8.253.112/logo/FRANCE/EUROSPORT1HD.png" group-title="EUROPE | France HD/SD - OTT",FR - EUROSPORT 1HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1332.ts
+#EXTINF:-1 tvg-id="1331" tvg-name="FR - EUROSPORT 2 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/EUROSPORT2HD.png" group-title="EUROPE | France HD/SD - OTT",FR - EUROSPORT 2 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1331.ts
+#EXTINF:-1 tvg-id="1323" tvg-name="FR - FOOT 24 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/FOOT24HD.png" group-title="EUROPE | France HD/SD - OTT",FR - FOOT 24 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1323.ts
+#EXTINF:-1 tvg-id="1340" tvg-name="FR - INFOSPORT  HD" tvg-logo="http://212.8.253.112/logo/FRANCE/INFOSPORT+HD.png" group-title="EUROPE | France HD/SD - OTT",FR - INFOSPORT  HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1340.ts
+#EXTINF:-1 tvg-id="1303" tvg-name="FR - L EQUIPE21 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/LEQUIPE21HD.png" group-title="EUROPE | France HD/SD - OTT",FR - L EQUIPE21 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1303.ts
+#EXTINF:-1 tvg-id="1292" tvg-name="FR - EXTREME SPORTS HD" tvg-logo="http://212.8.253.112/logo/FRANCE/EXTREMESPORTS%20HD.png" group-title="EUROPE | France HD/SD - OTT",FR - EXTREME SPORTS HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1292.ts
+#EXTINF:-1 tvg-id="18683" tvg-name="FR - BFM SPORT HD" tvg-logo="http://212.8.253.112/logo/FRANCE/BFMSPORTHD.png" group-title="EUROPE | France HD/SD - OTT",FR - BFM SPORT HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18683.ts
+#EXTINF:-1 tvg-id="1346" tvg-name="FR - EQUIDIA HD" tvg-logo="http://212.8.253.112/logo/FRANCE/EQUIDIAHD.png" group-title="EUROPE | France HD/SD - OTT",FR - EQUIDIA HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1346.ts
+#EXTINF:-1 tvg-id="1289" tvg-name="FR - GOLF  HD" tvg-logo="http://212.8.253.112/logo/FRANCE/GOLF+HD.png" group-title="EUROPE | France HD/SD - OTT",FR - GOLF  HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1289.ts
+#EXTINF:-1 tvg-id="1375" tvg-name="FR - FRANCE 24" tvg-logo="http://212.8.253.112/logo/FRANCE/FRANCE24.png" group-title="EUROPE | France HD/SD - OTT",FR - FRANCE 24
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1375.ts
+#EXTINF:-1 tvg-id="18671" tvg-name="FR - BFM BUSINESS HD" tvg-logo="http://185.79.114.21:88/logos/bfmbusiness.png" group-title="EUROPE | France HD/SD - OTT",FR - BFM BUSINESS HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18671.ts
+#EXTINF:-1 tvg-id="1372" tvg-name="FR - EURONEWS HD" tvg-logo="http://212.8.253.112/logo/FRANCE/EURONEWS(FRENCH).png" group-title="EUROPE | France HD/SD - OTT",FR - EURONEWS HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1372.ts
+#EXTINF:-1 tvg-id="18670" tvg-name="FR - I24 NEWS HD" tvg-logo="http://185.79.114.21:88/logos/i24news.png" group-title="EUROPE | France HD/SD - OTT",FR - I24 NEWS HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18670.ts
+#EXTINF:-1 tvg-id="1282" tvg-name="FR - SEASON HD" tvg-logo="http://212.8.253.112/logo/FRANCE/SEASONHD.png" group-title="EUROPE | France HD/SD - OTT",FR - SEASON HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1282.ts
+#EXTINF:-1 tvg-id="1298" tvg-name="FR - CANAL NEWS HD" tvg-logo="http://212.8.253.112/logo/FRANCE/CANALNEWSHD.png" group-title="EUROPE | France HD/SD - OTT",FR - CANAL NEWS HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1298.ts
+
+#EXTINF:-1 tvg-id="1304" tvg-name="FR - NT 1HD" tvg-logo="http://212.8.253.112/logo/FRANCE/NT1HD.png" group-title="EUROPE | France HD/SD - OTT",FR - NT 1HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/1304.ts
+#EXTINF:-1 tvg-id="18697" tvg-name="FR - A LA CARTE 1 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/ALACARTE%201HD.png" group-title="EUROPE | France HD/SD - OTT",FR - A LA CARTE 1 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18697.ts
+#EXTINF:-1 tvg-id="18696" tvg-name="FR - A LA CARTE 2 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/ALACARTE2HD.png" group-title="EUROPE | France HD/SD - OTT",FR - A LA CARTE 2 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18696.ts
+#EXTINF:-1 tvg-id="18695" tvg-name="FR - A LA CARTE 3 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/ALACARTE3HD.png" group-title="EUROPE | France HD/SD - OTT",FR - A LA CARTE 3 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18695.ts
+#EXTINF:-1 tvg-id="18694" tvg-name="FR - A LA CARTE 4 HD" tvg-logo="http://185.79.114.21:88/logos/A%20LA%20CARTE.png" group-title="EUROPE | France HD/SD - OTT",FR - A LA CARTE 4 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18694.ts
+#EXTINF:-1 tvg-id="18693" tvg-name="FR - A LA CARTE 5 HD" tvg-logo="http://185.79.114.21:88/logos/A%20LA%20CARTE.png" group-title="EUROPE | France HD/SD - OTT",FR - A LA CARTE 5 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18693.ts
+#EXTINF:-1 tvg-id="18692" tvg-name="FR - A LA CARTE 6 HD" tvg-logo="http://185.79.114.21:88/logos/A%20LA%20CARTE.png" group-title="EUROPE | France HD/SD - OTT",FR - A LA CARTE 6 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18692.ts
+#EXTINF:-1 tvg-id="18691" tvg-name="FR - A LA CARTE 7 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/ALACARTE7HD.png" group-title="EUROPE | France HD/SD - OTT",FR - A LA CARTE 7 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18691.ts
+#EXTINF:-1 tvg-id="18709" tvg-name="FR - CANAL SAVOIR HD" tvg-logo="http://212.8.253.112/logo/FRANCE/CANALSAVOIRHD.png" group-title="EUROPE | France HD/SD - OTT",FR - CANAL SAVOIR HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18709.ts
+#EXTINF:-1 tvg-id="18708" tvg-name="FR - CANALPLAY 1 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/CANALPLAY%201HD.png" group-title="EUROPE | France HD/SD - OTT",FR - CANALPLAY 1 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18708.ts
+#EXTINF:-1 tvg-id="18707" tvg-name="FR - CANALPLAY 2 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/CANALPLAY2HD.png" group-title="EUROPE | France HD/SD - OTT",FR - CANALPLAY 2 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18707.ts
+#EXTINF:-1 tvg-id="18706" tvg-name="FR - CANALPLAY 3 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/CANALPLAY%203HD.png" group-title="EUROPE | France HD/SD - OTT",FR - CANALPLAY 3 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18706.ts
+#EXTINF:-1 tvg-id="18705" tvg-name="FR - CANALPLAY 4 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/CANALPLAY4HD.png" group-title="EUROPE | France HD/SD - OTT",FR - CANALPLAY 4 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18705.ts
+#EXTINF:-1 tvg-id="18704" tvg-name="FR - CANALPLAY 5 HD" tvg-logo="http://212.8.253.112/logo/FRANCE/CANALPLAY5HD.png" group-title="EUROPE | France HD/SD - OTT",FR - CANALPLAY 5 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18704.ts
+#EXTINF:-1 tvg-id="18703" tvg-name="FR - CANALPLAY 6 HD" tvg-logo="http://185.79.114.21:88/logos/canalplay.png" group-title="EUROPE | France HD/SD - OTT",FR - CANALPLAY 6 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18703.ts
+#EXTINF:-1 tvg-id="18663" tvg-name="FR - ORANGE CINEMA 1 HD" tvg-logo="http://185.79.114.21:88/logos/Orange.png" group-title="EUROPE | France HD/SD - OTT",FR - ORANGE CINEMA 1 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18663.ts
+#EXTINF:-1 tvg-id="18662" tvg-name="FR - ORANGE CINEMA 2 HD" tvg-logo="http://185.79.114.21:88/logos/Orange.png" group-title="EUROPE | France HD/SD - OTT",FR - ORANGE CINEMA 2 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18662.ts
+#EXTINF:-1 tvg-id="18661" tvg-name="FR - ORANGE CINEMA 3 HD" tvg-logo="http://185.79.114.21:88/logos/Orange.png" group-title="EUROPE | France HD/SD - OTT",FR - ORANGE CINEMA 3 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18661.ts
+#EXTINF:-1 tvg-id="18660" tvg-name="FR - ORANGE CINEMA 4 HD" tvg-logo="http://185.79.114.21:88/logos/Orange.png" group-title="EUROPE | France HD/SD - OTT",FR - ORANGE CINEMA 4 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18660.ts
+#EXTINF:-1 tvg-id="18659" tvg-name="FR - ORANGE CINEMA 5 HD" tvg-logo="http://185.79.114.21:88/logos/Orange.png" group-title="EUROPE | France HD/SD - OTT",FR - ORANGE CINEMA 5 HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18659.ts
+#EXTINF:-1 tvg-id="18658" tvg-name="FR - ORANGE CINEMA ACTION HD" tvg-logo="http://185.79.114.21:88/logos/Orange.png" group-title="EUROPE | France HD/SD - OTT",FR - ORANGE CINEMA ACTION HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18658.ts
+#EXTINF:-1 tvg-id="18657" tvg-name="FR - ORANGE CINEMA AVENTURE HD" tvg-logo="http://185.79.114.21:88/logos/Orange.png" group-title="EUROPE | France HD/SD - OTT",FR - ORANGE CINEMA AVENTURE HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18657.ts
+#EXTINF:-1 tvg-id="18656" tvg-name="FR - ORANGE CINEMA HD" tvg-logo="http://185.79.114.21:88/logos/Orange.png" group-title="EUROPE | France HD/SD - OTT",FR - ORANGE CINEMA HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18656.ts
+#EXTINF:-1 tvg-id="18655" tvg-name="FR - ORANGE CINEMA HORREUR HD" tvg-logo="http://185.79.114.21:88/logos/Orange.png" group-title="EUROPE | France HD/SD - OTT",FR - ORANGE CINEMA HORREUR HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18655.ts
+#EXTINF:-1 tvg-id="18654" tvg-name="FR - ORANGE COMMENT C'EST FAIT HD" tvg-logo="http://185.79.114.21:88/logos/Orange.png" group-title="EUROPE | France HD/SD - OTT",FR - ORANGE COMMENT C'EST FAIT HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18654.ts
+#EXTINF:-1 tvg-id="18653" tvg-name="FR - ORANGE ENQUETE EXLUSIVE HD" tvg-logo="http://185.79.114.21:88/logos/Orange.png" group-title="EUROPE | France HD/SD - OTT",FR - ORANGE ENQUETE EXLUSIVE HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18653.ts
+#EXTINF:-1 tvg-id="18710" tvg-name="FR - A HD" tvg-logo="http://212.8.253.112/logo/FRANCE/AHD.png" group-title="EUROPE | France HD/SD - OTT",FR - A HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18710.ts
+#EXTINF:-1 tvg-id="18681" tvg-name="FR - GINX HD" tvg-logo="http://185.79.114.21:88/logos/GINX.png" group-title="EUROPE | France HD/SD - OTT",FR - GINX HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18681.ts
+#EXTINF:-1 tvg-id="18669" tvg-name="FR - KTO HD" tvg-logo="http://212.8.253.112/logo/FRANCE/KTOHD.png" group-title="EUROPE | France HD/SD - OTT",FR - KTO HD
+http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/18669.ts
+
+
