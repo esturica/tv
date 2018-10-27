@@ -1,0 +1,1056 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TVCine 2">
+    <display-name lang="pt">TVCine 2</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=24&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVCine 1">
+    <display-name lang="pt">TVCine 1</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=23&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVCine 3">
+    <display-name lang="pt">TVCine 3</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=25&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVCine 4">
+    <display-name lang="pt">TVCine 4</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=26&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TV Series">
+    <display-name lang="pt">TV Series</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=158&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Benfica TV HD">
+    <display-name lang="pt">Benfica TV HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=231&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SPORT TV3">
+    <display-name lang="pt">SPORT TV3</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=8&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SPORT TV4">
+    <display-name lang="pt">SPORT TV4</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=154&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SPORT TV1">
+    <display-name lang="pt">SPORT TV1</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=6&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SPORT TV2">
+    <display-name lang="pt">SPORT TV2</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=7&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SPORT TV5">
+    <display-name lang="pt">SPORT TV5</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=111&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <programme start="20181027012000 +0100" stop="20181027032000 +0100" channel="TVCine 2">
+    <title lang="pt">Gigi</title>
+    <desc lang="pt">Um lar, um carro, criadas e as últimas modas: o solteirão mais desejado de Paris oferece tudo isto a Gigi. Mas Gigi, que passa rapidamente de menina pateta para uma encantadora e culta senhora, anseia pelas maravilhas que o dinheiro não compra.(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 2_114541/16_9/325/244" />
+  </programme>
+  <programme start="20181027032000 +0100" stop="20181027070000 +0100" channel="TVCine 2">
+    <title lang="pt">E Tudo o Vento Levou</title>
+    <desc lang="pt">Scarlett O'Hara é uma mulher forte, em plena Guerra Civil Americana. Tudo lhe corria bem, não fosse Ashley, por quem está apaixonada, ir casar com outra. Entretanto, chega um novo homem em dia de festa, também o dia em que a guerra começa, Rhett Butler. Os dois alimentam uma relação de amor-ódio(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 2_113421/16_9/325/244" />
+  </programme>
+  <programme start="20181027070000 +0100" stop="20181027084500 +0100" channel="TVCine 2">
+    <title lang="pt">Sob a Areia</title>
+    <desc lang="pt">Na Dinamarca, após a Segunda Guerra Mundial, um grupo de prisioneiros de guerra alemães é forçado a limpar uma praia de milhares de minas terrestres, debaixo da vigilância de um sargento dinamarquês. No entanto, aos poucos, este cria laços com o jovem grupo(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 2_11250010/16_9/325/244" />
+  </programme>
+  <programme start="20181027084500 +0100" stop="20181027111000 +0100" channel="TVCine 2">
+    <title lang="pt">Ammore e Malavita</title>
+    <desc lang="pt">Em Nápoles, Ciro é um assassino muito temido. Um dia, Fátima, uma jovem enfermeira, está no lugar errado à hora errada e Ciro tem de se livrar da rapariga que viu demais, mas as coisas não correm como planeado(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 2_11273162/16_9/325/244" />
+  </programme>
+  <programme start="20181027111000 +0100" stop="20181027124500 +0100" channel="TVCine 2">
+    <title lang="pt">Baltimore Rising</title>
+    <desc lang="pt">Depois de a morte de um jovem sob custódia da polícia, em 2015, ter incendiado os ânimos na cidade norte-americana de Baltimore, um grupo de atores prepara um espetáculo com a participação de ativistas e autoridades, numa tentativa de unir a comunidade(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 2_11246504/16_9/325/244" />
+  </programme>
+  <programme start="20181027124500 +0100" stop="20181027142500 +0100" channel="TVCine 2">
+    <title lang="pt">Trumbo</title>
+    <desc lang="pt">Ao recusar depor perante a comissão de atividades antiamericanas, Dalton Trumbo, um dos maiores argumentistas de sempre, é perseguido e impedido de trabalhar(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 2_11273118/16_9/325/244" />
+  </programme>
+  <programme start="20181027142500 +0100" stop="20181027153500 +0100" channel="TVCine 2">
+    <title lang="pt">A Águia Branca</title>
+    <desc lang="pt">Um falsificador e o seu bando disfarçam-se de índios e atacam mensageiros de correio, o que provoca uma guerra contra os verdadeiros índios. Águia Branca troca a sua farda da Pony Express pelas vestes índias da sua origem, determinado em acabar com a guerra(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 2_11246528/16_9/325/244" />
+  </programme>
+  <programme start="20181027153500 +0100" stop="20181027163500 +0100" channel="TVCine 2">
+    <title lang="pt">O Cavaleiro Ciclone</title>
+    <desc lang="pt">O pistoleiro Texas Grant chega a uma cidade estranha onde toda a gente o reconhece pelo nome de Rawlins. Até a mulher de Rawlins confunde Grant com o marido desaparecido. Grant vê-se forçado a resolver o mistério(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 2_11256706/16_9/325/244" />
+  </programme>
+  <programme start="20181027163500 +0100" stop="20181027175500 +0100" channel="TVCine 2">
+    <title lang="pt">O 7.º de Cavalaria</title>
+    <desc lang="pt">Um oficial, acusado de cobardia, voluntaria-se para ir recolher o corpo de um general morto no campo de batalha, em pleno território índio(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 2_11253256/16_9/325/244" />
+  </programme>
+  <programme start="20181027175500 +0100" stop="20181027194500 +0100" channel="TVCine 2">
+    <title lang="pt">Há Lodo No Cais</title>
+    <desc lang="pt">Um ex-pugilista testemunha um crime que pode destruir um sindicato corrupto(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 2_11256693/16_9/325/244" />
+  </programme>
+  <programme start="20181027194500 +0100" stop="20181027220000 +0100" channel="TVCine 2">
+    <title lang="pt">A Família Miniver</title>
+    <desc lang="pt">Uma família britânica procura sobreviver aos primeiros meses da Segunda Guerra Mundial(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 2_11256692/16_9/325/244" />
+  </programme>
+  <programme start="20181027220000 +0100" stop="20181028013500 +0100" channel="TVCine 2">
+    <title lang="pt">E Tudo o Vento Levou</title>
+    <desc lang="pt">Scarlett O'Hara é uma mulher forte, em plena Guerra Civil Americana. Tudo lhe corria bem, não fosse Ashley, por quem está apaixonada, ir casar com outra. Entretanto, chega um novo homem em dia de festa, também o dia em que a guerra começa, Rhett Butler. Os dois alimentam uma relação de amor-ódio(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 2_113421/16_9/325/244" />
+  </programme>
+  <programme start="20181027014000 +0100" stop="20181027031000 +0100" channel="TVCine 1">
+    <title lang="pt">O Maravilhoso Jardim de Bella Brown</title>
+    <desc lang="pt">Um conto de fadas contemporâneo que se desenvolve em torno da mais improvável das amizades entre uma jovem agorafóbica e solitária, que sonha escrever livros infantis e um idoso viúvo e resmungão(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 1_11268672/16_9/325/244" />
+  </programme>
+  <programme start="20181027031000 +0100" stop="20181027051000 +0100" channel="TVCine 1">
+    <title lang="pt">Roman J. Israel, Esq.</title>
+    <desc lang="pt">Roman Israel é um advogado idealista que faz de tudo por um julgamento justo. Mas quando é demitido, aceita o convite de outra firma, com a promessa de uma vida de luxo. No entanto, Israel descobre um esquema de bastidores que precisa de medidas extremas.(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 1_11268626/16_9/325/244" />
+  </programme>
+  <programme start="20181027051000 +0100" stop="20181027073500 +0100" channel="TVCine 1">
+    <title lang="pt">Kingsman: O Círculo Dourado</title>
+    <desc lang="pt">Quando a sua sede é destruída e o mundo tido como refém, a jornada de Kingsman leva-os à descoberta de uma outra organização de espionagem nos EUA. Agora, estas duas organizações secretas têm de se unir para derrotar um implacável inimigo comum(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 1_11273082/16_9/325/244" />
+  </programme>
+  <programme start="20181027073500 +0100" stop="20181027093500 +0100" channel="TVCine 1">
+    <title lang="pt">The Post</title>
+    <desc lang="pt">A improvável parceria entre Katharine Graham do Washington Post, a primeira mulher na liderança de um dos principais jornais norte-americanos, e Ben Bradlee, o editor do jornal, para expor um dos maiores encobrimentos de segredos governamentais(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 1_11278380/16_9/325/244" />
+  </programme>
+  <programme start="20181027093500 +0100" stop="20181027114500 +0100" channel="TVCine 1">
+    <title lang="pt">Elementos Secretos</title>
+    <desc lang="pt">A incrível história de Katherine Johnson, Dorothy Vaughn e Mary Jackson, um grupo de brilhantes mulheres afro-americanas que trabalha na NASA. Elas foram os cérebros por detrás de uma operação histórica: o lançamento do astronauta John Glenn para a órbita(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 1_11249995/16_9/325/244" />
+  </programme>
+  <programme start="20181027114500 +0100" stop="20181027135000 +0100" channel="TVCine 1">
+    <title lang="pt">Guerra dos Sexos</title>
+    <desc lang="pt">A história verídica de um jogo de ténis, em 1973, que colocou frente a frente no campo, numa autêntica guerra dos sexos, a número 1 mundial Billie Jean King e o ex-campeão Bobby Riggs(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 1_11275173/16_9/325/244" />
+  </programme>
+  <programme start="20181027135000 +0100" stop="20181027152500 +0100" channel="TVCine 1">
+    <title lang="pt">O Maravilhoso Jardim de Bella Brown</title>
+    <desc lang="pt">Um conto de fadas contemporâneo que se desenvolve em torno da mais improvável das amizades entre uma jovem agorafóbica e solitária, que sonha escrever livros infantis e um idoso viúvo e resmungão(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 1_11268672/16_9/325/244" />
+  </programme>
+  <programme start="20181027152500 +0100" stop="20181027173000 +0100" channel="TVCine 1">
+    <title lang="pt">Roman J. Israel, Esq.</title>
+    <desc lang="pt">Roman Israel é um advogado idealista que faz de tudo por um julgamento justo. Mas quando é demitido, aceita o convite de outra firma, com a promessa de uma vida de luxo. No entanto, Israel descobre um esquema de bastidores que precisa de medidas extremas.(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 1_11268626/16_9/325/244" />
+  </programme>
+  <programme start="20181027173000 +0100" stop="20181027192000 +0100" channel="TVCine 1">
+    <title lang="pt">Kodachrome</title>
+    <desc lang="pt">Um fotógrafo, a morrer com uma doença terminal, e o seu distante filho juntam-se para uma viagem até ao último laboratório de fotografia que ainda revela Kodachrome. Uma viagem que acaba por ser uma oportunidade para acertarem os erros do passado(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 1_11268677/16_9/325/244" />
+  </programme>
+  <programme start="20181027192000 +0100" stop="20181027213000 +0100" channel="TVCine 1">
+    <title lang="pt">Música a Música</title>
+    <desc lang="pt">Inspirado no cenário rock 'n roll de Austin, o filme segue quatro amantes interligados, nas quedas e conflitos das suas carreiras musicais vertiginosas e vidas íntimas sem regras(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 1_11260067/16_9/325/244" />
+  </programme>
+  <programme start="20181027213000 +0100" stop="20181027231500 +0100" channel="TVCine 1">
+    <title lang="pt">Um Desastre de Artista</title>
+    <desc lang="pt">A história verídica do excêntrico cineasta Tommy Wiseau, cuja paixão era tão sincera quanto os seus métodos questionáveis. Quando o aspirante Greg Sestero o conhece, os dois formam uma amizade única e decidem viajar até Hollywood para concretizarem os seus sonhos(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 1_11278382/16_9/325/244" />
+  </programme>
+  <programme start="20181027231500 +0100" stop="20181028012500 +0100" channel="TVCine 1">
+    <title lang="pt">O Jardim da Esperança</title>
+    <desc lang="pt">A história verídica de uma mulher que salvou centenas de vidas, durante a Segunda Guerra Mundial. A gerir com o marido o zoo de Varsóvia, os dois colaboram com a Resistência e resgatam pessoas do Gueto de Varsóvia, colocando-se em risco, bem como a tudo o que construíram(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 1_11250006/16_9/325/244" />
+  </programme>
+  <programme start="20181027000000 +0100" stop="20181027021000 +0100" channel="TVCine 3">
+    <title lang="pt">O Grande Peixe</title>
+    <desc lang="pt">Ed sai da sua pequena cidade natal, no Alabama, para dar a volta ao mundo. Já velho, diverte-se a contar as aventuras que viveu nessa altura, misturando realidade e fantasia. No entanto, as suas histórias fascinam todos... menos o filho, o que faz com que Ed tenha de separar a ficção da realidade(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 3_114560/16_9/325/244" />
+  </programme>
+  <programme start="20181027021000 +0100" stop="20181027034000 +0100" channel="TVCine 3">
+    <title lang="pt">Marcha Nupcial 3: Aí Vem a Noiva</title>
+    <desc lang="pt">No fim de semana do Dia dos Namorados, Olivia e Mick recebem alguns familiares e amigos. Olivia ocupa-se com a preparação do casamento da filha de Mick, Julie. Mas o seu noivo Wyatt guarda um segredo que pode arruinar a cerimónia.(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 3_11263244/16_9/325/244" />
+  </programme>
+  <programme start="20181027034000 +0100" stop="20181027051000 +0100" channel="TVCine 3">
+    <title lang="pt">Um Inverno Real</title>
+    <desc lang="pt">Durante umas férias na Europa, uma jovem mulher dá por si a viver um conto de fadas, depois de conhecer um homem que é mais do que apenas uma cara bonita(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 3_11263248/16_9/325/244" />
+  </programme>
+  <programme start="20181027051000 +0100" stop="20181027070000 +0100" channel="TVCine 3">
+    <title lang="pt">A Morte Fica-vos Tão Bem</title>
+    <desc lang="pt">Helen é escritora, Madeline é atriz, e as duas odeiam-se. Pelo meio está Ernest, casado com Madeline depois de ter sido namorado de Helen, que esta está disposta a tudo para recuperá-lo. O ódio cresce quando ambas tomam um elixir que lhes garante a vida eterna(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 3_11530/16_9/325/244" />
+  </programme>
+  <programme start="20181027070000 +0100" stop="20181027083000 +0100" channel="TVCine 3">
+    <title lang="pt">Max 2: Herói da Casa Branca</title>
+    <desc lang="pt">Max é destacado para uma missão na Casa Branca, durante a licença de maternidade do cão dos Serviços Secretos. Ali conhece o filho do Presidente, um menino de 12 anos com problemas em adaptar-se à sua nova vida.(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 3_11268667/16_9/325/244" />
+  </programme>
+  <programme start="20181027083000 +0100" stop="20181027103500 +0100" channel="TVCine 3">
+    <title lang="pt">Amar... é Complicado!</title>
+    <desc lang="pt">Aos 50 anos, Jane sente que atingiu a estabilidade: os filhos cresceram, o negócio corre bem e superou o trauma do divórcio. Já a vida do ex-marido, Jake, está uma confusão. Mas, num encontro casual, o ex-casal redescobre a paixão. E o inesperado acontece: Jane transforma-se na amante do ex-marido(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 3_11473/16_9/325/244" />
+  </programme>
+  <programme start="20181027103500 +0100" stop="20181027121000 +0100" channel="TVCine 3">
+    <title lang="pt">A Disputa</title>
+    <desc lang="pt">Duas amigas, em viagem, disputam a atenção de um jovem atraente, quando o seu voo é redirecionado por causa de um furacão(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 3_11273145/16_9/325/244" />
+  </programme>
+  <programme start="20181027121000 +0100" stop="20181027142000 +0100" channel="TVCine 3">
+    <title lang="pt">O Grande Peixe</title>
+    <desc lang="pt">Ed sai da sua pequena cidade natal, no Alabama, para dar a volta ao mundo. Já velho, diverte-se a contar as aventuras que viveu nessa altura, misturando realidade e fantasia. No entanto, as suas histórias fascinam todos... menos o filho, o que faz com que Ed tenha de separar a ficção da realidade(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 3_114560/16_9/325/244" />
+  </programme>
+  <programme start="20181027142000 +0100" stop="20181027154500 +0100" channel="TVCine 3">
+    <title lang="pt">Pacha e o Imperador (V.P.)</title>
+    <desc lang="pt">O jovem e egocêntrico imperador Kuzco é transformado em lama pela malévola deusa Yzma. Agora, perdido e abandonado na selva, Kuzco vai ter de pedir ajuda a Pacha, um pobre camponês, para conseguir regressar a casa e à sua forma humana(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 3_115281/16_9/325/244" />
+  </programme>
+  <programme start="20181027154500 +0100" stop="20181027171500 +0100" channel="TVCine 3">
+    <title lang="pt">Marcha Nupcial 3: Aí Vem a Noiva</title>
+    <desc lang="pt">No fim de semana do Dia dos Namorados, Olivia e Mick recebem alguns familiares e amigos. Olivia ocupa-se com a preparação do casamento da filha de Mick, Julie. Mas o seu noivo Wyatt guarda um segredo que pode arruinar a cerimónia.(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 3_11263244/16_9/325/244" />
+  </programme>
+  <programme start="20181027171500 +0100" stop="20181027184500 +0100" channel="TVCine 3">
+    <title lang="pt">Um Inverno Real</title>
+    <desc lang="pt">Durante umas férias na Europa, uma jovem mulher dá por si a viver um conto de fadas, depois de conhecer um homem que é mais do que apenas uma cara bonita(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 3_11263248/16_9/325/244" />
+  </programme>
+  <programme start="20181027184500 +0100" stop="20181027204500 +0100" channel="TVCine 3">
+    <title lang="pt">Em Busca da Felicidade</title>
+    <desc lang="pt">Um vendedor falhado consegue um estágio não remunerado numa seguradora, acreditando que pode vir a ser contratado no futuro. Contudo, obrigado a tomar conta do filho sozinho, Chris não é capaz de fazer face às despesas e é despejado do apartamento onde vive(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 3_1168065/16_9/325/244" />
+  </programme>
+  <programme start="20181027204500 +0100" stop="20181027223000 +0100" channel="TVCine 3">
+    <title lang="pt">A Morte Fica-vos Tão Bem</title>
+    <desc lang="pt">Helen é escritora, Madeline é atriz, e as duas odeiam-se. Pelo meio está Ernest, casado com Madeline depois de ter sido namorado de Helen, que esta está disposta a tudo para recuperá-lo. O ódio cresce quando ambas tomam um elixir que lhes garante a vida eterna(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 3_11530/16_9/325/244" />
+  </programme>
+  <programme start="20181027223000 +0100" stop="20181028002000 +0100" channel="TVCine 3">
+    <title lang="pt">Campo de Sonhos</title>
+    <desc lang="pt">Ray Kinsella, dono de uma quinta do Iowa, é inspirado por uma voz: o homem acredita que deve construir um campo de basebol, na sequência da enigmática frase "se construíres, ele virá". Apoiado pela mulher, transforma a sua vulgar plantação de milho num lugar onde os sonhos se podem tornar realidade(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 3_1168069/16_9/325/244" />
+  </programme>
+  <programme start="20181027004500 +0100" stop="20181027022000 +0100" channel="TVCine 4">
+    <title lang="pt">Por Vezes os Bons Matam</title>
+    <desc lang="pt">Depois de uma misteriosa morte na abadia, a irmã Talia recebe a tarefa de investigar o acontecimento. Quando ocorre a segunda morte, a irmã Talia começa a duvidar dos segredos que a abadia parece encerrar.(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 4_11260136/16_9/325/244" />
+  </programme>
+  <programme start="20181027022000 +0100" stop="20181027043000 +0100" channel="TVCine 4">
+    <title lang="pt">Os Instrumentos Mortais: Cidade dos Ossos</title>
+    <desc lang="pt">Quando a sua mãe desaparece, Clary Fray descobre que descende de uma linha de guerreiros que protegem o nosso mundo de demónios. Decide então unir forças com outros como ela, numa missão até uma Nova Iorque alternativa, chamada Downworld(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 4_1117527/16_9/325/244" />
+  </programme>
+  <programme start="20181027043000 +0100" stop="20181027061500 +0100" channel="TVCine 4">
+    <title lang="pt">Predador 2</title>
+    <desc lang="pt">Vem de uma galáxia distante para caçar e deixa um rasto de cadáveres na sua passagem. Em estado de sítio devido a uma guerra entre gangues, Los Angeles é o campo de caça perfeito para o Predador. O tenente Mike Harrigan decide investigar e coloca-se frente a frente do enigmático alienígena(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 4_1158081/16_9/325/244" />
+  </programme>
+  <programme start="20181027061500 +0100" stop="20181027081000 +0100" channel="TVCine 4">
+    <title lang="pt">Arma Mortífera 2</title>
+    <desc lang="pt">A dupla de polícias tenta combater um traficante de droga que, por ser do corpo diplomático da África do Sul, usa a sua imunidade para poder cometer os seus crimes(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 4_116838/16_9/325/244" />
+  </programme>
+  <programme start="20181027081000 +0100" stop="20181027101500 +0100" channel="TVCine 4">
+    <title lang="pt">Assalto ao Aeroporto</title>
+    <desc lang="pt">Na véspera de Natal, um grupo terrorista assume o controlo do aeroporto de Washington, D.C., tentando libertar um preso político, e ameaça destruir várias aeronaves se as exigências não forem atendidas. Mas a mulher de McClane encontra-se num dos aviões e o detetive resolve enfrentar a quadrilha(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 4_1150987/16_9/325/244" />
+  </programme>
+  <programme start="20181027101500 +0100" stop="20181027121500 +0100" channel="TVCine 4">
+    <title lang="pt">Ocean\u0027s Eleven</title>
+    <desc lang="pt">Danny Ocean planeia assaltar três dos maiores casinos de Las Vegas durante um combate de boxe. Para tal, reúne uma equipa de 10 especialistas sob três premissas básicas: não ferir ninguém, não roubar alguém que realmente não o mereça e seguir o plano como se não houvesse nada a perder(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 4_1166888/16_9/325/244" />
+  </programme>
+  <programme start="20181027121500 +0100" stop="20181027142500 +0100" channel="TVCine 4">
+    <title lang="pt">Os Instrumentos Mortais: Cidade dos Ossos</title>
+    <desc lang="pt">Quando a sua mãe desaparece, Clary Fray descobre que descende de uma linha de guerreiros que protegem o nosso mundo de demónios. Decide então unir forças com outros como ela, numa missão até uma Nova Iorque alternativa, chamada Downworld(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 4_1117527/16_9/325/244" />
+  </programme>
+  <programme start="20181027142500 +0100" stop="20181027155000 +0100" channel="TVCine 4">
+    <title lang="pt">Atómica</title>
+    <desc lang="pt">Uma central nuclear, isolada no deserto, perde as comunicações com o exterior. Abby Dixon é enviada para o local para resolver o problema. No entanto, algumas pistas e o estranho comportamento dos dois ocupantes fazem-na suspeitar que algo não está certo.(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 4_11256744/16_9/325/244" />
+  </programme>
+  <programme start="20181027155000 +0100" stop="20181027174500 +0100" channel="TVCine 4">
+    <title lang="pt">O Boxeur</title>
+    <desc lang="pt">Danny Flynn quer encontrar paz, recomeçar a sua carreira e procurar o amor da mulher que se manteve na sua mente e no seu coração. À medida que ambos equacionam um renovado romance, apercebem-se que diferenças culturais se erguem no seu caminho e que a luta pelo amor pode mesmo custar-lhes a vida(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 4_1119278/16_9/325/244" />
+  </programme>
+  <programme start="20181027174500 +0100" stop="20181027192000 +0100" channel="TVCine 4">
+    <title lang="pt">Como Enterrar a Ex</title>
+    <desc lang="pt">Max é um apaixonado por filmes de terror, que jura amor eterno a Evelyn. No entanto, depois de irem viver juntos, Max arrepende-se e decide terminar tudo. Só que Evelyn é atropelada por um autocarro e morre, acabando por regressar à vida como zombie(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 4_11275249/16_9/325/244" />
+  </programme>
+  <programme start="20181027192000 +0100" stop="20181027210000 +0100" channel="TVCine 4">
+    <title lang="pt">Lixo</title>
+    <desc lang="pt">Bruce é um polícia corrupto, viciado em droga e emocionalmente instável. Ele quer uma promoção e acha que tem tudo sob controlo para consegui-la e, assim, conseguir reconquistar a mulher e a filha(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 4_11275250/16_9/325/244" />
+  </programme>
+  <programme start="20181027210000 +0100" stop="20181027230000 +0100" channel="TVCine 4">
+    <title lang="pt">The Bad Batch</title>
+    <desc lang="pt">Num futuro distópico, Arlem é capturada por um grupo de canibais selvagens liderados pelo misterioso Miami Man. Mas à medida que ela se habitua à vida nesta terra sem lei, um canibal quebra uma regra importante: não brinques com a tua comida.(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 4_11265583/16_9/325/244" />
+  </programme>
+  <programme start="20181027230000 +0100" stop="20181028003500 +0100" channel="TVCine 4">
+    <title lang="pt">Só Deus Perdoa</title>
+    <desc lang="pt">Julian, um traficante de droga em Banguecoque, vê a sua vida complicar-se ainda mais quando a mãe lhe pede para encontrar e matar os responsáveis pela morte do seu irmão. Para isso, Julian terá de enfrentar Chang, um misterioso polícia(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC 4_1117518/16_9/325/244" />
+  </programme>
+  <programme start="20181027000000 +0100" stop="20181027005000 +0100" channel="TV Series">
+    <title lang="pt">Yellowstone</title>
+    <desc lang="pt">Os Dutton lidam com um doloroso aniversário familiar. Kayce salva uma jovem. Jamie e Beth planeiam as respetivas carreiras políticas. O legado dos Dutton é ameaçado(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12944811/16_9/325/244" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20181027005000 +0100" stop="20181027013500 +0100" channel="TV Series">
+    <title lang="pt">Madam Secretary</title>
+    <desc lang="pt">Quando Elizabeth descobre que os atacantes da Casa Branca tinham apoio do estrangeiro, tenta caçar os responsáveis sem começar uma guerra. Henry conhece um dos atacantes(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12942288/16_9/325/244" />
+    <episode-num system="onscreen">S5 E2</episode-num>
+  </programme>
+  <programme start="20181027013500 +0100" stop="20181027020000 +0100" channel="TV Series">
+    <title lang="pt">Will and Grace</title>
+    <desc lang="pt">Quando Jack descobre que música o seu neto Jack pretende mostrar no concurso de talentos da igreja, ele teme pela sua segurança. Karen tem um desentendimento com Beverly Leslie. Grace e Noah tentam levar a relação a um nível mais íntimo. Will liberta a sua "rainha" interior(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12942292/16_9/325/244" />
+    <episode-num system="onscreen">S10 E3</episode-num>
+  </programme>
+  <programme start="20181027020000 +0100" stop="20181027023000 +0100" channel="TV Series">
+    <title lang="pt">Who Is America?</title>
+    <desc lang="pt">Billy entrevista o antigo congressista Barney Frank e indaga a veracidade da gravação de Donald Trump. Erran Morad treina três homens para infiltrarem a Antifa, um conglomerado de grupos antifascistas. Gio encontra-se com O.J. Simpson em Las Vegas, e tenta recordar à namorada de quem se trata(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12931771/16_9/325/244" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20181027023000 +0100" stop="20181027032000 +0100" channel="TV Series">
+    <title lang="pt">Berlin Station</title>
+    <desc lang="pt">Robert e Frost viajam para a Noruega para seguirem o rasto ilegal do dinheiro que os vai levar à organização criminosa. BB e Valerie têm um novo plano que envolve um membro daquela organização. Daniel lida com as consequências psicológicas da missão(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12942287/16_9/325/244" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+  </programme>
+  <programme start="20181027032000 +0100" stop="20181027040500 +0100" channel="TV Series">
+    <title lang="pt">SEAL Team</title>
+    <desc lang="pt">Depois da tragédia, Jason tem de fazer uma escolha muito importante relativamente ao seu futuro na Bravo(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12942294/16_9/325/244" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20181027040500 +0100" stop="20181027045000 +0100" channel="TV Series">
+    <title lang="pt">Defesa à Medida</title>
+    <desc lang="pt">Harvey é arrastado para dentro da disputa com o proprietário e senhorio do edifício da empresa. Alex persegue um antigo cliente de Samantha(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12924564/16_9/325/244" />
+    <episode-num system="onscreen">S8 E3</episode-num>
+  </programme>
+  <programme start="20181027045000 +0100" stop="20181027052000 +0100" channel="TV Series">
+    <title lang="pt">Divorce</title>
+    <desc lang="pt">Depois de ajudar um novo amigo a avaliar uma obra de arte, uma Frances inspirada tenta localizar um pintor desconhecido. Diane tenta ignorar os problemas com Nick e, para tal, atira-se ao trabalho(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12832264/16_9/325/244" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20181027052000 +0100" stop="20181027055500 +0100" channel="TV Series">
+    <title lang="pt">Divorce</title>
+    <desc lang="pt">Quando o pai de Robert fica doente, este e Frances reúnem-se em Ohio, onde relembram os tempos felizes e têm de lidar com a irmã arrogante de Robert(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12842749/16_9/325/244" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20181027055500 +0100" stop="20181027064000 +0100" channel="TV Series">
+    <title lang="pt">Elementar</title>
+    <desc lang="pt">Sherlock e o pai tentam reparar o relacionamento tenso, ao saberem de uma morte na família. Watson e Holmes descobrem um elo entre o último caso que investigaram e as antiguidades egípcias, ao procurarem um assassino que tentou mumificar a vítima(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12903993/16_9/325/244" />
+    <episode-num system="onscreen">S6 E10</episode-num>
+  </programme>
+  <programme start="20181027064000 +0100" stop="20181027073500 +0100" channel="TV Series">
+    <title lang="pt">House of Cards</title>
+    <desc lang="pt">Enquanto Francis descobre uma nova coligação contra ele, a formar-se dentro do próprio partido, Claire enfrenta a primeira crise no seu novo papel(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12749195/16_9/325/244" />
+    <episode-num system="onscreen">S5 E6</episode-num>
+  </programme>
+  <programme start="20181027073500 +0100" stop="20181027082000 +0100" channel="TV Series">
+    <title lang="pt">The Messengers</title>
+    <desc lang="pt">No deserto do Novo México um objeto irrompe no céu, dá-se uma explosão e ondas de energia param o coração de algumas pessoas aparentemente não relacionadas. Serão os que vivenciaram a experiência são a única esperança para impedir o fenómeno ou compreendê-lo(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12268954/16_9/325/244" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20181027082000 +0100" stop="20181027090000 +0100" channel="TV Series">
+    <title lang="pt">The Messengers</title>
+    <desc lang="pt">Reunidos pelo destino, Vera, Erin, Joshua, Raul e Peter encontram-se onde conheceram a misteriosa Rosa. Esta revela que eles são anjos e que a sua missão é encontrar e parar os quatro Cavaleiros do Apocalipse. A identidade do "Homem" é revelada(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12268972/16_9/325/244" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20181027090000 +0100" stop="20181027094000 +0100" channel="TV Series">
+    <title lang="pt">The Messengers</title>
+    <desc lang="pt">Na perseguição ao Cavaleiro da Guerra, Joshua, Erin e Peter fazem progressos. Raul e Vera estão mais hesitantes em acreditar e, quando se dispersam, enfrentam consequências imprevistas. Quando Vera descobre o dom que tem, repensa o seu propósito(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12287837/16_9/325/244" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20181027094000 +0100" stop="20181027101000 +0100" channel="TV Series">
+    <title lang="pt">Vice Principals</title>
+    <desc lang="pt">Um plano para sabotar um teste estandardizado acaba por comprometer o emprego de Russell quando Gamby é apanhado no meio da situação(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12796322/16_9/325/244" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+  </programme>
+  <programme start="20181027101000 +0100" stop="20181027104000 +0100" channel="TV Series">
+    <title lang="pt">Ballers</title>
+    <desc lang="pt">Desesperados por conseguirem aprovação para trazer um jogador profissional para Vegas, Spencer e Joe acabam numa corrida contra o relógio, que envolve duas reuniões igualmente prioritárias. Por outro lado, desprezado pela equipa, Ricky encena um treino privado(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12767432/16_9/325/244" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+  </programme>
+  <programme start="20181027104000 +0100" stop="20181027114000 +0100" channel="TV Series">
+    <title lang="pt">I\u0027m Dying Up Here</title>
+    <desc lang="pt">Bill, descontente, é obrigado a substituir Roy que está ausente. Nick e Eddie estão perante novas oportunidades. Amanda faz uma declaração chocante. Cassie excede-se, após uma noite com Dawn(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12903972/16_9/325/244" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+  </programme>
+  <programme start="20181027114000 +0100" stop="20181027124000 +0100" channel="TV Series">
+    <title lang="pt">The White Princess</title>
+    <desc lang="pt">Lizzie lida com a desafiadora defesa que a mãe dela faz à causa de York. Por outro lado, aparece um jovem na Borgonha que alega ser príncipe e ameaça destabilizar o reinado de Henry. A mãe do rei Henry enfrenta as consequências de um segredo(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12796334/16_9/325/244" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20181027124000 +0100" stop="20181027132500 +0100" channel="TV Series">
+    <title lang="pt">Blindspot</title>
+    <desc lang="pt">A investigação de Jane e Patterson leva-as a um agente duplo de nacionalidade russa. Entretanto, Jane engana-os aos dois para ter algo de que precisa. A Inteligência fica em perigo na sequência de uma ação de Remi(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12942293/16_9/325/244" />
+    <episode-num system="onscreen">S4 E2</episode-num>
+  </programme>
+  <programme start="20181027132500 +0100" stop="20181027141000 +0100" channel="TV Series">
+    <title lang="pt">SEAL Team</title>
+    <desc lang="pt">Depois da tragédia, Jason tem de fazer uma escolha muito importante relativamente ao seu futuro na Bravo(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12942294/16_9/325/244" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20181027141000 +0100" stop="20181027150500 +0100" channel="TV Series">
+    <title lang="pt">Berlin Station</title>
+    <desc lang="pt">Robert e Frost viajam para a Noruega para seguirem o rasto ilegal do dinheiro que os vai levar à organização criminosa. BB e Valerie têm um novo plano que envolve um membro daquela organização. Daniel lida com as consequências psicológicas da missão(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12942287/16_9/325/244" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+  </programme>
+  <programme start="20181027150500 +0100" stop="20181027155000 +0100" channel="TV Series">
+    <title lang="pt">Chicago Fire</title>
+    <desc lang="pt">Uma série de explosões atinge Chicago. Herrmann adapta-se às suas novas obrigações. Kidd recebe a visita de um velho amigo(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12942290/16_9/325/244" />
+    <episode-num system="onscreen">S7 E4</episode-num>
+  </programme>
+  <programme start="20181027155000 +0100" stop="20181027161500 +0100" channel="TV Series">
+    <title lang="pt">Will and Grace</title>
+    <desc lang="pt">Quando Jack descobre que música o seu neto Jack pretende mostrar no concurso de talentos da igreja, ele teme pela sua segurança. Karen tem um desentendimento com Beverly Leslie. Grace e Noah tentam levar a relação a um nível mais íntimo. Will liberta a sua "rainha" interior(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12942292/16_9/325/244" />
+    <episode-num system="onscreen">S10 E3</episode-num>
+  </programme>
+  <programme start="20181027161500 +0100" stop="20181027171000 +0100" channel="TV Series">
+    <title lang="pt">Castle Rock</title>
+    <desc lang="pt">Um prisioneiro misterioso é encontrado em Shawshank, e ninguém sabe de quem se trata. De poucas palavras, diz apenas o nome de Henry Deaver, advogado do corredor da morte no Texas. Com a direção a tentar abafar o caso, um telefonema anónimo atrai Henry de volta à sua terra natal de Castle Rock(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12924549/16_9/325/244" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20181027171000 +0100" stop="20181027180000 +0100" channel="TV Series">
+    <title lang="pt">Castle Rock</title>
+    <desc lang="pt">Sem a vida facilitada, Henry tenta descobrir o nome do seu potencial cliente na Prisão de Shawshank. Entretanto, Molly recorda o seu passado em Castle Rock, ao mesmo tempo que trabalha para rejuvenescer o presente da localidade(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12924565/16_9/325/244" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20181027180000 +0100" stop="20181027185000 +0100" channel="TV Series">
+    <title lang="pt">Castle Rock</title>
+    <desc lang="pt">Henry encontra-se com Molly pela primeira vez desde a infância. A sua presença prova ser uma distração para ela, enquanto se tenta preparar para uma entrevista importante na televisão(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12924571/16_9/325/244" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20181027185000 +0100" stop="20181027194000 +0100" channel="TV Series">
+    <title lang="pt">Castle Rock</title>
+    <desc lang="pt">Dennis comete o erro de tocar o prisioneiro misterioso. Entretanto, Henry descobre porque Alan o protegeu quando tinha 11 anos. Molly tenta vender a casa dos Lacy(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12924577/16_9/325/244" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20181027194000 +0100" stop="20181027203000 +0100" channel="TV Series">
+    <title lang="pt">Castle Rock</title>
+    <desc lang="pt">Quando Henry consegue que o prisioneiro mistério seja libertado de Shawshank, Molly oferece-se para o ajudar temporariamente com a residência. Entretanto, um fogo suspeito causa estragos e o xerife Alan Pangborn é homenageado(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12931770/16_9/325/244" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20181027203000 +0100" stop="20181027210000 +0100" channel="TV Series">
+    <title lang="pt">Who Is America?</title>
+    <desc lang="pt">Billy entrevista o antigo congressista Barney Frank e indaga a veracidade da gravação de Donald Trump. Erran Morad treina três homens para infiltrarem a Antifa, um conglomerado de grupos antifascistas. Gio encontra-se com O.J. Simpson em Las Vegas, e tenta recordar à namorada de quem se trata(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12931771/16_9/325/244" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20181027210000 +0100" stop="20181027220000 +0100" channel="TV Series">
+    <title lang="pt">Outlander</title>
+    <desc lang="pt">Claire e Jamie deixam a Escócia, em direção às Índias Ocidentais, numa missão urgente. Mas quando a tripulação supersticiosa do navio procura o responsável por uma série de acontecimentos de má sorte, o resgate surge de uma fonte improvável(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12807890/16_9/325/244" />
+    <episode-num system="onscreen">S3 E9</episode-num>
+  </programme>
+  <programme start="20181027220000 +0100" stop="20181027230000 +0100" channel="TV Series">
+    <title lang="pt">Outlander</title>
+    <desc lang="pt">Claire apressa-se para descobrir a origem de uma epidemia a bordo de um navio atingido pelo vírus, antes que milhares de marinheiros morram. Enquanto Jamie enfrenta o capitão Raines, Fergus fica dividido entre a lealdade e amor(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12807899/16_9/325/244" />
+    <episode-num system="onscreen">S3 E10</episode-num>
+  </programme>
+  <programme start="20181027230000 +0100" stop="20181027235000 +0100" channel="TV Series">
+    <title lang="pt">Yellowstone</title>
+    <desc lang="pt">Um segredo sobre John vem à superfície. Berh mostra a Jenkins o que é uma noite difícil. Algum tempo de qualidade com Tate leva a um sinal de alerta(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12944812/16_9/325/244" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20181027235000 +0100" stop="20181028004500 +0100" channel="TV Series">
+    <title lang="pt">Billions</title>
+    <desc lang="pt">Axe determina que o que vale cada empregado na reunião de final de ano. Chuck avança com um plano perigoso, mas é distraído por um amigo que precisa de ajuda. Taylor e Axe discutem sobre o posto e valor de Taylor na empresa(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC S_12893151/16_9/325/244" />
+    <episode-num system="onscreen">S3 E11</episode-num>
+  </programme>
+  <programme start="20181027002500 +0100" stop="20181027020900 +0100" channel="Benfica TV HD">
+    <title lang="pt">SLB x Belenenses: Liga Revelação</title>
+    <desc lang="pt">Transmissão do jogo da Liga Revelação (sub-23), entre SLB e Belenenses(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BTV1 HD_22964894/16_9/325/244" />
+  </programme>
+  <programme start="20181027020900 +0100" stop="20181027024100 +0100" channel="Benfica TV HD">
+    <title lang="pt">Especial 15 Anos Estádio da Luz: Pelas Casas do Benfica</title>
+    <desc lang="pt">Informação sobre as casas do Benfica e delegações encarnadas espalhadas pelo país. Curiosidades, imagens de posters e recordações das décadas anteriores, testemunhos de sócios e simpatizantes que gostavam de ir a Lisboa ver o SLB jogar(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BTV1 HD_22965670/16_9/325/244" />
+  </programme>
+  <programme start="20181027024100 +0100" stop="20181027030400 +0100" channel="Benfica TV HD">
+    <title lang="pt">Miriam Gonçalves: BTV On Air</title>
+    <desc lang="pt">Aqui conhecemos as histórias das pessoas que fazem rádio em Portugal. As caras por trás das vozes num programa sobre o universo único da rádio e a sua importância na proximidade com o ouvinte(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BTV1 HD_22964886/16_9/325/244" />
+  </programme>
+  <programme start="20181027030400 +0100" stop="20181027033200 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 21 Horas</title>
+    <desc lang="pt">Bloco informativo dedicado ao Benfica e aos desafios em que se encontra envolvido(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BTV1 HD_2327893/16_9/325/244" />
+  </programme>
+  <programme start="20181027033200 +0100" stop="20181027050500 +0100" channel="Benfica TV HD">
+    <title lang="pt">Jogo Limpo</title>
+    <desc lang="pt">Programa de opinião, entrevista e debate tendo como protagonista Fernando Seara. A semana desportiva, bem como a antevisão da jornada seguinte, serão razões para o comentário. Com moderação de Luís Lemos, Jogo Limpo conta ainda com a presença de um convidado diferente de semana para semana(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BTV1 HD_2329580/16_9/325/244" />
+  </programme>
+  <programme start="20181027050500 +0100" stop="20181027060500 +0100" channel="Benfica TV HD">
+    <title lang="pt">Uma Semana do Melhor</title>
+    <desc lang="pt">Apresentado por João Martins, com os comentários de João Gonçalves e João Tomaz, "Uma Semana do Melhor" é o programa da BTV que recupera os melhores momentos transmitidos no canal de televisão oficial do Sport Lisboa e Benfica e em que se discute a atualidade benfiquista e os conteúdos BTV(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BTV1 HD_2395833/16_9/325/244" />
+  </programme>
+  <programme start="20181027060500 +0100" stop="20181027062300 +0100" channel="Benfica TV HD">
+    <title lang="pt">Extreme Trial 4x4 Málaga</title>
+    <desc lang="pt">Acompanhe todos os desenvolvimentos do mundo dos desportos motorizados(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BTV1 HD_22964887/16_9/325/244" />
+  </programme>
+  <programme start="20181027062300 +0100" stop="20181027064800 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 24 Horas</title>
+    <desc lang="pt">Bloco informativo dedicado ao Benfica e aos desafios em que se encontra envolvido(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BTV1 HD_2327894/16_9/325/244" />
+  </programme>
+  <programme start="20181027064800 +0100" stop="20181027081900 +0100" channel="Benfica TV HD">
+    <title lang="pt">Aquecimento</title>
+    <desc lang="pt">Ligam-se as luzes, fazem-se as contas, preparam-se as táticas e obriga-se a equipa a entrar no aquecimento para o jogo que se segue. Antevisão, pura e simples, em hora e meia de troca de argumentos feita em direto na Benfica TV. Aquecimento, imperdível(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BTV1 HD_2332530/16_9/325/244" />
+  </programme>
+  <programme start="20181027081900 +0100" stop="20181027083000 +0100" channel="Benfica TV HD">
+    <title lang="pt">5 Dias na TV</title>
+    <desc lang="pt">Resumo do melhor que a informação BTV deu ao longo dos 5 dias úteis de emissões. Para ver e rever exclusivamente ao fim de semana(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BTV1 HD_23193282/16_9/325/244" />
+  </programme>
+  <programme start="20181027083000 +0100" stop="20181027095900 +0100" channel="Benfica TV HD">
+    <title lang="pt">Jogo Limpo</title>
+    <desc lang="pt">Programa de opinião, entrevista e debate tendo como protagonista Fernando Seara. A semana desportiva, bem como a antevisão da jornada seguinte, serão razões para o comentário. Com moderação de Luís Lemos, Jogo Limpo conta ainda com a presença de um convidado diferente de semana para semana(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BTV1 HD_2329580/16_9/325/244" />
+  </programme>
+  <programme start="20181027095900 +0100" stop="20181027102600 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 10 Horas</title>
+    <desc lang="pt">Bloco informativo dedicado ao Benfica e aos desafios em que se encontra envolvido(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BTV1 HD_2327896/16_9/325/244" />
+  </programme>
+  <programme start="20181027102600 +0100" stop="20181027105600 +0100" channel="Benfica TV HD">
+    <title lang="pt">Corporate Club</title>
+    <desc lang="pt">Focado na relação do SL Benfica com os seus parceiros, o Corporate Club é um programa destinado a explicar quando e como surgem as boas oportunidades comerciais de investimento no clube(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BTV1 HD_2331247/16_9/325/244" />
+  </programme>
+  <programme start="20181027105600 +0100" stop="20181027115700 +0100" channel="Benfica TV HD">
+    <title lang="pt">Contas Feitas Dúvidas Desfeitas</title>
+    <desc lang="pt">Este programa explica a forma como a economia se aplica no desporto e como o desporto gera interesse económico(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BTV1 HD_2327933/16_9/325/244" />
+  </programme>
+  <programme start="20181027115700 +0100" stop="20181027133000 +0100" channel="Benfica TV HD">
+    <title lang="pt">SLB x A. Mateus Nogueira: Voleibol Feminino</title>
+    <desc lang="pt">Transmissão do jogo entre SLB e A. Mateus Nogueira(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BTV1 HD_22964895/16_9/325/244" />
+  </programme>
+  <programme start="20181027133000 +0100" stop="20181027135900 +0100" channel="Benfica TV HD">
+    <title lang="pt">Quiosque TV</title>
+    <desc lang="pt">Já não está só nas ruas, o Quiosque descobre-se no ecrã do computador, do tablet, do telemóvel. Nele estão publicações sobre tudo o que o mundo tem para nos oferecer, nele descobrem-se serviços, lançamentos, televisões, reportagens, a vida comum e a vida rara(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BTV1 HD_2381669/16_9/325/244" />
+  </programme>
+  <programme start="20181027135900 +0100" stop="20181027143200 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 14 Horas</title>
+    <desc lang="pt">Bloco informativo dedicado ao Benfica e aos desafios em que se encontra envolvido(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BTV1 HD_2327895/16_9/325/244" />
+  </programme>
+  <programme start="20181027143200 +0100" stop="20181027155700 +0100" channel="Benfica TV HD">
+    <title lang="pt">Primeira Liga</title>
+    <desc lang="pt">Emissão especial do jogo da 8ª jornada do campeonato nacional de futebol, entre Belenenses e SLB(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BTV1 HD_22964896/16_9/325/244" />
+  </programme>
+  <programme start="20181027155700 +0100" stop="20181027173500 +0100" channel="Benfica TV HD">
+    <title lang="pt">Vitória SC x SLB: Basquetebol</title>
+    <desc lang="pt">Transmissão do jogo da Liga Portuguesa de Basquetebol, entre Vitória SC e SLB(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BTV1 HD_22835556/16_9/325/244" />
+  </programme>
+  <programme start="20181027173500 +0100" stop="20181027175500 +0100" channel="Benfica TV HD">
+    <title lang="pt">Primeira Liga</title>
+    <desc lang="pt">Emissão especial do jogo da 8ª jornada do campeonato nacional de futebol, entre Belenenses e SLB(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BTV1 HD_22964896/16_9/325/244" />
+  </programme>
+  <programme start="20181027175500 +0100" stop="20181027200100 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica B x SC Covilhã: Segunda Liga</title>
+    <desc lang="pt">Transmissão do jogo da 7ª jornada da Segunda Liga de futebol, entre Benfica B e SC Covilhã(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BTV1 HD_22964897/16_9/325/244" />
+  </programme>
+  <programme start="20181027200100 +0100" stop="20181027202500 +0100" channel="Benfica TV HD">
+    <title lang="pt">Primeira Liga</title>
+    <desc lang="pt">Emissão especial do jogo da 8ª jornada do campeonato nacional de futebol, entre Belenenses e SLB(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BTV1 HD_22964896/16_9/325/244" />
+  </programme>
+  <programme start="20181027202500 +0100" stop="20181027222500 +0100" channel="Benfica TV HD">
+    <title lang="pt">Belenenses x SLB</title>
+    <desc lang="pt">Relato do jogo da 8ª jornada do campeonato nacional de futebol, entre Belenenses e SLB(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BTV1 HD_22965682/16_9/325/244" />
+  </programme>
+  <programme start="20181027222500 +0100" stop="20181027232900 +0100" channel="Benfica TV HD">
+    <title lang="pt">Primeira Liga</title>
+    <desc lang="pt">Emissão especial do jogo da 8ª jornada do campeonato nacional de futebol, entre Belenenses e SLB(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BTV1 HD_22964896/16_9/325/244" />
+  </programme>
+  <programme start="20181027232900 +0100" stop="20181027235400 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 24 Horas</title>
+    <desc lang="pt">Bloco informativo dedicado ao Benfica e aos desafios em que se encontra envolvido(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BTV1 HD_2327894/16_9/325/244" />
+  </programme>
+  <programme start="20181027235400 +0100" stop="20181028012200 +0100" channel="Benfica TV HD">
+    <title lang="pt">AA São Mamede x SLB: Voleibol</title>
+    <desc lang="pt">Transmissão do jogo entre AA São Mamede e SLB(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/BTV1 HD_22965671/16_9/325/244" />
+  </programme>
+  <programme start="20181027004000 +0100" stop="20181027015000 +0100" channel="SPORT TV3">
+    <title lang="pt">Vegas x Tampa Bay (3ª Parte) (Direto): Hóquei no Gelo</title>
+    <desc lang="pt">Transmissão do confronto entre Vegas x Tampa Bay(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 3_12961244/16_9/325/244" />
+  </programme>
+  <programme start="20181027015000 +0100" stop="20181027083000 +0100" channel="SPORT TV3">
+    <title lang="pt">Rugby</title>
+    <desc lang="pt">Magazine dedicado ao mundo do rugby(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 3_13165335/16_9/325/244" />
+  </programme>
+  <programme start="20181027083000 +0100" stop="20181027090000 +0100" channel="SPORT TV3">
+    <title lang="pt">Basquetebol</title>
+    <desc lang="pt">O Basquetebol é um desporto genuinamente internacional. Este ano a FIBA concentra-se nas competições continentais, à medida que o mundo se prepara para os Campeonatos. Competições regionais terão lugar na Europa, Ásia, Américas, África e Oceânia(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 3_13165346/16_9/325/244" />
+  </programme>
+  <programme start="20181027090000 +0100" stop="20181027093000 +0100" channel="SPORT TV3">
+    <title lang="pt">Basquetebol</title>
+    <desc lang="pt">Acompanhe o NBA Action, o magazine que destaca todos os principais momentos do NBA(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 3_13196704/16_9/325/244" />
+  </programme>
+  <programme start="20181027093000 +0100" stop="20181027112000 +0100" channel="SPORT TV3">
+    <title lang="pt">Panathinaikos x Zalgiris Kaunas: Basquetebol</title>
+    <desc lang="pt">Transmissão do confronto entre Panathinaikos x Zalgiris Kaunas(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 3_12961245/16_9/325/244" />
+  </programme>
+  <programme start="20181027112000 +0100" stop="20181027132500 +0100" channel="SPORT TV3">
+    <title lang="pt">New York Knicks x Golden State Warriors: Basquetebol</title>
+    <desc lang="pt">Transmissão do confronto entre New York Knicks x Golden State Warriors(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 3_12862009/16_9/325/244" />
+  </programme>
+  <programme start="20181027132500 +0100" stop="20181027140000 +0100" channel="SPORT TV3">
+    <title lang="pt">Inside Serie A: Liga Italiana</title>
+    <desc lang="pt">Destaque para os jogos, resumos e antevisões dos jogos da Liga Italiana(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 3_12935770/16_9/325/244" />
+  </programme>
+  <programme start="20181027140000 +0100" stop="20181027155500 +0100" channel="SPORT TV3">
+    <title lang="pt">Atalanta x Parma (Direto): Liga Italiana</title>
+    <desc lang="pt">Transmissão do confronto entre Atalanta x Parma(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 3_12961247/16_9/325/244" />
+  </programme>
+  <programme start="20181027155500 +0100" stop="20181027163500 +0100" channel="SPORT TV3">
+    <title lang="pt">Futebol</title>
+    <desc lang="pt">Magazine dos melhores momentos da Taça Libertadores da América(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 3_13214070/16_9/325/244" />
+  </programme>
+  <programme start="20181027163500 +0100" stop="20181027170000 +0100" channel="SPORT TV3">
+    <title lang="pt">Golos da 3ª Jornada da Fase de Grupos: Liga Europa</title>
+    <desc lang="pt">A Liga Europa da UEFA, prova que substituiu a Taça UEFA, nasceu de uma ideia concebida pelo suíço Ernst Thommen, juntamente com o italiano Ottorino Barrasi e o inglês Stanley Rous. Acompanhe jogos, resumos e toda a informação sobre esta competição(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 3_12964623/16_9/325/244" />
+  </programme>
+  <programme start="20181027170000 +0100" stop="20181027190000 +0100" channel="SPORT TV3">
+    <title lang="pt">Empoli x Juventus (Direto): Liga Italiana</title>
+    <desc lang="pt">Transmissão do confronto entre Empoli x Juventus(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 3_12961248/16_9/325/244" />
+  </programme>
+  <programme start="20181027190000 +0100" stop="20181027211500 +0100" channel="SPORT TV3">
+    <title lang="pt">River Plate x Aldosivi (Direto): Campeonato Argentino</title>
+    <desc lang="pt">Transmissão do confronto entre River Plate x Aldosivi(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 3_12398670/16_9/325/244" />
+  </programme>
+  <programme start="20181027211500 +0100" stop="20181027231000 +0100" channel="SPORT TV3">
+    <title lang="pt">Gimnasia x Boca Juniors (Direto): Campeonato Argentino</title>
+    <desc lang="pt">Transmissão do confronto entre Gimnasia x Boca Juniors(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 3_12639649/16_9/325/244" />
+  </programme>
+  <programme start="20181027231000 +0100" stop="20181028011000 +0100" channel="SPORT TV3">
+    <title lang="pt">Enfusion 73</title>
+    <desc lang="pt">Acompanhe um dos mais entusiasmantes desportos de combate, o Kickboxing(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 3_12961250/16_9/325/244" />
+  </programme>
+  <programme start="20181027010000 +0100" stop="20181027020000 +0100" channel="SPORT TV4">
+    <title lang="pt">Golfe</title>
+    <desc lang="pt">Magazine dedicado ao mundo do golfe(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 4_13165370/16_9/325/244" />
+  </programme>
+  <programme start="20181027020000 +0100" stop="20181027040000 +0100" channel="SPORT TV4">
+    <title lang="pt">Sanderson Farms Championship</title>
+    <desc lang="pt">Acompanhe todas as provas do PGA Tour(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 4_12634118/16_9/325/244" />
+  </programme>
+  <programme start="20181027040000 +0100" stop="20181027090000 +0100" channel="SPORT TV4">
+    <title lang="pt">Hsbc Champions</title>
+    <desc lang="pt">Destaque para o World Golf Championships(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 4_12188437/16_9/325/244" />
+  </programme>
+  <programme start="20181027090000 +0100" stop="20181027130000 +0100" channel="SPORT TV4">
+    <title lang="pt">Lpga Taiwan Championship</title>
+    <desc lang="pt">Golfe - LPGA Tour(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 4_12618303/16_9/325/244" />
+  </programme>
+  <programme start="20181027130000 +0100" stop="20181027133000 +0100" channel="SPORT TV4">
+    <title lang="pt">Ténis</title>
+    <desc lang="pt">As principais informações do ATP World Tour Uncovered(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 4_13165343/16_9/325/244" />
+  </programme>
+  <programme start="20181027133000 +0100" stop="20181027153000 +0100" channel="SPORT TV4">
+    <title lang="pt">Basileia</title>
+    <desc lang="pt">Acompanhamento dos Torneios ATP World Tour 500(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 4_12179068/16_9/325/244" />
+  </programme>
+  <programme start="20181027153000 +0100" stop="20181027172000 +0100" channel="SPORT TV4">
+    <title lang="pt">Basileia</title>
+    <desc lang="pt">Acompanhamento dos Torneios ATP World Tour 500(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 4_12179068/16_9/325/244" />
+  </programme>
+  <programme start="20181027172000 +0100" stop="20181027180000 +0100" channel="SPORT TV4">
+    <title lang="pt">Vela</title>
+    <desc lang="pt">Destaque para o GC32 Racing Tour Magazine(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 4_13281381/16_9/325/244" />
+  </programme>
+  <programme start="20181027180000 +0100" stop="20181027201500 +0100" channel="SPORT TV4">
+    <title lang="pt">Rio Ave x Desp. Chaves (Direto): Primeira Liga</title>
+    <desc lang="pt">Transmissão do confronto entre Rio Ave x Desp. Chaves(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 4_12673170/16_9/325/244" />
+  </programme>
+  <programme start="20181027201500 +0100" stop="20181027223000 +0100" channel="SPORT TV4">
+    <title lang="pt">Sanderson Farms Championship</title>
+    <desc lang="pt">Acompanhe todas as provas do PGA Tour(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 4_12961254/16_9/325/244" />
+  </programme>
+  <programme start="20181027223000 +0100" stop="20181028010000 +0100" channel="SPORT TV4">
+    <title lang="pt">Invesco Qqq Championship</title>
+    <desc lang="pt">Golfe - Champions Tour(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 4_12961256/16_9/325/244" />
+  </programme>
+  <programme start="20181027000000 +0100" stop="20181027003000 +0100" channel="SPORT TV1">
+    <title lang="pt">Inside Serie A: Liga Italiana</title>
+    <desc lang="pt">Destaque para os jogos, resumos e antevisões dos jogos da Liga Italiana(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 1_12935770/16_9/325/244" />
+  </programme>
+  <programme start="20181027003000 +0100" stop="20181027013000 +0100" channel="SPORT TV1">
+    <title lang="pt">New York Knicks x Golden State Warriors (Direto): Basquetebol</title>
+    <desc lang="pt">Transmissão do confronto entre New York Knicks x Golden State Warriors(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 1_12860577/16_9/325/244" />
+  </programme>
+  <programme start="20181027013000 +0100" stop="20181027014000 +0100" channel="SPORT TV1">
+    <title lang="pt">Sintese: Basquetebol</title>
+    <desc lang="pt">Acompanhe o NBA Action, o magazine que destaca todos os principais momentos do NBA(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 1_12640107/16_9/325/244" />
+  </programme>
+  <programme start="20181027014000 +0100" stop="20181027030000 +0100" channel="SPORT TV1">
+    <title lang="pt">New York Knicks x Golden State Warriors (Direto): Basquetebol</title>
+    <desc lang="pt">Transmissão do confronto entre New York Knicks x Golden State Warriors(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 1_12860577/16_9/325/244" />
+  </programme>
+  <programme start="20181027030000 +0100" stop="20181027050000 +0100" channel="SPORT TV1">
+    <title lang="pt">A Definir: Tenis</title>
+    <desc lang="pt">Acompanhamento dos Torneios ATP World Tour 500(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 1_12751929/16_9/325/244" />
+  </programme>
+  <programme start="20181027050000 +0100" stop="20181027082000 +0100" channel="SPORT TV1">
+    <title lang="pt">A Definir: Tenis</title>
+    <desc lang="pt">Acompanhamento dos Torneios ATP World Tour 500(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 1_12751929/16_9/325/244" />
+  </programme>
+  <programme start="20181027082000 +0100" stop="20181027102000 +0100" channel="SPORT TV1">
+    <title lang="pt">Nacional x Portimonense: Primeira Liga</title>
+    <desc lang="pt">Transmissão do confronto entre Nacional x Portimonense(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 1_12961189/16_9/325/244" />
+  </programme>
+  <programme start="20181027102000 +0100" stop="20181027110000 +0100" channel="SPORT TV1">
+    <title lang="pt">Antevisão Famalicão x FC Porto B (Direto): Segunda Liga</title>
+    <desc lang="pt">Antevisão do jogo Famalicão x FC Porto B(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 1_12961190/16_9/325/244" />
+  </programme>
+  <programme start="20181027110000 +0100" stop="20181027131000 +0100" channel="SPORT TV1">
+    <title lang="pt">Famalicão x FC Porto B (Direto): Segunda Liga</title>
+    <desc lang="pt">Transmissão do confronto entre Famalicão x FC Porto B(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 1_12961191/16_9/325/244" />
+  </programme>
+  <programme start="20181027131000 +0100" stop="20181027153000 +0100" channel="SPORT TV1">
+    <title lang="pt">V. Guimarães x Sc Braga: Primeira Liga</title>
+    <desc lang="pt">Transmissão do confronto entre V. Guimarães x Sc Braga(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 1_12585473/16_9/325/244" />
+  </programme>
+  <programme start="20181027153000 +0100" stop="20181027174000 +0100" channel="SPORT TV1">
+    <title lang="pt">Desp. Aves x Santa Clara (Direto): Primeira Liga</title>
+    <desc lang="pt">Transmissão do confronto entre Desp. Aves x Santa Clara(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 1_12961192/16_9/325/244" />
+  </programme>
+  <programme start="20181027174000 +0100" stop="20181027184000 +0100" channel="SPORT TV1">
+    <title lang="pt">Rali Espanha</title>
+    <desc lang="pt">Não perca os melhores momentos da mais emocionante prova de automobilismo do mundo, o WRC(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 1_12964624/16_9/325/244" />
+  </programme>
+  <programme start="20181027184000 +0100" stop="20181027192500 +0100" channel="SPORT TV1">
+    <title lang="pt">Futebol</title>
+    <desc lang="pt">Magazine dos melhores momentos da Taça Libertadores da América(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 1_13214070/16_9/325/244" />
+  </programme>
+  <programme start="20181027192500 +0100" stop="20181027203000 +0100" channel="SPORT TV1">
+    <title lang="pt">Antevisão Belenenses x Benfica (Direto): Primeira Liga</title>
+    <desc lang="pt">Antevisão do jogo Belenenses x Benfica(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 1_12961193/16_9/325/244" />
+  </programme>
+  <programme start="20181027203000 +0100" stop="20181027230000 +0100" channel="SPORT TV1">
+    <title lang="pt">Belenenses x Benfica (Direto): Primeira Liga</title>
+    <desc lang="pt">Transmissão do confronto entre Belenenses x Benfica(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 1_12626165/16_9/325/244" />
+  </programme>
+  <programme start="20181027230000 +0100" stop="20181028010000 +0100" channel="SPORT TV1">
+    <title lang="pt">Empoli x Juventus: Liga Italiana</title>
+    <desc lang="pt">Transmissão do confronto entre Empoli x Juventus(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 1_12961194/16_9/325/244" />
+  </programme>
+  <programme start="20181027012500 +0100" stop="20181027033000 +0100" channel="SPORT TV2">
+    <title lang="pt">V. Guimarães x Sc Braga: Primeira Liga</title>
+    <desc lang="pt">Transmissão do confronto entre V. Guimarães x Sc Braga(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 2_12585473/16_9/325/244" />
+  </programme>
+  <programme start="20181027033000 +0100" stop="20181027054000 +0100" channel="SPORT TV2">
+    <title lang="pt">Nacional x Portimonense: Primeira Liga</title>
+    <desc lang="pt">Transmissão do confronto entre Nacional x Portimonense(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 2_12961189/16_9/325/244" />
+  </programme>
+  <programme start="20181027054000 +0100" stop="20181027073000 +0100" channel="SPORT TV2">
+    <title lang="pt">Junior x Defensa Y Justicia</title>
+    <desc lang="pt">Transmissão do confronto entre Junior x Defensa Y Justicia(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 2_12961221/16_9/325/244" />
+  </programme>
+  <programme start="20181027073000 +0100" stop="20181027092500 +0100" channel="SPORT TV2">
+    <title lang="pt">River Plate x Grêmio</title>
+    <desc lang="pt">Transmissão do confronto entre River Plate x Grêmio(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 2_12960760/16_9/325/244" />
+  </programme>
+  <programme start="20181027092500 +0100" stop="20181027095000 +0100" channel="SPORT TV2">
+    <title lang="pt">Golos da 3ª Jornada da Fase de Grupos: Liga Europa</title>
+    <desc lang="pt">A Liga Europa da UEFA, prova que substituiu a Taça UEFA, nasceu de uma ideia concebida pelo suíço Ernst Thommen, juntamente com o italiano Ottorino Barrasi e o inglês Stanley Rous. Acompanhe jogos, resumos e toda a informação sobre esta competição(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 2_12964623/16_9/325/244" />
+  </programme>
+  <programme start="20181027095000 +0100" stop="20181027115000 +0100" channel="SPORT TV2">
+    <title lang="pt">Sydney FC x Western Sydney Wanderers (Direto): Futebol</title>
+    <desc lang="pt">Transmissão do confronto entre Sydney FC x Western Sydney Wanderers(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 2_12961226/16_9/325/244" />
+  </programme>
+  <programme start="20181027115000 +0100" stop="20181027134500 +0100" channel="SPORT TV2">
+    <title lang="pt">Boca Juniors x Palmeiras</title>
+    <desc lang="pt">Transmissão do confronto entre Boca Juniors x Palmeiras(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 2_12960762/16_9/325/244" />
+  </programme>
+  <programme start="20181027134500 +0100" stop="20181027142500 +0100" channel="SPORT TV2">
+    <title lang="pt">Resumos: Copa Sul-Americana</title>
+    <desc lang="pt">Destaque para a Copa Sul-Americana de futebol(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 2_12593353/16_9/325/244" />
+  </programme>
+  <programme start="20181027142500 +0100" stop="20181027150000 +0100" channel="SPORT TV2">
+    <title lang="pt">Antevisão Jornada 10: Futebol</title>
+    <desc lang="pt">Magazine de informação futebolística(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 2_12960730/16_9/325/244" />
+  </programme>
+  <programme start="20181027150000 +0100" stop="20181027165500 +0100" channel="SPORT TV2">
+    <title lang="pt">Liverpool x Cardiff City (Direto): Premier League</title>
+    <desc lang="pt">Transmissão do confronto entre Liverpool x Cardiff City(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 2_12961227/16_9/325/244" />
+  </programme>
+  <programme start="20181027165500 +0100" stop="20181027173000 +0100" channel="SPORT TV2">
+    <title lang="pt">Premier League</title>
+    <desc lang="pt">Magazine de informação futebolística(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 2_12585477/16_9/325/244" />
+  </programme>
+  <programme start="20181027173000 +0100" stop="20181027193000 +0100" channel="SPORT TV2">
+    <title lang="pt">Leicester x West Ham (Direto): Premier League</title>
+    <desc lang="pt">Transmissão do confronto entre Leicester x West Ham(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 2_12961228/16_9/325/244" />
+  </programme>
+  <programme start="20181027193000 +0100" stop="20181027213000 +0100" channel="SPORT TV2">
+    <title lang="pt">Torino x Fiorentina (Direto): Liga Italiana</title>
+    <desc lang="pt">Transmissão do confronto entre Torino x Fiorentina(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 2_12961249/16_9/325/244" />
+  </programme>
+  <programme start="20181027213000 +0100" stop="20181027232000 +0100" channel="SPORT TV2">
+    <title lang="pt">Brighton &amp; Hove Albion x Wolverhampton: Premier League</title>
+    <desc lang="pt">Transmissão do confronto entre Brighton &amp; Hove Albion x Wolverhampton(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 2_12964630/16_9/325/244" />
+  </programme>
+  <programme start="20181027232000 +0100" stop="20181028011000 +0100" channel="SPORT TV2">
+    <title lang="pt">Fulham x Afc Bournemouth: Premier League</title>
+    <desc lang="pt">Transmissão do confronto entre Fulham x Afc Bournemouth(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 2_12961229/16_9/325/244" />
+  </programme>
+  <programme start="20181027000000 +0100" stop="20181027005500 +0100" channel="SPORT TV5">
+    <title lang="pt">GP Austrália</title>
+    <desc lang="pt">Moto3 é restrita a motores monocilíndricos de 250cc. O peso mínimo para todas as motos e pilotos é de 148 kg. Acompanhe o GP da Austrália em Moto3(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12808029/16_9/325/244" />
+  </programme>
+  <programme start="20181027005500 +0100" stop="20181027015500 +0100" channel="SPORT TV5">
+    <title lang="pt">GP Austrália</title>
+    <desc lang="pt">A Moto2 é a classe de quatro tempos de 600cc. Acompanhe o Grande Prémio da Austrália em Moto2(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12808031/16_9/325/244" />
+  </programme>
+  <programme start="20181027015500 +0100" stop="20181027025000 +0100" channel="SPORT TV5">
+    <title lang="pt">GP Austrália</title>
+    <desc lang="pt">O magnífico circuito Phillip Island é um dos locais mais emblemáticos e excitantes do automobilismo mundial. Abençoado com paisagens deslumbrantes, é uma das pistas mais rápidas e fluídas do calendário. Tudo para proporcionar uma das corridas mais espetaculares da época de MotoGP(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12808030/16_9/325/244" />
+  </programme>
+  <programme start="20181027025000 +0100" stop="20181027033500 +0100" channel="SPORT TV5">
+    <title lang="pt">Boxe</title>
+    <desc lang="pt">Magazine dedicado ao Boxe(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_13165387/16_9/325/244" />
+  </programme>
+  <programme start="20181027033500 +0100" stop="20181027043000 +0100" channel="SPORT TV5">
+    <title lang="pt">GP Austrália</title>
+    <desc lang="pt">Moto3 é restrita a motores monocilíndricos de 250cc. O peso mínimo para todas as motos e pilotos é de 148 kg. Acompanhe o GP da Austrália em Moto3(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12808032/16_9/325/244" />
+  </programme>
+  <programme start="20181027043000 +0100" stop="20181027053000 +0100" channel="SPORT TV5">
+    <title lang="pt">GP Austrália</title>
+    <desc lang="pt">A Moto2 é a classe de quatro tempos de 600cc. Acompanhe o Grande Prémio da Austrália em Moto2(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12960755/16_9/325/244" />
+  </programme>
+  <programme start="20181027053000 +0100" stop="20181027060000 +0100" channel="SPORT TV5">
+    <title lang="pt">GP Austrália</title>
+    <desc lang="pt">O magnífico circuito Phillip Island é um dos locais mais emblemáticos e excitantes do automobilismo mundial. Abençoado com paisagens deslumbrantes, é uma das pistas mais rápidas e fluídas do calendário. Tudo para proporcionar uma das corridas mais espetaculares da época de MotoGP(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12808033/16_9/325/244" />
+  </programme>
+  <programme start="20181027060000 +0100" stop="20181027061000 +0100" channel="SPORT TV5">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Sem Emissão(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_1315946/16_9/325/244" />
+  </programme>
+  <programme start="20181027061000 +0100" stop="20181027063500 +0100" channel="SPORT TV5">
+    <title lang="pt">GP Austrália</title>
+    <desc lang="pt">O magnífico circuito Phillip Island é um dos locais mais emblemáticos e excitantes do automobilismo mundial. Abençoado com paisagens deslumbrantes, é uma das pistas mais rápidas e fluídas do calendário. Tudo para proporcionar uma das corridas mais espetaculares da época de MotoGP(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12808034/16_9/325/244" />
+  </programme>
+  <programme start="20181027063500 +0100" stop="20181027070000 +0100" channel="SPORT TV5">
+    <title lang="pt">GP Austrália</title>
+    <desc lang="pt">O magnífico circuito Phillip Island é um dos locais mais emblemáticos e excitantes do automobilismo mundial. Abençoado com paisagens deslumbrantes, é uma das pistas mais rápidas e fluídas do calendário. Tudo para proporcionar uma das corridas mais espetaculares da época de MotoGP(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12808035/16_9/325/244" />
+  </programme>
+  <programme start="20181027070000 +0100" stop="20181027075500 +0100" channel="SPORT TV5">
+    <title lang="pt">Hollywood Casino 400</title>
+    <desc lang="pt">O Nascar Cup Series é disputado ao longo de 36 corridas, Começa com a etapa de Daytona e Termina em Homestead. Dessas etapas, as 10 últimas representam o "Chase", onde os 16 melhores pilotos nas 26 primeiras corridas disputam, num sistema de eliminação, o título da temporada(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12809932/16_9/325/244" />
+  </programme>
+  <programme start="20181027075500 +0100" stop="20181027082500 +0100" channel="SPORT TV5">
+    <title lang="pt">Portimão</title>
+    <desc lang="pt">A disputa nacional de quem será o mais rápido a cortar a meta(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12959195/16_9/325/244" />
+  </programme>
+  <programme start="20181027082500 +0100" stop="20181027090000 +0100" channel="SPORT TV5">
+    <title lang="pt">Rali Espanha</title>
+    <desc lang="pt">Não perca os melhores momentos da mais emocionante prova de automobilismo do mundo, o WRC(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12960753/16_9/325/244" />
+  </programme>
+  <programme start="20181027090000 +0100" stop="20181027100000 +0100" channel="SPORT TV5">
+    <title lang="pt">Rali Espanha</title>
+    <desc lang="pt">Não perca os melhores momentos da mais emocionante prova de automobilismo do mundo, o WRC(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12961276/16_9/325/244" />
+  </programme>
+  <programme start="20181027100000 +0100" stop="20181027113500 +0100" channel="SPORT TV5">
+    <title lang="pt">GP México</title>
+    <desc lang="pt">O Autódromo Hermanos Rodríguez, no México, fica a mais de 2 km acima do nível do mar, tornando os 4,3 km de pista numa experiência de tirar o fôlego. A condição física dos pilotos, mais do que nunca, será colocada em prova. Acompanhe o emocionante Grande Prémio do México de Fórmula 1(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12961277/16_9/325/244" />
+  </programme>
+  <programme start="20181027113500 +0100" stop="20181027123500 +0100" channel="SPORT TV5">
+    <title lang="pt">GP Austrália</title>
+    <desc lang="pt">Moto3 é restrita a motores monocilíndricos de 250cc. O peso mínimo para todas as motos e pilotos é de 148 kg. Acompanhe o GP da Austrália em Moto3(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12961278/16_9/325/244" />
+  </programme>
+  <programme start="20181027123500 +0100" stop="20181027133000 +0100" channel="SPORT TV5">
+    <title lang="pt">GP Austrália</title>
+    <desc lang="pt">A Moto2 é a classe de quatro tempos de 600cc. Acompanhe o Grande Prémio da Austrália em Moto2(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12961280/16_9/325/244" />
+  </programme>
+  <programme start="20181027133000 +0100" stop="20181027140000 +0100" channel="SPORT TV5">
+    <title lang="pt">GP Austrália</title>
+    <desc lang="pt">O magnífico circuito Phillip Island é um dos locais mais emblemáticos e excitantes do automobilismo mundial. Abençoado com paisagens deslumbrantes, é uma das pistas mais rápidas e fluídas do calendário. Tudo para proporcionar uma das corridas mais espetaculares da época de MotoGP(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12808578/16_9/325/244" />
+  </programme>
+  <programme start="20181027140000 +0100" stop="20181027150000 +0100" channel="SPORT TV5">
+    <title lang="pt">Rali Espanha</title>
+    <desc lang="pt">Não perca os melhores momentos da mais emocionante prova de automobilismo do mundo, o WRC(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12961281/16_9/325/244" />
+  </programme>
+  <programme start="20181027150000 +0100" stop="20181027160000 +0100" channel="SPORT TV5">
+    <title lang="pt">Wrestling</title>
+    <desc lang="pt">Acompanhe o Ring Of Honor de Wresling, aqui na Sport TV(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_13191942/16_9/325/244" />
+  </programme>
+  <programme start="20181027160000 +0100" stop="20181027170000 +0100" channel="SPORT TV5">
+    <title lang="pt">GP México</title>
+    <desc lang="pt">O Autódromo Hermanos Rodríguez, no México, fica a mais de 2 km acima do nível do mar, tornando os 4,3 km de pista numa experiência de tirar o fôlego. A condição física dos pilotos, mais do que nunca, será colocada em prova. Acompanhe o emocionante Grande Prémio do México de Fórmula 1(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12961282/16_9/325/244" />
+  </programme>
+  <programme start="20181027170000 +0100" stop="20181027180000 +0100" channel="SPORT TV5">
+    <title lang="pt">Catar</title>
+    <desc lang="pt">Acompanhe o principal campeonato a nível mundial de corrida de superbike(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12819722/16_9/325/244" />
+  </programme>
+  <programme start="20181027180000 +0100" stop="20181027190000 +0100" channel="SPORT TV5">
+    <title lang="pt">Qatar</title>
+    <desc lang="pt">Acompanhe o principal campeonato a nível mundial de corrida de superbike(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12961283/16_9/325/244" />
+  </programme>
+  <programme start="20181027190000 +0100" stop="20181027201000 +0100" channel="SPORT TV5">
+    <title lang="pt">GP México</title>
+    <desc lang="pt">O Autódromo Hermanos Rodríguez, no México, fica a mais de 2 km acima do nível do mar, tornando os 4,3 km de pista numa experiência de tirar o fôlego. A condição física dos pilotos, mais do que nunca, será colocada em prova. Acompanhe o emocionante Grande Prémio do México de Fórmula 1(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12961284/16_9/325/244" />
+  </programme>
+  <programme start="20181027201000 +0100" stop="20181027214000 +0100" channel="SPORT TV5">
+    <title lang="pt">Viena</title>
+    <desc lang="pt">Acompanhamento dos Torneios ATP World Tour 500(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12403343/16_9/325/244" />
+  </programme>
+  <programme start="20181027214000 +0100" stop="20181027233000 +0100" channel="SPORT TV5">
+    <title lang="pt">Viena</title>
+    <desc lang="pt">Acompanhamento dos Torneios ATP World Tour 500(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12403343/16_9/325/244" />
+  </programme>
+  <programme start="20181027233000 +0100" stop="20181028000000 +0100" channel="SPORT TV5">
+    <title lang="pt">Rali Espanha</title>
+    <desc lang="pt">Não perca os melhores momentos da mais emocionante prova de automobilismo do mundo, o WRC(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/SPTV 5_12179124/16_9/325/244" />
+  </programme>
+</tv>
