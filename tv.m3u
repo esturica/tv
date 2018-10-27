@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTM3U x-tvg-url="tv.xml"
-#EXTINF:-1 tvg-id="TVCine 1" tvg-name="TVCine 1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a7/TVC1_2012.png/revision/latest?cb=20140404133828" group-title="PORTUGAL",PT - TV CINE 1
+#EXTINF:-1 tvg-id="tvc1.pt" tvg-name="TVC1" tvg-logo="https://raw.githubusercontent.com/esturica/tv/master/TVC1_2012.png" group-title="PORTUGAL",PT - TV CINE 1
 http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/2635.ts
-#EXTINF:-1 tvg-id="TVCine 2" tvg-name="TVCine 2" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/11597_logo_tv_cine_3.png" group-title="PORTUGAL",PT - TV CINE 2
+#EXTINF:-1 tvg-id="tvc2.pt" tvg-name="TVC2" tvg-logo="https://raw.githubusercontent.com/esturica/tv/master/TVC2_2012.png" group-title="PORTUGAL",PT - TV CINE 2
 http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/2634.ts
-#EXTINF:-1 tvg-id="TVCine 3" tvg-name="TVCine 3" tvg-logo="http://portalnacional.com.pt/images/icons/tv/TVC3.png" group-title="PORTUGAL",PT - TV CINE 3
+#EXTINF:-1 tvg-id="tvc3.pt" tvg-name="TVC3" tvg-logo="https://raw.githubusercontent.com/esturica/tv/master/TVC3_2012.png" group-title="PORTUGAL",PT - TV CINE 3
 http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/2633.ts
-#EXTINF:-1 tvg-id="TVCine 4" tvg-name="TVCine 4" tvg-logo="http://portalnacional.com.pt/images/icons/tv/TVC4.png" group-title="PORTUGAL",PT - TV CINE 4
+#EXTINF:-1 tvg-id="tvc4.pt" tvg-name="TVC4" tvg-logo="https://raw.githubusercontent.com/esturica/tv/master/TVC4_2012.png" group-title="PORTUGAL",PT - TV CINE 4
 http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/2632.ts
 #EXTINF:-1 tvg-id="TV Series" tvg-name="TV Series" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/248904__series.png" group-title="PORTUGAL",PT - TV SERIES
 http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/2616.ts
