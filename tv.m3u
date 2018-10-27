@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="2635" tvg-name="PT - TV CINE 1" tvg-logo="http://185.79.114.21:88/logos/tvcine1.png" group-title="EUROPE | PORTUGAL - OTT",PT - TV CINE 1
 http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/2635.ts
-#EXTINF:-1 tvg-id="TVCine 2" tvg-name="TVCine 2" tvg-logo="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=24&amp;mime=true&amp;no_default=false" group-title="EUROPE | PORTUGAL - OTT",PT - TV CINE 2
+#EXTINF:-1 tvg-id="TVCine 2" tvg-name="TVCine 2" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/11597_logo_tv_cine_3.png" group-title="EUROPE | PORTUGAL - OTT",PT - TV CINE 2
 http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/2634.ts
 #EXTINF:-1 tvg-id="2633" tvg-name="PT - TV CINE 3" tvg-logo="http://185.79.114.21:88/logos/tvcine3.png" group-title="EUROPE | PORTUGAL - OTT",PT - TV CINE 3
 http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/2633.ts
