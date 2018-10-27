@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTM3U x-tvg-url="tv.xml"
 #EXTINF:-1 tvg-id="TVCine 1" tvg-name="TVCine 1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a7/TVC1_2012.png/revision/latest?cb=20140404133828" group-title="PORTUGAL",PT - TV CINE 1
 http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/2635.ts
 #EXTINF:-1 tvg-id="TVCine 2" tvg-name="TVCine 2" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/11597_logo_tv_cine_3.png" group-title="PORTUGAL",PT - TV CINE 2
