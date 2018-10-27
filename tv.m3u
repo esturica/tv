@@ -9,31 +9,31 @@ http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/2633.ts
 http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/2632.ts
 #EXTINF:-1 tvg-id="TV Series" tvg-name="TV Series" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/248904__series.png" group-title="PORTUGAL",PT - TV SERIES
 http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/2616.ts
-#EXTINF:-1 tvg-id="2596" tvg-name="PT - ABOLA TV" tvg-logo="" group-title="PORTUGAL",PT - ABOLA TV
+#EXTINF:-1 tvg-id="2596" tvg-name="PT - ABOLA TV" tvg-logo="https://kickoff.pt/wp-content/uploads/2017/08/a_bola_tv_kickoff_duarte-gomes.png" group-title="PORTUGAL",PT - ABOLA TV
 http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/2596.ts
-#EXTINF:-1 tvg-id="2595" tvg-name="PT - BENFICA TV 1 HD" tvg-logo="" group-title="PORTUGAL",PT - BENFICA TV 1 HD
+#EXTINF:-1 tvg-id="Benfica TV HD" tvg-name="Benfica TV HD" tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="PORTUGAL",PT - BENFICA TV 1 HD
 http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/2595.ts
-#EXTINF:-1 tvg-id="2609" tvg-name="PT - SPORT TV" tvg-logo="http://185.79.114.21:88/logos/sporttv1.png" group-title="PORTUGAL",PT - SPORT TV
+#EXTINF:-1 tvg-id="SPORT TV1" tvg-name="SPORT TV1" tvg-logo="https://i.pinimg.com/originals/45/a5/e8/45a5e88c74ce6f2da570cbc6e81cdf05.png" group-title="PORTUGAL",PT - SPORT TV
 http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/2609.ts
-#EXTINF:-1 tvg-id="2607" tvg-name="PT - SPORT TV 1" tvg-logo="http://185.79.114.21:88/logos/sporttv1.png" group-title="PORTUGAL",PT - SPORT TV 1
+#EXTINF:-1 tvg-id="SPORT TV1" tvg-name="SPORT TV1" tvg-logo="https://i.pinimg.com/originals/45/a5/e8/45a5e88c74ce6f2da570cbc6e81cdf05.png" group-title="PORTUGAL",PT - SPORT TV 1
 http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/2607.ts
-#EXTINF:-1 tvg-id="2608" tvg-name="PT - SPORT TV 1 HD" tvg-logo="http://185.79.114.21:88/logos/sporttv1.png" group-title="PORTUGAL",PT - SPORT TV 1 HD
+#EXTINF:-1 tvg-id="SPORT TV1" tvg-name="SPORT TV1" tvg-logo="https://i.pinimg.com/originals/45/a5/e8/45a5e88c74ce6f2da570cbc6e81cdf05.png" group-title="PORTUGAL",PT - SPORT TV 1 HD
 http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/2608.ts
-#EXTINF:-1 tvg-id="2605" tvg-name="PT - SPORT TV 2" tvg-logo="http://185.79.114.21:88/logos/sporttv2.png" group-title="PORTUGAL",PT - SPORT TV 2
+#EXTINF:-1 tvg-id="SPORT TV2" tvg-name="SPORT TV2" tvg-logo="https://i.pinimg.com/originals/4c/12/99/4c12999c2a7b8dacdeaf5fdb71481811.png" group-title="PORTUGAL",PT - SPORT TV 2
 http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/2605.ts
-#EXTINF:-1 tvg-id="2606" tvg-name="PT - SPORT TV 2 HD" tvg-logo="http://185.79.114.21:88/logos/sporttv2.png" group-title="PORTUGAL",PT - SPORT TV 2 HD
+#EXTINF:-1 tvg-id="SPORT TV2" tvg-name="SPORT TV2" tvg-logo="https://i.pinimg.com/originals/4c/12/99/4c12999c2a7b8dacdeaf5fdb71481811.png" group-title="PORTUGAL",PT - SPORT TV 2 HD
 http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/2606.ts
-#EXTINF:-1 tvg-id="2603" tvg-name="PT - SPORT TV 3" tvg-logo="http://185.79.114.21:88/logos/sporttv3.png" group-title="PORTUGAL",PT - SPORT TV 3
+#EXTINF:-1 tvg-id="SPORT TV3" tvg-name="SPORT TV3" tvg-logo="http://wrest.info/wp-content/uploads/2016/03/6423aed892dbf43714968caa3f627583_XL.jpg" group-title="PORTUGAL",PT - SPORT TV 3
 http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/2603.ts
-#EXTINF:-1 tvg-id="2604" tvg-name="PT - SPORT TV 3 HD" tvg-logo="http://185.79.114.21:88/logos/sporttv3.png" group-title="PORTUGAL",PT - SPORT TV 3 HD
+#EXTINF:-1 tvg-id="SPORT TV3" tvg-name="SPORT TV3" tvg-logo="http://wrest.info/wp-content/uploads/2016/03/6423aed892dbf43714968caa3f627583_XL.jpg" group-title="PORTUGAL",PT - SPORT TV 3 HD
 http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/2604.ts
-#EXTINF:-1 tvg-id="2601" tvg-name="PT - SPORT TV 4" tvg-logo="http://185.79.114.21:88/logos/sporttv4.png" group-title="PORTUGAL",PT - SPORT TV 4
+#EXTINF:-1 tvg-id="SPORT TV4" tvg-name="SPORT TV4" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv4_pt.jpg" group-title="PORTUGAL",PT - SPORT TV 4
 http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/2601.ts
-#EXTINF:-1 tvg-id="2602" tvg-name="PT - SPORT TV 4 HD" tvg-logo="http://185.79.114.21:88/logos/sporttv4.png" group-title="PORTUGAL",PT - SPORT TV 4 HD
+#EXTINF:-1 tvg-id="SPORT TV4" tvg-name="SPORT TV4" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv4_pt.jpg" group-title="PORTUGAL",PT - SPORT TV 4 HD
 http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/2602.ts
-#EXTINF:-1 tvg-id="2599" tvg-name="PT - SPORT TV 5" tvg-logo="http://185.79.114.21:88/logos/sporttv5.png" group-title="PORTUGAL",PT - SPORT TV 5
+#EXTINF:-1 tvg-id="SPORT TV5" tvg-name="SPORT TV5" tvg-logo="http://i.imgur.com/G8yH187.png" group-title="PORTUGAL",PT - SPORT TV 5
 http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/2599.ts
-#EXTINF:-1 tvg-id="2600" tvg-name="PT - SPORT TV 5 HD" tvg-logo="http://185.79.114.21:88/logos/sporttv5.png" group-title="PORTUGAL",PT - SPORT TV 5 HD
+#EXTINF:-1 tvg-id="SPORT TV5" tvg-name="SPORT TV5" tvg-logo="http://i.imgur.com/G8yH187.png" group-title="PORTUGAL",PT - SPORT TV 5 HD
 http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/2600.ts
 #EXTINF:-1 tvg-id="2591" tvg-name="PT - SPORTING TV" tvg-logo="http://185.79.114.21:88/logos/sportingtv.png" group-title="PORTUGAL",PT - SPORTING TV
 http://tvservice.pro:80/live/915177643947/YNcqggdtCKpRjfo/2591.ts
